@@ -33,6 +33,7 @@
 "home_navigation_title" = "Zürich";
 "home_trends_title" = "Heutige Trends";
 "home_recylcing_event_title" = "Recycling Events";
+"home_nearby_locations_title" = "Orte in der Nähe";
 
 // Onboarding View
 "onboarding_title" = "Willkommen bei CasaZurigo";
