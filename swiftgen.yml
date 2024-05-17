@@ -1,0 +1,12 @@
+input_dir: Sources/CasaZurigol10n/Resources
+output_dir: ${DERIVED_SOURCES_DIR}
+
+strings:
+  inputs:
+    - en.lproj
+  outputs:
+    - templateName: structured-swift5
+      params:
+        publicAccess: true
+        bundle: Bundle.casaZurigol10n
+      output: Localization+Generated.swift
