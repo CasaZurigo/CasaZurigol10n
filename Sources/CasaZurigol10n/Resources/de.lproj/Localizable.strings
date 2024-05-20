@@ -54,13 +54,6 @@
 "user_preferences_extras_title" = "Extras";
 "user_preferences_about_title" = "Über";
 
-// Upcoming Features View
-"upcoming_features_title" = "Bevorstehende Funktionen";
-"upcoming_features_bancomat_title" = "Verfügbare Bancomat auf Karte anzeigen";
-"upcoming_features_bancomat_description" = "Weitere Details zu verfügbaren Bancomat in Zürich";
-"upcoming_features_more_device_support_title" = "Unterstützung für MacOS, iPadOS und VisionOS";
-"upcoming_features_more_device_support_description" = "Erweiterung der Verfügbarkeit der App auf mehr Geräte";
-
 // Privacy View
 "privacy_title" = "Datenschutz";
 "privacy_description" = "Deine Privatsphäre ist wichtig. Deine Daten werden nicht gesammelt oder gespeichert. Was du tust, geht niemanden etwas an, weder uns noch sonst jemanden.";

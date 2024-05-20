@@ -54,13 +54,6 @@
 "user_preferences_extras_title" = "Extras";
 "user_preferences_about_title" = "About";
 
-// Upcoming Features View
-"upcoming_features_title" = "Upcoming Features";
-"upcoming_features_bancomat_title" = "Showcase available Bancomat in Map";
-"upcoming_features_bancomat_description" = "More Details regarding available Bancomat in Zurich";
-"upcoming_features_more_device_support_title" = "Support for MacOS, iPadOS and VisionOS";
-"upcoming_features_more_device_support_description" = "Expand availability of the App to more devices";
-
 // Privacy View
 "privacy_title" = "Privacy Policy";
 "privacy_description" = "Your privacy matters. Your data won’t be collected or stored. What you do is your business, not ours or anyone else’s.";
