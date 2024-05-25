@@ -105,7 +105,7 @@
 
 // MapDetail View Toilet Details
 "map_detail_details_toilet_infrastructure_pissoir" = "Pissoir";
-"map_detail_details_toilet_infrastructure_wheelchairaccessible" = "Rollstuhlgängi";
+"map_detail_details_toilet_infrastructure_wheelchair_support" = "Rollstuhlgängi";
 "map_detail_details_toilet_infrastructure_mobile" = "Mobil";
 "map_detail_details_toilet_infrastructure_accessible" = "Behinderten Support";
 "map_detail_details_toilet_infrastructure_changing_table" = "Wickeltisch";
