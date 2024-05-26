@@ -12,6 +12,7 @@
 "location_title_parking" = "Parkplatz";
 
 // General
+"app_title" = "CasaZurigo";
 "done" = "Fertig";
 "search" = "Suchen";
 "cancel" = "Abbrechen";
