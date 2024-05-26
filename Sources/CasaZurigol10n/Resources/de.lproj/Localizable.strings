@@ -83,6 +83,10 @@
 "terms_of_use_title" = "Terms of Use";
 "terms_of_use_description" = "Use of CasaZurigo is governed by Apple’s Standard EULA for apps.\nSubscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. Auto-renewal may be turned off by the user, by going to the user’s Account Settings after purchase. The duration and price of each subscription is displayed on the purchase screen, and updated at the time of purchase.\nIf you have any questions about CasaZurigo Terms of Use, please reach out to me at support@casazurigo.ch";
 
+// Subscription Card
+"subscription_card_button_title" = "CasaZurigo Pro kaufen";
+"subscription_card_description" = "Schalte alle Funktionen frei und erhalte Zugang zu mehr öffentlichen Orten!";
+
 // MapDetail View
 "map_detail_details_parking_zones_title" = "Parkplätze";
 "map_detail_details_address_title" = "Adresse";
