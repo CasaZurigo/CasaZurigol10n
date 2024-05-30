@@ -1,12 +1,12 @@
-/* 
-  Localizable.strings
-  CasaZurigo
+/*
+ Localizable.strings
+ CasaZurigo
 
-  Created by Luca Archidiacono on 08.09.23.
-  
-*/
+ Created by Luca Archidiacono on 08.09.23.
 
+ */
 // Location Type Title
+
 "location_title_recycling" = "Recycling";
 "location_title_park" = "Park";
 "location_title_parking" = "Parkplatz";
@@ -161,7 +161,6 @@ Energiesparlampe, LED, Leuchtstoffröhre";
 "recycling_etram_event_detail_allowed" = "Bürogeräte, Computer und Zubehör, Tastatur, Maus, Datenträger, Drucker, Faxgerät, Kopiergerät, Modem, Netzwerkgerät, Tablett, Telefon, Haushaltsgeräte, Boiler, Bügeleisen, Fön, Geschirrspüler, Kaffeemaschine, Klimagerät, Kochherd, Kühlschrank, Lampe, Mixer, Nähmaschine, Rasierapparat, Spielgerät, Sportgerät, Ständerlampe, Staubsauger, Tiefkühler, Toaster, Tumbler, Waschmaschine, Kabel, Unterhaltungsgeräte, Bildschirm, CD und CD-Gerät, DVD und DVD-Gerät, Freizeitgerät, Projektor, Radio, TV-Gerät und Zubehör (Fernbedienung), Videogerät/-kassette";
 "recycling_etram_event_detail_not_allowed" = "Benzinbetriebenes Gerät wie Motorsäge, Grossmetall, Metallwerkzeug, Akku und Batterie, Abfall";
 "recycling_etram_event_detail_how_to" = "Liefern Sie Elektrogeräte ins E-Tram an. Ohne Auto entsorgen! Das E-Tram steht Ihnen zur Verfügung, sofern Sie zu Fuss, mit dem Fahrrad oder öffentlichen Verkehrsmitteln unterwegs sind. Zudem können Sie gut erhaltene Artikel weitergeben oder gratis mitnehmen. Die Anlieferung mit einem Auto oder Lieferwagen ist nicht erlaubt.";
-"recycling_etram_event_detail_good_to_know" = "Geben Sie ausgediente Elektrogeräte ungeniert an die Verkaufsstelle zurück. Im Kaufpreis der elektronischen und elektrischen Geräte ist eine vorgezogene Entsorgungsgebühr enthalten. Händler sind deshalb verpflichtet, Geräte gleicher Art zurückzunehmen, die sie selbst vertreiben — auch wenn Sie kein neues kaufen.";
 
 // Bio Recycling Event Detail
 "recycling_organic_event_detail_description" = "Neben dem gesamten Gartenabfall können Sie auch biologisch abbaubaren Küchenabfall und Speisereste entsorgen. Durch die Bereitstellung des Bioabfalls im entsprechenden Container benötigen Sie weniger Züri-Säcke, was auch Ihr Portemonnaie entlastet. Der Bioabfall wird im Vergärwerk der Biogas Zürich AG zu Biogas und Kompostprodukten verarbeitet. Das Biogas wird ins Gasnetz von Energie 360° AG eingespeist und steht als erneuerbare Energie, als Treibstoff, zum Heizen, zum Kochen oder für die Stromproduktion zur Verfügung. Somit schliesst sich ein Kreislauf, der die Lebensqualität in der Stadt fördert.";
