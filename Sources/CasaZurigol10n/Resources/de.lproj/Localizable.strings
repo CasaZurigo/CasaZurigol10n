@@ -37,7 +37,7 @@
 "home_nearby_locations_title" = "Orte in der Nähe";
 
 // Onboarding View
-"onboarding_title" = "Willkommen bei CasaZurigo";
+"onboarding_welcome_title" = "Willkommen bei CasaZurigo";
 "onboarding_recycling_title" = "Entdecke Recycling-Veranstaltungen";
 "onboarding_recycling_description" = "Erkunde lokale Recycling-Veranstaltungen, um darüber informiert zu bleiben, was du recyceln kannst und welche Regeln zu beachten sind.";
 "onboarding_map_title" = "Finde nahegelegene öffentliche Standorte";
