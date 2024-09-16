@@ -25,6 +25,12 @@
 "today" = "Today";
 "not_available" = "Not available";
 
+// Empty View
+"empty_title" = "Hmmm.. it looks empty here";
+"empty_description" = "You’ve turned off some settings. Turn them on to get started!";
+"empty_configure_area_of_interest_title" = "Configure your area of interest.";
+"empty_configure_locations_permission_title" = "Configure locations permission.";
+
 // Tab Title
 "tab_title_home" = "Home";
 "tab_title_maps" = "Map";

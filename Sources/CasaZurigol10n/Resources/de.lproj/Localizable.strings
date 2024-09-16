@@ -25,6 +25,12 @@
 "today" = "Heute";
 "not_available" = "Nicht erhältlich";
 
+// Empty View
+"empty_title" = "Hmmm... sieht leer aus hier";
+"empty_description" = "Du hast ein paar Einstellungen deaktiviert. Schalte sie ein und los geht's!";
+"empty_configure_area_of_interest_title" = "Konfiguriere dein Interessensgebiet.";
+"empty_configure_locations_permission_title" = "Standortberechtigungen aktivieren.";
+
 // Tab Title
 "tab_title_home" = "Home";
 "tab_title_maps" = "Karte";
