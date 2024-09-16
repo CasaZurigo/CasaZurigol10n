@@ -42,6 +42,18 @@
 "onboarding_recycling_description" = "Erkunde lokale Recycling-Veranstaltungen, um darüber informiert zu bleiben, was du recyceln kannst und welche Regeln zu beachten sind.";
 "onboarding_map_title" = "Finde nahegelegene öffentliche Standorte";
 "onboarding_map_description" = "Entdecke eine Vielzahl von öffentlichen Standorten, die von CasaZurigo unterstützt werden:\n• Parks\n• Quellen\n• Öffentliche Toiletten\n• Parkgaragen\n• Und mehr in Kürze...";
+"onboarding_location_title" = "Entdecke nahegelegene Standorte";
+"onboarding_nearby_location_title" = "Nahegelegene öffentliche Standorte";
+"onboarding_nearby_location_description" = "Erhalte Zugang zu öffentlichen Standorten in deiner Nähe, wie Parks, Toiletten und anderes.";
+"onboarding_location_permission_title" = "Standortberechtigung";
+"onboarding_location_permission_description" = "Wir benötigen Standortzugriff, um dir Informationen zu nahegelegenen öffentlichen Standorten bereitzustellen.";
+"onboarding_area_of_interest_title" = "Lege dein Interessensgebiet fest";
+"onboarding_zip_code_title" = "Postleitzahl Auswahl";
+"onboarding_zip_code_description" = "Wähle deine Postleitzahl aus, um lokalisierte Informationen wie Wetter-Updates, Recycling-Zeitpläne und nahegelegene Veranstaltungen zu erhalten.";
+"onboarding_notifications_title" = "Aktiviere Benachrichtigungen";
+"onboarding_notification_update_title" = "Bleib auf dem Laufenden";
+"onboarding_notification_update_description" = "Erhalte Benachrichtigungen über Recycling-Events in deiner Region, wie Karton-Sammeltage, basierend auf deiner Postleitzahl.";
+
 
 // Weather View
 "weather_navigation_title" = "Wetter";

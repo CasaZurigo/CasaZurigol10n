@@ -42,6 +42,18 @@
 "onboarding_recycling_description" = "Explore local recycling events to stay informed about what you can recycle and the rules to follow.";
 "onboarding_map_title" = "Find Nearby Public Locations";
 "onboarding_map_description" = "Explore a variety of convenient public locations supported by CasaZurigo:\n• Parks\n• Springs\n• Public Toilets\n• Parking Garages\n• Plus More to Come...";
+"onboarding_location_title" = "Discover Nearby Locations";
+"onboarding_nearby_location_title" = "Nearby Public Locations";
+"onboarding_nearby_location_description" = "Get access to public locations around you, such as parks, toilets, and others.";
+"onboarding_location_permission_title" = "Location Permission";
+"onboarding_location_permission_description" = "We require location access to provide you with information about nearby public locations.";
+"onboarding_area_of_interest_title" = "Set Your Area of Interest";
+"onboarding_zip_code_title" = "ZIP Code Selection";
+"onboarding_zip_code_description" = "Select your ZIP Code to get localized information such as weather updates, recycling schedules, and nearby events.";
+"onboarding_notifications_title" = "Enable Notifications";
+"onboarding_notification_update_title" = "Stay Updated";
+"onboarding_notification_update_description" = "Receive notifications for recycling events in your area, like cardboard collection days, based on your ZIP Code.";
+
 
 // Weather View
 "weather_navigation_title" = "Weather";
