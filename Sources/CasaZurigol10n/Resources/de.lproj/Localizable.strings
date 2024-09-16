@@ -62,7 +62,9 @@
 
 // UserPreferences View
 "user_preferences_navigation_title" = "Einstellungen";
+"user_preferences_area_of_interest_title" = "Interessensgebiet";
 "user_preferences_zip_code_title" = "Postleitzahl";
+"user_preferences_city_title" = "Stadt";
 "user_preferences_push_notification_title" = "Push-Benachrichtigungen";
 "user_preferences_extras_title" = "Extras";
 "user_preferences_about_title" = "Über";
