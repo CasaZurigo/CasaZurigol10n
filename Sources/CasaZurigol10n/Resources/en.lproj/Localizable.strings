@@ -24,6 +24,11 @@
 "continue" = "Continue";
 "today" = "Today";
 "not_available" = "Not available";
+"filter" = "Filter";
+"sort_by" = "Sort by";
+"date" = "Date";
+"ascending" = "Ascending";
+"descending" = "Descending";
 
 // Empty View
 "empty_title" = "Hmmm.. it looks empty here";
@@ -40,7 +45,9 @@
 "home_navigation_title" = "Zurich";
 "home_trends_title" = "Today's Trends";
 "home_recylcing_event_title" = "Recycling Events";
+"home_recycling_event_filter_title" = "Filter Recycling Events";
 "home_nearby_locations_title" = "Nearby Locations";
+"home_nearby_locations_filter_title" = "Filter Nearby Locations";
 
 // Onboarding View
 "onboarding_welcome_title" = "Welcome to CasaZurigo";
@@ -134,9 +141,6 @@
 "map_detail_details_toilet_infrastructure_mobile" = "Mobile";
 "map_detail_details_toilet_infrastructure_accessible" = "Accessible";
 "map_detail_details_toilet_infrastructure_changing_table" = "Changing Table";
-
-// Map View
-"map_detail_filters_title" = "Filters";
 
 // Recycling Event
 "recycling_cardboard_event_title" = "Cardboard";
