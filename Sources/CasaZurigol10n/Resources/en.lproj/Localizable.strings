@@ -29,6 +29,8 @@
 "date" = "Date";
 "ascending" = "Ascending";
 "descending" = "Descending";
+"no_results_available" = "No results available";
+"no_results_available_filter_description" = "All options are filtered out. Adjust filters to see results.";
 
 // Empty View
 "empty_title" = "Hmmm.. it looks empty here";
