@@ -32,6 +32,14 @@
 "no_results_available" = "Keine Ergebnisse verfügbar";
 "no_results_available_filter_description" = "Alle Optionen sind herausgefiltert. Filter anpassen, um Ergebnisse zu sehen.";
 
+// Tips
+"tips_filter_title" = "Finde, was wichtig ist";
+"tips_filter_message" = "Tippe, um zu filtern und nur den Inhalt zu sehen, der dich interessiert";
+"tips_settings_title" = "Mach es zu deinem";
+"tips_settings_message" = "Tippe, um die App nach deinem Geschmack anzupassen";
+"tips_weather_title" = "Sonne oder Regen?";
+"tips_weather_message" = "Tippe, um die neueste Wettervorhersage zu erhalten";
+
 // Empty View
 "empty_title" = "Hmmm... sieht leer aus hier";
 "empty_description" = "Du hast ein paar Einstellungen deaktiviert. Schalte sie ein und los geht's!";
