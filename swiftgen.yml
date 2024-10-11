@@ -1,5 +1,5 @@
 input_dir: Sources/CasaZurigol10n/Resources
-# output_dir: ${DERIVED_SOURCES_DIR}
+output_dir: ${DERIVED_SOURCES_DIR}
 
 strings:
   inputs:
@@ -9,4 +9,4 @@ strings:
       params:
         publicAccess: true
         bundle: Bundle.casaZurigol10n
-      output: ${DERIVED_SOURCES_DIR}/Localization+Generated.swift
+      output: Localization+Generated.swift
