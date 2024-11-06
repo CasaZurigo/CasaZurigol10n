@@ -1,0 +1,30 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python Debugger: Current File with Arguments",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "args": [
+                "--auth-key", "${input:deepLAuthKey}",
+                "--input-file", "./Sources/CasaZurigol10n/Resources/en.lproj/Localizable.strings",
+                "--target-langs", "FR", "IT",
+                "--source-lang", "EN",
+                "--output-dir", "translations"
+            ]
+        }
+    ],
+    "inputs": [
+        {
+            "id": "deepLAuthKey",
+            "type": "promptString",
+            "description": "Enter your DeepL API key",
+            "password": true
+        }
+    ]
+}
