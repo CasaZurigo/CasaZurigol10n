@@ -6,8 +6,8 @@ import argparse
 
 
 class StringsTranslator:
-    def __init__(self, auth_key):
-        self.translator = DeeplTranslator(api_key=auth_key)
+    def __init__(self, auth_key, source_lang):
+        self.translator = DeeplTranslator(api_key=auth_key, source=source_lang.lower())
         self.cache = {}
 
     def parse_strings_file(self, file_path):
@@ -25,11 +25,12 @@ class StringsTranslator:
             for key, value in translations.items():
                 f.write(f'"{key}" = "{value}";\n')
 
-    def translate_strings(self, translations, target_language, source_language="EN"):
+    def translate_strings(self, translations, target_language):
         translated = {}
 
         print(f"Translating to {target_language}...")
 
+        total = len(translations)
         for i, (key, value) in enumerate(translations.items(), 1):
             cache_key = f"{value}:{target_language}"
 
@@ -37,11 +38,10 @@ class StringsTranslator:
                 translated[key] = self.cache[cache_key]
             else:
                 try:
-                    result = self.translator.translate_text(
-                        value, source_lang=source_language, target_lang=target_language
-                    )
-                    translated[key] = result.text
-                    self.cache[cache_key] = result.text
+                    self.translator.target = target_language.lower()
+                    result = self.translator.translate(value)
+                    translated[key] = result
+                    self.cache[cache_key] = result
 
                     # Add delay to respect API rate limits
                     time.sleep(0.5)
@@ -72,7 +72,7 @@ class StringsTranslator:
         for lang in target_languages:
             print(f"\nProcessing {lang}...")
             translated = self.translate_strings(translations, lang)
-            output_file = Path(output_dir) / f"{lang.lower()}.strings"
+            output_file = Path(output_dir, lang.lower()) / "Localizable.strings"
             self.create_strings_file(translated, output_file)
             print(f"Created {output_file}")
 
@@ -111,7 +111,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     # Create translator instance and process translations
-    translator = StringsTranslator(args.auth_key)
+    translator = StringsTranslator(args.auth_key, args.source_lang)
     translator.translate_to_languages(
         source_file=args.input_file,
         target_languages=args.target_langs,
