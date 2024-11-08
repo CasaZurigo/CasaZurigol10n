@@ -38,7 +38,7 @@ extension Foundation.Bundle {
     }()
 }
 
-public enum CasaZurigol10n {}
+public class CasaZurigol10n {}
 
 extension CasaZurigol10n {
 	private enum Language {
