@@ -150,3 +150,9 @@
 "recycling_paper_event_detail_not_allowed" = "Carta non riciclabile come copertine e dorsi di libri, imballaggi isolati* in carta riciclata (ad es. Paperfloc), cartone, ritagli di carta, sacchetti di carta, carta plastificata o sporca, Tetra Pak, imballaggi per alimenti surgelati";
 "recycling_paper_event_detail_how_to" = "Il giorno della raccolta, prima delle 7 del mattino, depositate la carta in pacchi o il vostro contenitore per la carta sul ciglio della strada.";
 "recycling_paper_event_detail_good_to_know" = "I sacchetti di carta e le scatole di cartone non rientrano nella raccolta della carta e non sono adatti come contenitori di raccolta. Sono trattati in modo particolare e compromettono il processo di riciclaggio, inoltre si sfaldano in condizioni di umidità e vento.";
+"no_access_to_location_granted" = "Non è stato concesso l'accesso alla posizione";
+"no_zip_code_provided" = "Non è stato fornito alcun codice di avviamento postale";
+"open_nearby_locations_intent_title" = "Mostra i luoghi pubblici nelle vicinanze";
+"open_nearby_locations_intent_description" = "Apre l'applicazione e mostra le località vicine su una mappa.";
+"open_nearby_location_intent_title" = "Mostra le %@ vicine";
+"open_nearby_location_intent_description" = "Apre l'applicazione e mostra la %@ più vicina sulla mappa.";

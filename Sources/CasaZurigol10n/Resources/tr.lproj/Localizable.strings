@@ -43,7 +43,7 @@
 "onboarding_recycling_title" = "Geri Dönüşüm Etkinliklerini Keşfedin";
 "onboarding_recycling_description" = "Neleri geri dönüştürebileceğiniz ve uymanız gereken kurallar hakkında bilgi sahibi olmak için yerel geri dönüşüm etkinliklerini keşfedin.";
 "onboarding_map_title" = "Yakındaki Halka Açık Yerleri Bulun";
-"onboarding_map_description" = "CasaZurigo tarafından desteklenen çeşitli uygun halka açık yerleri keşfedin:\n- Parklar\n- Çeşme\n- Umumi Tuvaletler\n- Kapalı Otoparklar\n- Artı Daha Fazlası Gelecek...";
+"onboarding_map_description" = "CasaZurigo tarafından desteklenen çeşitli uygun halka açık yerleri keşfedin:\n- Parklar\n- Kaplıcalar\n- Umumi Tuvaletler\n- Kapalı Otoparklar\n- Artı Daha Fazlası Gelecek...";
 "onboarding_location_title" = "Yakındaki Konumları Keşfedin";
 "onboarding_nearby_location_title" = "Yakındaki Halka Açık Mekanlar";
 "onboarding_nearby_location_description" = "Parklar, tuvaletler ve diğerleri gibi çevrenizdeki halka açık yerlere erişim sağlayın.";
@@ -150,3 +150,9 @@
 "recycling_paper_event_detail_not_allowed" = "Kitap kapakları ve arka kapakları gibi geri dönüştürülemeyen kağıtlar, geri dönüştürülmüş kağıttan yalıtımlı ambalaj* (örn. Paperfloc), karton, kağıt kırpıntıları, kağıt taşıma çantası, plastik kaplı veya kirli kağıt, Tetra Pak, dondurulmuş gıda ambalajı";
 "recycling_paper_event_detail_how_to" = "Paketlenmiş kağıtları veya kağıt kabınızı toplama günü sabah 7'den önce yol kenarına koyun.";
 "recycling_paper_event_detail_good_to_know" = "Kağıt taşıma torbaları ve karton kutular kağıt toplamaya ait değildir ve toplama konteyneri olarak uygun değildir. Özel olarak işlenirler ve geri dönüşüm sürecini etkilerler ve ıslak ve rüzgarlı koşullarda parçalanırlar.";
+"no_access_to_location_granted" = "Lokasyona erişim izni yok";
+"no_zip_code_provided" = "Posta kodu belirtilmemiş";
+"open_nearby_locations_intent_title" = "Yakındaki halka açık yerleri göster";
+"open_nearby_locations_intent_description" = "Uygulamayı açar ve yakındaki konumları bir Harita üzerinde gösterir.";
+"open_nearby_location_intent_title" = "Yakındaki %@'yı göster";
+"open_nearby_location_intent_description" = "Uygulamayı açar ve Harita üzerinde en yakın %@'yı gösterir.";

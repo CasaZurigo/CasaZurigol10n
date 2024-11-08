@@ -150,3 +150,9 @@
 "recycling_paper_event_detail_not_allowed" = "Papel não reciclável, como capas e contracapas de livros, embalagens isoladas* de papel reciclado (por exemplo, Paperfloc), cartão, recortes de papel, sacos de papel, papel revestido a plástico ou sujo, Tetra Pak, embalagens de alimentos congelados";
 "recycling_paper_event_detail_how_to" = "Colocar o papel empacotado ou o seu contentor de papel na berma da estrada no dia da recolha antes das 7 horas da manhã.";
 "recycling_paper_event_detail_good_to_know" = "Os sacos de papel e as caixas de cartão não devem ser utilizados na recolha de papel e não são adequados como contentores de recolha. São especialmente tratados e afectam o processo de reciclagem, além de se desfazerem em condições de humidade e vento.";
+"no_access_to_location_granted" = "Não foi concedido acesso ao local";
+"no_zip_code_provided" = "Nenhum código postal fornecido";
+"open_nearby_locations_intent_title" = "Mostrar locais públicos próximos";
+"open_nearby_locations_intent_description" = "Abre a aplicação e mostra as localizações próximas num mapa.";
+"open_nearby_location_intent_title" = "Mostrar %@ próximos";
+"open_nearby_location_intent_description" = "Abre a aplicação e mostra a %@ mais próxima no mapa.";

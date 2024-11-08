@@ -150,3 +150,9 @@
 "recycling_paper_event_detail_not_allowed" = "Papier non recyclable tel que couvertures et dos de livres, emballages isolés* en papier recyclé (par exemple, Paperfloc), carton, rognures de papier, sacs en papier, papier plastifié ou souillé, Tetra Pak, emballages de produits surgelés.";
 "recycling_paper_event_detail_how_to" = "Déposez le papier regroupé ou votre conteneur à papier au bord de la route le jour de la collecte avant 7 heures du matin.";
 "recycling_paper_event_detail_good_to_know" = "Les sacs de transport en papier et les boîtes en carton n'ont pas leur place dans la collecte du papier et ne conviennent pas comme conteneurs de collecte. Ils sont traités de manière spéciale et affectent le processus de recyclage, et ils se désagrègent en cas d'humidité et de vent.";
+"no_access_to_location_granted" = "Pas d'accès au lieu accordé";
+"no_zip_code_provided" = "Pas de code postal fourni";
+"open_nearby_locations_intent_title" = "Afficher les lieux publics à proximité";
+"open_nearby_locations_intent_description" = "Ouvre l'application et affiche les lieux à proximité sur une carte.";
+"open_nearby_location_intent_title" = "Afficher les %@ à proximité";
+"open_nearby_location_intent_description" = "Ouvre l'application et affiche le %@ le plus proche sur la carte.";

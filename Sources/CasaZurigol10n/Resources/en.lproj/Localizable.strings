@@ -31,6 +31,12 @@
 "descending" = "Descending";
 "no_results_available" = "No results available";
 "no_results_available_filter_description" = "All options are filtered out. Adjust filters to see results.";
+"no_access_to_location_granted" = "No access to location granted";
+"no_zip_code_provided" = "No ZIP code provided";
+"open_nearby_locations_intent_title" = "Show nearby public locations";
+"open_nearby_locations_intent_description" = "Opens the app and shows the nearby locations on a Map.";
+"open_nearby_location_intent_title" = "Show nearby %@";
+"open_nearby_location_intent_description" = "Opens the app and shows the nearest %@ on the Map.";
 
 // Tips
 "tips_filter_title" = "Find what matters";
