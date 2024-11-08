@@ -12,11 +12,14 @@ class StringsTranslator:
 
     def parse_strings_file(self, file_path):
         translations = {}
-        with open(file_path, "r", encoding="utf-8") as f:
-            content = f.read()
-            matches = re.findall(r'"([^"]+)"\s*=\s*"([^"]+)";', content)
-            for key, value in matches:
-                translations[key] = value
+        try:
+            with open(file_path, "r", encoding="utf-8") as f:
+                content = f.read()
+                matches = re.findall(r'"([^"]+)"\s*=\s*"([^"]+)";', content)
+                for key, value in matches:
+                    translations[key] = value
+        except FileNotFoundError as e:
+            pass
         return translations
 
     def create_strings_file(self, translations, output_path):
@@ -25,42 +28,47 @@ class StringsTranslator:
             for key, value in translations.items():
                 f.write(f'"{key}" = "{value}";\n')
 
-    def translate_strings(self, translations, target_language):
-        translated = {}
+    def translate_strings(self, source_translations, target_translations, target_language):
+        translated = target_translations.copy()
+        missing_translations = {
+            key: value for key, value in source_translations.items() 
+            if key not in target_translations
+        }
 
-        print(f"Translating to {target_language}...")
+        if missing_translations:
+            print(f"Translating {len(missing_translations)} missing strings to {target_language}...")
+            total = len(missing_translations)
+            for i, (key, value) in enumerate(missing_translations.items(), 1):
+                cache_key = f"{value}:{target_language}"
 
-        total = len(translations)
-        for i, (key, value) in enumerate(translations.items(), 1):
-            cache_key = f"{value}:{target_language}"
+                if cache_key in self.cache:
+                    translated[key] = self.cache[cache_key]
+                else:
+                    try:
+                        self.translator.target = target_language.lower()
+                        result = self.translator.translate(value)
+                        translated[key] = result
+                        self.cache[cache_key] = result
 
-            if cache_key in self.cache:
-                translated[key] = self.cache[cache_key]
-            else:
-                try:
-                    self.translator.target = target_language.lower()
-                    result = self.translator.translate(value)
-                    translated[key] = result
-                    self.cache[cache_key] = result
+                        # Add delay to respect API rate limits
+                        time.sleep(0.5)
 
-                    # Add delay to respect API rate limits
-                    time.sleep(0.5)
+                    except Exception as e:
+                        print(f"Error translating '{key}': {str(e)}")
+                        translated[key] = value  # Use original value on error
 
-                except Exception as e:
-                    print(f"Error translating '{key}': {str(e)}")
-                    translated[key] = value  # Use original value on error
-
-            print(f"Progress: {i}/{total} ({int(i/total*100)}%)")
-
+                print(f"Progress: {i}/{total} ({int(i/total*100)}%)")
+        else:
+            print(f"No new strings to translate for {target_language}")
         return translated
 
     def translate_to_languages(
         self, source_file, target_languages, output_dir="translations"
     ):
-        translations = self.parse_strings_file(source_file)
 
-        totalStrings = len(translations)
-        totalChars = sum(len(value) for value in translations.values())
+        source_translations = self.parse_strings_file(source_file)
+        totalStrings = len(source_translations)
+        totalChars = sum(len(value) for value in source_translations.values())
         print(f"Source file: {source_file}")
         print(f"Total strings: {totalStrings}")
         print(f"Total characters: {totalChars}")
@@ -71,10 +79,17 @@ class StringsTranslator:
 
         for lang in target_languages:
             print(f"\nProcessing {lang}...")
-            translated = self.translate_strings(translations, lang)
             output_file = Path(output_dir, lang.lower()) / "Localizable.strings"
+            
+            # Check if target file exists and parse it
+            target_translations = self.parse_strings_file(output_file)
+            
+            # Translate only missing strings
+            translated = self.translate_strings(source_translations, target_translations, lang)
+            
+            # Create or update the target file
             self.create_strings_file(translated, output_file)
-            print(f"Created {output_file}")
+            print(f"Created/Updated {output_file}")
 
 
 # Usage
