@@ -156,3 +156,15 @@
 "open_nearby_locations_intent_description" = "Uygulamayı açar ve yakındaki konumları bir Harita üzerinde gösterir.";
 "open_nearby_location_intent_title" = "Yakındaki %@'yı göster";
 "open_nearby_location_intent_description" = "Uygulamayı açar ve Harita üzerinde en yakın %@'yı gösterir.";
+"ORGANIC_RECYCLING_NOTIFICATION_TITLE" = "🥬 CasaZurigo";
+"CARDBOARD_RECYCLING_NOTIFICATION_TITLE" = "📦 CasaZurigo";
+"PAPER_RECYCLING_NOTIFICATION_TITLE" = "🗞 CasaZurigo";
+"WASTE_RECYCLING_NOTIFICATION_TITLE" = "🗑 CasaZurigo";
+"CARGOTRAM_RECYCLING_NOTIFICATION_TITLE" = "🚃 CasaZurigo";
+"ETRAM_RECYCLING_NOTIFICATION_TITLE" = "🚅 CasaZurigo";
+"TOMORROW_ORGANIC_RECYCLING_NOTIFICATION_BODY" = "Yarın organik atıklarınız toplanacaktır.";
+"TOMORROW_CARDBOARD_RECYCLING_NOTIFICATION_BODY" = "Yarın kartonlarınız toplanacak.";
+"TOMORROW_PAPER_RECYCLING_NOTIFICATION_BODY" = "Yarın kağıtlarınız toplanacak.";
+"TOMORROW_WASTE_RECYCLING_NOTIFICATION_BODY" = "Yarın atıklarınız toplanacak.";
+"TOMORROW_CARGOTRAM_RECYCLING_NOTIFICATION_BODY" = "Yarın kargo yola çıkıyor!";
+"TOMORROW_ETRAM_RECYCLING_NOTIFICATION_BODY" = "Yarın etram yolda!";

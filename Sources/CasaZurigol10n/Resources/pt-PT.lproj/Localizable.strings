@@ -156,3 +156,15 @@
 "open_nearby_locations_intent_description" = "Abre a aplicação e mostra as localizações próximas num mapa.";
 "open_nearby_location_intent_title" = "Mostrar %@ próximos";
 "open_nearby_location_intent_description" = "Abre a aplicação e mostra a %@ mais próxima no mapa.";
+"ORGANIC_RECYCLING_NOTIFICATION_TITLE" = "🥬 CasaZurigo";
+"CARDBOARD_RECYCLING_NOTIFICATION_TITLE" = "📦 CasaZurigo";
+"PAPER_RECYCLING_NOTIFICATION_TITLE" = "🗞 CasaZurigo";
+"WASTE_RECYCLING_NOTIFICATION_TITLE" = "🗑 CasaZurigo";
+"CARGOTRAM_RECYCLING_NOTIFICATION_TITLE" = "🚃 CasaZurigo";
+"ETRAM_RECYCLING_NOTIFICATION_TITLE" = "🚅 CasaZurigo";
+"TOMORROW_ORGANIC_RECYCLING_NOTIFICATION_BODY" = "Amanhã, os seus resíduos orgânicos serão recolhidos.";
+"TOMORROW_CARDBOARD_RECYCLING_NOTIFICATION_BODY" = "Amanhã o seu cartão será recolhido.";
+"TOMORROW_PAPER_RECYCLING_NOTIFICATION_BODY" = "Amanhã o vosso trabalho será recolhido.";
+"TOMORROW_WASTE_RECYCLING_NOTIFICATION_BODY" = "Amanhã os seus resíduos serão recolhidos.";
+"TOMORROW_CARGOTRAM_RECYCLING_NOTIFICATION_BODY" = "Amanhã o cargotram está a caminho!";
+"TOMORROW_ETRAM_RECYCLING_NOTIFICATION_BODY" = "Amanhã o etram está a caminho!";
