@@ -5,7 +5,7 @@ strings:
   inputs:
     - en.lproj
   outputs:
-    - templateName: structured-swift5
+    - templatePath: my-custom-strings-template.stencil
       params:
         publicAccess: true
         bundle: Bundle.casaZurigol10n

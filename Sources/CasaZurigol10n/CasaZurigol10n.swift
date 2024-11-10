@@ -16,6 +16,8 @@ extension Foundation.Bundle {
         /* The name of your local package, prepended by "LocalPackages_" for iOS and "PackageName_" for macOS. You may have same PackageName and TargetName*/
         let bundleName = "CasaZurigol10n_CasaZurigol10n"
         let candidates = [
+            Bundle.module.resourceURL,
+            Bundle.module.bundleURL,
             /* Bundle should be present here when the package is linked into an App. */
             Bundle.main.resourceURL,
             /* Bundle should be present here when the package is linked into a framework. */
