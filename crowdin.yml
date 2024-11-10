@@ -1,5 +1,0 @@
-bundles:
-  - 2
-files:
-  - source: en.lproj/*.strings
-    translation: /Sources/CasaZurigol10n/Resources/%two_letters_code%.lproj/%original_file_name%
