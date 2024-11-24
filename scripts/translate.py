@@ -4,6 +4,7 @@ import time
 from pathlib import Path
 import argparse
 
+
 class StringsTranslator:
     def __init__(self, auth_key, source_lang):
         self.translator = DeeplTranslator(api_key=auth_key, source=source_lang.lower())
@@ -18,6 +19,7 @@ class StringsTranslator:
                 for key, value in matches:
                     translations[key] = value
         except FileNotFoundError as e:
+            print(f"Error reading file '{file_path}': {str(e)}")
             pass
         return translations
 
@@ -27,14 +29,19 @@ class StringsTranslator:
             for key, value in translations.items():
                 f.write(f'"{key}" = "{value}";\n')
 
-    def translate_strings(self, source_translations, target_translations, target_language):
+    def translate_strings(
+        self, source_translations, target_translations, target_language
+    ):
         translated = target_translations.copy()
         missing_translations = {
-            key: value for key, value in source_translations.items() 
+            key: value
+            for key, value in source_translations.items()
             if key not in target_translations
         }
         if missing_translations:
-            print(f"Translating {len(missing_translations)} missing strings to {target_language}...")
+            print(
+                f"Translating {len(missing_translations)} missing strings to {target_language}..."
+            )
             total = len(missing_translations)
             for i, (key, value) in enumerate(missing_translations.items(), 1):
                 cache_key = f"{value}:{target_language}"
@@ -62,10 +69,10 @@ class StringsTranslator:
             source_translations = self.parse_strings_file(input_file)
             totalStrings = len(source_translations)
             totalChars = sum(len(value) for value in source_translations.values())
-            
+
             # Get the filename from the input path
             input_filename = Path(input_file).name
-            
+
             print(f"\nProcessing source file: {input_file}")
             print(f"Total strings: {totalStrings}")
             print(f"Total characters: {totalChars}")
@@ -75,17 +82,20 @@ class StringsTranslator:
 
             for lang in target_languages:
                 print(f"\nProcessing {lang} for {input_filename}...")
-                output_file = Path(output_dir, lang.lower()) / input_filename
-                
+                output_file = Path(output_dir, f"{lang}.lproj") / input_filename
+
                 # Check if target file exists and parse it
                 target_translations = self.parse_strings_file(output_file)
-                
+
                 # Translate only missing strings
-                translated = self.translate_strings(source_translations, target_translations, lang)
-                
+                translated = self.translate_strings(
+                    source_translations, target_translations, lang
+                )
+
                 # Create or update the target file
                 self.create_strings_file(translated, output_file)
                 print(f"Created/Updated {output_file}")
+
 
 # Usage
 if __name__ == "__main__":
@@ -98,7 +108,7 @@ if __name__ == "__main__":
         "--input-files",
         required=True,
         nargs="+",
-        help="Paths to source .strings files (e.g., Localizable.strings InfoPlist.strings)"
+        help="Paths to source .strings files (e.g., Localizable.strings InfoPlist.strings)",
     )
     parser.add_argument(
         "--source-lang", default="EN", help="Source language code (default: EN)"
