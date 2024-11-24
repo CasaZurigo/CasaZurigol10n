@@ -168,3 +168,6 @@
 "TOMORROW_WASTE_RECYCLING_NOTIFICATION_BODY" = "Mañana se recogerán sus residuos.";
 "TOMORROW_CARGOTRAM_RECYCLING_NOTIFICATION_BODY" = "¡Mañana el cargotram está en camino!";
 "TOMORROW_ETRAM_RECYCLING_NOTIFICATION_BODY" = "¡Mañana el etram está en camino!";
+"bancomat" = "Bancomat";
+"letter_box" = "Buzón";
+"vending_machine" = "Máquina expendedora";

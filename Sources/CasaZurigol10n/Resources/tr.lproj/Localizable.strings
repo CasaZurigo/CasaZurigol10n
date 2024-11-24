@@ -168,3 +168,6 @@
 "TOMORROW_WASTE_RECYCLING_NOTIFICATION_BODY" = "Yarın atıklarınız toplanacak.";
 "TOMORROW_CARGOTRAM_RECYCLING_NOTIFICATION_BODY" = "Yarın kargo yola çıkıyor!";
 "TOMORROW_ETRAM_RECYCLING_NOTIFICATION_BODY" = "Yarın etram yolda!";
+"bancomat" = "Bancomat";
+"letter_box" = "Mektup Kutusu";
+"vending_machine" = "Otomat Makinesi";

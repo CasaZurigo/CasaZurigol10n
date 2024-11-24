@@ -170,3 +170,6 @@ Energiesparlampe, LED, Leuchtstoffröhre";
 "TOMORROW_WASTE_RECYCLING_NOTIFICATION_BODY" = "Morgen werden Ihre Abfälle abgeholt.";
 "TOMORROW_CARGOTRAM_RECYCLING_NOTIFICATION_BODY" = "Morgen ist das Cargotram auf dem Weg!";
 "TOMORROW_ETRAM_RECYCLING_NOTIFICATION_BODY" = "Morgen ist das Etram auf dem Weg!";
+"bancomat" = "Bancomat";
+"letter_box" = "Briefkasten";
+"vending_machine" = "Verkaufsautomat";

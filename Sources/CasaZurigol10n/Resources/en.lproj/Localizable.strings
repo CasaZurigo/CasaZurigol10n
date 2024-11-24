@@ -7,6 +7,9 @@
 "cancel" = "Cancel";
 "toilet" = "Toilet";
 "spring" = "Spring";
+"bancomat" = "Bancomat";
+"letter_box" = "Letter Box";
+"vending_machine" = "Vending Machine";
 "on" = "On";
 "off" = "Off";
 "unknown" = "Unknown";
