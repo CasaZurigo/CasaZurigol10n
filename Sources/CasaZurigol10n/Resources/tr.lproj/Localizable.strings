@@ -19,7 +19,6 @@
 "ascending" = "Yükselen";
 "descending" = "Alçalma";
 "no_results_available" = "Sonuç mevcut değil";
-"no_results_available_filter_description" = "Tüm seçenekler filtrelenmiştir. Sonuçları görmek için filtreleri ayarlayın.";
 "tips_filter_title" = "Neyin önemli olduğunu bulun";
 "tips_filter_message" = "Filtrelemek ve sadece ilgilendiğiniz içeriği görmek için dokunun";
 "tips_settings_title" = "Sizin olsun";
@@ -171,3 +170,4 @@
 "bancomat" = "Bancomat";
 "letter_box" = "Mektup Kutusu";
 "vending_machine" = "Otomat Makinesi";
+"no_results_available_filter_description" = "Daha fazla sonuç görmek için filtreleri ayarlayın.";

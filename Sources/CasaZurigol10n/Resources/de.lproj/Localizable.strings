@@ -19,7 +19,6 @@
 "ascending" = "Aufsteigend";
 "descending" = "Absteigend";
 "no_results_available" = "Keine Ergebnisse verfügbar";
-"no_results_available_filter_description" = "Alle Optionen sind herausgefiltert. Filter anpassen, um Ergebnisse zu sehen.";
 "no_access_to_location_granted" = "Kein Zugang zum Standort gewährt";
 "open_nearby_locations_intent_title" = "Öffentliche Orte in der Nähe anzeigen";
 "open_nearby_locations_intent_description" = "Öffnet die App und zeigt die nahegelegenen Orte auf einer Karte an.";
@@ -173,3 +172,4 @@ Energiesparlampe, LED, Leuchtstoffröhre";
 "bancomat" = "Bancomat";
 "letter_box" = "Briefkasten";
 "vending_machine" = "Verkaufsautomat";
+"no_results_available_filter_description" = "Passen Sie die Filter an, um mehr Ergebnisse zu sehen.";

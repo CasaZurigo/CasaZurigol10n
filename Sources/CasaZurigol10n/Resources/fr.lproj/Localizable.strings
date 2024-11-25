@@ -19,7 +19,6 @@
 "ascending" = "Ascendante";
 "descending" = "Descente";
 "no_results_available" = "Pas de résultats disponibles";
-"no_results_available_filter_description" = "Toutes les options sont filtrées. Ajustez les filtres pour voir les résultats.";
 "tips_filter_title" = "Trouver ce qui compte";
 "tips_filter_message" = "Appuyez pour filtrer et ne voir que le contenu qui vous intéresse.";
 "tips_settings_title" = "Faites-le vôtre";
@@ -171,3 +170,4 @@
 "bancomat" = "Bancomat";
 "letter_box" = "Boîte aux lettres";
 "vending_machine" = "Distributeur automatique";
+"no_results_available_filter_description" = "Ajustez les filtres pour obtenir plus de résultats.";
