@@ -21,6 +21,7 @@
 "date" = "Date";
 "ascending" = "Ascending";
 "descending" = "Descending";
+"language" = "Language";
 "no_results_available" = "No results available";
 "no_results_available_filter_description" = "Adjust filters to see more results.";
 "no_access_to_location_granted" = "No access to location granted";
