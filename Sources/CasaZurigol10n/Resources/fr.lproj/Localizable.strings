@@ -172,3 +172,8 @@
 "vending_machine" = "Distributeur automatique";
 "no_results_available_filter_description" = "Ajustez les filtres pour obtenir plus de résultats.";
 "language" = "Langue";
+"collection_point" = "Point de collecte";
+"metal" = "Métal";
+"oil" = "Huile";
+"textiles" = "Textiles";
+"glass" = "Verre";

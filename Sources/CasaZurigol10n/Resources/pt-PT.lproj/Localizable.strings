@@ -172,3 +172,8 @@
 "vending_machine" = "Máquina de venda automática";
 "no_results_available_filter_description" = "Ajuste os filtros para ver mais resultados.";
 "language" = "Língua";
+"collection_point" = "Ponto de recolha";
+"metal" = "Metal";
+"oil" = "Óleo";
+"textiles" = "Têxteis";
+"glass" = "Vidro";

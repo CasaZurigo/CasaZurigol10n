@@ -172,3 +172,8 @@
 "vending_machine" = "Máquina expendedora";
 "no_results_available_filter_description" = "Ajuste los filtros para ver más resultados.";
 "language" = "Idioma";
+"collection_point" = "Punto de recogida";
+"metal" = "Metal";
+"oil" = "Aceite";
+"textiles" = "Textilies";
+"glass" = "Vidrio";

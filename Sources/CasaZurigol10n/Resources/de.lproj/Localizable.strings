@@ -174,3 +174,8 @@ Energiesparlampe, LED, Leuchtstoffröhre";
 "vending_machine" = "Verkaufsautomat";
 "no_results_available_filter_description" = "Passen Sie die Filter an, um mehr Ergebnisse zu sehen.";
 "language" = "Sprache";
+"collection_point" = "Sammelstelle";
+"metal" = "Metall";
+"oil" = "Öl";
+"textiles" = "Textilien";
+"glass" = "Glas";

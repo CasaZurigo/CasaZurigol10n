@@ -172,3 +172,8 @@
 "vending_machine" = "Otomat Makinesi";
 "no_results_available_filter_description" = "Daha fazla sonuç görmek için filtreleri ayarlayın.";
 "language" = "Dil";
+"collection_point" = "Toplama Noktası";
+"metal" = "Metal";
+"oil" = "Yağ";
+"textiles" = "Textilies";
+"glass" = "Cam";

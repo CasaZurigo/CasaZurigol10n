@@ -10,6 +10,11 @@
 "bancomat" = "Bancomat";
 "letter_box" = "Letter Box";
 "vending_machine" = "Vending Machine";
+"collection_point" = "Collection Point";
+"metal" = "Metal";
+"oil" = "Oil";
+"textiles" = "Textilies";
+"glass" = "Glass";
 "on" = "On";
 "off" = "Off";
 "unknown" = "Unknown";
