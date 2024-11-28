@@ -6,7 +6,6 @@
 "search" = "Suchen";
 "cancel" = "Abbrechen";
 "toilet" = "WC";
-"spring" = "Brunnen";
 "on" = "Ein";
 "off" = "Aus";
 "unknown" = "Unbekannt";
@@ -47,7 +46,6 @@
 "onboarding_recycling_title" = "Entdecke Recycling-Veranstaltungen";
 "onboarding_recycling_description" = "Erkunde lokale Recycling-Veranstaltungen, um darüber informiert zu bleiben, was du recyceln kannst und welche Regeln zu beachten sind.";
 "onboarding_map_title" = "Finde nahegelegene öffentliche Standorte";
-"onboarding_map_description" = "Entdecke eine Vielzahl von öffentlichen Standorten, die von CasaZurigo unterstützt werden:\n• Parks\n• Quellen\n• Öffentliche Toiletten\n• Parkgaragen\n• Und mehr in Kürze...";
 "onboarding_location_title" = "Entdecke nahegelegene Standorte";
 "onboarding_nearby_location_title" = "Nahegelegene öffentliche Standorte";
 "onboarding_nearby_location_description" = "Erhalte Zugang zu öffentlichen Standorten in deiner Nähe, wie Parks, Toiletten und anderes.";
@@ -179,3 +177,5 @@ Energiesparlampe, LED, Leuchtstoffröhre";
 "oil" = "Öl";
 "textiles" = "Textilien";
 "glass" = "Glas";
+"spring" = "Brunnen";
+"onboarding_map_description" = "Entdecken Sie eine Vielzahl von bequemen öffentlichen Orten, die von CasaZurigo unterstützt werden:\n- Parks\n- Brunnen\n- Öffentliche Toiletten\n- Parkhäuser\n- Und mehr in Kürze...";

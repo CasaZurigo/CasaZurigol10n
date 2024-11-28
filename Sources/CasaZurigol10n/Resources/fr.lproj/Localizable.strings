@@ -6,7 +6,6 @@
 "search" = "Recherche";
 "cancel" = "Annuler";
 "toilet" = "Toilettes";
-"spring" = "Fontaine";
 "on" = "Sur";
 "off" = "Arrêt";
 "unknown" = "Inconnu";
@@ -42,7 +41,6 @@
 "onboarding_recycling_title" = "Découvrez les événements liés au recyclage";
 "onboarding_recycling_description" = "Découvrez les événements locaux liés au recyclage pour vous tenir informé de ce que vous pouvez recycler et des règles à suivre.";
 "onboarding_map_title" = "Trouver des lieux publics à proximité";
-"onboarding_map_description" = "Découvrez une variété de lieux publics pratiques soutenus par CasaZurigo:\N- Parcs\N- Sources\N- Toilettes publiques\N- Garages de stationnement\N- Plus à venir...";
 "onboarding_location_title" = "Découvrir les lieux proches";
 "onboarding_nearby_location_title" = "Lieux publics proches";
 "onboarding_nearby_location_description" = "Accédez aux lieux publics autour de vous, tels que les parcs, les toilettes et autres.";
@@ -177,3 +175,5 @@
 "oil" = "Huile";
 "textiles" = "Textiles";
 "glass" = "Verre";
+"spring" = "Fontaine";
+"onboarding_map_description" = "Découvrez une variété de lieux publics pratiques soutenus par CasaZurigo:\N- Parcs\N- Fontaines\N- Toilettes publiques\N- Garages de stationnement\N- Plus à venir...";

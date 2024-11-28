@@ -6,7 +6,6 @@
 "search" = "Ricerca";
 "cancel" = "Annullamento";
 "toilet" = "Servizi igienici";
-"spring" = "Fontana";
 "on" = "Su";
 "off" = "Spento";
 "unknown" = "Sconosciuto";
@@ -42,7 +41,6 @@
 "onboarding_recycling_title" = "Scopri gli eventi di riciclaggio";
 "onboarding_recycling_description" = "Esplorate gli eventi di riciclaggio locali per rimanere informati su ciò che potete riciclare e sulle regole da seguire.";
 "onboarding_map_title" = "Trova le sedi pubbliche più vicine";
-"onboarding_map_description" = "Esplorate una serie di comodi luoghi pubblici supportati da CasaZurigo:\n- Parchi\n- Sorgenti\n- Servizi igienici pubblici\n- Parcheggi\n- Più altro ancora...";
 "onboarding_location_title" = "Scopri le località vicine";
 "onboarding_nearby_location_title" = "Luoghi pubblici vicini";
 "onboarding_nearby_location_description" = "Ottenere l'accesso ai luoghi pubblici intorno a voi, come parchi, servizi igienici e altri.";
@@ -177,3 +175,5 @@
 "oil" = "Olio";
 "textiles" = "Tessili";
 "glass" = "Vetro";
+"spring" = "Fontana";
+"onboarding_map_description" = "Esplorate una serie di comodi luoghi pubblici supportati da CasaZurigo:\n- Parchi\n- Fontane\n- Servizi igienici pubblici\n- Parcheggi\n- Più altro ancora...";

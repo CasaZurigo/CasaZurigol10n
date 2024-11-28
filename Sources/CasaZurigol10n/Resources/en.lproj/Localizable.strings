@@ -6,7 +6,7 @@
 "search" = "Search";
 "cancel" = "Cancel";
 "toilet" = "Toilet";
-"spring" = "Spring";
+"spring" = "Fountain";
 "bancomat" = "Bancomat";
 "letter_box" = "Letter Box";
 "vending_machine" = "Vending Machine";
@@ -58,7 +58,7 @@
 "onboarding_recycling_title" = "Discover Recycling Events";
 "onboarding_recycling_description" = "Explore local recycling events to stay informed about what you can recycle and the rules to follow.";
 "onboarding_map_title" = "Find Nearby Public Locations";
-"onboarding_map_description" = "Explore a variety of convenient public locations supported by CasaZurigo:\n• Parks\n• Springs\n• Public Toilets\n• Parking Garages\n• Plus More to Come...";
+"onboarding_map_description" = "Explore a variety of convenient public locations supported by CasaZurigo:\n• Parks\n• Fountains\n• Public Toilets\n• Parking Garages\n• Plus More to Come...";
 "onboarding_location_title" = "Discover Nearby Locations";
 "onboarding_nearby_location_title" = "Nearby Public Locations";
 "onboarding_nearby_location_description" = "Get access to public locations around you, such as parks, toilets, and others.";

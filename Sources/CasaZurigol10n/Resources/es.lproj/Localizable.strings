@@ -6,7 +6,6 @@
 "search" = "Buscar en";
 "cancel" = "Cancelar";
 "toilet" = "Aseo";
-"spring" = "Primavera";
 "on" = "En";
 "off" = "Fuera de";
 "unknown" = "Desconocido";
@@ -42,7 +41,6 @@
 "onboarding_recycling_title" = "Descubra los eventos de reciclaje";
 "onboarding_recycling_description" = "Explore los eventos locales de reciclaje para mantenerse informado sobre lo que puede reciclar y las normas que debe seguir.";
 "onboarding_map_title" = "Encontrar lugares públicos cercanos";
-"onboarding_map_description" = "Explore una variedad de lugares públicos convenientes apoyados por CasaZurigo:\n- Parques\n- Fuentes\n- Baños Públicos\n- Estacionamientos\n- Más por venir...";
 "onboarding_location_title" = "Descubra los lugares más cercanos";
 "onboarding_nearby_location_title" = "Lugares públicos cercanos";
 "onboarding_nearby_location_description" = "Accede a lugares públicos a tu alrededor, como parques, aseos y otros.";
@@ -177,3 +175,5 @@
 "oil" = "Aceite";
 "textiles" = "Textilies";
 "glass" = "Vidrio";
+"spring" = "Fuente";
+"onboarding_map_description" = "Explore una variedad de lugares públicos convenientes apoyados por CasaZurigo:\n- Parques\n- Fuentes\n- Aseos públicos\n- Garajes de estacionamiento\n- Y más por venir...";
