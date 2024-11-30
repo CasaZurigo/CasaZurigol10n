@@ -17,6 +17,7 @@
 "glass" = "Glass";
 "on" = "On";
 "off" = "Off";
+"all" = "All";
 "unknown" = "Unknown";
 "continue" = "Continue";
 "today" = "Today";
