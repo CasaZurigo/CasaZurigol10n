@@ -3,6 +3,10 @@ from deep_translator import DeeplTranslator
 import time
 from pathlib import Path
 import argparse
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
 
 
 class StringsTranslator:
@@ -102,31 +106,53 @@ if __name__ == "__main__":
     # Set up argument parser
     parser = argparse.ArgumentParser(description="Translate .strings files using DeepL")
     parser.add_argument(
-        "--auth-key", required=True, help="DeepL API authentication key"
+        "--auth-key",
+        default=os.getenv("DEEPL_AUTH_KEY"),
+        help="DeepL API authentication key",
     )
     parser.add_argument(
         "--input-files",
-        required=True,
         nargs="+",
-        help="Paths to source .strings files (e.g., Localizable.strings InfoPlist.strings)",
+        default=os.getenv(
+            "INPUT_FILES",
+            "./Sources/CasaZurigol10n/Resources/en.lproj/Localizable.strings,./Sources/CasaZurigol10n/Resources/en.lproj/InfoPlist.strings",
+        ).split(","),
+        help="Paths to source .strings files (e.g., ./Sources/CasaZurigol10n/Resources/en.lproj/Localizable.strings)",
     )
     parser.add_argument(
-        "--source-lang", default="EN", help="Source language code (default: EN)"
+        "--source-lang",
+        default=os.getenv("SOURCE_LANG", "en"),
+        help="Source language code (default: en)",
     )
     parser.add_argument(
         "--target-langs",
-        required=True,
         nargs="+",
-        help="List of target language codes (e.g., FR IT DE)",
+        default=os.getenv("TARGET_LANG", "fr,it,es,pt-PT,tr,de").split(","),
+        help="List of target language codes (e.g., fr it de)",
     )
     parser.add_argument(
         "--output-dir",
-        default="translations",
-        help="Output directory for translated files (default: translations)",
+        default=os.getenv("OUTPUT_DIR", "./Sources/CasaZurigol10n/Resources"),
+        help="Output directory for translated files (default: ./Sources/CasaZurigol10n/Resources)",
     )
 
     # Parse arguments
     args = parser.parse_args()
+
+    if not args.auth_key:
+        raise ValueError(
+            "DeepL authentication key is required. Provide it via --auth-key or DEEPL_AUTH_KEY environment variable"
+        )
+
+    if not args.input_files:
+        raise ValueError(
+            "Input files are required. Provide them via --input-files or INPUT_FILES environment variable"
+        )
+
+    if not args.target_langs:
+        raise ValueError(
+            "Target languages are required. Provide them via --target-langs or TARGET_LANGS environment variable"
+        )
 
     # Create translator instance and process translations
     translator = StringsTranslator(args.auth_key, args.source_lang)
