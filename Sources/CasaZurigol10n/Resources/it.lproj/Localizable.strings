@@ -1,6 +1,6 @@
-"location_title_recycling" = "Riciclaggio";
-"location_title_park" = "Parco";
-"location_title_parking" = "Parcheggio";
+"recycling" = "Riciclaggio";
+"park" = "Parco";
+"parking" = "Parcheggio";
 "app_title" = "CasaZurigo";
 "done" = "Fatto";
 "search" = "Ricerca";

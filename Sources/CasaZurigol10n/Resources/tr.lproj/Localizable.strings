@@ -1,6 +1,6 @@
-"location_title_recycling" = "Geri Dönüşüm";
-"location_title_park" = "Park";
-"location_title_parking" = "Otopark";
+"recycling" = "Geri Dönüşüm";
+"park" = "Park";
+"parking" = "Otopark";
 "app_title" = "CasaZurigo";
 "done" = "Bitti";
 "search" = "Arama";
