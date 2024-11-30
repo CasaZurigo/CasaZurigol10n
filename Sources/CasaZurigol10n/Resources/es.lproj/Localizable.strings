@@ -184,3 +184,4 @@
 "location_type_title" = "Tipo de ubicación";
 "location_type_description" = "Tipo de lugares para mostrar cerca";
 "nearby_location_type_title" = "Tipo de ubicación cercana";
+"show_all" = "Mostrar todo";

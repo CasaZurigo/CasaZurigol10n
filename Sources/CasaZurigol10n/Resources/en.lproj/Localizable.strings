@@ -28,6 +28,7 @@
 "ascending" = "Ascending";
 "descending" = "Descending";
 "language" = "Language";
+"show_all" = "Show All";
 "location_type_title" = "Location Type";
 "location_type_description" = "Type of locations to show nearby";
 "nearby_location_type_title" = "Nearby Location Type";

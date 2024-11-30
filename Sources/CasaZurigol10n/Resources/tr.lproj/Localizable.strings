@@ -184,3 +184,4 @@
 "location_type_title" = "Konum Türü";
 "location_type_description" = "Yakınlarda gösterilecek konumların türü";
 "nearby_location_type_title" = "Yakın Konum Türü";
+"show_all" = "Tümünü Göster";

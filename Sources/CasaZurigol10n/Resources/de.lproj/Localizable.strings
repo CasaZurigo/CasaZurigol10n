@@ -186,3 +186,4 @@ Energiesparlampe, LED, Leuchtstoffröhre";
 "location_type_title" = "Standort Typ";
 "location_type_description" = "Typ der zu zeigenden Orte in der Nähe";
 "nearby_location_type_title" = "Standorttyp in der Nähe";
+"show_all" = "Alle anzeigen";
