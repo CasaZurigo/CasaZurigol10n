@@ -179,3 +179,6 @@
 "TOMORROW_ETRAM_RECYCLING_NOTIFICATION_BODY" = "Tomorrow the etram is on the way!";
 "open_nearby_locations_intent_title" = "Show nearby public locations";
 "open_nearby_locations_intent_description" = "Opens the app and shows the nearby locations on a Map.";
+"paywall_subtitle" = "Gain access to all public locations (ATMs, postal letter boxes, vending machines etc.) and exclusive iOS Widgets. Join our community and make navigating Zurich a breeze!";
+"paywall_title" = "Use all functions with CasaZurigo Pro now";
+"paywall_full_access_for_just" = "Full access for just";

@@ -179,3 +179,6 @@ Energiesparlampe, LED, Leuchtstoffröhre";
 "glass" = "Glas";
 "spring" = "Brunnen";
 "onboarding_map_description" = "Entdecken Sie eine Vielzahl von bequemen öffentlichen Orten, die von CasaZurigo unterstützt werden:\n- Parks\n- Brunnen\n- Öffentliche Toiletten\n- Parkhäuser\n- Und mehr in Kürze...";
+"paywall_subtitle" = "Erhalten Sie Zugang zu allen öffentlichen Orten (Geldautomaten, Briefkästen, Automaten usw.) und exklusiven iOS Widgets. Werden Sie Teil unserer Community und machen Sie das Navigieren in Zürich zum Kinderspiel!";
+"paywall_title" = "Jetzt alle Funktionen mit CasaZurigo Pro nutzen";
+"paywall_full_access_for_just" = "Voller Zugang für nur";

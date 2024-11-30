@@ -177,3 +177,6 @@
 "glass" = "Verre";
 "spring" = "Fontaine";
 "onboarding_map_description" = "Découvrez une variété de lieux publics pratiques soutenus par CasaZurigo:\N- Parcs\N- Fontaines\N- Toilettes publiques\N- Garages de stationnement\N- Plus à venir...";
+"paywall_subtitle" = "Accédez à tous les lieux publics (distributeurs de billets, boîtes aux lettres, distributeurs automatiques, etc.) et à des widgets iOS exclusifs. Rejoignez notre communauté et faites de la navigation à Zurich un jeu d'enfant!";
+"paywall_title" = "Utilisez toutes les fonctions de CasaZurigo Pro maintenant";
+"paywall_full_access_for_just" = "Accès complet pour seulement";
