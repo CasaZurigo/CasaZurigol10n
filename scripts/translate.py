@@ -5,6 +5,7 @@ from pathlib import Path
 import argparse
 from dotenv import load_dotenv
 import os
+from strings_handler import StringsHandler
 
 load_dotenv()
 
@@ -13,25 +14,6 @@ class StringsTranslator:
     def __init__(self, auth_key, source_lang):
         self.translator = DeeplTranslator(api_key=auth_key, source=source_lang.lower())
         self.cache = {}
-
-    def parse_strings_file(self, file_path):
-        translations = {}
-        try:
-            with open(file_path, "r", encoding="utf-8") as f:
-                content = f.read()
-                matches = re.findall(r'"([^"]+)"\s*=\s*"([^"]+)";', content)
-                for key, value in matches:
-                    translations[key] = value
-        except FileNotFoundError as e:
-            print(f"Error reading file '{file_path}': {str(e)}")
-            pass
-        return translations
-
-    def create_strings_file(self, translations, output_path):
-        Path(output_path).parent.mkdir(parents=True, exist_ok=True)
-        with open(output_path, "w", encoding="utf-8") as f:
-            for key, value in translations.items():
-                f.write(f'"{key}" = "{value}";\n')
 
     def translate_strings(
         self, source_translations, target_translations, target_language
@@ -70,7 +52,7 @@ class StringsTranslator:
         self, input_files, target_languages, output_dir="translations"
     ):
         for input_file in input_files:
-            source_translations = self.parse_strings_file(input_file)
+            source_translations = StringsHandler.parse_strings_file(input_file)
             totalStrings = len(source_translations)
             totalChars = sum(len(value) for value in source_translations.values())
 
@@ -89,7 +71,7 @@ class StringsTranslator:
                 output_file = Path(output_dir, f"{lang}.lproj") / input_filename
 
                 # Check if target file exists and parse it
-                target_translations = self.parse_strings_file(output_file)
+                target_translations = StringsHandler.parse_strings_file(output_file)
 
                 # Translate only missing strings
                 translated = self.translate_strings(
@@ -97,7 +79,7 @@ class StringsTranslator:
                 )
 
                 # Create or update the target file
-                self.create_strings_file(translated, output_file)
+                StringsHandler.create_strings_file(translated, output_file)
                 print(f"Created/Updated {output_file}")
 
 
