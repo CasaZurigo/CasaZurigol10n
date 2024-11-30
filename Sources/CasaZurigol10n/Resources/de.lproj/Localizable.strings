@@ -183,3 +183,6 @@ Energiesparlampe, LED, Leuchtstoffröhre";
 "paywall_title" = "Jetzt alle Funktionen mit CasaZurigo Pro nutzen";
 "paywall_full_access_for_just" = "Voller Zugang für nur";
 "all" = "Alle";
+"location_type_title" = "Standort Typ";
+"location_type_description" = "Typ der zu zeigenden Orte in der Nähe";
+"nearby_location_type_title" = "Standorttyp in der Nähe";

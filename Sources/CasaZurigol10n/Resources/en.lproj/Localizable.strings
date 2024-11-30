@@ -28,6 +28,9 @@
 "ascending" = "Ascending";
 "descending" = "Descending";
 "language" = "Language";
+"location_type_title" = "Location Type";
+"location_type_description" = "Type of locations to show nearby";
+"nearby_location_type_title" = "Nearby Location Type";
 "no_results_available" = "No results available";
 "no_results_available_filter_description" = "Adjust filters to see more results.";
 "no_access_to_location_granted" = "No access to location granted";

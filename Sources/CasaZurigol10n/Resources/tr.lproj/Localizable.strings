@@ -181,3 +181,6 @@
 "paywall_title" = "CasaZurigo Pro ile tüm fonksiyonları şimdi kullanın";
 "paywall_full_access_for_just" = "Sadece tam erişim";
 "all" = "Tümü";
+"location_type_title" = "Konum Türü";
+"location_type_description" = "Yakınlarda gösterilecek konumların türü";
+"nearby_location_type_title" = "Yakın Konum Türü";

@@ -181,3 +181,6 @@
 "paywall_title" = "Utilizar todas as funções com CasaZurigo Pro agora";
 "paywall_full_access_for_just" = "Acesso total por apenas";
 "all" = "Todos";
+"location_type_title" = "Tipo de localização";
+"location_type_description" = "Tipo de locais a mostrar nas proximidades";
+"nearby_location_type_title" = "Tipo de localização próxima";
