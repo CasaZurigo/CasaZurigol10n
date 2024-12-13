@@ -44,9 +44,13 @@ public class CasaZurigol10n {}
 
 extension CasaZurigol10n {
 	private enum Language {
-		case de
-		case en
-		case fr
+        case de
+        case fr
+        case en
+        case it
+        case es
+        case ptPt
+        case tr
 
 		init(code: String, region: String) {
 			switch code.lowercased() {
@@ -54,6 +58,14 @@ extension CasaZurigol10n {
 				self = .de
 			case "fr":
 				self = .fr
+            case "it":
+                self = .it
+            case "es":
+                self = .es
+            case "pt-PT":
+                self = .ptPt
+            case "tr":
+                self = .tr
 			default:
 				self = .en
 			}
@@ -65,7 +77,10 @@ extension CasaZurigol10n {
 		case fr
 		case en
 		case it
-		
+        case es
+        case ptPt
+        case tr
+
 		public var rawValue: String {
 			switch self {
 			case .de:
@@ -76,7 +91,13 @@ extension CasaZurigol10n {
 				return "en"
 			case .it:
 				return "it"
-			}
+            case .es:
+                return "es"
+            case .ptPt:
+                return "pt-PT"
+            case .tr:
+                return "tr"
+            }
 		}
 	}
 
@@ -95,6 +116,14 @@ extension CasaZurigol10n {
 			return .en
 		case .fr:
 			return .fr
+        case .it:
+            return .it
+        case .es:
+            return .es
+        case .ptPt:
+            return .ptPt
+        case .tr:
+            return .tr
 		}
 	}
 }
