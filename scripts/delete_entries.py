@@ -3,39 +3,61 @@ from pathlib import Path
 import argparse
 from dotenv import load_dotenv
 import os
-from strings_handler import StringsHandler
+from file_handlers import FileHandlerFactory
+from file_handlers import JsonFileHandler
+from file_handlers import StringsFileHandler
 
 load_dotenv()
 
-class StringsEditor(StringsHandler):
+class StringsEditor:
+    def __init__(self):
+        self.strings_handler = StringsFileHandler()
+        self.json_handler = JsonFileHandler()
+
     def delete_entry(self, file_path, key_to_delete):
-        if not Path(file_path).exists():
-            print(f"File not found: {file_path}")
-            return False
-        
-        translations = StringsHandler.parse_strings_file(file_path)
-        if key_to_delete in translations:
-            del translations[key_to_delete]
-            StringsHandler.create_strings_file(translations, file_path)
-            return True
-        return False
+        """Delete entry from both .strings and .json files"""
+        strings_path = Path(file_path)
+        json_path = strings_path.with_suffix('.json')
+        key_to_delete = key_to_delete.lower()
+        success = False
+
+        # Delete from .strings file
+        if strings_path.exists() and strings_path.is_file():
+            translations = self.strings_handler.parse_file(strings_path)
+            if key_to_delete in translations:
+                del translations[key_to_delete]
+                self.strings_handler.create_file(translations, strings_path)
+                success = True
+                print(f"Deleted key '{key_to_delete}' from {strings_path}")
+
+        # Delete from .json file
+        if json_path.exists() and json_path.is_file():
+            translations = self.json_handler.parse_file(json_path)
+            if key_to_delete in translations:
+                del translations[key_to_delete]
+                self.json_handler.create_file(translations, json_path)
+                success = True
+                print(f"Deleted key '{key_to_delete}' from {json_path}")
+
+        if not success:
+            print(f"Key '{key_to_delete}' not found in {strings_path} or {json_path}")
+
+        return success
 
     def delete_entry_from_files(self, input_files, target_languages, output_dir, key_to_delete):
         deletions_count = 0
-        
+
         # Delete from input files
         for input_file in input_files:
             if self.delete_entry(input_file, key_to_delete):
-                print(f"Deleted key '{key_to_delete}' from {input_file}")
                 deletions_count += 1
 
-        # Delete from output files
+        # Delete from output files for each target language
         for lang in target_languages:
             for input_file in input_files:
-                input_filename = Path(input_file).name
-                output_file = Path(output_dir, f"{lang}.lproj") / input_filename
-                if self.delete_entry(output_file, key_to_delete):
-                    print(f"Deleted key '{key_to_delete}' from {output_file}")
+                input_stem = Path(input_file).stem
+                strings_output = Path(output_dir, f"{lang}.lproj") / f"{input_stem}.strings"
+                if self.delete_entry(strings_output, key_to_delete):
                     deletions_count += 1
 
         return deletions_count

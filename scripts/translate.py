@@ -5,7 +5,9 @@ from pathlib import Path
 import argparse
 from dotenv import load_dotenv
 import os
-from strings_handler import StringsHandler
+from file_handlers import FileHandlerFactory
+from file_handlers import StringsFileHandler
+from file_handlers import JsonFileHandler
 
 load_dotenv()
 
@@ -14,16 +16,20 @@ class StringsTranslator:
     def __init__(self, auth_key, source_lang):
         self.translator = DeeplTranslator(api_key=auth_key, source=source_lang.lower())
         self.cache = {}
+        self.strings_handler = StringsFileHandler()
+        self.json_handler = JsonFileHandler()
 
     def translate_strings(
         self, source_translations, target_translations, target_language
     ):
         translated = target_translations.copy()
+        source_translations = {k.lower(): v for k, v in source_translations.items()}
         missing_translations = {
-            key: value
+            key.lower(): value
             for key, value in source_translations.items()
-            if key not in target_translations
+            if key.lower() not in {k.lower() for k in target_translations.keys()}
         }
+
         if missing_translations:
             print(
                 f"Translating {len(missing_translations)} missing strings to {target_language}..."
@@ -52,7 +58,12 @@ class StringsTranslator:
         self, input_files, target_languages, output_dir="translations"
     ):
         for input_file in input_files:
-            source_translations = StringsHandler.parse_strings_file(input_file)
+            handler = FileHandlerFactory.get_handler(input_file);
+            source_translations = handler.parse_file(input_file)
+
+            input_filename = Path(input_file).name
+            input_stem = Path(input_file).stem
+
             totalStrings = len(source_translations)
             totalChars = sum(len(value) for value in source_translations.values())
 
@@ -68,19 +79,33 @@ class StringsTranslator:
 
             for lang in target_languages:
                 print(f"\nProcessing {lang} for {input_filename}...")
-                output_file = Path(output_dir, f"{lang}.lproj") / input_filename
 
-                # Check if target file exists and parse it
-                target_translations = StringsHandler.parse_strings_file(output_file)
+                # Determine output file extension (same as input)
+                strings_output_file = Path(output_dir, f"{lang}.lproj") / f"{input_stem}.strings"
+                json_output_file = Path(output_dir, f"{lang}.lproj") / f"{input_stem}.json"
+
+                # Get handler for the output file (same as input handler)
+
+                existing_strings_translations = {}
+                existing_json_translations = {}
+
+                if strings_output_file.exists():
+                    existing_strings_translations = self.strings_handler.parse_file(strings_output_file)
+                if json_output_file.exists():
+                    existing_json_translations = self.json_handler.parse_file(json_output_file)
+                
+                existing_translations = {**existing_json_translations, **existing_strings_translations}
 
                 # Translate only missing strings
                 translated = self.translate_strings(
-                    source_translations, target_translations, lang
+                    source_translations, existing_translations, lang
                 )
 
                 # Create or update the target file
-                StringsHandler.create_strings_file(translated, output_file)
-                print(f"Created/Updated {output_file}")
+                self.strings_handler.create_file(translated, strings_output_file)
+                self.json_handler.create_file(translated, json_output_file)
+                print(f"Created/Updated {strings_output_file}")
+                print(f"Created/Updated {json_output_file}")
 
 
 # Usage
@@ -109,7 +134,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--target-langs",
         nargs="+",
-        default=os.getenv("TARGET_LANG", "fr,it,es,pt-PT,tr,de").split(","),
+        default=os.getenv("TARGET_LANG", "fr,it,es,pt-PT,tr,de,en").split(","),
         help="List of target language codes (e.g., fr it de)",
     )
     parser.add_argument(
