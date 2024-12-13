@@ -83,9 +83,7 @@
 "onboarding_welcome_title" = "Benvenuti a CasaZurigo";
 "onboarding_zip_code_description" = "Selezionate il vostro codice di avviamento postale per ottenere informazioni locali come aggiornamenti meteo, orari di riciclaggio ed eventi nelle vicinanze.";
 "onboarding_zip_code_title" = "Selezione del codice postale";
-"open_nearby_location_intent_description" = "Apre l'applicazione e mostra la %@ più vicina sulla mappa.";
-"open_nearby_location_intent_title" = "Mostra le %@ vicine";
-"open_nearby_locations_intent_description" = "Apre l'applicazione e mostra le località vicine su una mappa.";
+"show_nearby_locations_description" = "Apre l'applicazione e mostra le località vicine su una mappa.";
 "organic_recycling_notification_title" = "🥬 CasaZurigo";
 "paper_recycling_notification_title" = "🗞 CasaZurigo";
 "park" = "Parco";

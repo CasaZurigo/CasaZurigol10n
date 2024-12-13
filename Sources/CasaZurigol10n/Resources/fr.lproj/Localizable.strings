@@ -83,9 +83,7 @@
 "onboarding_welcome_title" = "Bienvenue à CasaZurigo";
 "onboarding_zip_code_description" = "Sélectionnez votre code postal pour obtenir des informations locales telles que les mises à jour météorologiques, les horaires de recyclage et les événements à proximité.";
 "onboarding_zip_code_title" = "Sélection du code postal";
-"open_nearby_location_intent_description" = "Ouvre l'application et affiche le %@ le plus proche sur la carte.";
-"open_nearby_location_intent_title" = "Afficher les %@ à proximité";
-"open_nearby_locations_intent_description" = "Ouvre l'application et affiche les lieux à proximité sur une carte.";
+"show_nearby_locations_description" = "Ouvre l'application et affiche les lieux à proximité sur une carte.";
 "organic_recycling_notification_title" = "🥬 CasaZurigo";
 "paper_recycling_notification_title" = "🗞 CasaZurigo";
 "park" = "Parc";

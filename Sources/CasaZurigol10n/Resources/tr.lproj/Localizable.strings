@@ -83,9 +83,7 @@
 "onboarding_welcome_title" = "CasaZurigo'ya Hoş Geldiniz";
 "onboarding_zip_code_description" = "Hava durumu güncellemeleri, geri dönüşüm programları ve yakındaki etkinlikler gibi yerel bilgileri almak için Posta Kodunuzu seçin.";
 "onboarding_zip_code_title" = "Posta Kodu Seçimi";
-"open_nearby_location_intent_description" = "Uygulamayı açar ve Harita üzerinde en yakın %@'yı gösterir.";
-"open_nearby_location_intent_title" = "Yakındaki %@'yı göster";
-"open_nearby_locations_intent_description" = "Uygulamayı açar ve yakındaki konumları bir Harita üzerinde gösterir.";
+"show_nearby_locations_description" = "Uygulamayı açar ve yakındaki konumları bir Harita üzerinde gösterir.";
 "organic_recycling_notification_title" = "🥬 CasaZurigo";
 "paper_recycling_notification_title" = "🗞 CasaZurigo";
 "park" = "Park";

@@ -22,6 +22,7 @@
 "feedback_support_leave_review_title" = "Leave a Review";
 "feedback_support_title" = "Feedback & Support";
 "filter" = "Filter";
+"get_nearest_location" = "Get nearest location";
 "glass" = "Glass";
 "home_navigation_title" = "Zurich";
 "home_nearby_locations_filter_title" = "Filter Nearby Locations";
@@ -83,9 +84,7 @@
 "onboarding_welcome_title" = "Welcome to CasaZurigo";
 "onboarding_zip_code_description" = "Select your ZIP Code to get localized information such as weather updates, recycling schedules, and nearby events.";
 "onboarding_zip_code_title" = "ZIP Code Selection";
-"open_nearby_location_intent_description" = "Opens the app and shows the nearest %@ on the Map.";
-"open_nearby_location_intent_title" = "Show nearby %@";
-"open_nearby_locations_intent_description" = "Opens the app and shows the nearby locations on a Map.";
+"show_nearby_locations_description" = "Opens the app and shows the nearby locations on a Map.";
 "organic_recycling_notification_title" = "🥬 CasaZurigo";
 "paper_recycling_notification_title" = "🗞 CasaZurigo";
 "park" = "Park";
