@@ -11,7 +11,6 @@ from file_handlers import JsonFileHandler
 
 load_dotenv()
 
-
 class StringsTranslator:
     def __init__(self, auth_key, source_lang):
         self.translator = DeeplTranslator(api_key=auth_key, source=source_lang.lower())
@@ -19,16 +18,27 @@ class StringsTranslator:
         self.strings_handler = StringsFileHandler()
         self.json_handler = JsonFileHandler()
 
+    def is_info_plist(self, file_path):
+        return "InfoPlist" in Path(file_path).stem
+
     def translate_strings(
-        self, source_translations, target_translations, target_language
+        self, source_translations, target_translations, target_language, should_serialize_keys
     ):
         translated = target_translations.copy()
-        source_translations = {k.lower(): v for k, v in source_translations.items()}
-        missing_translations = {
-            key.lower(): value
-            for key, value in source_translations.items()
-            if key.lower() not in {k.lower() for k in target_translations.keys()}
-        }
+        
+        if should_serialize_keys:
+            source_translations = {k.lower(): v for k, v in source_translations.items()}
+            missing_translations = {
+                key.lower(): value
+                for key, value in source_translations.items()
+                if key.lower() not in {k.lower() for k in target_translations.keys()}
+            }
+        else:
+            missing_translations = {
+                key: value
+                for key, value in source_translations.items()
+                if key not in target_translations
+            }
 
         if missing_translations:
             print(
@@ -58,7 +68,8 @@ class StringsTranslator:
         self, input_files, target_languages, output_dir="translations"
     ):
         for input_file in input_files:
-            handler = FileHandlerFactory.get_handler(input_file);
+            is_infoplist = self.is_info_plist(input_file)
+            handler = FileHandlerFactory.get_handler(input_file)
             source_translations = handler.parse_file(input_file)
 
             input_filename = Path(input_file).name
@@ -96,9 +107,11 @@ class StringsTranslator:
                 
                 existing_translations = {**existing_json_translations, **existing_strings_translations}
 
+                should_serialize_keys = not (is_infoplist)
+                
                 # Translate only missing strings
                 translated = self.translate_strings(
-                    source_translations, existing_translations, lang
+                    source_translations, existing_translations, lang, should_serialize_keys
                 )
 
                 # Create or update the target file

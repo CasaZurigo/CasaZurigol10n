@@ -26,11 +26,9 @@ class StringsFileHandler(BaseFileHandler):
                 translations = {key: value for key, value in matches}
         except FileNotFoundError as e:
             print(f"Error reading file '{file_path}': {str(e)}")
-        return self._lowercase_keys(translations)
+        return translations
 
     def create_file(self, translations, output_path):
-        translations = self._lowercase_keys(translations)
-
         Path(output_path).parent.mkdir(parents=True, exist_ok=True)
         with open(output_path, "w", encoding="utf-8") as f:
             for key, value in sorted(translations.items()):
@@ -44,10 +42,9 @@ class JsonFileHandler(BaseFileHandler):
                 translations = json.load(f)
         except FileNotFoundError as e:
             print(f"Error reading file '{file_path}': {str(e)}")
-        return self._lowercase_keys(translations)
+        return translations
 
     def create_file(self, translations, output_path):
-        translations = self._lowercase_keys(translations)
         Path(output_path).parent.mkdir(parents=True, exist_ok=True)
         with open(output_path, "w", encoding="utf-8") as f:
             json.dump(dict(sorted(translations.items())), f, ensure_ascii=False, indent=2)
