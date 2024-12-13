@@ -22,6 +22,8 @@
 "feedback_support_leave_review_title" = "Yorum Bırakın";
 "feedback_support_title" = "Geri Bildirim ve Destek";
 "filter" = "Filtre";
+"get_nearest_location" = "En yakın konumu bulun";
+"get_nearest_location_description" = "Geçerli konumunuza göre Zürih'teki en yakın konumu bulun.";
 "glass" = "Cam";
 "home_navigation_title" = "Zürih";
 "home_nearby_locations_filter_title" = "Yakındaki Konumları Filtrele";
@@ -83,7 +85,6 @@
 "onboarding_welcome_title" = "CasaZurigo'ya Hoş Geldiniz";
 "onboarding_zip_code_description" = "Hava durumu güncellemeleri, geri dönüşüm programları ve yakındaki etkinlikler gibi yerel bilgileri almak için Posta Kodunuzu seçin.";
 "onboarding_zip_code_title" = "Posta Kodu Seçimi";
-"show_nearby_locations_description" = "Uygulamayı açar ve yakındaki konumları bir Harita üzerinde gösterir.";
 "organic_recycling_notification_title" = "🥬 CasaZurigo";
 "paper_recycling_notification_title" = "🗞 CasaZurigo";
 "park" = "Park";
@@ -152,6 +153,7 @@
 "shortcuts_show_nearest_public_location" = "CasaZurigo konumundaki en yakın halka açık yerleri göster";
 "show_all" = "Tümünü Göster";
 "show_nearby_locations" = "Yakındaki yerleri göster";
+"show_nearby_locations_description" = "Uygulamayı açar ve yakındaki konumları bir Harita üzerinde gösterir.";
 "sort_by" = "Göre sırala";
 "spring" = "Çeşme";
 "subscription_card_button_title" = "CasaZurigo Pro'yu edinin";

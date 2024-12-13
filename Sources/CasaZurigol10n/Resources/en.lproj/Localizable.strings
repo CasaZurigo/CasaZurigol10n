@@ -23,6 +23,7 @@
 "feedback_support_title" = "Feedback & Support";
 "filter" = "Filter";
 "get_nearest_location" = "Get nearest location";
+"get_nearest_location_description" = "Get the nearest location in Zürich based on your current location.";
 "glass" = "Glass";
 "home_navigation_title" = "Zurich";
 "home_nearby_locations_filter_title" = "Filter Nearby Locations";
@@ -84,7 +85,6 @@
 "onboarding_welcome_title" = "Welcome to CasaZurigo";
 "onboarding_zip_code_description" = "Select your ZIP Code to get localized information such as weather updates, recycling schedules, and nearby events.";
 "onboarding_zip_code_title" = "ZIP Code Selection";
-"show_nearby_locations_description" = "Opens the app and shows the nearby locations on a Map.";
 "organic_recycling_notification_title" = "🥬 CasaZurigo";
 "paper_recycling_notification_title" = "🗞 CasaZurigo";
 "park" = "Park";
@@ -153,6 +153,7 @@
 "shortcuts_show_nearest_public_location" = "Show me the nearest public location in CasaZurigo";
 "show_all" = "Show All";
 "show_nearby_locations" = "Show nearby locations";
+"show_nearby_locations_description" = "Opens the app and shows the nearby locations on a Map.";
 "sort_by" = "Sort by";
 "spring" = "Fountain";
 "subscription_card_button_title" = "Get CasaZurigo Pro";

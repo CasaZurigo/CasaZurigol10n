@@ -22,6 +22,8 @@
 "feedback_support_leave_review_title" = "Deja tu opinión";
 "feedback_support_title" = "Comentarios y asistencia";
 "filter" = "Filtro";
+"get_nearest_location" = "Obtener la ubicación más cercana";
+"get_nearest_location_description" = "Obtenga la ubicación más cercana en Zúrich en función de su ubicación actual.";
 "glass" = "Vidrio";
 "home_navigation_title" = "Zúrich";
 "home_nearby_locations_filter_title" = "Filtrar localidades cercanas";
@@ -83,7 +85,6 @@
 "onboarding_welcome_title" = "Bienvenido a CasaZurigo";
 "onboarding_zip_code_description" = "Seleccione su código postal para obtener información localizada, como información meteorológica actualizada, horarios de reciclaje y eventos cercanos.";
 "onboarding_zip_code_title" = "Selección del código postal";
-"show_nearby_locations_description" = "Abre la aplicación y muestra las ubicaciones cercanas en un Mapa.";
 "organic_recycling_notification_title" = "🥬 CasaZurigo";
 "paper_recycling_notification_title" = "🗞 CasaZurigo";
 "park" = "Parque";
@@ -152,6 +153,7 @@
 "shortcuts_show_nearest_public_location" = "Muéstrame la ubicación pública más cercana en CasaZurigo";
 "show_all" = "Mostrar todo";
 "show_nearby_locations" = "Mostrar lugares cercanos";
+"show_nearby_locations_description" = "Abre la aplicación y muestra las ubicaciones cercanas en un Mapa.";
 "sort_by" = "Ordenar por";
 "spring" = "Fuente";
 "subscription_card_button_title" = "Consigue CasaZurigo Pro";
