@@ -146,6 +146,7 @@
 "shortcuts_see_nearest_public_location" = "See nearest public location in CasaZurigo";
 "shortcuts_show_current_nearest_location" = "Show my current nearest location in CasaZurigo";
 "shortcuts_show_current_nearest_public_location" = "Show my current nearest public location in CasaZurigo";
+"shortcuts_show_me_nearby_locations" = "Show me, nearby locations in CasaZurigo";
 "shortcuts_show_me_nearby_public_locations" = "Show me, nearby public locations in CasaZurigo";
 "shortcuts_show_nearby_locations" = "Show nearby locations in CasaZurigo";
 "shortcuts_show_nearby_public_locations" = "Show nearby public locations in CasaZurigo";

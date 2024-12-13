@@ -148,6 +148,7 @@ Energiesparlampe, LED, Leuchtstoffröhre";
 "shortcuts_see_nearest_public_location" = "Siehe nächster öffentlicher Standort in CasaZurigo";
 "shortcuts_show_current_nearest_location" = "Meinen aktuell nächstgelegenen Standort in CasaZurigo anzeigen";
 "shortcuts_show_current_nearest_public_location" = "Zeige meinen aktuell nächstgelegenen öffentlichen Standort in CasaZurigo";
+"shortcuts_show_me_nearby_locations" = "Zeige mir, welche Orte in der Nähe von CasaZurigo liegen";
 "shortcuts_show_me_nearby_public_locations" = "Zeige mir die nahegelegenen öffentlichen Orte in CasaZurigo";
 "shortcuts_show_nearby_locations" = "Nahegelegene Orte in CasaZurigo anzeigen";
 "shortcuts_show_nearby_public_locations" = "Nahegelegene öffentliche Orte in CasaZurigo anzeigen";
