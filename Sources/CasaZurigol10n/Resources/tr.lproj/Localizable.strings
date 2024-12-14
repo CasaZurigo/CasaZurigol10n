@@ -161,6 +161,8 @@
 "show_all" = "Tümünü Göster";
 "show_nearby_locations" = "Yakındaki yerleri göster";
 "show_nearby_locations_description" = "Uygulamayı açar ve yakındaki konumları bir Harita üzerinde gösterir.";
+"show_nearest_location" = "En yakın konumu göster";
+"show_nearest_location_description" = "Geçerli konumunuza göre Zürih'teki en yakın konumu gösterin.";
 "sort_by" = "Göre sırala";
 "spring" = "Çeşme";
 "subscription_card_button_title" = "CasaZurigo Pro'yu edinin";

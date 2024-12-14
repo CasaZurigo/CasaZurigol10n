@@ -162,6 +162,8 @@
   "show_all": "Tout afficher",
   "show_nearby_locations": "Afficher les lieux à proximité",
   "show_nearby_locations_description": "Ouvre l'application et affiche les lieux à proximité sur une carte.",
+  "show_nearest_location": "Afficher l'emplacement le plus proche",
+  "show_nearest_location_description": "Afficher le lieu le plus proche de Zürich en fonction de votre position actuelle.",
   "sort_by": "Trier par",
   "spring": "Fontaine",
   "subscription_card_button_title": "Obtenir CasaZurigo Pro",

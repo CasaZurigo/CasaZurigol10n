@@ -162,6 +162,8 @@
   "show_all": "Mostra tutto",
   "show_nearby_locations": "Mostra le località vicine",
   "show_nearby_locations_description": "Apre l'applicazione e mostra le località vicine su una mappa.",
+  "show_nearest_location": "Mostra la posizione più vicina",
+  "show_nearest_location_description": "Mostra la posizione più vicina a Zurigo in base alla vostra posizione attuale.",
   "sort_by": "Ordina per",
   "spring": "Fontana",
   "subscription_card_button_title": "Ottenere CasaZurigo Pro",

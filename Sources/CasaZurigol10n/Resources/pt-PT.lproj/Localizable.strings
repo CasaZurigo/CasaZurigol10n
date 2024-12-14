@@ -161,6 +161,8 @@
 "show_all" = "Mostrar tudo";
 "show_nearby_locations" = "Mostrar locais próximos";
 "show_nearby_locations_description" = "Abre a aplicação e mostra as localizações próximas num mapa.";
+"show_nearest_location" = "Mostrar a localização mais próxima";
+"show_nearest_location_description" = "Mostrar a localização mais próxima em Zurique com base na sua localização atual.";
 "sort_by" = "Ordenar por";
 "spring" = "Fonte";
 "subscription_card_button_title" = "Obter CasaZurigo Pro";

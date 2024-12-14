@@ -163,6 +163,8 @@ Energiesparlampe, LED, Leuchtstoffröhre";
 "show_all" = "Alle anzeigen";
 "show_nearby_locations" = "Standorte in der Nähe anzeigen";
 "show_nearby_locations_description" = "Öffnet die App und zeigt die nahegelegenen Orte auf einer Karte an.";
+"show_nearest_location" = "Nächsten Standort anzeigen";
+"show_nearest_location_description" = "Zeigen Sie den nächstgelegenen Ort in Zürich basierend auf Ihrem aktuellen Standort.";
 "sort_by" = "Sortieren nach";
 "spring" = "Brunnen";
 "subscription_card_button_title" = "CasaZurigo Pro kaufen";

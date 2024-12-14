@@ -162,6 +162,8 @@
   "show_all": "Mostrar todo",
   "show_nearby_locations": "Mostrar lugares cercanos",
   "show_nearby_locations_description": "Abre la aplicación y muestra las ubicaciones cercanas en un Mapa.",
+  "show_nearest_location": "Mostrar la ubicación más cercana",
+  "show_nearest_location_description": "Mostrar la ubicación más cercana en Zúrich en función de su ubicación actual.",
   "sort_by": "Ordenar por",
   "spring": "Fuente",
   "subscription_card_button_title": "Consigue CasaZurigo Pro",
