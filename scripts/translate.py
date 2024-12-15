@@ -20,6 +20,8 @@ class StringsTranslator:
 
     def is_info_plist(self, file_path):
         return "InfoPlist" in Path(file_path).stem
+    def is_app_shortcuts(self, file_path):
+        return "AppShortcuts" in Path(file_path).stem
 
     def translate_strings(
         self, source_translations, target_translations, target_language, should_serialize_keys
@@ -69,6 +71,7 @@ class StringsTranslator:
     ):
         for input_file in input_files:
             is_infoplist = self.is_info_plist(input_file)
+            is_appShortcuts = self.is_app_shortcuts(input_file)
             handler = FileHandlerFactory.get_handler(input_file)
             source_translations = handler.parse_file(input_file)
 
@@ -107,7 +110,7 @@ class StringsTranslator:
                 
                 existing_translations = {**existing_json_translations, **existing_strings_translations}
 
-                should_serialize_keys = not (is_infoplist)
+                should_serialize_keys = not (is_infoplist or is_appShortcuts)
                 
                 # Translate only missing strings
                 translated = self.translate_strings(
@@ -135,7 +138,7 @@ if __name__ == "__main__":
         nargs="+",
         default=os.getenv(
             "INPUT_FILES",
-            "./Sources/CasaZurigol10n/Resources/en.lproj/Localizable.strings,./Sources/CasaZurigol10n/Resources/en.lproj/InfoPlist.strings",
+            "./Sources/CasaZurigol10n/Resources/en.lproj/Localizable.strings,./Sources/CasaZurigol10n/Resources/en.lproj/InfoPlist.strings,./Sources/CasaZurigol10n/Resources/en.lproj/AppShortcuts.strings",
         ).split(","),
         help="Paths to source .strings files (e.g., ./Sources/CasaZurigol10n/Resources/en.lproj/Localizable.strings)",
     )
