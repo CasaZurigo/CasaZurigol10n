@@ -12,7 +12,6 @@
             "console": "integratedTerminal",
             "args": [
                 "--auth-key", "${input:deepLAuthKey}",
-                "--input-files", "./Sources/CasaZurigol10n/Resources/en.lproj/Localizable.strings",  "./Sources/CasaZurigol10n/Resources/en.lproj/InfoPlist.strings",
                 "--target-langs", "fr", "it", "es", "pt-PT", "tr", "de",
                 "--source-lang", "EN",
                 "--output-dir", "./Sources/CasaZurigol10n/Resources"

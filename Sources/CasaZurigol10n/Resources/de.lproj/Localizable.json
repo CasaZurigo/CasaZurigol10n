@@ -139,6 +139,8 @@
   "recycling_paper_event_title": "Papier",
   "recycling_waste_event_title": "Abfall",
   "search": "Suchen",
+  "settings_location_access": "Standort Zugriff",
+  "settings_push_notification_access": "Push-Benachrichtigungen Zugriff",
   "show_all": "Alle anzeigen",
   "show_nearby_locations": "Standorte in der Nähe anzeigen",
   "show_nearby_locations_description": "Öffnet die App und zeigt die nahegelegenen Orte auf einer Karte an.",

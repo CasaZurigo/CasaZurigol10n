@@ -109,6 +109,7 @@
 "recycling_cargotram_event_title" = "Cargotram";
 "recycling_etram_event_detail_allowed" = "Equipamento de escritório, computadores e acessórios, teclado, rato, armazenamento de dados, impressora, fax, fotocopiadora, modem, dispositivo de rede, tablet, telefone, electrodomésticos, caldeira, ferro de engomar, secador de cabelo, máquina de lavar louça, máquina de café, ar condicionado, fogão, frigorífico, candeeiro, liquidificador, máquina de costura, máquina de barbear eléctrica, aparelho de jogos, equipamento desportivo, candeeiro de pé, aspirador, congelador, torradeira, máquina de secar roupa, máquina de lavar roupa, cabo, aparelhos de entretenimento, ecrã, aparelho de CD e CD, aparelho de DVD e DVD, equipamento de lazer, projetor, rádio, TV e acessórios (telecomando), aparelho de vídeo/fita";
 "recycling_etram_event_detail_description" = "Os resíduos electrónicos não devem ser incluídos no lixo doméstico porque contêm metais recicláveis e metais pesados tóxicos. Graças à recolha selectiva, estas substâncias podem ser recuperadas ou eliminadas de forma ecológica.";
+"recycling_etram_event_detail_good_to_know" = "Devolver sem hesitação os aparelhos eléctricos fora de uso ao ponto de venda. O preço de compra dos aparelhos electrónicos e eléctricos inclui uma taxa de eliminação antecipada. Por conseguinte, os retalhistas são obrigados a aceitar a devolução de aparelhos do mesmo tipo que eles próprios vendem, mesmo que não compre um novo.";
 "recycling_etram_event_detail_how_to" = "Entregar os aparelhos electrónicos no E-Tram. Não são permitidos carros! O E-Tram está à sua disposição se estiver a viajar a pé, de bicicleta ou de transportes públicos. Também pode devolver os aparelhos electrónicos velhos ao ponto de venda sem qualquer hesitação. No preço de compra dos aparelhos electrónicos e eléctricos está incluída uma taxa de pré-eliminação. Os retalhistas são, portanto, obrigados a aceitar a devolução de aparelhos do mesmo tipo que distribuem, mesmo que não compre um novo.";
 "recycling_etram_event_detail_not_allowed" = "Equipamentos movidos a gasolina, como motosserras, grandes ferramentas metálicas, baterias e pilhas, resíduos";
 "recycling_etram_event_title" = "E-Tram";
@@ -137,6 +138,8 @@
 "recycling_paper_event_title" = "Papel";
 "recycling_waste_event_title" = "Resíduos";
 "search" = "Pesquisar";
+"settings_location_access" = "Acesso ao local";
+"settings_push_notification_access" = "Acesso às notificações push";
 "show_all" = "Mostrar tudo";
 "show_nearby_locations" = "Mostrar locais próximos";
 "show_nearby_locations_description" = "Abre a aplicação e mostra as localizações próximas num mapa.";

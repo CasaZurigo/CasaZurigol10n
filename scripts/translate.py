@@ -134,15 +134,6 @@ if __name__ == "__main__":
         help="DeepL API authentication key",
     )
     parser.add_argument(
-        "--input-files",
-        nargs="+",
-        default=os.getenv(
-            "INPUT_FILES",
-            "./Sources/CasaZurigol10n/Resources/en.lproj/Localizable.strings,./Sources/CasaZurigol10n/Resources/en.lproj/InfoPlist.strings,./Sources/CasaZurigol10n/Resources/en.lproj/AppShortcuts.strings",
-        ).split(","),
-        help="Paths to source .strings files (e.g., ./Sources/CasaZurigol10n/Resources/en.lproj/Localizable.strings)",
-    )
-    parser.add_argument(
         "--source-lang",
         default=os.getenv("SOURCE_LANG", "en"),
         help="Source language code (default: en)",
@@ -167,20 +158,17 @@ if __name__ == "__main__":
             "DeepL authentication key is required. Provide it via --auth-key or DEEPL_AUTH_KEY environment variable"
         )
 
-    if not args.input_files:
-        raise ValueError(
-            "Input files are required. Provide them via --input-files or INPUT_FILES environment variable"
-        )
-
     if not args.target_langs:
         raise ValueError(
             "Target languages are required. Provide them via --target-langs or TARGET_LANGS environment variable"
         )
 
+    input_files = f"./Sources/CasaZurigol10n/Resources/{args.source_lang}.lproj/Localizable.strings,./Sources/CasaZurigol10n/Resources/{args.source_lang}.lproj/InfoPlist.strings,./Sources/CasaZurigol10n/Resources/{args.source_lang}.lproj/AppShortcuts.strings".split(",")
+
     # Create translator instance and process translations
     translator = StringsTranslator(args.auth_key, args.source_lang)
     translator.translate_to_languages(
-        input_files=args.input_files,
+        input_files=input_files,
         target_languages=args.target_langs,
         output_dir=args.output_dir,
     )

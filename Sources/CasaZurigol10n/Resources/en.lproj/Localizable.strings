@@ -109,6 +109,7 @@
 "recycling_cargotram_event_title" = "Cargotram";
 "recycling_etram_event_detail_allowed" = "Office equipment, computers and accessories, keyboard, mouse, data storage, printer, fax machine, copier, modem, network device, tablet, phone, household appliances, boiler, iron, hair dryer, dishwasher, coffee machine, air conditioner, stove, refrigerator, lamp, blender, sewing machine, electric shaver, gaming device, sports equipment, floor lamp, vacuum cleaner, freezer, toaster, tumble dryer, washing machine, cable, entertainment devices, screen, CD and CD device, DVD and DVD device, leisure equipment, projector, radio, TV and accessories (remote control), video device/tape";
 "recycling_etram_event_detail_description" = "Electronic waste does not belong in household waste because it contains recyclable metals and toxic heavy metals. Thanks to separate collection, these substances can be recovered or environmentally disposed of.";
+"recycling_etram_event_detail_good_to_know" = "Return disused electrical appliances to the point of sale without hesitation. The purchase price of electronic and electrical appliances includes an advance disposal fee. Retailers are therefore obliged to take back appliances of the same type that they sell themselves - even if you do not buy a new one.";
 "recycling_etram_event_detail_how_to" = "Deliver electronic devices to the E-Tram. No cars allowed! The E-Tram is available to you if you are traveling on foot, by bike, or by public transport. You can also return old electronic devices to the point of sale without any hesitation. A pre-disposal fee is included in the purchase price of electronic and electrical devices. Retailers are therefore obliged to take back devices of the same type that they distribute, even if you don't buy a new one.";
 "recycling_etram_event_detail_not_allowed" = "Gasoline-powered equipment like chainsaw, large metal, metal tools, battery and battery, waste";
 "recycling_etram_event_title" = "E-Tram";
@@ -137,6 +138,8 @@
 "recycling_paper_event_title" = "Paper";
 "recycling_waste_event_title" = "Waste";
 "search" = "Search";
+"settings_location_access" = "Location access";
+"settings_push_notification_access" = "Push notifications access";
 "show_all" = "Show All";
 "show_nearby_locations" = "Show nearby locations";
 "show_nearby_locations_description" = "Opens the app and shows the nearby locations on a Map.";

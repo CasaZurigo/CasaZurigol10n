@@ -109,6 +109,7 @@
 "recycling_cargotram_event_title" = "Cargotram";
 "recycling_etram_event_detail_allowed" = "Equipos de oficina, ordenadores y accesorios, teclado, ratón, almacenamiento de datos, impresora, fax, fotocopiadora, módem, dispositivo de red, tableta, teléfono, electrodomésticos, caldera, plancha, secador de pelo, lavavajillas, cafetera, aire acondicionado, estufa, refrigerador, lámpara, licuadora, máquina de coser, afeitadora eléctrica, aparato de juegos, equipo deportivo, lámpara de pie, aspiradora, congelador, tostadora, secadora, lavadora, cable, aparatos de entretenimiento, pantalla, aparato de CD y CD, aparato de DVD y DVD, equipo de ocio, proyector, radio, TV y accesorios (mando a distancia), aparato de vídeo/cinta";
 "recycling_etram_event_detail_description" = "Los residuos electrónicos no pertenecen a la basura doméstica porque contienen metales reciclables y metales pesados tóxicos. Gracias a la recogida selectiva, estas sustancias pueden recuperarse o eliminarse de forma ecológica.";
+"recycling_etram_event_detail_good_to_know" = "Devuelve los aparatos eléctricos en desuso al punto de venta sin dudarlo. El precio de compra de los aparatos electrónicos y eléctricos incluye una tasa de eliminación anticipada. Por tanto, los minoristas están obligados a recuperar los aparatos del mismo tipo que ellos mismos venden, aunque usted no compre uno nuevo.";
 "recycling_etram_event_detail_how_to" = "Entregar dispositivos electrónicos en el E-Tram. ¡No se admiten coches! El E-Tram está a su disposición si viaja a pie, en bicicleta o en transporte público. También puede devolver los aparatos electrónicos viejos en el punto de venta sin dudarlo. En el precio de compra de los aparatos electrónicos y eléctricos se incluye una tasa previa a la eliminación. Por tanto, los minoristas están obligados a recuperar los aparatos del mismo tipo que distribuyen, aunque no compres uno nuevo.";
 "recycling_etram_event_detail_not_allowed" = "Equipos que funcionan con gasolina como motosierras, metales grandes, herramientas metálicas, pilas y baterías, residuos";
 "recycling_etram_event_title" = "E-Tram";
@@ -137,6 +138,8 @@
 "recycling_paper_event_title" = "Papel";
 "recycling_waste_event_title" = "Residuos";
 "search" = "Buscar en";
+"settings_location_access" = "Ubicación del acceso";
+"settings_push_notification_access" = "Acceso a notificaciones push";
 "show_all" = "Mostrar todo";
 "show_nearby_locations" = "Mostrar lugares cercanos";
 "show_nearby_locations_description" = "Abre la aplicación y muestra las ubicaciones cercanas en un Mapa.";
