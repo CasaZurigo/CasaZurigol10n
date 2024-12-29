@@ -3,7 +3,8 @@ output_dir: ${DERIVED_SOURCES_DIR}
 
 strings:
   inputs:
-    - en.lproj
+    - en.lproj/Localizable.strings
+    - en.lproj/InfoPlist.strings
   outputs:
     - templatePath: my-custom-strings-template.stencil
       params:
