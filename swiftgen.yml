@@ -1,5 +1,5 @@
 input_dir: Sources/CasaZurigol10n/Resources
-output_dir: ${DERIVED_SOURCES_DIR}
+output_dir: Sources/CasaZurigol10n/Generated
 
 strings:
   inputs:
@@ -9,5 +9,4 @@ strings:
     - templatePath: my-custom-strings-template.stencil
       params:
         publicAccess: true
-        bundle: Bundle.casaZurigol10n
       output: Localization+Generated.swift
