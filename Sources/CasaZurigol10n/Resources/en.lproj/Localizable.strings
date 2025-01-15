@@ -85,6 +85,7 @@
 "onboarding_welcome_title" = "Welcome to CasaZurigo";
 "onboarding_zip_code_description" = "Select your ZIP Code to get localized information such as weather updates, recycling schedules, and nearby events.";
 "onboarding_zip_code_title" = "ZIP Code Selection";
+"onboarding_finish_title" = "Hurray! CasaZurigo setup complete!";
 "organic_recycling_notification_title" = "🥬 CasaZurigo";
 "paper_recycling_notification_title" = "🗞 CasaZurigo";
 "park" = "Park";

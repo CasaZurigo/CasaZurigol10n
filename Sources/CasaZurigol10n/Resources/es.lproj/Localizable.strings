@@ -70,6 +70,7 @@
 "oil" = "Aceite";
 "on" = "En";
 "onboarding_area_of_interest_title" = "Establezca su área de interés";
+"onboarding_finish_title" = "¡Hurra! ¡Configuración de CasaZurigo completa!";
 "onboarding_location_permission_description" = "Necesitamos acceso a la ubicación para proporcionarle información sobre lugares públicos cercanos.";
 "onboarding_location_permission_title" = "Ubicación Permiso";
 "onboarding_location_title" = "Descubra los lugares más cercanos";

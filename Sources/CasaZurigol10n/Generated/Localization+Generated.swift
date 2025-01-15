@@ -311,6 +311,10 @@ public enum L10n {
     public static let onboardingAreaOfInterestTitle = L10n.tr("Localizable", "onboarding_area_of_interest_title", fallback: "Set Your Area of Interest")
     public static let onboardingAreaOfInterestTitle_resource = LocalizedStringResource("onboarding_area_of_interest_title", defaultValue: "Set Your Area of Interest", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let onboardingAreaOfInterestTitle_key = "onboarding_area_of_interest_title"
+    /// Hurray! CasaZurigo setup complete!
+    public static let onboardingFinishTitle = L10n.tr("Localizable", "onboarding_finish_title", fallback: "Hurray! CasaZurigo setup complete!")
+    public static let onboardingFinishTitle_resource = LocalizedStringResource("onboarding_finish_title", defaultValue: "Hurray! CasaZurigo setup complete!", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
+    public static let onboardingFinishTitle_key = "onboarding_finish_title"
     /// We require location access to provide you with information about nearby public locations.
     public static let onboardingLocationPermissionDescription = L10n.tr("Localizable", "onboarding_location_permission_description", fallback: "We require location access to provide you with information about nearby public locations.")
     public static let onboardingLocationPermissionDescription_resource = LocalizedStringResource("onboarding_location_permission_description", defaultValue: "We require location access to provide you with information about nearby public locations.", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)

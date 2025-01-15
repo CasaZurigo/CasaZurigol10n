@@ -70,6 +70,7 @@
 "oil" = "Yağ";
 "on" = "Açık";
 "onboarding_area_of_interest_title" = "İlgi Alanınızı Belirleyin";
+"onboarding_finish_title" = "Yaşasın! CasaZurigo kurulumu tamamlandı!";
 "onboarding_location_permission_description" = "Yakındaki halka açık konumlar hakkında size bilgi sağlamak için konum erişimine ihtiyacımız var.";
 "onboarding_location_permission_title" = "Konum İzni";
 "onboarding_location_title" = "Yakındaki Konumları Keşfedin";

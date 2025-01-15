@@ -70,6 +70,7 @@
 "oil" = "Huile";
 "on" = "Sur";
 "onboarding_area_of_interest_title" = "Définissez votre domaine d'intérêt";
+"onboarding_finish_title" = "Hourra ! L'installation de CasaZurigo est terminée !";
 "onboarding_location_permission_description" = "Nous avons besoin de l'accès à la localisation pour vous fournir des informations sur les lieux publics à proximité.";
 "onboarding_location_permission_title" = "Permission de localisation";
 "onboarding_location_title" = "Découvrir les lieux proches";
