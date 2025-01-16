@@ -11,9 +11,9 @@ jobs:
 
     steps:
     - name: Checkout main branch
-      uses: actions/checkout@v4
+      uses: actions/checkout@v3
       with:
-        ref: main
+        fetch-depth: 0
 
     - name: Install SwiftGen
       run: |
@@ -23,12 +23,15 @@ jobs:
       run: |
         swiftgen config run
 
-    - name: Commit and push changes
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Configure Git
       run: |
-        git config --global user.name 'github-actions[bot]'
+        git config --global user.name 'GitHub Actions Bot'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+    - name: Commit and push changes
+      run: |
         git add Sources/CasaZurigol10n/Generated
         git diff --quiet || git commit -m 'generated localization file'
         git push origin main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
