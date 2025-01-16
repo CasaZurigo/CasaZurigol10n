@@ -1,15 +1,12 @@
 #!/bin/bash
 
-# Get the directory where the script is located
-SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
-
 # Check if .env file exists
-if [ ! -f "$SCRIPT_DIR/../.env" ]; then
+if [ ! -f ".env" ]; then
     echo "Error: .env file not found!"
     exit 1
 fi
 
-source "$SCRIPT_DIR/../.env"
+source ".env"
 
 # Show usage if no arguments provided
 if [ $# -eq 0 ]; then
@@ -24,6 +21,8 @@ if [ $# -eq 0 ]; then
     echo "  $0 delete --key \"key.to.delete\"   # Delete specific key from all files"
     exit 1
 fi
+
+SCRIPT_DIR="./scripts"
 
 # Get the command (first argument)
 COMMAND=$1

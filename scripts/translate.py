@@ -11,6 +11,7 @@ from file_handlers import JsonFileHandler
 
 load_dotenv()
 
+
 class StringsTranslator:
     def __init__(self, auth_key, source_lang):
         self.translator = DeeplTranslator(api_key=auth_key, source=source_lang.lower())
@@ -20,14 +21,19 @@ class StringsTranslator:
 
     def is_info_plist(self, file_path):
         return "InfoPlist" in Path(file_path).stem
+
     def is_app_shortcuts(self, file_path):
         return "AppShortcuts" in Path(file_path).stem
 
     def translate_strings(
-        self, source_translations, target_translations, target_language, should_serialize_keys
+        self,
+        source_translations,
+        target_translations,
+        target_language,
+        should_serialize_keys,
     ):
         translated = target_translations.copy()
-        
+
         if should_serialize_keys:
             source_translations = {k.lower(): v for k, v in source_translations.items()}
             missing_translations = {
@@ -95,8 +101,12 @@ class StringsTranslator:
                 print(f"\nProcessing {lang} for {input_filename}...")
 
                 # Determine output file extension (same as input)
-                strings_output_file = Path(output_dir, f"{lang}.lproj") / f"{input_stem}.strings"
-                json_output_file = Path(output_dir, f"{lang}.lproj") / f"{input_stem}.json"
+                strings_output_file = (
+                    Path(output_dir, f"{lang}.lproj") / f"{input_stem}.strings"
+                )
+                json_output_file = (
+                    Path(output_dir, f"{lang}.lproj") / f"{input_stem}.json"
+                )
 
                 # Get handler for the output file (same as input handler)
 
@@ -104,17 +114,27 @@ class StringsTranslator:
                 existing_json_translations = {}
 
                 if strings_output_file.exists():
-                    existing_strings_translations = self.strings_handler.parse_file(strings_output_file)
+                    existing_strings_translations = self.strings_handler.parse_file(
+                        strings_output_file
+                    )
                 if json_output_file.exists():
-                    existing_json_translations = self.json_handler.parse_file(json_output_file)
-                
-                existing_translations = {**existing_json_translations, **existing_strings_translations}
+                    existing_json_translations = self.json_handler.parse_file(
+                        json_output_file
+                    )
+
+                existing_translations = {
+                    **existing_json_translations,
+                    **existing_strings_translations,
+                }
 
                 should_serialize_keys = not (is_infoplist or is_appShortcuts)
-                
+
                 # Translate only missing strings
                 translated = self.translate_strings(
-                    source_translations, existing_translations, lang, should_serialize_keys
+                    source_translations,
+                    existing_translations,
+                    lang,
+                    should_serialize_keys,
                 )
 
                 # Create or update the target file
@@ -163,7 +183,9 @@ if __name__ == "__main__":
             "Target languages are required. Provide them via --target-langs or TARGET_LANGS environment variable"
         )
 
-    input_files = f"./Sources/CasaZurigol10n/Resources/{args.source_lang}.lproj/Localizable.strings,./Sources/CasaZurigol10n/Resources/{args.source_lang}.lproj/InfoPlist.strings,./Sources/CasaZurigol10n/Resources/{args.source_lang}.lproj/AppShortcuts.strings".split(",")
+    input_files = f"./Sources/CasaZurigol10n/Resources/{args.source_lang}.lproj/Localizable.strings,./Sources/CasaZurigol10n/Resources/{args.source_lang}.lproj/InfoPlist.strings,./Sources/CasaZurigol10n/Resources/{args.source_lang}.lproj/AppShortcuts.strings".split(
+        ","
+    )
 
     # Create translator instance and process translations
     translator = StringsTranslator(args.auth_key, args.source_lang)
