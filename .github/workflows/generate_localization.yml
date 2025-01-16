@@ -1,0 +1,34 @@
+name: Generate Localization
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-localization:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout main branch
+      uses: actions/checkout@v4
+      with:
+        ref: main
+
+    - name: Install SwiftGen
+      run: |
+        brew install swiftgen
+
+    - name: Run SwiftGen
+      run: |
+        swiftgen config run
+
+    - name: Commit and push changes
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add Sources/CasaZurigol10n/Generated
+        git diff --quiet || git commit -m 'generated localization file'
+        git push origin main
