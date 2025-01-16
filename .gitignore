@@ -8,3 +8,4 @@ DerivedData/
 .netrc
 translations/
 .env
+/scripts/__pycache__/**/*
