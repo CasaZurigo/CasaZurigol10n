@@ -27,7 +27,7 @@ jobs:
 
     - name: Run SwiftGen
       run: |
-        swiftgen config run .
+        swiftgen config run
         git status
 
     - name: Configure Git
