@@ -194,3 +194,9 @@
 "weather_navigation_title" = "Weather";
 "weather_temperature_max" = "Max";
 "weather_temperature_min" = "Min";
+"paywall_title" = "More Casa.\nMore Zurigo.";
+"paywall_pro_feature_more_locations" = "More Locations";
+"paywall_pro_feature_no_ads" = "No ads";
+"paywall_pro_feature_support" = "️Support Indie";
+"paywall_pro_feature_sheet_title" = "️Only with Pro!";
+"paywall_pro_feature_sheet_description_more_locations" = "️Unlock access to all these amazing locations";
