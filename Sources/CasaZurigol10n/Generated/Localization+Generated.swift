@@ -400,13 +400,34 @@ public enum L10n {
     public static let paywallFullAccessForJust = L10n.tr("Localizable", "paywall_full_access_for_just", fallback: "Full access for just")
     public static let paywallFullAccessForJust_resource = LocalizedStringResource("paywall_full_access_for_just", defaultValue: "Full access for just", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let paywallFullAccessForJust_key = "paywall_full_access_for_just"
+    /// More Locations
+    public static let paywallProFeatureMoreLocations = L10n.tr("Localizable", "paywall_pro_feature_more_locations", fallback: "More Locations")
+    public static let paywallProFeatureMoreLocations_resource = LocalizedStringResource("paywall_pro_feature_more_locations", defaultValue: "More Locations", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
+    public static let paywallProFeatureMoreLocations_key = "paywall_pro_feature_more_locations"
+    /// No ads
+    public static let paywallProFeatureNoAds = L10n.tr("Localizable", "paywall_pro_feature_no_ads", fallback: "No ads")
+    public static let paywallProFeatureNoAds_resource = LocalizedStringResource("paywall_pro_feature_no_ads", defaultValue: "No ads", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
+    public static let paywallProFeatureNoAds_key = "paywall_pro_feature_no_ads"
+    /// ️Unlock access to all these amazing locations
+    public static let paywallProFeatureSheetDescriptionMoreLocations = L10n.tr("Localizable", "paywall_pro_feature_sheet_description_more_locations", fallback: "️Unlock access to all these amazing locations")
+    public static let paywallProFeatureSheetDescriptionMoreLocations_resource = LocalizedStringResource("paywall_pro_feature_sheet_description_more_locations", defaultValue: "️Unlock access to all these amazing locations", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
+    public static let paywallProFeatureSheetDescriptionMoreLocations_key = "paywall_pro_feature_sheet_description_more_locations"
+    /// ️Only with Pro!
+    public static let paywallProFeatureSheetTitle = L10n.tr("Localizable", "paywall_pro_feature_sheet_title", fallback: "️Only with Pro!")
+    public static let paywallProFeatureSheetTitle_resource = LocalizedStringResource("paywall_pro_feature_sheet_title", defaultValue: "️Only with Pro!", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
+    public static let paywallProFeatureSheetTitle_key = "paywall_pro_feature_sheet_title"
+    /// ️Support Indie
+    public static let paywallProFeatureSupport = L10n.tr("Localizable", "paywall_pro_feature_support", fallback: "️Support Indie")
+    public static let paywallProFeatureSupport_resource = LocalizedStringResource("paywall_pro_feature_support", defaultValue: "️Support Indie", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
+    public static let paywallProFeatureSupport_key = "paywall_pro_feature_support"
     /// Gain access to all public locations (ATMs, postal letter boxes, vending machines etc.) and exclusive iOS Widgets. Join our community and make navigating Zurich a breeze!
     public static let paywallSubtitle = L10n.tr("Localizable", "paywall_subtitle", fallback: "Gain access to all public locations (ATMs, postal letter boxes, vending machines etc.) and exclusive iOS Widgets. Join our community and make navigating Zurich a breeze!")
     public static let paywallSubtitle_resource = LocalizedStringResource("paywall_subtitle", defaultValue: "Gain access to all public locations (ATMs, postal letter boxes, vending machines etc.) and exclusive iOS Widgets. Join our community and make navigating Zurich a breeze!", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let paywallSubtitle_key = "paywall_subtitle"
-    /// Use all functions with CasaZurigo Pro now
-    public static let paywallTitle = L10n.tr("Localizable", "paywall_title", fallback: "Use all functions with CasaZurigo Pro now")
-    public static let paywallTitle_resource = LocalizedStringResource("paywall_title", defaultValue: "Use all functions with CasaZurigo Pro now", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
+    /// More Casa.
+    /// More Zurigo.
+    public static let paywallTitle = L10n.tr("Localizable", "paywall_title", fallback: "More Casa.\nMore Zurigo.")
+    public static let paywallTitle_resource = LocalizedStringResource("paywall_title", defaultValue: "More Casa.\nMore Zurigo.", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let paywallTitle_key = "paywall_title"
     /// Your privacy matters. Your data won’t be collected or stored. What you do is your business, not ours or anyone else’s.
     public static let privacyDescription = L10n.tr("Localizable", "privacy_description", fallback: "Your privacy matters. Your data won’t be collected or stored. What you do is your business, not ours or anyone else’s.")
