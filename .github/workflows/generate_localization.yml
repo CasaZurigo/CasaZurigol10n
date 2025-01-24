@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - '.github/workflows/generate_localization.yml'
+      - 'Sources/CasaZurigol10n/Resources/**'
 
 permissions:
   contents: write
