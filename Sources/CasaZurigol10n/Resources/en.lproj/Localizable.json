@@ -188,10 +188,10 @@
   "user_preferences_extras_title": "Extras",
   "user_preferences_navigation_title": "Settings",
   "user_preferences_push_notification_title": "Push Notification",
-  "user_preferences_zip_code_title": "Zip Code",
   "vending_machine": "Vending Machine",
   "waste_recycling_notification_title": "🗑 CasaZurigo",
   "weather_navigation_title": "Weather",
   "weather_temperature_max": "Max",
-  "weather_temperature_min": "Min"
+  "weather_temperature_min": "Min",
+  "zip_code_title": "Zip Code"
 }

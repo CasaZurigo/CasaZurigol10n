@@ -194,10 +194,10 @@
   "user_preferences_extras_title": "Extra",
   "user_preferences_navigation_title": "Impostazioni",
   "user_preferences_push_notification_title": "Notifica push",
-  "user_preferences_zip_code_title": "Codice postale",
   "vending_machine": "Distributore automatico",
   "waste_recycling_notification_title": "🗑 CasaZurigo",
   "weather_navigation_title": "Il tempo",
   "weather_temperature_max": "Massimo",
-  "weather_temperature_min": "Min"
+  "weather_temperature_min": "Min",
+  "zip_code_title": "Codice postale"
 }

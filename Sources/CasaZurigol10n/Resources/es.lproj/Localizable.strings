@@ -193,9 +193,9 @@
 "user_preferences_extras_title" = "Extras";
 "user_preferences_navigation_title" = "Ajustes";
 "user_preferences_push_notification_title" = "Notificación Push";
-"user_preferences_zip_code_title" = "Código postal";
 "vending_machine" = "Máquina expendedora";
 "waste_recycling_notification_title" = "🗑 CasaZurigo";
 "weather_navigation_title" = "Tiempo";
 "weather_temperature_max" = "Max";
 "weather_temperature_min" = "Min";
+"zip_code_title" = "Código postal";
