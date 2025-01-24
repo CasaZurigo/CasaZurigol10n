@@ -163,6 +163,10 @@ public enum L10n {
     public static let letterBox = L10n.tr("Localizable", "letter_box", fallback: "Letter Box")
     public static let letterBox_resource = LocalizedStringResource("letter_box", defaultValue: "Letter Box", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let letterBox_key = "letter_box"
+    /// More to come!
+    public static let locationFilterMoreToComeTitle = L10n.tr("Localizable", "location_filter_more_to_come_title", fallback: "More to come!")
+    public static let locationFilterMoreToComeTitle_resource = LocalizedStringResource("location_filter_more_to_come_title", defaultValue: "More to come!", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
+    public static let locationFilterMoreToComeTitle_key = "location_filter_more_to_come_title"
     /// Location Type
     public static let locationType = L10n.tr("Localizable", "location_type", fallback: "Location Type")
     public static let locationType_resource = LocalizedStringResource("location_type", defaultValue: "Location Type", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
@@ -811,10 +815,6 @@ public enum L10n {
     public static let userPreferencesPushNotificationTitle = L10n.tr("Localizable", "user_preferences_push_notification_title", fallback: "Push Notification")
     public static let userPreferencesPushNotificationTitle_resource = LocalizedStringResource("user_preferences_push_notification_title", defaultValue: "Push Notification", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let userPreferencesPushNotificationTitle_key = "user_preferences_push_notification_title"
-    /// Zip Code
-    public static let userPreferencesZipCodeTitle = L10n.tr("Localizable", "user_preferences_zip_code_title", fallback: "Zip Code")
-    public static let userPreferencesZipCodeTitle_resource = LocalizedStringResource("user_preferences_zip_code_title", defaultValue: "Zip Code", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
-    public static let userPreferencesZipCodeTitle_key = "user_preferences_zip_code_title"
     /// Vending Machine
     public static let vendingMachine = L10n.tr("Localizable", "vending_machine", fallback: "Vending Machine")
     public static let vendingMachine_resource = LocalizedStringResource("vending_machine", defaultValue: "Vending Machine", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
@@ -835,6 +835,10 @@ public enum L10n {
     public static let weatherTemperatureMin = L10n.tr("Localizable", "weather_temperature_min", fallback: "Min")
     public static let weatherTemperatureMin_resource = LocalizedStringResource("weather_temperature_min", defaultValue: "Min", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let weatherTemperatureMin_key = "weather_temperature_min"
+    /// Zip Code
+    public static let zipCodeTitle = L10n.tr("Localizable", "zip_code_title", fallback: "Zip Code")
+    public static let zipCodeTitle_resource = LocalizedStringResource("zip_code_title", defaultValue: "Zip Code", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
+    public static let zipCodeTitle_key = "zip_code_title"
   }
 }
 // swiftlint:enable explicit_type_interface function_parameter_count identifier_name line_length
