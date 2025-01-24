@@ -163,10 +163,10 @@ public enum L10n {
     public static let letterBox = L10n.tr("Localizable", "letter_box", fallback: "Letter Box")
     public static let letterBox_resource = LocalizedStringResource("letter_box", defaultValue: "Letter Box", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let letterBox_key = "letter_box"
-    /// More to come!
-    public static let locationFilterMoreToComeTitle = L10n.tr("Localizable", "location_filter_more_to_come_title", fallback: "More to come!")
-    public static let locationFilterMoreToComeTitle_resource = LocalizedStringResource("location_filter_more_to_come_title", defaultValue: "More to come!", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
-    public static let locationFilterMoreToComeTitle_key = "location_filter_more_to_come_title"
+    /// More soon!
+    public static let locationFilterMoreSoonTitle = L10n.tr("Localizable", "location_filter_more_soon_title", fallback: "More soon!")
+    public static let locationFilterMoreSoonTitle_resource = LocalizedStringResource("location_filter_more_soon_title", defaultValue: "More soon!", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
+    public static let locationFilterMoreSoonTitle_key = "location_filter_more_soon_title"
     /// Location Type
     public static let locationType = L10n.tr("Localizable", "location_type", fallback: "Location Type")
     public static let locationType_resource = LocalizedStringResource("location_type", defaultValue: "Location Type", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
