@@ -36,14 +36,15 @@ jobs:
         git config --global user.name 'GitHub Actions Bot'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
-    - name: Commit and push changes
+    - name: Add changes to localization-update Branch
       run: |
         git add -A
         if git diff --staged --quiet; then
           echo "No changes to commit"
         else
+          git checkout -B localization-update
           git commit -m "Generated localization file"
-          git push origin main || (echo "Push failed" && exit 1)
+          git push --force origin localization-update || (echo "Push failed" && exit 1)
         fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
