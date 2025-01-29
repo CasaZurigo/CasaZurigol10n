@@ -331,14 +331,13 @@ public enum L10n {
     public static let onboardingLocationTitle = L10n.tr("Localizable", "onboarding_location_title", fallback: "Discover Nearby Locations")
     public static let onboardingLocationTitle_resource = LocalizedStringResource("onboarding_location_title", defaultValue: "Discover Nearby Locations", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let onboardingLocationTitle_key = "onboarding_location_title"
-    /// Explore a variety of convenient public locations supported by CasaZurigo:
-    /// • Parks
-    /// • Fountains
-    /// • Public Toilets
-    /// • Parking Garages
-    /// • Plus More to Come...
-    public static let onboardingMapDescription = L10n.tr("Localizable", "onboarding_map_description", fallback: "Explore a variety of convenient public locations supported by CasaZurigo:\n• Parks\n• Fountains\n• Public Toilets\n• Parking Garages\n• Plus More to Come...")
-    public static let onboardingMapDescription_resource = LocalizedStringResource("onboarding_map_description", defaultValue: "Explore a variety of convenient public locations supported by CasaZurigo:\n• Parks\n• Fountains\n• Public Toilets\n• Parking Garages\n• Plus More to Come...", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
+    /// Find public locations near you:
+    /// - Parks
+    /// - Public Toilets
+    /// - Bancomat
+    /// - Plus More to Come...
+    public static let onboardingMapDescription = L10n.tr("Localizable", "onboarding_map_description", fallback: "Find public locations near you:\n- Parks\n- Public Toilets\n- Bancomat\n- Plus More to Come...")
+    public static let onboardingMapDescription_resource = LocalizedStringResource("onboarding_map_description", defaultValue: "Find public locations near you:\n- Parks\n- Public Toilets\n- Bancomat\n- Plus More to Come...", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let onboardingMapDescription_key = "onboarding_map_description"
     /// Find Nearby Public Locations
     public static let onboardingMapTitle = L10n.tr("Localizable", "onboarding_map_title", fallback: "Find Nearby Public Locations")
@@ -376,13 +375,13 @@ public enum L10n {
     public static let onboardingWelcomeTitle = L10n.tr("Localizable", "onboarding_welcome_title", fallback: "Welcome to CasaZurigo")
     public static let onboardingWelcomeTitle_resource = LocalizedStringResource("onboarding_welcome_title", defaultValue: "Welcome to CasaZurigo", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let onboardingWelcomeTitle_key = "onboarding_welcome_title"
-    /// Select your ZIP Code to get localized information such as weather updates, recycling schedules, and nearby events.
-    public static let onboardingZipCodeDescription = L10n.tr("Localizable", "onboarding_zip_code_description", fallback: "Select your ZIP Code to get localized information such as weather updates, recycling schedules, and nearby events.")
-    public static let onboardingZipCodeDescription_resource = LocalizedStringResource("onboarding_zip_code_description", defaultValue: "Select your ZIP Code to get localized information such as weather updates, recycling schedules, and nearby events.", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
+    /// Select your ZIP Code to get information about weather updates, recycling schedules and more!
+    public static let onboardingZipCodeDescription = L10n.tr("Localizable", "onboarding_zip_code_description", fallback: "Select your ZIP Code to get information about weather updates, recycling schedules and more!")
+    public static let onboardingZipCodeDescription_resource = LocalizedStringResource("onboarding_zip_code_description", defaultValue: "Select your ZIP Code to get information about weather updates, recycling schedules and more!", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let onboardingZipCodeDescription_key = "onboarding_zip_code_description"
-    /// ZIP Code Selection
-    public static let onboardingZipCodeTitle = L10n.tr("Localizable", "onboarding_zip_code_title", fallback: "ZIP Code Selection")
-    public static let onboardingZipCodeTitle_resource = LocalizedStringResource("onboarding_zip_code_title", defaultValue: "ZIP Code Selection", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
+    /// Your ZIP Code
+    public static let onboardingZipCodeTitle = L10n.tr("Localizable", "onboarding_zip_code_title", fallback: "Your ZIP Code")
+    public static let onboardingZipCodeTitle_resource = LocalizedStringResource("onboarding_zip_code_title", defaultValue: "Your ZIP Code", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let onboardingZipCodeTitle_key = "onboarding_zip_code_title"
     /// 🥬 CasaZurigo
     public static let organicRecyclingNotificationTitle = L10n.tr("Localizable", "organic_recycling_notification_title", fallback: "🥬 CasaZurigo")
