@@ -40,7 +40,9 @@ jobs:
     - name: Add and commit changes
       run: |
         git add -A
-        if !git diff --staged --quiet; then
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
           git commit -m "Update generated files via SwiftGen"
           git push --force origin ${{ github.ref }}
         fi

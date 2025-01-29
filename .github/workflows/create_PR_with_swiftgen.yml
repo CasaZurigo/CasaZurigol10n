@@ -38,17 +38,19 @@ jobs:
     - name: Add changes to new branch
       run: |
         git add -A
-        if !git diff --staged --quiet; then
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
           git checkout -B swiftgen-update
           git commit -m "Update generated files via SwiftGen"
           git push origin swiftgen-update || (echo "Push failed" && exit 1)
         fi
 
-    # - name: Create Pull Request
-    #   uses: peter-evans/create-pull-request@v3
-    #   with:
-    #     branch: localization-update
-    #     base: main
-    #     title: "Update localization files"
-    #     body: "This PR updates the localization files."
-    #     labels: localization
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v3
+      with:
+        branch: swiftgen-update
+        base: main
+        title: "Update generated files via SwiftGen"
+        body: "This PR updates the generated files using SwiftGen."
+        labels: generated-files
