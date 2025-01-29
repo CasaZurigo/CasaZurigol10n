@@ -85,8 +85,8 @@
 "onboarding_recycling_description" = "Explore local recycling events to stay informed about what you can recycle and the rules to follow.";
 "onboarding_recycling_title" = "Discover Recycling Events";
 "onboarding_welcome_title" = "Welcome to CasaZurigo";
-"onboarding_zip_code_description" = "Select your ZIP Code to get localized information such as weather updates, recycling schedules, and nearby events.";
-"onboarding_zip_code_title" = "ZIP Code Selection";
+"onboarding_zip_code_description" = "Select your ZIP Code to get information about weather updates, recycling schedules and more!";
+"onboarding_zip_code_title" = "Your ZIP Code";
 "organic_recycling_notification_title" = "🥬 CasaZurigo";
 "paper_recycling_notification_title" = "🗞 CasaZurigo";
 "park" = "Park";
