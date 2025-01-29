@@ -1,4 +1,4 @@
-name: Generate Localization
+name: Create PR for SwiftGen Changes
 
 on:
   push:
@@ -12,11 +12,11 @@ permissions:
   contents: write
 
 jobs:
-  generate-localization:
+  create-swiftgen-pr:
     runs-on: macos-latest
 
     steps:
-    - name: Checkout main branch
+    - name: Checkout code
       uses: actions/checkout@v3
       with:
         fetch-depth: 0
@@ -29,25 +29,20 @@ jobs:
     - name: Run SwiftGen
       run: |
         swiftgen config run
-        git status
 
     - name: Configure Git
       run: |
         git config --global user.name 'GitHub Actions Bot'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
-    - name: Add changes to localization-update Branch
+    - name: Add changes to new branch
       run: |
         git add -A
-        if git diff --staged --quiet; then
-          echo "No changes to commit"
-        else
-          git checkout -B localization-update
-          git commit -m "Generated localization file"
-          git push --force origin localization-update || (echo "Push failed" && exit 1)
+        if !git diff --staged --quiet; then
+          git checkout -B swiftgen-update
+          git commit -m "Update generated files via SwiftGen"
+          git push origin swiftgen-update || (echo "Push failed" && exit 1)
         fi
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     # - name: Create Pull Request
     #   uses: peter-evans/create-pull-request@v3
