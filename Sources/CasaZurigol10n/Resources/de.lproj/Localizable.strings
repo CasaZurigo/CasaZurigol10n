@@ -75,7 +75,7 @@
 "onboarding_location_permission_description" = "Wir benötigen Standortzugriff, um dir Informationen zu nahegelegenen öffentlichen Standorten bereitzustellen.";
 "onboarding_location_permission_title" = "Standortberechtigung";
 "onboarding_location_title" = "Entdecke nahegelegene Standorte";
-"onboarding_map_description" = "Entdecken Sie eine Vielzahl von bequemen öffentlichen Orten, die von CasaZurigo unterstützt werden:\n- Parks\n- Brunnen\n- Öffentliche Toiletten\n- Parkhäuser\n- Und mehr in Kürze...";
+"onboarding_map_description" = "Finden Sie öffentliche Einrichtungen in Ihrer Nähe:\n- Parks\n- Öffentliche Toiletten\n- Bankautomaten\n- Und mehr in Kürze...";
 "onboarding_map_title" = "Finde nahegelegene öffentliche Standorte";
 "onboarding_nearby_location_description" = "Erhalte Zugang zu öffentlichen Standorten in deiner Nähe, wie Parks, Toiletten und anderes.";
 "onboarding_nearby_location_title" = "Nahegelegene öffentliche Standorte";

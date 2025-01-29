@@ -75,7 +75,7 @@
 "onboarding_location_permission_description" = "Necessitamos de acesso à localização para lhe fornecer informações sobre locais públicos próximos.";
 "onboarding_location_permission_title" = "Autorização de localização";
 "onboarding_location_title" = "Descubra os locais mais próximos";
-"onboarding_map_description" = "Explore uma variedade de locais públicos convenientes apoiados pela CasaZurigo:\n- Parques\n- Fontes\n- Sanitários públicos\n- Parques de estacionamento\n- E mais para vir...";
+"onboarding_map_description" = "Encontrar locais públicos perto de si:\n- Parques\n- Sanitários públicos\n- Bancomat\n- Mais a seguir...";
 "onboarding_map_title" = "Localizar locais públicos próximos";
 "onboarding_nearby_location_description" = "Obtenha acesso a locais públicos à sua volta, como parques, casas de banho e outros.";
 "onboarding_nearby_location_title" = "Locais públicos próximos";
