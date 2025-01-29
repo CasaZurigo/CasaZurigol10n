@@ -53,6 +53,7 @@ jobs:
       uses: peter-evans/create-pull-request@v3
       with:
         branch: localization-update
+        base: main
         title: "Update localization files"
         body: "This PR updates the localization files."
         labels: localization
