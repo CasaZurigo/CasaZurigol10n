@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - '.github/workflows/generate_localization.yml'
+      - '.github/workflows/create_PR_with_swiftgen.yml'
       - 'Sources/CasaZurigol10n/Resources/**'
 
 permissions:
