@@ -802,6 +802,14 @@ public enum L10n {
     public static let userPreferencesCityTitle = L10n.tr("Localizable", "user_preferences_city_title", fallback: "City")
     public static let userPreferencesCityTitle_resource = LocalizedStringResource("user_preferences_city_title", defaultValue: "City", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let userPreferencesCityTitle_key = "user_preferences_city_title"
+    /// If you see duplicate locations, you can clear your local cache.
+    public static let userPreferencesClearCacheDescription = L10n.tr("Localizable", "user_preferences_clear_cache_description", fallback: "If you see duplicate locations, you can clear your local cache.")
+    public static let userPreferencesClearCacheDescription_resource = LocalizedStringResource("user_preferences_clear_cache_description", defaultValue: "If you see duplicate locations, you can clear your local cache.", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
+    public static let userPreferencesClearCacheDescription_key = "user_preferences_clear_cache_description"
+    /// Clear cache
+    public static let userPreferencesClearCacheTitle = L10n.tr("Localizable", "user_preferences_clear_cache_title", fallback: "Clear cache")
+    public static let userPreferencesClearCacheTitle_resource = LocalizedStringResource("user_preferences_clear_cache_title", defaultValue: "Clear cache", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
+    public static let userPreferencesClearCacheTitle_key = "user_preferences_clear_cache_title"
     /// Extras
     public static let userPreferencesExtrasTitle = L10n.tr("Localizable", "user_preferences_extras_title", fallback: "Extras")
     public static let userPreferencesExtrasTitle_resource = LocalizedStringResource("user_preferences_extras_title", defaultValue: "Extras", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
