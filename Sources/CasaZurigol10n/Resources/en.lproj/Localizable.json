@@ -192,6 +192,8 @@
   "user_preferences_about_title": "About",
   "user_preferences_area_of_interest_title": "Area Of Interest",
   "user_preferences_city_title": "City",
+  "user_preferences_clear_cache_description": "If you see duplicate locations, you can clear your local cache.",
+  "user_preferences_clear_cache_title": "Clear cache",
   "user_preferences_extras_title": "Extras",
   "user_preferences_navigation_title": "Settings",
   "user_preferences_push_notification_title": "Push Notification",

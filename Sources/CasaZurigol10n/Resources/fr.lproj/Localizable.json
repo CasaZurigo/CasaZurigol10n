@@ -192,6 +192,8 @@
   "user_preferences_about_title": "A propos de",
   "user_preferences_area_of_interest_title": "Domaine d'intérêt",
   "user_preferences_city_title": "Ville",
+  "user_preferences_clear_cache_description": "Si vous voyez des sites en double, vous pouvez vider votre cache local.",
+  "user_preferences_clear_cache_title": "Effacer le cache",
   "user_preferences_extras_title": "Extras",
   "user_preferences_navigation_title": "Paramètres",
   "user_preferences_push_notification_title": "Notification push",

@@ -192,6 +192,8 @@
   "user_preferences_about_title": "Hakkında",
   "user_preferences_area_of_interest_title": "İlgi Alanları",
   "user_preferences_city_title": "Şehir",
+  "user_preferences_clear_cache_description": "Yinelenen konumlar görürseniz, yerel önbelleğinizi temizleyebilirsiniz.",
+  "user_preferences_clear_cache_title": "Önbelleği temizle",
   "user_preferences_extras_title": "Ekstralar",
   "user_preferences_navigation_title": "Ayarlar",
   "user_preferences_push_notification_title": "Anında Bildirim",

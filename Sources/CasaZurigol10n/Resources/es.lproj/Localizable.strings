@@ -191,6 +191,8 @@
 "user_preferences_about_title" = "Acerca de";
 "user_preferences_area_of_interest_title" = "Área de interés";
 "user_preferences_city_title" = "Ciudad";
+"user_preferences_clear_cache_description" = "Si ves ubicaciones duplicadas, puedes borrar tu caché local.";
+"user_preferences_clear_cache_title" = "Borrar caché";
 "user_preferences_extras_title" = "Extras";
 "user_preferences_navigation_title" = "Ajustes";
 "user_preferences_push_notification_title" = "Notificación Push";

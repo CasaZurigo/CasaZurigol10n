@@ -191,6 +191,8 @@
 "user_preferences_about_title" = "Sobre";
 "user_preferences_area_of_interest_title" = "Área de interesse";
 "user_preferences_city_title" = "Cidade";
+"user_preferences_clear_cache_description" = "Se vir localizações duplicadas, pode limpar a cache local.";
+"user_preferences_clear_cache_title" = "Limpar a cache";
 "user_preferences_extras_title" = "Extras";
 "user_preferences_navigation_title" = "Definições";
 "user_preferences_push_notification_title" = "Notificação push";
