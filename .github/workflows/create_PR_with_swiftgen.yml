@@ -1,6 +1,7 @@
 name: Create PR for SwiftGen Changes
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
