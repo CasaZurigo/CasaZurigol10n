@@ -43,7 +43,7 @@ jobs:
         else
           git checkout -B swiftgen-update
           git commit -m "Update generated files via SwiftGen"
-          git push origin swiftgen-update || (echo "Push failed" && exit 1)
+          git push origin swiftgen-update --force || (echo "Push failed" && exit 1)
         fi
 
     - name: Create Pull Request
