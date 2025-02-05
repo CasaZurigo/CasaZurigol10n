@@ -17,10 +17,10 @@ if [ $# -eq 0 ]; then
     echo "  rename      Rename a key from all the files"
     echo ""
     echo "Example:"
-    echo "  $0 translate                        # Translate using settings from .env"
-    echo "  $0 translate --target-langs fr it   # Override target languages"
-    echo "  $0 delete --key \"key.to.delete\"   # Delete specific key from all files"
-    echo "  $0 rename --old-key \"old.key.to.rename\" --new-key  \"new.key\" # Delete specific key from all files"
+    echo "  $0 translate                                                               # Translate using settings from .env"
+    echo "  $0 translate --source-lang en --target-langs fr it                         # Override source and target languages"
+    echo "  $0 delete --key \"key.to.delete\"                                          # Delete specific key from all files"
+    echo "  $0 rename --old-key \"old.key.to.rename\" --new-key  \"new.key\"           # Delete specific key from all files"
     exit 1
 fi
 
