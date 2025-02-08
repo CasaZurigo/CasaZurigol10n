@@ -11,9 +11,9 @@ import Foundation
 // swiftlint:disable nesting type_body_length type_name vertical_whitespace_opening_braces
 public enum L10n {
   public enum InfoPlist {
-    /// CasaZurigo
-    public static let cfBundleName = L10n.tr("InfoPlist", "CFBundleName", fallback: "CasaZurigo")
-    public static let cfBundleName_resource = LocalizedStringResource("CFBundleName", defaultValue: "CasaZurigo", table: "InfoPlist", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
+    /// CasaZurich
+    public static let cfBundleName = L10n.tr("InfoPlist", "CFBundleName", fallback: "CasaZurich")
+    public static let cfBundleName_resource = LocalizedStringResource("CFBundleName", defaultValue: "CasaZurich", table: "InfoPlist", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let cfBundleName_key = "CFBundleName"
     /// Enhance your experience by enabling GPS to effortlessly locate nearby places and enrich your journey.
     public static let nsLocationWhenInUseUsageDescription = L10n.tr("InfoPlist", "NSLocationWhenInUseUsageDescription", fallback: "Enhance your experience by enabling GPS to effortlessly locate nearby places and enrich your journey.")
@@ -25,9 +25,9 @@ public enum L10n {
     public static let all = L10n.tr("Localizable", "all", fallback: "All")
     public static let all_resource = LocalizedStringResource("all", defaultValue: "All", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let all_key = "all"
-    /// CasaZurigo
-    public static let appTitle = L10n.tr("Localizable", "app_title", fallback: "CasaZurigo")
-    public static let appTitle_resource = LocalizedStringResource("app_title", defaultValue: "CasaZurigo", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
+    /// CasaZurich
+    public static let appTitle = L10n.tr("Localizable", "app_title", fallback: "CasaZurich")
+    public static let appTitle_resource = LocalizedStringResource("app_title", defaultValue: "CasaZurich", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let appTitle_key = "app_title"
     /// Ascending
     public static let ascending = L10n.tr("Localizable", "ascending", fallback: "Ascending")
@@ -41,13 +41,13 @@ public enum L10n {
     public static let cancel = L10n.tr("Localizable", "cancel", fallback: "Cancel")
     public static let cancel_resource = LocalizedStringResource("cancel", defaultValue: "Cancel", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let cancel_key = "cancel"
-    /// 📦 CasaZurigo
-    public static let cardboardRecyclingNotificationTitle = L10n.tr("Localizable", "cardboard_recycling_notification_title", fallback: "📦 CasaZurigo")
-    public static let cardboardRecyclingNotificationTitle_resource = LocalizedStringResource("cardboard_recycling_notification_title", defaultValue: "📦 CasaZurigo", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
+    /// 📦 CasaZurich
+    public static let cardboardRecyclingNotificationTitle = L10n.tr("Localizable", "cardboard_recycling_notification_title", fallback: "📦 CasaZurich")
+    public static let cardboardRecyclingNotificationTitle_resource = LocalizedStringResource("cardboard_recycling_notification_title", defaultValue: "📦 CasaZurich", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let cardboardRecyclingNotificationTitle_key = "cardboard_recycling_notification_title"
-    /// 🚃 CasaZurigo
-    public static let cargotramRecyclingNotificationTitle = L10n.tr("Localizable", "cargotram_recycling_notification_title", fallback: "🚃 CasaZurigo")
-    public static let cargotramRecyclingNotificationTitle_resource = LocalizedStringResource("cargotram_recycling_notification_title", defaultValue: "🚃 CasaZurigo", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
+    /// 🚃 CasaZurich
+    public static let cargotramRecyclingNotificationTitle = L10n.tr("Localizable", "cargotram_recycling_notification_title", fallback: "🚃 CasaZurich")
+    public static let cargotramRecyclingNotificationTitle_resource = LocalizedStringResource("cargotram_recycling_notification_title", defaultValue: "🚃 CasaZurich", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let cargotramRecyclingNotificationTitle_key = "cargotram_recycling_notification_title"
     /// Collection Point
     public static let collectionPoint = L10n.tr("Localizable", "collection_point", fallback: "Collection Point")
@@ -85,9 +85,9 @@ public enum L10n {
     public static let emptyTitle = L10n.tr("Localizable", "empty_title", fallback: "Hmmm.. it looks empty here")
     public static let emptyTitle_resource = LocalizedStringResource("empty_title", defaultValue: "Hmmm.. it looks empty here", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let emptyTitle_key = "empty_title"
-    /// 🚅 CasaZurigo
-    public static let etramRecyclingNotificationTitle = L10n.tr("Localizable", "etram_recycling_notification_title", fallback: "🚅 CasaZurigo")
-    public static let etramRecyclingNotificationTitle_resource = LocalizedStringResource("etram_recycling_notification_title", defaultValue: "🚅 CasaZurigo", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
+    /// 🚅 CasaZurich
+    public static let etramRecyclingNotificationTitle = L10n.tr("Localizable", "etram_recycling_notification_title", fallback: "🚅 CasaZurich")
+    public static let etramRecyclingNotificationTitle_resource = LocalizedStringResource("etram_recycling_notification_title", defaultValue: "🚅 CasaZurich", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let etramRecyclingNotificationTitle_key = "etram_recycling_notification_title"
     /// While I do read every message, as I'm just one person, I'm not able to respond to every one. I hope you understand, and thanks for your feedback.
     public static let feedbackSupportCustomerDescription = L10n.tr("Localizable", "feedback_support_customer_description", fallback: "While I do read every message, as I'm just one person, I'm not able to respond to every one. I hope you understand, and thanks for your feedback.")
@@ -103,9 +103,9 @@ public enum L10n {
     }
     public static let feedbackSupportEmailFooter_resource = LocalizedStringResource("feedback_support_email_footer", defaultValue: "If you don’t have a default email app configured, you can email me directly at %@", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let feedbackSupportEmailFooter_key = "feedback_support_email_footer"
-    /// Email CasaZurigo
-    public static let feedbackSupportEmailTitle = L10n.tr("Localizable", "feedback_support_email_title", fallback: "Email CasaZurigo")
-    public static let feedbackSupportEmailTitle_resource = LocalizedStringResource("feedback_support_email_title", defaultValue: "Email CasaZurigo", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
+    /// Email CasaZurich
+    public static let feedbackSupportEmailTitle = L10n.tr("Localizable", "feedback_support_email_title", fallback: "Email CasaZurich")
+    public static let feedbackSupportEmailTitle_resource = LocalizedStringResource("feedback_support_email_title", defaultValue: "Email CasaZurich", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let feedbackSupportEmailTitle_key = "feedback_support_email_title"
     /// Leave a Review
     public static let feedbackSupportLeaveReviewTitle = L10n.tr("Localizable", "feedback_support_leave_review_title", fallback: "Leave a Review")
@@ -315,9 +315,9 @@ public enum L10n {
     public static let onboardingAreaOfInterestTitle = L10n.tr("Localizable", "onboarding_area_of_interest_title", fallback: "Set Your Area of Interest")
     public static let onboardingAreaOfInterestTitle_resource = LocalizedStringResource("onboarding_area_of_interest_title", defaultValue: "Set Your Area of Interest", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let onboardingAreaOfInterestTitle_key = "onboarding_area_of_interest_title"
-    /// Hurray! CasaZurigo setup complete!
-    public static let onboardingFinishTitle = L10n.tr("Localizable", "onboarding_finish_title", fallback: "Hurray! CasaZurigo setup complete!")
-    public static let onboardingFinishTitle_resource = LocalizedStringResource("onboarding_finish_title", defaultValue: "Hurray! CasaZurigo setup complete!", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
+    /// Hurray! CasaZurich setup complete!
+    public static let onboardingFinishTitle = L10n.tr("Localizable", "onboarding_finish_title", fallback: "Hurray! CasaZurich setup complete!")
+    public static let onboardingFinishTitle_resource = LocalizedStringResource("onboarding_finish_title", defaultValue: "Hurray! CasaZurich setup complete!", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let onboardingFinishTitle_key = "onboarding_finish_title"
     /// We require location access to provide you with information about nearby public locations.
     public static let onboardingLocationPermissionDescription = L10n.tr("Localizable", "onboarding_location_permission_description", fallback: "We require location access to provide you with information about nearby public locations.")
@@ -371,9 +371,9 @@ public enum L10n {
     public static let onboardingRecyclingTitle = L10n.tr("Localizable", "onboarding_recycling_title", fallback: "Discover Recycling Events")
     public static let onboardingRecyclingTitle_resource = LocalizedStringResource("onboarding_recycling_title", defaultValue: "Discover Recycling Events", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let onboardingRecyclingTitle_key = "onboarding_recycling_title"
-    /// Welcome to CasaZurigo
-    public static let onboardingWelcomeTitle = L10n.tr("Localizable", "onboarding_welcome_title", fallback: "Welcome to CasaZurigo")
-    public static let onboardingWelcomeTitle_resource = LocalizedStringResource("onboarding_welcome_title", defaultValue: "Welcome to CasaZurigo", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
+    /// Welcome to CasaZurich
+    public static let onboardingWelcomeTitle = L10n.tr("Localizable", "onboarding_welcome_title", fallback: "Welcome to CasaZurich")
+    public static let onboardingWelcomeTitle_resource = LocalizedStringResource("onboarding_welcome_title", defaultValue: "Welcome to CasaZurich", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let onboardingWelcomeTitle_key = "onboarding_welcome_title"
     /// Select your ZIP Code to get information about weather updates, recycling schedules and more!
     public static let onboardingZipCodeDescription = L10n.tr("Localizable", "onboarding_zip_code_description", fallback: "Select your ZIP Code to get information about weather updates, recycling schedules and more!")
@@ -383,13 +383,13 @@ public enum L10n {
     public static let onboardingZipCodeTitle = L10n.tr("Localizable", "onboarding_zip_code_title", fallback: "Your ZIP Code")
     public static let onboardingZipCodeTitle_resource = LocalizedStringResource("onboarding_zip_code_title", defaultValue: "Your ZIP Code", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let onboardingZipCodeTitle_key = "onboarding_zip_code_title"
-    /// 🥬 CasaZurigo
-    public static let organicRecyclingNotificationTitle = L10n.tr("Localizable", "organic_recycling_notification_title", fallback: "🥬 CasaZurigo")
-    public static let organicRecyclingNotificationTitle_resource = LocalizedStringResource("organic_recycling_notification_title", defaultValue: "🥬 CasaZurigo", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
+    /// 🥬 CasaZurich
+    public static let organicRecyclingNotificationTitle = L10n.tr("Localizable", "organic_recycling_notification_title", fallback: "🥬 CasaZurich")
+    public static let organicRecyclingNotificationTitle_resource = LocalizedStringResource("organic_recycling_notification_title", defaultValue: "🥬 CasaZurich", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let organicRecyclingNotificationTitle_key = "organic_recycling_notification_title"
-    /// 🗞 CasaZurigo
-    public static let paperRecyclingNotificationTitle = L10n.tr("Localizable", "paper_recycling_notification_title", fallback: "🗞 CasaZurigo")
-    public static let paperRecyclingNotificationTitle_resource = LocalizedStringResource("paper_recycling_notification_title", defaultValue: "🗞 CasaZurigo", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
+    /// 🗞 CasaZurich
+    public static let paperRecyclingNotificationTitle = L10n.tr("Localizable", "paper_recycling_notification_title", fallback: "🗞 CasaZurich")
+    public static let paperRecyclingNotificationTitle_resource = LocalizedStringResource("paper_recycling_notification_title", defaultValue: "🗞 CasaZurich", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let paperRecyclingNotificationTitle_key = "paper_recycling_notification_title"
     /// Park
     public static let park = L10n.tr("Localizable", "park", fallback: "Park")
@@ -652,17 +652,17 @@ public enum L10n {
     public static let spring = L10n.tr("Localizable", "spring", fallback: "Fountain")
     public static let spring_resource = LocalizedStringResource("spring", defaultValue: "Fountain", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let spring_key = "spring"
-    /// Get CasaZurigo Pro
-    public static let subscriptionCardButtonTitle = L10n.tr("Localizable", "subscription_card_button_title", fallback: "Get CasaZurigo Pro")
-    public static let subscriptionCardButtonTitle_resource = LocalizedStringResource("subscription_card_button_title", defaultValue: "Get CasaZurigo Pro", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
+    /// Get CasaZurich Pro
+    public static let subscriptionCardButtonTitle = L10n.tr("Localizable", "subscription_card_button_title", fallback: "Get CasaZurich Pro")
+    public static let subscriptionCardButtonTitle_resource = LocalizedStringResource("subscription_card_button_title", defaultValue: "Get CasaZurich Pro", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let subscriptionCardButtonTitle_key = "subscription_card_button_title"
     /// Unlock all features and get access to more public locations!
     public static let subscriptionCardDescription = L10n.tr("Localizable", "subscription_card_description", fallback: "Unlock all features and get access to more public locations!")
     public static let subscriptionCardDescription_resource = LocalizedStringResource("subscription_card_description", defaultValue: "Unlock all features and get access to more public locations!", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let subscriptionCardDescription_key = "subscription_card_description"
-    /// Hey! I'm Luca Archidiacono, and I'm passionate about creating things. CasaZurigo is a project I'm particularly proud of. If you're enjoying CasaZurigo, I'd really appreciate a small tip. Not only would it brighten my day, but it'll also contribute to keeping the app running smoothly for you and support the development of new features. Thanks a bunch!
-    public static let supportAboutMeDescription = L10n.tr("Localizable", "support_about_me_description", fallback: "Hey! I'm Luca Archidiacono, and I'm passionate about creating things. CasaZurigo is a project I'm particularly proud of. If you're enjoying CasaZurigo, I'd really appreciate a small tip. Not only would it brighten my day, but it'll also contribute to keeping the app running smoothly for you and support the development of new features. Thanks a bunch!")
-    public static let supportAboutMeDescription_resource = LocalizedStringResource("support_about_me_description", defaultValue: "Hey! I'm Luca Archidiacono, and I'm passionate about creating things. CasaZurigo is a project I'm particularly proud of. If you're enjoying CasaZurigo, I'd really appreciate a small tip. Not only would it brighten my day, but it'll also contribute to keeping the app running smoothly for you and support the development of new features. Thanks a bunch!", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
+    /// Hey! I'm Luca Archidiacono, and I'm passionate about creating things. CasaZurich is a project I'm particularly proud of. If you're enjoying CasaZurich, I'd really appreciate a small tip. Not only would it brighten my day, but it'll also contribute to keeping the app running smoothly for you and support the development of new features. Thanks a bunch!
+    public static let supportAboutMeDescription = L10n.tr("Localizable", "support_about_me_description", fallback: "Hey! I'm Luca Archidiacono, and I'm passionate about creating things. CasaZurich is a project I'm particularly proud of. If you're enjoying CasaZurich, I'd really appreciate a small tip. Not only would it brighten my day, but it'll also contribute to keeping the app running smoothly for you and support the development of new features. Thanks a bunch!")
+    public static let supportAboutMeDescription_resource = LocalizedStringResource("support_about_me_description", defaultValue: "Hey! I'm Luca Archidiacono, and I'm passionate about creating things. CasaZurich is a project I'm particularly proud of. If you're enjoying CasaZurich, I'd really appreciate a small tip. Not only would it brighten my day, but it'll also contribute to keeping the app running smoothly for you and support the development of new features. Thanks a bunch!", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let supportAboutMeDescription_key = "support_about_me_description"
     /// You are insane, thank you so much!
     public static let supportGenerousTipDescription = L10n.tr("Localizable", "support_generous_tip_description", fallback: "You are insane, thank you so much!")
@@ -672,9 +672,9 @@ public enum L10n {
     public static let supportGenerousTipTitle = L10n.tr("Localizable", "support_generous_tip_title", fallback: "🚃 Tip for a ZVV Ticket")
     public static let supportGenerousTipTitle_resource = LocalizedStringResource("support_generous_tip_title", defaultValue: "🚃 Tip for a ZVV Ticket", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let supportGenerousTipTitle_key = "support_generous_tip_title"
-    /// It will go a long way to keep CasaZurigo running!
-    public static let supportMarvelousTipDescription = L10n.tr("Localizable", "support_marvelous_tip_description", fallback: "It will go a long way to keep CasaZurigo running!")
-    public static let supportMarvelousTipDescription_resource = LocalizedStringResource("support_marvelous_tip_description", defaultValue: "It will go a long way to keep CasaZurigo running!", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
+    /// It will go a long way to keep CasaZurich running!
+    public static let supportMarvelousTipDescription = L10n.tr("Localizable", "support_marvelous_tip_description", fallback: "It will go a long way to keep CasaZurich running!")
+    public static let supportMarvelousTipDescription_resource = LocalizedStringResource("support_marvelous_tip_description", defaultValue: "It will go a long way to keep CasaZurich running!", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let supportMarvelousTipDescription_key = "support_marvelous_tip_description"
     /// 🎟️ Tip for a Cinema Ticket
     public static let supportMarvelousTipTitle = L10n.tr("Localizable", "support_marvelous_tip_title", fallback: "🎟️ Tip for a Cinema Ticket")
@@ -696,9 +696,9 @@ public enum L10n {
     public static let supportSmallTipTitle = L10n.tr("Localizable", "support_small_tip_title", fallback: "🍭 Small Tip")
     public static let supportSmallTipTitle_resource = LocalizedStringResource("support_small_tip_title", defaultValue: "🍭 Small Tip", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let supportSmallTipTitle_key = "support_small_tip_title"
-    /// Support CasaZurigo
-    public static let supportTitle = L10n.tr("Localizable", "support_title", fallback: "Support CasaZurigo")
-    public static let supportTitle_resource = LocalizedStringResource("support_title", defaultValue: "Support CasaZurigo", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
+    /// Support CasaZurich
+    public static let supportTitle = L10n.tr("Localizable", "support_title", fallback: "Support CasaZurich")
+    public static let supportTitle_resource = LocalizedStringResource("support_title", defaultValue: "Support CasaZurich", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let supportTitle_key = "support_title"
     /// Calendar
     public static let tabTitleCalendar = L10n.tr("Localizable", "tab_title_calendar", fallback: "Calendar")
@@ -712,11 +712,11 @@ public enum L10n {
     public static let tabTitleMaps = L10n.tr("Localizable", "tab_title_maps", fallback: "Map")
     public static let tabTitleMaps_resource = LocalizedStringResource("tab_title_maps", defaultValue: "Map", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let tabTitleMaps_key = "tab_title_maps"
-    /// Use of CasaZurigo is governed by Apple’s Standard EULA for apps.
+    /// Use of CasaZurich is governed by Apple’s Standard EULA for apps.
     /// Subscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. Auto-renewal may be turned off by the user, by going to the user’s Account Settings after purchase. The duration and price of each subscription is displayed on the purchase screen, and updated at the time of purchase.
-    /// If you have any questions about CasaZurigo Terms of Use, please reach out to me at support@casazurigo.ch
-    public static let termsOfUseDescription = L10n.tr("Localizable", "terms_of_use_description", fallback: "Use of CasaZurigo is governed by Apple’s Standard EULA for apps.\nSubscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. Auto-renewal may be turned off by the user, by going to the user’s Account Settings after purchase. The duration and price of each subscription is displayed on the purchase screen, and updated at the time of purchase.\nIf you have any questions about CasaZurigo Terms of Use, please reach out to me at support@casazurigo.ch")
-    public static let termsOfUseDescription_resource = LocalizedStringResource("terms_of_use_description", defaultValue: "Use of CasaZurigo is governed by Apple’s Standard EULA for apps.\nSubscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. Auto-renewal may be turned off by the user, by going to the user’s Account Settings after purchase. The duration and price of each subscription is displayed on the purchase screen, and updated at the time of purchase.\nIf you have any questions about CasaZurigo Terms of Use, please reach out to me at support@casazurigo.ch", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
+    /// If you have any questions about CasaZurich Terms of Use, please reach out to me at support@casazurigo.ch
+    public static let termsOfUseDescription = L10n.tr("Localizable", "terms_of_use_description", fallback: "Use of CasaZurich is governed by Apple’s Standard EULA for apps.\nSubscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. Auto-renewal may be turned off by the user, by going to the user’s Account Settings after purchase. The duration and price of each subscription is displayed on the purchase screen, and updated at the time of purchase.\nIf you have any questions about CasaZurich Terms of Use, please reach out to me at support@casazurigo.ch")
+    public static let termsOfUseDescription_resource = LocalizedStringResource("terms_of_use_description", defaultValue: "Use of CasaZurich is governed by Apple’s Standard EULA for apps.\nSubscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. Auto-renewal may be turned off by the user, by going to the user’s Account Settings after purchase. The duration and price of each subscription is displayed on the purchase screen, and updated at the time of purchase.\nIf you have any questions about CasaZurich Terms of Use, please reach out to me at support@casazurigo.ch", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let termsOfUseDescription_key = "terms_of_use_description"
     /// Terms of Use
     public static let termsOfUseTitle = L10n.tr("Localizable", "terms_of_use_title", fallback: "Terms of Use")
@@ -826,9 +826,9 @@ public enum L10n {
     public static let vendingMachine = L10n.tr("Localizable", "vending_machine", fallback: "Vending Machine")
     public static let vendingMachine_resource = LocalizedStringResource("vending_machine", defaultValue: "Vending Machine", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let vendingMachine_key = "vending_machine"
-    /// 🗑 CasaZurigo
-    public static let wasteRecyclingNotificationTitle = L10n.tr("Localizable", "waste_recycling_notification_title", fallback: "🗑 CasaZurigo")
-    public static let wasteRecyclingNotificationTitle_resource = LocalizedStringResource("waste_recycling_notification_title", defaultValue: "🗑 CasaZurigo", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
+    /// 🗑 CasaZurich
+    public static let wasteRecyclingNotificationTitle = L10n.tr("Localizable", "waste_recycling_notification_title", fallback: "🗑 CasaZurich")
+    public static let wasteRecyclingNotificationTitle_resource = LocalizedStringResource("waste_recycling_notification_title", defaultValue: "🗑 CasaZurich", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let wasteRecyclingNotificationTitle_key = "waste_recycling_notification_title"
     /// Weather
     public static let weatherNavigationTitle = L10n.tr("Localizable", "weather_navigation_title", fallback: "Weather")
