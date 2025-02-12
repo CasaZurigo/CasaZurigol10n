@@ -1,5 +1,8 @@
 bundles:
   - 4
 files:
-  - source: '*.strings'
+  - source: /**/Resources/en.lproj/*.strings
+    ignore:
+      - AppShortcuts
+      - InfoPlist
     translation: /Sources/CasaZurigol10n/Resources/%two_letters_code%.proj/%original_file_name%
