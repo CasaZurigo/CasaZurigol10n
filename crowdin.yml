@@ -1,7 +1,5 @@
-bundles:
-  - 4
 files:
-  - source: '*.strings'
+  - source: '/**/en.lproj/*.strings'
     ignore:
       - AppShortcuts
       - InfoPlist
