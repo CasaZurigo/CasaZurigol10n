@@ -419,9 +419,9 @@ public enum L10n {
     public static let paywallProFeatureSheetTitle = L10n.tr("Localizable", "paywall_pro_feature_sheet_title", fallback: "️Only with Pro!")
     public static let paywallProFeatureSheetTitle_resource = LocalizedStringResource("paywall_pro_feature_sheet_title", defaultValue: "️Only with Pro!", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let paywallProFeatureSheetTitle_key = "paywall_pro_feature_sheet_title"
-    /// ️Support Indie
-    public static let paywallProFeatureSupport = L10n.tr("Localizable", "paywall_pro_feature_support", fallback: "️Support Indie")
-    public static let paywallProFeatureSupport_resource = LocalizedStringResource("paywall_pro_feature_support", defaultValue: "️Support Indie", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
+    /// Support development
+    public static let paywallProFeatureSupport = L10n.tr("Localizable", "paywall_pro_feature_support", fallback: "Support development")
+    public static let paywallProFeatureSupport_resource = LocalizedStringResource("paywall_pro_feature_support", defaultValue: "Support development", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let paywallProFeatureSupport_key = "paywall_pro_feature_support"
     /// Gain access to all public locations (ATMs, postal letter boxes, vending machines etc.) and exclusive iOS Widgets. Join our community and make navigating Zurich a breeze!
     public static let paywallSubtitle = L10n.tr("Localizable", "paywall_subtitle", fallback: "Gain access to all public locations (ATMs, postal letter boxes, vending machines etc.) and exclusive iOS Widgets. Join our community and make navigating Zurich a breeze!")
