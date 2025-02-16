@@ -1,6 +1,0 @@
-files:
-  - source: '/**/en.lproj/*.strings'
-    ignore:
-      - AppShortcuts
-      - InfoPlist
-    translation: /Sources/CasaZurigol10n/Resources/%two_letters_code%.lproj/Localizable-crowdin.strings
