@@ -427,10 +427,9 @@ public enum L10n {
     public static let paywallSubtitle = L10n.tr("Localizable", "paywall_subtitle", fallback: "Gain access to all public locations (ATMs, postal letter boxes, vending machines etc.) and exclusive iOS Widgets. Join our community and make navigating Zurich a breeze!")
     public static let paywallSubtitle_resource = LocalizedStringResource("paywall_subtitle", defaultValue: "Gain access to all public locations (ATMs, postal letter boxes, vending machines etc.) and exclusive iOS Widgets. Join our community and make navigating Zurich a breeze!", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let paywallSubtitle_key = "paywall_subtitle"
-    /// More Casa.
-    /// More Zurigo.
-    public static let paywallTitle = L10n.tr("Localizable", "paywall_title", fallback: "More Casa.\nMore Zurigo.")
-    public static let paywallTitle_resource = LocalizedStringResource("paywall_title", defaultValue: "More Casa.\nMore Zurigo.", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
+    /// Unlock More with CasaZurich Pro!
+    public static let paywallTitle = L10n.tr("Localizable", "paywall_title", fallback: "Unlock More with CasaZurich Pro!")
+    public static let paywallTitle_resource = LocalizedStringResource("paywall_title", defaultValue: "Unlock More with CasaZurich Pro!", table: "Localizable", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: nil)
     public static let paywallTitle_key = "paywall_title"
     /// Your privacy matters. Your data won’t be collected or stored. What you do is your business, not ours or anyone else’s.
     public static let privacyDescription = L10n.tr("Localizable", "privacy_description", fallback: "Your privacy matters. Your data won’t be collected or stored. What you do is your business, not ours or anyone else’s.")
