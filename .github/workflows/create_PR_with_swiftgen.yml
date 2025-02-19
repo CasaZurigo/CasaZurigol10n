@@ -11,36 +11,38 @@ on:
 
 permissions:
   contents: write
+  pull-requests: write
 
 jobs:
   create-swiftgen-pr:
     runs-on: macos-latest
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Install SwiftGen
         run: |
           brew install swiftgen
+
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          ref: swiftgen-update
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Reset swiftgen-update branch
+        run: |
+          git fetch origin main:main
+          git reset --hard main
 
       - name: Run SwiftGen
         run: |
           swiftgen config run
 
-      - name: Configure Git
-        run: |
-          git config --global user.name 'GitHub Actions Bot'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v7
         with:
-          branch: main
-          base: swiftgen-update
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: swiftgen-update
+          base: main
           title: "Update generated files via SwiftGen"
           body: "This PR updates the generated files using SwiftGen."
           labels: generated-files
