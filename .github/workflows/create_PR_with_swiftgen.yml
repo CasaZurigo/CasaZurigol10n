@@ -48,3 +48,4 @@ jobs:
           labels: generated-files
           reviewers: lucaArchidiacono
           assignees: lucaArchidiacono
+          sign-commits: true
