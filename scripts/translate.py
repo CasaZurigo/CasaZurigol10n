@@ -165,6 +165,11 @@ if __name__ == "__main__":
         help="List of target language codes (e.g., fr it de)",
     )
     parser.add_argument(
+        "--input-dir",
+        default=os.getenv("INPUT_DIR", "./Sources/CasaZurigol10n/Resources"),
+        help="Input directory for translated files (default: ./Sources/CasaZurigol10n/Resources)",
+    )
+    parser.add_argument(
         "--output-dir",
         default=os.getenv("OUTPUT_DIR", "./Sources/CasaZurigol10n/Resources"),
         help="Output directory for translated files (default: ./Sources/CasaZurigol10n/Resources)",
@@ -183,9 +188,11 @@ if __name__ == "__main__":
             "Target languages are required. Provide them via --target-langs or TARGET_LANGS environment variable"
         )
 
-    input_files = f"./Sources/CasaZurigol10n/Resources/{args.source_lang}.lproj/Localizable.strings,./Sources/CasaZurigol10n/Resources/{args.source_lang}.lproj/InfoPlist.strings,./Sources/CasaZurigol10n/Resources/{args.source_lang}.lproj/AppShortcuts.strings".split(
-        ","
-    )
+    # Construct source language directory path
+    source_lang_dir = os.path.join(args.input_dir, f"{args.source_lang}.lproj")
+
+    # Get all files in the source language directory and filter out only .strings files
+    input_files = [os.path.join(source_lang_dir, f) for f in os.listdir(source_lang_dir) if f.endswith('.strings')]
 
     # Create translator instance and process translations
     translator = StringsTranslator(args.auth_key, args.source_lang)
