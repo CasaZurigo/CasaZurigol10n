@@ -46,3 +46,4 @@ jobs:
           title: "Update generated files via SwiftGen"
           body: "This PR updates the generated files using SwiftGen."
           labels: generated-files
+          reviewers: lucaArchidiacono
