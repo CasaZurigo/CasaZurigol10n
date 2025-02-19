@@ -3,7 +3,7 @@ name: Update PR with SwiftGen Changes
 on:
   pull_request:
     branches:
-      - '*'
+      - "*"
     types:
       - opened
       - edited
@@ -18,32 +18,31 @@ jobs:
     runs-on: macos-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
-      with:
-        fetch-depth: 0
-        token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Install SwiftGen
-      run: |
-        brew install swiftgen
+      - name: Install SwiftGen
+        run: |
+          brew install swiftgen
 
-    - name: Run SwiftGen
-      run: |
-        swiftgen config run
+      - name: Run SwiftGen
+        run: |
+          swiftgen config run
 
-    - name: Configure Git
-      run: |
-        git config --global user.name 'GitHub Actions Bot'
-        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+      - name: Configure Git
+        run: |
+          git config --global user.name 'GitHub Actions Bot'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
-    - name: Add and commit changes
-      run: |
-        git add -A
-        if git diff --staged --quiet; then
-          echo "No changes to commit"
-        else
-          git commit -m "Update generated files via SwiftGen"
-          git push --force origin ${{ github.ref }}
-        fi
-
+      - name: Add and commit changes
+        run: |
+          git add -A
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update generated files via SwiftGen"
+            git push --force origin ${{ github.ref }}
+          fi
