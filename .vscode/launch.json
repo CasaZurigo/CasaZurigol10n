@@ -37,6 +37,21 @@
                 "--old-key", "${input:oldKey}",
                 "--new-key", "${input:newKey}",
             ]
+        },
+        {
+            "name": "TS Debugger: Delete Entries in CasaZurigol10n",
+            "type": "node",
+            "request": "launch",
+            "preLaunchTask": "tsc: build - tsconfig.json",
+            "program": "${workspaceFolder}/scripts/dist/deleteEntries.js",
+            "sourceMaps": true,
+            "console": "integratedTerminal",
+            "outFiles": [
+                "${workspaceFolder}/scripts/dist/**/*.js",
+            ],
+            "args": [
+                "--key", "${input:deleteKey}",
+            ]
         }
     ],
     "inputs": [
@@ -55,6 +70,11 @@
             "id": "newKey",
             "type": "promptString",
             "description": "Enter the new key",
+        },
+        {
+            "id": "deleteKey",
+            "type": "promptString",
+            "description": "Enter the key",
         }
     ]
 }
