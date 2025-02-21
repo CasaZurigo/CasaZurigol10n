@@ -8,10 +8,11 @@ Usage: $(basename $0) <command> [options]
 A tool for managing localization files.
 
 Commands:
-    translate   Translate strings files using DeepL API
-    delete      Delete an entry from all the files
-    rename      Rename a key from all the files
-    help        Show this help message
+    translate       Translate strings files using DeepL API
+    delete          Delete an entry from all the files
+    rename          Rename a key from all the files
+    compileToSwift  Compiles the curren translation files to a Swift file
+    help            Show this help message
 
 Global Options:
     -h, --help  Show this help message
@@ -19,10 +20,13 @@ Global Options:
 Command-specific Options:
     translate:
         --auth-key <key>          DeepL API authentication key (or use DEEPL_AUTH_KEY env variable)
+        --openRouter-key <key>    OpenRouter API authentication key (or use OPENROUTER_AUTH_KEY env variable)
         --source-lang <lang>      Source language code (default: en)
         --target-langs <langs>    Target language codes (comma-separated)
-        --input-dir <dir>         Input directory (default: ./Sources/CasaZurigol10n/Resources)
-        --output-dir <dir>        Output directory (default: ./Sources/CasaZurigol10n/Resources)
+        --input-dir <path>        Input directory (default: ./Sources/CasaZurigol10n/Resources)
+        --output-dir <path>       Output directory (default: ./Sources/CasaZurigol10n/Resources)
+        --ai-model <model>        AI model to use for refinement (default: meta-llama/llama-3.3-70b-instruct:free)
+        --context <context>       Additional context for AI refinement
 
     delete:
         --key <key>              The key to delete from all files
@@ -31,18 +35,22 @@ Command-specific Options:
         --old-key <key>          The key to be renamed
         --new-key <key>          The new name for the key
 
+    compileToSwift:
+        --input-dir <path>         Input directory containing .strings files (default: ./Sources/CasaZurigol10n/Resources/en.lproj)
+        --ignore <files>          Comma-separated list of files to ignore
+        --output <path>           Output Swift file path (default: ./Sources/CasaZurigol10n/Generated/Localization+Generated.swift)
 Examples:
     $(basename $0) translate                                                    # Translate using settings from .env
     $(basename $0) translate --source-lang en --target-langs fr,it             # Override source and target languages
     $(basename $0) delete --key "key.to.delete"                               # Delete specific key from all files
     $(basename $0) rename --old-key "old.key" --new-key "new.key"            # Rename specific key in all files
+    $(basename $0) compileToSwift --ignore "AppShortcuts.strings,Foo.strings"            # Compile translation files to a Swift file
 
 Environment Variables:
-    DEEPL_AUTH_KEY    DeepL API authentication key
-    SOURCE_LANG       Source language code (default: en)
-    TARGET_LANG       Target language codes (comma-separated)
-    INPUT_DIR         Input directory path
-    OUTPUT_DIR        Output directory path
+    DEEPL_AUTH_KEY         DeepL API authentication key
+    OPENROUTER_AUTH_KEY    OpenRouter API authentication key
+    SOURCE_LANG            Source language code (default: en)
+    TARGET_LANG            Target language codes (comma-separated)
 
 For more detailed information about a specific command, use:
     $(basename $0) <command> --help
@@ -88,6 +96,9 @@ case $COMMAND in
         ;;
     "rename")
         npm run rename -- "$@"
+        ;;
+    "compile")
+        npm run compileToSwift -- "$@"
         ;;
     *)
         echo "Error: Unknown command: $COMMAND"
