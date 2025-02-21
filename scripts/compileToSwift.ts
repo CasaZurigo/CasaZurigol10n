@@ -189,16 +189,44 @@ class SwiftCompiler {
   }
 
   private sanitizeKey(key: string): string {
-    // First, handle any separators if they exist
-    const processed = key
-      .split(/[._]/)
-      .map((part, index) =>
-        index === 0 ? part : part.charAt(0).toUpperCase() + part.slice(1),
-      )
-      .join("");
+    let workingString = key;
+    const matched = key.match(/^[A-Z]+/);
+    if (matched) {
+      let prefixMatch = matched[0];
+      let prefixMatchLength = prefixMatch.length;
 
-    // Then ensure the first character is lowercase
-    return processed.charAt(0).toLowerCase() + processed.slice(1);
+      if (prefixMatchLength <= key.length) {
+        let prefix = key.slice(0, prefixMatchLength).toLowerCase();
+        const prefixLength = prefix.length;
+
+        if (prefixLength > 1) {
+          prefix =
+            prefix.slice(0, prefixLength - 1) + prefix.slice(-1).toUpperCase();
+        }
+
+        workingString = prefix;
+
+        if (prefixLength < key.length) {
+          let rest = key.slice(prefixLength);
+          workingString += rest;
+        }
+      }
+    }
+
+    let parts = workingString.split("_");
+
+    if (parts.length === 1) {
+      return workingString;
+    }
+
+    return parts
+      .map((part, index) => {
+        if (index === 0) {
+          return part.toLowerCase();
+        }
+        return part.charAt(0).toUpperCase() + part.slice(1).toLowerCase();
+      })
+      .join("");
   }
 
   private getTableName(filePath: string): string | null {
@@ -208,10 +236,6 @@ class SwiftCompiler {
 
     const filename = path.basename(filePath);
     return filename.replace(".strings", "");
-  }
-
-  private generateComment(value: string): string {
-    return `/// ${value}`;
   }
 
   private shouldIgnoreFile(filePath: string): boolean {
