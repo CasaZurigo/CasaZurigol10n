@@ -280,12 +280,12 @@ program
     ],
   )
   .option(
-    "--input-dir <dir>",
+    "--input-dir <path>",
     "Input directory",
     "./Sources/CasaZurigol10n/Resources",
   )
   .option(
-    "--output-dir <dir>",
+    "--output-dir <path>",
     "Output directory",
     "./Sources/CasaZurigol10n/Resources",
   )
