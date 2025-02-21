@@ -9,3 +9,5 @@ DerivedData/
 translations/
 .env
 /scripts/__pycache__/**/*
+node_modules/
+scripts/dist

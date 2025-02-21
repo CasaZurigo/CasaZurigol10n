@@ -5,16 +5,37 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Python Debugger: Current File with Arguments",
-            "type": "debugpy",
+            "name": "TS Debugger: Translate CasaZurigol10n",
+            "type": "node",
             "request": "launch",
-            "program": "${file}",
+            "preLaunchTask": "tsc: build - tsconfig.json",
+            "program": "${workspaceFolder}/scripts/dist/translate.js",
+            "sourceMaps": true,
             "console": "integratedTerminal",
+            "outFiles": [
+                "${workspaceFolder}/scripts/dist/**/*.js",
+            ],
             "args": [
                 "--auth-key", "${input:deepLAuthKey}",
                 "--target-langs", "fr", "it", "es", "pt-PT", "tr", "de",
                 "--source-lang", "EN",
                 "--output-dir", "./Sources/CasaZurigol10n/Resources"
+            ]
+        },
+        {
+            "name": "TS Debugger: Rename Entries in CasaZurigol10n",
+            "type": "node",
+            "request": "launch",
+            "preLaunchTask": "tsc: build - tsconfig.json",
+            "program": "${workspaceFolder}/scripts/dist/renameEntries.js",
+            "sourceMaps": true,
+            "console": "integratedTerminal",
+            "outFiles": [
+                "${workspaceFolder}/scripts/dist/**/*.js",
+            ],
+            "args": [
+                "--old-key", "${input:oldKey}",
+                "--new-key", "${input:newKey}",
             ]
         }
     ],
@@ -24,6 +45,16 @@
             "type": "promptString",
             "description": "Enter your DeepL API key",
             "password": true
+        },
+        {
+            "id": "oldKey",
+            "type": "promptString",
+            "description": "Enter the old key",
+        },
+        {
+            "id": "newKey",
+            "type": "promptString",
+            "description": "Enter the new key",
         }
     ]
 }
