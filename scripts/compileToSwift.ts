@@ -146,7 +146,11 @@ program
     "Input directory containing .strings files",
   )
   .option("--ignore <files>", "Comma-separated list of files to ignore", "")
-  .requiredOption("--output <path>", "Output Swift file path")
+  .requiredOption(
+    "--output <path>",
+    "Output Swift file path",
+    "./Sources/CasaZurigol10n/Generated/Localization+Generated.swift",
+  )
   .parse(process.argv);
 
 const options = program.opts();
