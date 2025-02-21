@@ -36,7 +36,7 @@ Command-specific Options:
         --new-key <key>          The new name for the key
 
     compileToSwift:
-        --input-dir <path>         Input directory containing .strings files (default: ./Sources/CasaZurigol10n/Resources/en.lproj)
+        --input-dir <path>        Input directory containing .strings files (default: ./Sources/CasaZurigol10n/Resources/en.lproj)
         --ignore <files>          Comma-separated list of files to ignore
         --output <path>           Output Swift file path (default: ./Sources/CasaZurigol10n/Generated/Localization+Generated.swift)
 Examples:
