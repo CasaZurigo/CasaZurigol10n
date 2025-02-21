@@ -97,7 +97,7 @@ case $COMMAND in
     "rename")
         npm run rename -- "$@"
         ;;
-    "compile")
+    "compileToSwift")
         npm run compileToSwift -- "$@"
         ;;
     *)
