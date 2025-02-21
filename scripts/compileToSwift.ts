@@ -54,7 +54,7 @@ class SwiftCompiler {
     const lines = [
       this.generateComment(value),
       `public static let ${sanitizedKey} = L10n.tr("${tableName}", "${key}", fallback: "${value}")`,
-      `public static let ${sanitizedKey}_resource = LocalizedStringResource("${key}", defaultValue: "${value}", table: "${tableName}", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: 'nil'})`,
+      `public static let ${sanitizedKey}_resource = LocalizedStringResource("${key}", defaultValue: "${value}", table: "${tableName}", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: 'nil')`,
       `public static let ${sanitizedKey}_key = "${key}"`,
     ];
     return lines.join("\n    ");
@@ -110,8 +110,7 @@ class SwiftCompiler {
       })
       .join("\n\n");
 
-    return `
-// swiftlint:disable all
+    return `// swiftlint:disable all
 
 import Foundation
 
