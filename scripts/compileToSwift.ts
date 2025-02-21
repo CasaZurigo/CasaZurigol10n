@@ -1,3 +1,170 @@
+type IndentSize = 2 | 4;
+type NewLineCount = 1 | 2;
+type CommentType = "single" | "doc" | "mark";
+type TextStyle = "bold" | "italic" | "code";
+
+interface PropertyDeclarationParams {
+  key: string;
+  sanitizedKey: string;
+  value: string;
+  tableName: string;
+}
+
+interface EnumDeclarationParams {
+  name: string;
+  content: string;
+}
+
+interface FormattingOptions {
+  indent?: IndentSize;
+  newLines?: NewLineCount;
+  addTrailingNewLine?: boolean;
+}
+
+interface SwiftFormattingUtils {
+  readonly SINGLE_INDENT: IndentSize;
+  readonly DOUBLE_INDENT: IndentSize;
+
+  indent(text: string, spaces?: IndentSize): string;
+  joinWithNewLines(lines: string[], count?: NewLineCount): string;
+  wrapInBraces(content: string, options?: FormattingOptions): string;
+  wrapInComment(text: string, type?: CommentType): string;
+  formatMarkup(text: string, style: TextStyle): string;
+  addBlankLines(text: string, count?: NewLineCount): string;
+}
+
+interface SwiftTemplates {
+  propertyComment: (value: string) => string;
+  propertyDeclaration: (params: PropertyDeclarationParams) => string[];
+  enumDeclaration: (params: EnumDeclarationParams) => string[];
+  fileHeader: string[];
+  fileFooter: string[];
+}
+
+const SwiftFormatting: SwiftFormattingUtils = {
+  SINGLE_INDENT: 2,
+  DOUBLE_INDENT: 4,
+
+  indent(
+    text: string,
+    spaces: IndentSize = SwiftFormatting.SINGLE_INDENT,
+  ): string {
+    return text
+      .split("\n")
+      .map((line) => " ".repeat(spaces) + line)
+      .join("\n");
+  },
+
+  joinWithNewLines(lines: string[], count: NewLineCount = 1): string {
+    return lines.filter(Boolean).join("\n".repeat(count));
+  },
+
+  wrapInBraces(
+    content: string,
+    options: FormattingOptions = {
+      indent: SwiftFormatting.SINGLE_INDENT,
+      newLines: 1,
+      addTrailingNewLine: true,
+    },
+  ): string {
+    const {
+      indent = SwiftFormatting.SINGLE_INDENT,
+      newLines = 1,
+      addTrailingNewLine = true,
+    } = options;
+
+    return `{${addTrailingNewLine ? "\n".repeat(newLines) : ""}${SwiftFormatting.indent(
+      content,
+      indent,
+    )}${addTrailingNewLine ? "\n".repeat(newLines) : ""}}`;
+  },
+
+  wrapInComment(text: string, type: CommentType = "single"): string {
+    switch (type) {
+      case "doc":
+        return `/// ${text}`;
+      case "mark":
+        return `// MARK: - ${text}`;
+      default:
+        return `// ${text}`;
+    }
+  },
+
+  formatMarkup(text: string, style: TextStyle): string {
+    const markers: Record<TextStyle, string> = {
+      bold: "**",
+      italic: "_",
+      code: "`",
+    };
+    return `${markers[style]}${text}${markers[style]}`;
+  },
+
+  addBlankLines(text: string, count: NewLineCount = 1): string {
+    return `${text}${"\n".repeat(count)}`;
+  },
+};
+
+const SWIFT_TEMPLATES: SwiftTemplates = {
+  propertyComment: (value) => `/// ${value}`,
+
+  propertyDeclaration: ({ key, sanitizedKey, value, tableName }) => [
+    `public static let ${sanitizedKey} = L10n.tr("${tableName}", "${key}", fallback: "${value}")`,
+    `public static let ${sanitizedKey}_resource = LocalizedStringResource(`,
+    `    "${key}",`,
+    `    defaultValue: "${value}",`,
+    `    table: "${tableName}",`,
+    `    locale: Locale.current,`,
+    `    bundle: .atURL(BundleToken.bundle.bundleURL),`,
+    `    comment: 'nil'`,
+    `)`,
+    `public static let ${sanitizedKey}_key = "${key}"`,
+  ],
+
+  enumDeclaration: ({ name, content }) => [
+    `public enum ${name} {`,
+    content,
+    `}`,
+  ],
+
+  fileHeader: [
+    "// swiftlint:disable all",
+    "import Foundation",
+    "",
+    "// Generated using strings-to-swift compiler",
+    "// Do not edit directly",
+    "",
+    "// swiftlint:disable superfluous_disable_command file_length implicit_return prefer_self_in_static_references",
+    "// swiftlint:disable explicit_type_interface function_parameter_count identifier_name line_length",
+    "// swiftlint:disable nesting type_body_length type_name vertical_whitespace_opening_braces",
+    "",
+  ],
+
+  fileFooter: [
+    "",
+    "// swiftlint:enable explicit_type_interface function_parameter_count identifier_name line_length",
+    "// swiftlint:enable nesting type_body_length type_name vertical_whitespace_opening_braces",
+    "",
+    "extension L10n {",
+    "  private static func tr(_ table: String, _ key: String, _ args: CVarArg..., fallback value: String) -> String {",
+    "    let format = BundleToken.bundle.localizedString(forKey: key, value: value, table: table)",
+    "    return String(format: format, locale: Locale.current, arguments: args)",
+    "  }",
+    "}",
+    "",
+    "// swiftlint:disable convenience_type",
+    "private final class BundleToken {",
+    "  static let bundle: Bundle = {",
+    "    #if SWIFT_PACKAGE",
+    "    return Bundle.module",
+    "    #else",
+    "    return Bundle(for: BundleToken.self)",
+    "    #endif",
+    "  }()",
+    "}",
+    "// swiftlint:enable convenience_type",
+  ],
+};
+
 import { Command } from "commander";
 import path from "path";
 import fs from "fs";
@@ -11,20 +178,27 @@ interface StringTable {
 class SwiftCompiler {
   private stringTables: StringTable[] = [];
   private ignoredFiles: Set<string>;
+  private template: SwiftTemplates;
 
-  constructor(ignoredFiles: string[] = []) {
+  constructor(
+    ignoredFiles: string[] = [],
+    template: SwiftTemplates = SWIFT_TEMPLATES,
+  ) {
     this.ignoredFiles = new Set(ignoredFiles.map((f) => f.toLowerCase()));
+    this.template = template;
   }
 
   private sanitizeKey(key: string): string {
-    return key
+    // First, handle any separators if they exist
+    const processed = key
       .split(/[._]/)
       .map((part, index) =>
-        index === 0
-          ? part.toLowerCase()
-          : part.charAt(0).toUpperCase() + part.slice(1).toLowerCase(),
+        index === 0 ? part : part.charAt(0).toUpperCase() + part.slice(1),
       )
       .join("");
+
+    // Then ensure the first character is lowercase
+    return processed.charAt(0).toLowerCase() + processed.slice(1);
   }
 
   private getTableName(filePath: string): string | null {
@@ -51,13 +225,40 @@ class SwiftCompiler {
     tableName: string,
   ): string {
     const sanitizedKey = this.sanitizeKey(key);
-    const lines = [
-      this.generateComment(value),
-      `public static let ${sanitizedKey} = L10n.tr("${tableName}", "${key}", fallback: "${value}")`,
-      `public static let ${sanitizedKey}_resource = LocalizedStringResource("${key}", defaultValue: "${value}", table: "${tableName}", locale: Locale.current, bundle: .atURL(BundleToken.bundle.bundleURL), comment: 'nil')`,
-      `public static let ${sanitizedKey}_key = "${key}"`,
-    ];
-    return lines.join("\n    ");
+    return SwiftFormatting.joinWithNewLines([
+      this.template.propertyComment(value),
+      SwiftFormatting.joinWithNewLines(
+        this.template.propertyDeclaration({
+          key,
+          sanitizedKey,
+          value,
+          tableName,
+        }),
+      ),
+    ]);
+  }
+
+  private generateEnumDeclaration(table: StringTable): string {
+    const sortedTranslations = Object.entries(table.translations).sort(
+      ([key1], [key2]) => key1.localeCompare(key2),
+    );
+
+    const translationsContent = SwiftFormatting.joinWithNewLines(
+      sortedTranslations.map(([key, value]) =>
+        this.generatePropertyDeclaration(key, value, table.name),
+      ),
+      2,
+    );
+
+    return SwiftFormatting.joinWithNewLines(
+      this.template.enumDeclaration({
+        name: table.name,
+        content: SwiftFormatting.indent(
+          translationsContent,
+          SwiftFormatting.SINGLE_INDENT,
+        ),
+      }),
+    );
   }
 
   public parseStringsFile(filePath: string) {
@@ -89,63 +290,18 @@ class SwiftCompiler {
   }
 
   public compile(): string {
-    const enumContent = this.stringTables
-      .map((table) => {
-        const sortedTranslations = Object.entries(table.translations).sort(
-          ([key1], [key2]) => key1.localeCompare(key2),
-        );
-        const translationsContent = sortedTranslations
-          .map((translation) =>
-            this.generatePropertyDeclaration(
-              translation[0],
-              translation[1],
-              table.name,
-            ),
-          )
-          .join("\n\n    ");
+    const enumContent = SwiftFormatting.joinWithNewLines(
+      this.stringTables.map((table) => this.generateEnumDeclaration(table)),
+      2,
+    );
 
-        return `  public enum ${table.name} {
-    ${translationsContent}
-  }`;
-      })
-      .join("\n\n");
-
-    return `// swiftlint:disable all
-
-import Foundation
-
-// Generated using strings-to-swift compiler
-// Do not edit directly
-
-// swiftlint:disable superfluous_disable_command file_length implicit_return prefer_self_in_static_references
-
-
-// swiftlint:disable explicit_type_interface function_parameter_count identifier_name line_length
-// swiftlint:disable nesting type_body_length type_name vertical_whitespace_opening_braces
-public enum L10n {
-${enumContent}
-}
-// swiftlint:enable explicit_type_interface function_parameter_count identifier_name line_length
-// swiftlint:enable nesting type_body_length type_name vertical_whitespace_opening_braces
-
-extension L10n {
-  private static func tr(_ table: String, _ key: String, _ args: CVarArg..., fallback value: String) -> String {
-    let format = BundleToken.bundle.localizedString(forKey: key, value: value, table: table)
-    return String(format: format, locale: Locale.current, arguments: args)
-  }
-}
-
-// swiftlint:disable convenience_type
-private final class BundleToken {
-  static let bundle: Bundle = {
-    #if SWIFT_PACKAGE
-    return Bundle.module
-    #else
-    return Bundle(for: BundleToken.self)
-    #endif
-  }()
-}
-// swiftlint:enable convenience_type`;
+    return SwiftFormatting.joinWithNewLines([
+      SwiftFormatting.joinWithNewLines(this.template.fileHeader),
+      "public enum L10n {",
+      SwiftFormatting.indent(enumContent, SwiftFormatting.SINGLE_INDENT),
+      "}",
+      SwiftFormatting.joinWithNewLines(this.template.fileFooter),
+    ]);
   }
 }
 
