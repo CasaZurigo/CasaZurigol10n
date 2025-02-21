@@ -1,80 +1,96 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
-    "configurations": [
-        {
-            "name": "TS Debugger: Translate CasaZurigol10n",
-            "type": "node",
-            "request": "launch",
-            "preLaunchTask": "tsc: build - tsconfig.json",
-            "program": "${workspaceFolder}/scripts/dist/translate.js",
-            "sourceMaps": true,
-            "console": "integratedTerminal",
-            "outFiles": [
-                "${workspaceFolder}/scripts/dist/**/*.js",
-            ],
-            "args": [
-                "--auth-key", "${input:deepLAuthKey}",
-                "--target-langs", "fr", "it", "es", "pt-PT", "tr", "de",
-                "--source-lang", "EN",
-                "--output-dir", "./Sources/CasaZurigol10n/Resources"
-            ]
-        },
-        {
-            "name": "TS Debugger: Rename Entries in CasaZurigol10n",
-            "type": "node",
-            "request": "launch",
-            "preLaunchTask": "tsc: build - tsconfig.json",
-            "program": "${workspaceFolder}/scripts/dist/renameEntries.js",
-            "sourceMaps": true,
-            "console": "integratedTerminal",
-            "outFiles": [
-                "${workspaceFolder}/scripts/dist/**/*.js",
-            ],
-            "args": [
-                "--old-key", "${input:oldKey}",
-                "--new-key", "${input:newKey}",
-            ]
-        },
-        {
-            "name": "TS Debugger: Delete Entries in CasaZurigol10n",
-            "type": "node",
-            "request": "launch",
-            "preLaunchTask": "tsc: build - tsconfig.json",
-            "program": "${workspaceFolder}/scripts/dist/deleteEntries.js",
-            "sourceMaps": true,
-            "console": "integratedTerminal",
-            "outFiles": [
-                "${workspaceFolder}/scripts/dist/**/*.js",
-            ],
-            "args": [
-                "--key", "${input:deleteKey}",
-            ]
-        }
-    ],
-    "inputs": [
-        {
-            "id": "deepLAuthKey",
-            "type": "promptString",
-            "description": "Enter your DeepL API key",
-            "password": true
-        },
-        {
-            "id": "oldKey",
-            "type": "promptString",
-            "description": "Enter the old key",
-        },
-        {
-            "id": "newKey",
-            "type": "promptString",
-            "description": "Enter the new key",
-        },
-        {
-            "id": "deleteKey",
-            "type": "promptString",
-            "description": "Enter the key",
-        }
-    ]
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "TS Debugger: Translate CasaZurigol10n",
+      "type": "node",
+      "request": "launch",
+      "preLaunchTask": "tsc: build - tsconfig.json",
+      "program": "${workspaceFolder}/scripts/dist/translate.js",
+      "sourceMaps": true,
+      "console": "integratedTerminal",
+      "outFiles": ["${workspaceFolder}/scripts/dist/**/*.js"],
+      "args": [
+        "--auth-key",
+        "${input:deepLAuthKey}",
+        "--target-langs",
+        "fr",
+        "it",
+        "es",
+        "pt-PT",
+        "tr",
+        "de",
+        "--source-lang",
+        "EN",
+        "--output-dir",
+        "./Sources/CasaZurigol10n/Resources"
+      ]
+    },
+    {
+      "name": "TS Debugger: Rename Entries in CasaZurigol10n",
+      "type": "node",
+      "request": "launch",
+      "preLaunchTask": "tsc: build - tsconfig.json",
+      "program": "${workspaceFolder}/scripts/dist/renameEntries.js",
+      "sourceMaps": true,
+      "console": "integratedTerminal",
+      "outFiles": ["${workspaceFolder}/scripts/dist/**/*.js"],
+      "args": ["--old-key", "${input:oldKey}", "--new-key", "${input:newKey}"]
+    },
+    {
+      "name": "TS Debugger: Delete Entries in CasaZurigol10n",
+      "type": "node",
+      "request": "launch",
+      "preLaunchTask": "tsc: build - tsconfig.json",
+      "program": "${workspaceFolder}/scripts/dist/deleteEntries.js",
+      "sourceMaps": true,
+      "console": "integratedTerminal",
+      "outFiles": ["${workspaceFolder}/scripts/dist/**/*.js"],
+      "args": ["--key", "${input:deleteKey}"]
+    },
+    {
+      "name": "TS Debugger: Compile CasaZurigol10n to Swift Code",
+      "type": "node",
+      "request": "launch",
+      "preLaunchTask": "tsc: build - tsconfig.json",
+      "program": "${workspaceFolder}/scripts/dist/compileToSwift.js",
+      "sourceMaps": true,
+      "console": "integratedTerminal",
+      "outFiles": ["${workspaceFolder}/scripts/dist/**/*.js"],
+      "args": [
+        "--input-dir",
+        "./Sources/CasaZurigol10n/Resources/en.lproj",
+        "--output",
+        "./Sources/CasaZurigol10n/Generated/Localization+Generated.swift",
+        "--ignore",
+        "AppShortcuts.strings"
+      ]
+    }
+  ],
+  "inputs": [
+    {
+      "id": "deepLAuthKey",
+      "type": "promptString",
+      "description": "Enter your DeepL API key",
+      "password": true
+    },
+    {
+      "id": "oldKey",
+      "type": "promptString",
+      "description": "Enter the old key"
+    },
+    {
+      "id": "newKey",
+      "type": "promptString",
+      "description": "Enter the new key"
+    },
+    {
+      "id": "deleteKey",
+      "type": "promptString",
+      "description": "Enter the key"
+    }
+  ]
 }
