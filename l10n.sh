@@ -75,25 +75,19 @@ fi
 
 SCRIPT_DIR="./scripts"
 
-# Ensure TypeScript files are compiled
-npm run build &> /dev/null || {
-    echo "Error: Failed to compile TypeScript files"
-    exit 1
-}
-
 # Get the command (first argument)
 COMMAND=$1
 shift  # Remove the command from the arguments
 
 case $COMMAND in
     "translate")
-        npx ts-node "$SCRIPT_DIR/translate.ts" "$@"
+        npm run translate -- "$@"
         ;;
     "delete")
-        npx ts-node "$SCRIPT_DIR/deleteEntries.ts" "$@"
+        npm run delete -- "$@"
         ;;
     "rename")
-        npx ts-node "$SCRIPT_DIR/renameEntries.ts" "$@"
+        npm run rename -- "$@"
         ;;
     *)
         echo "Error: Unknown command: $COMMAND"
