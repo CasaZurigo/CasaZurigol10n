@@ -111,12 +111,23 @@ class SwiftCompiler {
       .join("\n\n");
 
     return `
+// swiftlint:disable all
+
+import Foundation
+
 // Generated using strings-to-swift compiler
 // Do not edit directly
 
+// swiftlint:disable superfluous_disable_command file_length implicit_return prefer_self_in_static_references
+
+
+// swiftlint:disable explicit_type_interface function_parameter_count identifier_name line_length
+// swiftlint:disable nesting type_body_length type_name vertical_whitespace_opening_braces
 public enum L10n {
 ${enumContent}
 }
+// swiftlint:enable explicit_type_interface function_parameter_count identifier_name line_length
+// swiftlint:enable nesting type_body_length type_name vertical_whitespace_opening_braces
 
 extension L10n {
   private static func tr(_ table: String, _ key: String, _ args: CVarArg..., fallback value: String) -> String {
@@ -134,7 +145,8 @@ private final class BundleToken {
     return Bundle(for: BundleToken.self)
     #endif
   }()
-}`;
+}
+// swiftlint:enable convenience_type`;
   }
 }
 
@@ -144,6 +156,7 @@ program
   .requiredOption(
     "--input-dir <path>",
     "Input directory containing .strings files",
+    "./Sources/CasaZurigol10n/Resources/en.lproj",
   )
   .option("--ignore <files>", "Comma-separated list of files to ignore", "")
   .requiredOption(
