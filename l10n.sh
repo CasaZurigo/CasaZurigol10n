@@ -40,11 +40,11 @@ Command-specific Options:
         --ignore <files>          Comma-separated list of files to ignore
         --output <path>           Output Swift file path (default: ./Sources/CasaZurigol10n/Generated/Localization+Generated.swift)
 Examples:
-    $(basename $0) translate                                                    # Translate using settings from .env
-    $(basename $0) translate --source-lang en --target-langs fr,it             # Override source and target languages
-    $(basename $0) delete --key "key.to.delete"                               # Delete specific key from all files
-    $(basename $0) rename --old-key "old.key" --new-key "new.key"            # Rename specific key in all files
-    $(basename $0) compileToSwift --ignore "AppShortcuts.strings,Foo.strings"            # Compile translation files to a Swift file
+    $(basename $0) translate                                                            # Translate using settings from .env
+    $(basename $0) translate --source-lang en --target-langs fr,it                      # Override source and target languages
+    $(basename $0) delete --key "key.to.delete"                                         # Delete specific key from all files
+    $(basename $0) rename --old-key "old.key" --new-key "new.key"                       # Rename specific key in all files
+    $(basename $0) compileToSwift --ignore "AppShortcuts.strings,Foo.strings"           # Compile translation files to a Swift file
 
 Environment Variables:
     DEEPL_AUTH_KEY         DeepL API authentication key
