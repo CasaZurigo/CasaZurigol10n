@@ -27,7 +27,7 @@ export class StringsFileHandler implements FileHandler {
   createFile(translations: Record<string, string>, outputPath: string): void {
     fs.mkdirSync(path.dirname(outputPath), { recursive: true });
     const orderedContent = Object.entries(translations).sort(([a], [b]) =>
-      a.localeCompare(b)
+      a.localeCompare(b),
     );
     const content = orderedContent
       .map(([key, value]) => `"${key}" = "${value}";`)
@@ -50,15 +50,18 @@ export class JsonFileHandler implements FileHandler {
     fs.mkdirSync(path.dirname(outputPath), { recursive: true });
     const orderedContent = Object.keys(translations)
       .sort(([a], [b]) => a.localeCompare(b)) // Sort the keys alphabetically
-      .reduce((obj, key) => {
-        obj[key] = translations[key]; // Rebuild the object with sorted keys
-        return obj;
-      }, {} as Record<string, string>);
+      .reduce(
+        (obj, key) => {
+          obj[key] = translations[key]; // Rebuild the object with sorted keys
+          return obj;
+        },
+        {} as Record<string, string>,
+      );
 
     fs.writeFileSync(
       outputPath,
       JSON.stringify(orderedContent, null, 2),
-      "utf-8"
+      "utf-8",
     );
   }
 }

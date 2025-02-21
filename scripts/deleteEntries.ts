@@ -26,8 +26,8 @@ class StringsEditor {
       }
       return false;
     } catch (err) {
-        console.error(`Error deleting key in file '${filePath}': ${err}`);
-        return false;
+      console.error(`Error deleting key in file '${filePath}': ${err}`);
+      return false;
     }
   }
 

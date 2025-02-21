@@ -29,8 +29,8 @@ class StringsEditor {
       }
       return false;
     } catch (err) {
-        console.error(`Error renaming key in file '${filePath}': ${err}`);
-        return false;
+      console.error(`Error renaming key in file '${filePath}': ${err}`);
+      return false;
     }
   }
 

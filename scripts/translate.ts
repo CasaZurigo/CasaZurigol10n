@@ -47,10 +47,10 @@ class StringsTranslator {
     sourceLanguage: string,
     translatedText: string,
     targetLanguage: string,
-    context: string
-): Promise<string> {
+    context: string,
+  ): Promise<string> {
     try {
-        const prompt = `
+      const prompt = `
             Original text: "${originalText}"
             DeepL translation: "${translatedText}"
             Source language: ${sourceLanguage}
@@ -67,18 +67,20 @@ class StringsTranslator {
             Provide only the refined translation without any explanation.
         `;
 
-        const result = streamText({
-            model: this.openRouter(this.aiModel),
-            prompt,
-        });
+      const result = streamText({
+        model: this.openRouter(this.aiModel),
+        prompt,
+      });
 
-        const refinedTranslation = await result.toTextStreamResponse().text();
-        return refinedTranslation;
+      const refinedTranslation = await result.toTextStreamResponse().text();
+      return refinedTranslation;
     } catch (error) {
-        console.warn(`AI refinement failed, using DeepL translation instead: ${error}`);
-        return translatedText;
+      console.warn(
+        `AI refinement failed, using DeepL translation instead: ${error}`,
+      );
+      return translatedText;
     }
-}
+  }
 
   private async translateStrings(
     sourceTranslations: Record<string, string>,
@@ -86,26 +88,29 @@ class StringsTranslator {
     sourceLanguage: string,
     targetLanguage: string,
     shouldSerializeKeys: boolean,
-    context: string = ""
+    context: string = "",
   ): Promise<Record<string, string>> {
     const translated = { ...targetTranslations };
     let missingTranslations: Record<string, string>;
 
     if (shouldSerializeKeys) {
       const sourceLower = Object.fromEntries(
-        Object.entries(sourceTranslations).map(([k, v]) => [k.toLowerCase(), v])
+        Object.entries(sourceTranslations).map(([k, v]) => [
+          k.toLowerCase(),
+          v,
+        ]),
       );
       const targetKeys = new Set(
-        Object.keys(targetTranslations).map((k) => k.toLowerCase())
+        Object.keys(targetTranslations).map((k) => k.toLowerCase()),
       );
       missingTranslations = Object.fromEntries(
-        Object.entries(sourceLower).filter(([k]) => !targetKeys.has(k))
+        Object.entries(sourceLower).filter(([k]) => !targetKeys.has(k)),
       );
     } else {
       missingTranslations = Object.fromEntries(
         Object.entries(sourceTranslations).filter(
-          ([k]) => !(k in targetTranslations)
-        )
+          ([k]) => !(k in targetTranslations),
+        ),
       );
     }
 
@@ -113,7 +118,7 @@ class StringsTranslator {
       console.log(
         `Translating ${
           Object.keys(missingTranslations).length
-        } missing strings to ${targetLanguage}...`
+        } missing strings to ${targetLanguage}...`,
       );
 
       const total = Object.keys(missingTranslations).length;
@@ -130,16 +135,16 @@ class StringsTranslator {
             const deeplResult = await this.translator.translateText(
               value,
               sourceLanguage.toLowerCase() as SourceLanguageCode,
-              targetLanguage.toLowerCase() as TargetLanguageCode
+              targetLanguage.toLowerCase() as TargetLanguageCode,
             );
 
             // Then, refine it with AI
             const refinedTranslation = await this.refineTranslationWithAI(
-                value,
-                sourceLanguage,
-                deeplResult.text,
-                targetLanguage,
-                context
+              value,
+              sourceLanguage,
+              deeplResult.text,
+              targetLanguage,
+              context,
             );
 
             translated[key] = refinedTranslation;
@@ -151,7 +156,7 @@ class StringsTranslator {
           }
         }
         console.log(
-          `Progress: ${i}/${total} (${Math.floor((i / total) * 100)}%)`
+          `Progress: ${i}/${total} (${Math.floor((i / total) * 100)}%)`,
         );
         i++;
       }
@@ -166,7 +171,7 @@ class StringsTranslator {
     inputFiles: string[],
     sourceLanguage: string,
     targetLanguages: string[],
-    outputDir: string = "translations"
+    outputDir: string = "translations",
   ): Promise<void> {
     for (const inputFile of inputFiles) {
       const isInfoPlist = this.isInfoPlist(inputFile);
@@ -180,7 +185,7 @@ class StringsTranslator {
       const totalStrings = Object.keys(sourceTranslations).length;
       const totalChars = Object.values(sourceTranslations).reduce(
         (sum, value) => sum + value.length,
-        0
+        0,
       );
 
       console.log(`\nProcessing source file: ${inputFile}`);
@@ -188,7 +193,7 @@ class StringsTranslator {
       console.log(`Total characters: ${totalChars}`);
       console.log(
         `Will translate ${totalStrings * targetLanguages.length} strings & ` +
-          `${totalChars * targetLanguages.length} characters`
+          `${totalChars * targetLanguages.length} characters`,
       );
 
       for (const lang of targetLanguages) {
@@ -199,12 +204,12 @@ class StringsTranslator {
         const stringsOutputFile = path.join(
           outputDir,
           `${lang}.lproj`,
-          `${inputStem}.strings`
+          `${inputStem}.strings`,
         );
         const jsonOutputFile = path.join(
           outputDir,
           `${lang}.lproj`,
-          `${inputStem}.json`
+          `${inputStem}.json`,
         );
 
         let existingStringsTranslations = {};
@@ -230,7 +235,7 @@ class StringsTranslator {
           existingTranslations,
           sourceLanguage,
           lang,
-          shouldSerializeKeys
+          shouldSerializeKeys,
         );
 
         stringsHandler.createFile(translated, stringsOutputFile);
@@ -249,17 +254,17 @@ program
   .option(
     "--deepl-key <key>",
     "DeepL API authentication key",
-    process.env.DEEPL_AUTH_KEY
+    process.env.DEEPL_AUTH_KEY,
   )
   .option(
     "--openRouter-key <key>",
     "OpenRouter API authentication key",
-    process.env.OPENROUTER_AUTH_KEY
+    process.env.OPENROUTER_AUTH_KEY,
   )
   .option(
     "--source-lang <lang>",
     "Source language code",
-    process.env.SOURCE_LANG || "en"
+    process.env.SOURCE_LANG || "en",
   )
   .option(
     "--target-langs <langs...>",
@@ -272,22 +277,22 @@ program
       "tr",
       "de",
       "en",
-    ]
+    ],
   )
   .option(
     "--input-dir <dir>",
     "Input directory",
-    "./Sources/CasaZurigol10n/Resources"
+    "./Sources/CasaZurigol10n/Resources",
   )
   .option(
     "--output-dir <dir>",
     "Output directory",
-    "./Sources/CasaZurigol10n/Resources"
+    "./Sources/CasaZurigol10n/Resources",
   )
   .option(
     "--ai-model <model>",
     "AI model to use for refinement",
-    "meta-llama/llama-3.3-70b-instruct:free"
+    "meta-llama/llama-3.3-70b-instruct:free",
   )
   .option("--context <context>", "Additional context for AI refinement", "")
   .parse(process.argv);
@@ -296,13 +301,13 @@ const options = program.opts();
 
 if (!options.deeplKey) {
   throw new Error(
-    "DeepL authentication key is required. Provide it via --auth-key or DEEPL_AUTH_KEY environment variable"
+    "DeepL authentication key is required. Provide it via --auth-key or DEEPL_AUTH_KEY environment variable",
   );
 }
 
 const sourceLangDir = path.join(
   options.inputDir,
-  `${options.sourceLang}.lproj`
+  `${options.sourceLang}.lproj`,
 );
 const inputFiles = fs
   .readdirSync(sourceLangDir)
@@ -312,7 +317,7 @@ const inputFiles = fs
 const translator = new StringsTranslator(
   options.deeplKey,
   options.openRouterKey,
-  options.aiModel
+  options.aiModel,
 );
 
 translator
@@ -320,7 +325,7 @@ translator
     inputFiles,
     options.sourceLang,
     options.targetLangs,
-    options.outputDir
+    options.outputDir,
   )
   .catch((error) => {
     console.error("Translation failed:", error);
