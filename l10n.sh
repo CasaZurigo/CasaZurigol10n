@@ -29,11 +29,11 @@ Command-specific Options:
         --context <context>       Additional context for AI refinement
 
     delete:
-        --key <key>              The key to delete from all files
+        --key <key>               The key to delete from all files
 
     rename:
-        --old-key <key>          The key to be renamed
-        --new-key <key>          The new name for the key
+        --old-key <key>           The key to be renamed
+        --new-key <key>           The new name for the key
 
     compileToSwift:
         --input-dir <path>        Input directory containing .strings files (default: ./Sources/CasaZurigol10n/Resources/en.lproj)
