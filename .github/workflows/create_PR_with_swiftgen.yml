@@ -34,7 +34,7 @@ jobs:
 
       - name: Generate Swift code
         run: |
-          npm run compile -- \
+          sh l10n.sh compileToSwift \
             --input-dir ./Sources/CasaZurigol10n/Resources/en.lproj \
             --ignore "AppShortcuts.strings" \
             --output ./Sources/CasaZurigol10n/Generated/Localization+Generated.swift
