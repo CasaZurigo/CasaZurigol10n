@@ -57,12 +57,12 @@ For more detailed information about a specific command, use:
 EOF
 }
 
-# Check if .env file exists
-if [ ! -f ".env" ]; then
-    echo "Error: .env file not found!"
-    exit 1
+# Check if .env file exists and source it
+if [ -f ".env" ]; then
+    source ".env"
+else
+    echo "Warning: .env file not found. Continuing without it."
 fi
-source ".env"
 
 # Check if Node.js and npm are installed
 if ! command -v node &> /dev/null; then
