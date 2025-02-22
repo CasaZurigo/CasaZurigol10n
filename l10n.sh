@@ -64,17 +64,6 @@ else
     echo "Warning: .env file not found. Continuing without it."
 fi
 
-# Check if Node.js and npm are installed
-if ! command -v node &> /dev/null; then
-    echo "Error: Node.js is not installed!"
-    exit 1
-fi
-
-if ! command -v npm &> /dev/null; then
-    echo "Error: npm is not installed!"
-    exit 1
-fi
-
 # Show help if no arguments or help flag is provided
 if [ $# -eq 0 ] || [ "$1" = "--help" ] || [ "$1" = "-h" ] || [ "$1" = "help" ]; then
     show_help
