@@ -108,7 +108,7 @@ const SWIFT_TEMPLATES: SwiftTemplates = {
   propertyComment: (value) => `/// ${value}`,
 
   propertyDeclaration: ({ key, sanitizedKey, value, tableName }) => [
-    `public static let ${sanitizedKey} = L10n.tr("${tableName}", "${key}", fallback: "${value}")`,
+    `public static let \`${sanitizedKey}\` = L10n.tr("${tableName}", "${key}", fallback: "${value}")`,
     `public static let ${sanitizedKey}_resource = LocalizedStringResource(`,
     `    "${key}",`,
     `    defaultValue: "${value}",`,
