@@ -42,8 +42,8 @@ extension Foundation.Bundle {
 
 public class CasaZurigol10n {}
 
-extension CasaZurigol10n {
-	private enum Language {
+public extension CasaZurigol10n {
+    private enum Language {
         case de
         case fr
         case en
@@ -52,12 +52,12 @@ extension CasaZurigol10n {
         case ptPt
         case tr
 
-		init(code: String, region: String) {
-			switch code.lowercased() {
-			case "de":
-				self = .de
-			case "fr":
-				self = .fr
+        init(code: String, region _: String) {
+            switch code.lowercased() {
+            case "de":
+                self = .de
+            case "fr":
+                self = .fr
             case "it":
                 self = .it
             case "es":
@@ -66,31 +66,31 @@ extension CasaZurigol10n {
                 self = .ptPt
             case "tr":
                 self = .tr
-			default:
-				self = .en
-			}
-		}
-	}
+            default:
+                self = .en
+            }
+        }
+    }
 
-	public enum SupportedLanguage: String {
-		case de
-		case fr
-		case en
-		case it
+    enum SupportedLanguage: String {
+        case de
+        case fr
+        case en
+        case it
         case es
         case ptPt
         case tr
 
-		public var rawValue: String {
-			switch self {
-			case .de:
-				return "de"
-			case .fr:
-				return "fr"
-			case .en:
-				return "en"
-			case .it:
-				return "it"
+        public var rawValue: String {
+            switch self {
+            case .de:
+                return "de"
+            case .fr:
+                return "fr"
+            case .en:
+                return "en"
+            case .it:
+                return "it"
             case .es:
                 return "es"
             case .ptPt:
@@ -98,24 +98,24 @@ extension CasaZurigol10n {
             case .tr:
                 return "tr"
             }
-		}
-	}
+        }
+    }
 
-	public static var appLanguage: SupportedLanguage {
-		guard let language = Bundle.main.preferredLocalizations.first else {
-			return .en
-		}
+    static var appLanguage: SupportedLanguage {
+        guard let language = Bundle.main.preferredLocalizations.first else {
+            return .en
+        }
 
-		let code = language.prefix(2).lowercased()
-		let region = language.suffix(2).lowercased()
+        let code = language.prefix(2).lowercased()
+        let region = language.suffix(2).lowercased()
 
-		switch Language(code: code, region: region) {
-		case .de:
-			return .de
-		case .en:
-			return .en
-		case .fr:
-			return .fr
+        switch Language(code: code, region: region) {
+        case .de:
+            return .de
+        case .en:
+            return .en
+        case .fr:
+            return .fr
         case .it:
             return .it
         case .es:
@@ -124,6 +124,6 @@ extension CasaZurigol10n {
             return .ptPt
         case .tr:
             return .tr
-		}
-	}
+        }
+    }
 }
