@@ -15,7 +15,7 @@ public enum L10n {
         table: "InfoPlist",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let cfBundleName_key = "CFBundleName"
     
@@ -27,7 +27,7 @@ public enum L10n {
         table: "InfoPlist",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let nsLocationWhenInUseUsageDescription_key = "NSLocationWhenInUseUsageDescription"
   }
@@ -41,7 +41,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let all_key = "all"
     
@@ -53,7 +53,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let appTitle_key = "app_title"
     
@@ -65,7 +65,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let ascending_key = "ascending"
     
@@ -77,7 +77,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let bancomat_key = "bancomat"
     
@@ -89,7 +89,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let cancel_key = "cancel"
     
@@ -101,7 +101,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let cardboardRecyclingNotificationTitle_key = "cardboard_recycling_notification_title"
     
@@ -113,7 +113,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let cargotramRecyclingNotificationTitle_key = "cargotram_recycling_notification_title"
     
@@ -125,7 +125,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let collectionPoint_key = "collection_point"
     
@@ -137,7 +137,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let continue_key = "continue"
     
@@ -149,7 +149,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let date_key = "date"
     
@@ -161,7 +161,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let descending_key = "descending"
     
@@ -173,7 +173,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let done_key = "done"
     
@@ -185,7 +185,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let emptyConfigureAreaOfInterestTitle_key = "empty_configure_area_of_interest_title"
     
@@ -197,7 +197,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let emptyConfigureLocationsPermissionTitle_key = "empty_configure_locations_permission_title"
     
@@ -209,7 +209,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let emptyDescription_key = "empty_description"
     
@@ -221,7 +221,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let emptyTitle_key = "empty_title"
     
@@ -233,7 +233,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let etramRecyclingNotificationTitle_key = "etram_recycling_notification_title"
     
@@ -245,7 +245,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let feedbackSupportCustomerDescription_key = "feedback_support_customer_description"
     
@@ -257,7 +257,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let feedbackSupportCustomerTitle_key = "feedback_support_customer_title"
     
@@ -269,7 +269,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let feedbackSupportEmailFooter_key = "feedback_support_email_footer"
     
@@ -281,7 +281,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let feedbackSupportEmailTitle_key = "feedback_support_email_title"
     
@@ -293,7 +293,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let feedbackSupportLeaveReviewTitle_key = "feedback_support_leave_review_title"
     
@@ -305,7 +305,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let feedbackSupportTitle_key = "feedback_support_title"
     
@@ -317,7 +317,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let filter_key = "filter"
     
@@ -329,7 +329,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let getNearestLocation_key = "get_nearest_location"
     
@@ -341,7 +341,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let getNearestLocationDescription_key = "get_nearest_location_description"
     
@@ -353,7 +353,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let glass_key = "glass"
     
@@ -365,7 +365,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let homeNavigationTitle_key = "home_navigation_title"
     
@@ -377,7 +377,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let homeNearbyLocationsFilterTitle_key = "home_nearby_locations_filter_title"
     
@@ -389,7 +389,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let homeNearbyLocationsTitle_key = "home_nearby_locations_title"
     
@@ -401,7 +401,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let homeRecyclingEventFilterTitle_key = "home_recycling_event_filter_title"
     
@@ -413,7 +413,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let homeRecylcingEventTitle_key = "home_recylcing_event_title"
     
@@ -425,7 +425,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let homeTrendsTitle_key = "home_trends_title"
     
@@ -437,7 +437,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let language_key = "language"
     
@@ -449,7 +449,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let letterBox_key = "letter_box"
     
@@ -461,7 +461,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let locationFilterMoreSoonTitle_key = "location_filter_more_soon_title"
     
@@ -473,7 +473,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let locationType_key = "location_type"
     
@@ -485,7 +485,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let locationTypeDescription_key = "location_type_description"
     
@@ -497,7 +497,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let mapDetailDetailsAddressTitle_key = "map_detail_details_address_title"
     
@@ -509,7 +509,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let mapDetailDetailsCoordinatesTitle_key = "map_detail_details_coordinates_title"
     
@@ -521,7 +521,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let mapDetailDetailsInfrastructure_key = "map_detail_details_infrastructure"
     
@@ -533,7 +533,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let mapDetailDetailsParkInfrastructureBeachvolleyball_key = "map_detail_details_park_infrastructure_beachvolleyball"
     
@@ -545,7 +545,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let mapDetailDetailsParkInfrastructureBench_key = "map_detail_details_park_infrastructure_bench"
     
@@ -557,7 +557,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let mapDetailDetailsParkInfrastructureChess_key = "map_detail_details_park_infrastructure_chess"
     
@@ -569,7 +569,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let mapDetailDetailsParkInfrastructureCoffee_key = "map_detail_details_park_infrastructure_coffee"
     
@@ -581,7 +581,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let mapDetailDetailsParkInfrastructureFireplace_key = "map_detail_details_park_infrastructure_fireplace"
     
@@ -593,7 +593,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let mapDetailDetailsParkInfrastructureKiosk_key = "map_detail_details_park_infrastructure_kiosk"
     
@@ -605,7 +605,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let mapDetailDetailsParkInfrastructureLakeside_key = "map_detail_details_park_infrastructure_lakeside"
     
@@ -617,7 +617,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let mapDetailDetailsParkInfrastructureLawn_key = "map_detail_details_park_infrastructure_lawn"
     
@@ -629,7 +629,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let mapDetailDetailsParkInfrastructurePingpong_key = "map_detail_details_park_infrastructure_pingpong"
     
@@ -641,7 +641,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let mapDetailDetailsParkInfrastructurePlayground_key = "map_detail_details_park_infrastructure_playground"
     
@@ -653,7 +653,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let mapDetailDetailsParkInfrastructureRestaurant_key = "map_detail_details_park_infrastructure_restaurant"
     
@@ -665,7 +665,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let mapDetailDetailsParkInfrastructureSport_key = "map_detail_details_park_infrastructure_sport"
     
@@ -677,7 +677,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let mapDetailDetailsParkInfrastructureWardrobe_key = "map_detail_details_park_infrastructure_wardrobe"
     
@@ -689,7 +689,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let mapDetailDetailsParkingZonesTitle_key = "map_detail_details_parking_zones_title"
     
@@ -701,7 +701,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let mapDetailDetailsToiletInfrastructureAccessible_key = "map_detail_details_toilet_infrastructure_accessible"
     
@@ -713,7 +713,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let mapDetailDetailsToiletInfrastructureChangingTable_key = "map_detail_details_toilet_infrastructure_changing_table"
     
@@ -725,7 +725,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let mapDetailDetailsToiletInfrastructureMobile_key = "map_detail_details_toilet_infrastructure_mobile"
     
@@ -737,7 +737,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let mapDetailDetailsToiletInfrastructurePissoir_key = "map_detail_details_toilet_infrastructure_pissoir"
     
@@ -749,7 +749,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let mapDetailDetailsToiletInfrastructureWheelchairSupport_key = "map_detail_details_toilet_infrastructure_wheelchair_support"
     
@@ -761,7 +761,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let metal_key = "metal"
     
@@ -773,7 +773,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let noAccessToLocationGranted_key = "no_access_to_location_granted"
     
@@ -785,7 +785,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let noNearbyLocationFound_key = "no_nearby_location_found"
     
@@ -797,7 +797,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let noResultsAvailable_key = "no_results_available"
     
@@ -809,7 +809,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let noResultsAvailableFilterDescription_key = "no_results_available_filter_description"
     
@@ -821,7 +821,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let noSubscription_key = "no_subscription"
     
@@ -833,7 +833,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let noZipCodeProvided_key = "no_zip_code_provided"
     
@@ -845,7 +845,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let notAbleToDetermineCurrentLocation_key = "not_able_to_determine_current_location"
     
@@ -857,7 +857,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let notAvailable_key = "not_available"
     
@@ -869,7 +869,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let off_key = "off"
     
@@ -881,7 +881,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let oil_key = "oil"
     
@@ -893,7 +893,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let on_key = "on"
     
@@ -905,7 +905,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let onboardingAreaOfInterestTitle_key = "onboarding_area_of_interest_title"
     
@@ -917,7 +917,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let onboardingFinishTitle_key = "onboarding_finish_title"
     
@@ -929,7 +929,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let onboardingLocationPermissionDescription_key = "onboarding_location_permission_description"
     
@@ -941,7 +941,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let onboardingLocationPermissionTitle_key = "onboarding_location_permission_title"
     
@@ -953,7 +953,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let onboardingLocationTitle_key = "onboarding_location_title"
     
@@ -965,7 +965,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let onboardingMapDescription_key = "onboarding_map_description"
     
@@ -977,7 +977,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let onboardingMapTitle_key = "onboarding_map_title"
     
@@ -989,7 +989,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let onboardingNearbyLocationDescription_key = "onboarding_nearby_location_description"
     
@@ -1001,7 +1001,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let onboardingNearbyLocationTitle_key = "onboarding_nearby_location_title"
     
@@ -1013,7 +1013,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let onboardingNotificationUpdateDescription_key = "onboarding_notification_update_description"
     
@@ -1025,7 +1025,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let onboardingNotificationUpdateTitle_key = "onboarding_notification_update_title"
     
@@ -1037,7 +1037,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let onboardingNotificationsTitle_key = "onboarding_notifications_title"
     
@@ -1049,7 +1049,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let onboardingRecyclingDescription_key = "onboarding_recycling_description"
     
@@ -1061,7 +1061,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let onboardingRecyclingTitle_key = "onboarding_recycling_title"
     
@@ -1073,7 +1073,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let onboardingWelcomeTitle_key = "onboarding_welcome_title"
     
@@ -1085,7 +1085,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let onboardingZipCodeDescription_key = "onboarding_zip_code_description"
     
@@ -1097,7 +1097,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let onboardingZipCodeTitle_key = "onboarding_zip_code_title"
     
@@ -1109,7 +1109,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let organicRecyclingNotificationTitle_key = "organic_recycling_notification_title"
     
@@ -1121,7 +1121,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let paperRecyclingNotificationTitle_key = "paper_recycling_notification_title"
     
@@ -1133,7 +1133,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let park_key = "park"
     
@@ -1145,7 +1145,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let parking_key = "parking"
     
@@ -1157,7 +1157,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let paywallFullAccessForJust_key = "paywall_full_access_for_just"
     
@@ -1169,7 +1169,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let paywallProFeatureMoreLocations_key = "paywall_pro_feature_more_locations"
     
@@ -1181,7 +1181,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let paywallProFeatureNoAds_key = "paywall_pro_feature_no_ads"
     
@@ -1193,7 +1193,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let paywallProFeatureSheetDescriptionMoreLocations_key = "paywall_pro_feature_sheet_description_more_locations"
     
@@ -1205,7 +1205,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let paywallProFeatureSheetTitle_key = "paywall_pro_feature_sheet_title"
     
@@ -1217,7 +1217,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let paywallProFeatureSupport_key = "paywall_pro_feature_support"
     
@@ -1229,7 +1229,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let paywallSubtitle_key = "paywall_subtitle"
     
@@ -1241,7 +1241,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let paywallTitle_key = "paywall_title"
     
@@ -1253,7 +1253,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let privacyDescription_key = "privacy_description"
     
@@ -1265,7 +1265,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let privacyTitle_key = "privacy_title"
     
@@ -1277,7 +1277,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recycling_key = "recycling"
     
@@ -1289,7 +1289,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingCardboardEventDetailAllowed_key = "recycling_cardboard_event_detail_allowed"
     
@@ -1301,7 +1301,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingCardboardEventDetailDescription_key = "recycling_cardboard_event_detail_description"
     
@@ -1313,7 +1313,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingCardboardEventDetailGoodToKnow_key = "recycling_cardboard_event_detail_good_to_know"
     
@@ -1325,7 +1325,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingCardboardEventDetailHowTo_key = "recycling_cardboard_event_detail_how_to"
     
@@ -1337,7 +1337,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingCardboardEventDetailNotAllowed_key = "recycling_cardboard_event_detail_not_allowed"
     
@@ -1349,7 +1349,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingCardboardEventTitle_key = "recycling_cardboard_event_title"
     
@@ -1361,7 +1361,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingCargotramEventDetailAllowed_key = "recycling_cargotram_event_detail_allowed"
     
@@ -1373,7 +1373,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingCargotramEventDetailDescription_key = "recycling_cargotram_event_detail_description"
     
@@ -1385,7 +1385,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingCargotramEventDetailGoodToKnow_key = "recycling_cargotram_event_detail_good_to_know"
     
@@ -1397,7 +1397,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingCargotramEventDetailHowTo_key = "recycling_cargotram_event_detail_how_to"
     
@@ -1409,7 +1409,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingCargotramEventDetailNotAllowed_key = "recycling_cargotram_event_detail_not_allowed"
     
@@ -1421,7 +1421,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingCargotramEventTitle_key = "recycling_cargotram_event_title"
     
@@ -1433,7 +1433,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingEtramEventDetailAllowed_key = "recycling_etram_event_detail_allowed"
     
@@ -1445,7 +1445,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingEtramEventDetailDescription_key = "recycling_etram_event_detail_description"
     
@@ -1457,7 +1457,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingEtramEventDetailGoodToKnow_key = "recycling_etram_event_detail_good_to_know"
     
@@ -1469,7 +1469,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingEtramEventDetailHowTo_key = "recycling_etram_event_detail_how_to"
     
@@ -1481,7 +1481,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingEtramEventDetailNotAllowed_key = "recycling_etram_event_detail_not_allowed"
     
@@ -1493,7 +1493,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingEtramEventTitle_key = "recycling_etram_event_title"
     
@@ -1505,7 +1505,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingEventDetailAllowedTitle_key = "recycling_event_detail_allowed_title"
     
@@ -1517,7 +1517,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingEventDetailDateTitle_key = "recycling_event_detail_date_title"
     
@@ -1529,7 +1529,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingEventDetailDescriptionTitle_key = "recycling_event_detail_description_title"
     
@@ -1541,7 +1541,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingEventDetailGoodToKnow_key = "recycling_event_detail_good_to_know"
     
@@ -1553,7 +1553,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingEventDetailHowToTitle_key = "recycling_event_detail_how_to_title"
     
@@ -1565,7 +1565,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingEventDetailNotAllowedTitle_key = "recycling_event_detail_not_allowed_title"
     
@@ -1577,7 +1577,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingHouseholdWasteEventDetailAllowed_key = "recycling_household_waste_event_detail_allowed"
     
@@ -1589,7 +1589,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingHouseholdWasteEventDetailDescription_key = "recycling_household_waste_event_detail_description"
     
@@ -1601,7 +1601,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingHouseholdWasteEventDetailGoodToKnow_key = "recycling_household_waste_event_detail_good_to_know"
     
@@ -1613,7 +1613,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingHouseholdWasteEventDetailHowTo_key = "recycling_household_waste_event_detail_how_to"
     
@@ -1625,7 +1625,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingHouseholdWasteEventDetailNotAllowed_key = "recycling_household_waste_event_detail_not_allowed"
     
@@ -1637,7 +1637,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingOrganicEventDetailAllowed_key = "recycling_organic_event_detail_allowed"
     
@@ -1649,7 +1649,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingOrganicEventDetailDescription_key = "recycling_organic_event_detail_description"
     
@@ -1661,7 +1661,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingOrganicEventDetailGoodToKnow_key = "recycling_organic_event_detail_good_to_know"
     
@@ -1673,7 +1673,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingOrganicEventDetailHowTo_key = "recycling_organic_event_detail_how_to"
     
@@ -1685,7 +1685,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingOrganicEventDetailNotAllowed_key = "recycling_organic_event_detail_not_allowed"
     
@@ -1697,7 +1697,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingOrganicEventTitle_key = "recycling_organic_event_title"
     
@@ -1709,7 +1709,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingPaperEventDetailAllowed_key = "recycling_paper_event_detail_allowed"
     
@@ -1721,7 +1721,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingPaperEventDetailDescription_key = "recycling_paper_event_detail_description"
     
@@ -1733,7 +1733,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingPaperEventDetailGoodToKnow_key = "recycling_paper_event_detail_good_to_know"
     
@@ -1745,7 +1745,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingPaperEventDetailHowTo_key = "recycling_paper_event_detail_how_to"
     
@@ -1757,7 +1757,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingPaperEventDetailNotAllowed_key = "recycling_paper_event_detail_not_allowed"
     
@@ -1769,7 +1769,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingPaperEventTitle_key = "recycling_paper_event_title"
     
@@ -1781,7 +1781,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let recyclingWasteEventTitle_key = "recycling_waste_event_title"
     
@@ -1793,7 +1793,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let search_key = "search"
     
@@ -1805,7 +1805,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let settingsLocationAccess_key = "settings_location_access"
     
@@ -1817,7 +1817,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let settingsPushNotificationAccess_key = "settings_push_notification_access"
     
@@ -1829,7 +1829,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let showAll_key = "show_all"
     
@@ -1841,7 +1841,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let showNearbyLocations_key = "show_nearby_locations"
     
@@ -1853,7 +1853,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let showNearbyLocationsDescription_key = "show_nearby_locations_description"
     
@@ -1865,7 +1865,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let showNearestLocation_key = "show_nearest_location"
     
@@ -1877,7 +1877,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let showNearestLocationDescription_key = "show_nearest_location_description"
     
@@ -1889,7 +1889,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let sortBy_key = "sort_by"
     
@@ -1901,7 +1901,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let spring_key = "spring"
     
@@ -1913,7 +1913,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let subscriptionCardButtonTitle_key = "subscription_card_button_title"
     
@@ -1925,7 +1925,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let subscriptionCardDescription_key = "subscription_card_description"
     
@@ -1937,7 +1937,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let supportAboutMeDescription_key = "support_about_me_description"
     
@@ -1949,7 +1949,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let supportGenerousTipDescription_key = "support_generous_tip_description"
     
@@ -1961,7 +1961,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let supportGenerousTipTitle_key = "support_generous_tip_title"
     
@@ -1973,7 +1973,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let supportMarvelousTipDescription_key = "support_marvelous_tip_description"
     
@@ -1985,7 +1985,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let supportMarvelousTipTitle_key = "support_marvelous_tip_title"
     
@@ -1997,7 +1997,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let supportNiceTipDescription_key = "support_nice_tip_description"
     
@@ -2009,7 +2009,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let supportNiceTipTitle_key = "support_nice_tip_title"
     
@@ -2021,7 +2021,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let supportSmallTipDescription_key = "support_small_tip_description"
     
@@ -2033,7 +2033,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let supportSmallTipTitle_key = "support_small_tip_title"
     
@@ -2045,7 +2045,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let supportTitle_key = "support_title"
     
@@ -2057,7 +2057,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let tabTitleCalendar_key = "tab_title_calendar"
     
@@ -2069,7 +2069,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let tabTitleHome_key = "tab_title_home"
     
@@ -2081,7 +2081,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let tabTitleMaps_key = "tab_title_maps"
     
@@ -2093,7 +2093,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let termsOfUseDescription_key = "terms_of_use_description"
     
@@ -2105,7 +2105,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let termsOfUseTitle_key = "terms_of_use_title"
     
@@ -2117,7 +2117,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let textiles_key = "textiles"
     
@@ -2129,7 +2129,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let timeout_key = "timeout"
     
@@ -2141,7 +2141,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let tipsFilterMessage_key = "tips_filter_message"
     
@@ -2153,7 +2153,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let tipsFilterTitle_key = "tips_filter_title"
     
@@ -2165,7 +2165,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let tipsSettingsMessage_key = "tips_settings_message"
     
@@ -2177,7 +2177,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let tipsSettingsTitle_key = "tips_settings_title"
     
@@ -2189,7 +2189,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let tipsWeatherMessage_key = "tips_weather_message"
     
@@ -2201,7 +2201,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let tipsWeatherTitle_key = "tips_weather_title"
     
@@ -2213,7 +2213,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let today_key = "today"
     
@@ -2225,7 +2225,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let toilet_key = "toilet"
     
@@ -2237,7 +2237,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let tomorrowCardboardRecyclingNotificationBody_key = "tomorrow_cardboard_recycling_notification_body"
     
@@ -2249,7 +2249,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let tomorrowCargotramRecyclingNotificationBody_key = "tomorrow_cargotram_recycling_notification_body"
     
@@ -2261,7 +2261,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let tomorrowEtramRecyclingNotificationBody_key = "tomorrow_etram_recycling_notification_body"
     
@@ -2273,7 +2273,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let tomorrowOrganicRecyclingNotificationBody_key = "tomorrow_organic_recycling_notification_body"
     
@@ -2285,7 +2285,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let tomorrowPaperRecyclingNotificationBody_key = "tomorrow_paper_recycling_notification_body"
     
@@ -2297,7 +2297,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let tomorrowWasteRecyclingNotificationBody_key = "tomorrow_waste_recycling_notification_body"
     
@@ -2309,7 +2309,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let unknown_key = "unknown"
     
@@ -2321,7 +2321,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let userPreferencesAboutTitle_key = "user_preferences_about_title"
     
@@ -2333,7 +2333,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let userPreferencesAreaOfInterestTitle_key = "user_preferences_area_of_interest_title"
     
@@ -2345,7 +2345,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let userPreferencesCityTitle_key = "user_preferences_city_title"
     
@@ -2357,7 +2357,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let userPreferencesClearCacheDescription_key = "user_preferences_clear_cache_description"
     
@@ -2369,7 +2369,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let userPreferencesClearCacheTitle_key = "user_preferences_clear_cache_title"
     
@@ -2381,7 +2381,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let userPreferencesExtrasTitle_key = "user_preferences_extras_title"
     
@@ -2393,7 +2393,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let userPreferencesNavigationTitle_key = "user_preferences_navigation_title"
     
@@ -2405,7 +2405,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let userPreferencesPushNotificationTitle_key = "user_preferences_push_notification_title"
     
@@ -2417,7 +2417,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let vendingMachine_key = "vending_machine"
     
@@ -2429,7 +2429,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let wasteRecyclingNotificationTitle_key = "waste_recycling_notification_title"
     
@@ -2441,7 +2441,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let weatherNavigationTitle_key = "weather_navigation_title"
     
@@ -2453,7 +2453,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let weatherTemperatureMax_key = "weather_temperature_max"
     
@@ -2465,7 +2465,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let weatherTemperatureMin_key = "weather_temperature_min"
     
@@ -2477,7 +2477,7 @@ public enum L10n {
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: 'nil'
+        comment: nil
     )
     public static let zipCodeTitle_key = "zip_code_title"
   }

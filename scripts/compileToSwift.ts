@@ -115,7 +115,7 @@ const SWIFT_TEMPLATES: SwiftTemplates = {
     `    table: "${tableName}",`,
     `    locale: Locale.current,`,
     `    bundle: .atURL(BundleToken.bundle.bundleURL),`,
-    `    comment: 'nil'`,
+    `    comment: nil`,
     `)`,
     `public static let ${sanitizedKey}_key = "${key}"`,
   ],
