@@ -6,7 +6,7 @@
     "translate": "npm run build && node scripts/dist/translate.js",
     "delete": "npm run build && node scripts/dist/deleteEntries.js",
     "rename": "npm run build && node scripts/dist/renameEntries.js",
-    "compileToSwift": "npm run build && node scripts/dist/compileToSwift.js",
+    "compileToSwift": "npm run build && node scripts/dist/compileToSwift.js --ignore \"AppShortcuts.strings\"",
     "prepare": "husky"
   },
   "keywords": [],
