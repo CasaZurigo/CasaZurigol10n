@@ -262,7 +262,7 @@ public enum L10n {
     public static let feedbackSupportCustomerTitle_key = "feedback_support_customer_title"
     
     /// If you don’t have a default email app configured, you can email me directly at %@ (1 parameter)
-    static func feedbackSupportEmailFooter(_ args: CVarArg...) -> String {
+    public static func feedbackSupportEmailFooter(_ args: CVarArg...) -> String {
       #if DEBUG
       guard args.count == 1 else {
         preconditionFailure("Localization key \"feedback_support_email_footer\" expects 1 arguments, but received \(args.count). Args: \(args)")

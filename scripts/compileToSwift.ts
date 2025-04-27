@@ -133,7 +133,7 @@ const SWIFT_TEMPLATES: SwiftTemplates = {
   functionComment: (value, paramCount) =>
     `/// ${value.replace(/\n/g, "\n/// ")} (${paramCount} parameter${paramCount !== 1 ? "s" : ""})`,
   functionDeclaration: ({ key, sanitizedKey, tableName, paramCount }) => [
-    `static func ${sanitizedKey}(_ args: CVarArg...) -> String {`,
+    `public static func ${sanitizedKey}(_ args: CVarArg...) -> String {`,
     `  #if DEBUG`, // Only perform check in DEBUG builds
     `  guard args.count == ${paramCount} else {`,
     `    preconditionFailure("Localization key \\"${key}\\" expects ${paramCount} arguments, but received \\(args.count). Args: \\(args)")`,
