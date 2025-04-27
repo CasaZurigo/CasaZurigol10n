@@ -10,6 +10,13 @@ interface PropertyDeclarationParams {
   tableName: string;
 }
 
+interface FunctionDeclarationParams {
+  key: string;
+  sanitizedKey: string;
+  tableName: string;
+  paramCount: number;
+}
+
 interface EnumDeclarationParams {
   name: string;
   content: string;
@@ -37,6 +44,9 @@ interface SwiftTemplates {
   propertyComment: (value: string) => string;
   propertyDeclaration: (params: PropertyDeclarationParams) => string[];
   enumDeclaration: (params: EnumDeclarationParams) => string[];
+  functionComment: (value: string, paramCount: number) => string;
+  functionDeclaration: (params: FunctionDeclarationParams) => string[];
+
   fileHeader: string[];
   fileFooter: string[];
 }
@@ -117,6 +127,20 @@ const SWIFT_TEMPLATES: SwiftTemplates = {
     `    bundle: .atURL(BundleToken.bundle.bundleURL),`,
     `    comment: nil`,
     `)`,
+    `public static let ${sanitizedKey}_key = "${key}"`,
+  ],
+
+  functionComment: (value, paramCount) =>
+    `/// ${value.replace(/\n/g, "\n/// ")} (${paramCount} parameter${paramCount !== 1 ? "s" : ""})`,
+  functionDeclaration: ({ key, sanitizedKey, tableName, paramCount }) => [
+    `static func ${sanitizedKey}(_ args: CVarArg...) -> String {`,
+    `  #if DEBUG`, // Only perform check in DEBUG builds
+    `  guard args.count == ${paramCount} else {`,
+    `    preconditionFailure("Localization key \\"${key}\\" expects ${paramCount} arguments, but received \\(args.count). Args: \\(args)")`,
+    `  }`,
+    `  #endif`,
+    `  return L10n.tr("${tableName}", "${key}", args, fallback: "${key}")`,
+    `}`,
     `public static let ${sanitizedKey}_key = "${key}"`,
   ],
 
@@ -243,23 +267,50 @@ class SwiftCompiler {
     return this.ignoredFiles.has(filename.toLowerCase());
   }
 
+  private countFormatSpecifiers(value: string): number {
+    // Regex to match common C-style format specifiers like %@, %d, %f, %s, %ld, %lu, %lld, %llu, %zd, %zu, %tu, %td etc.
+    // Also handles positional specifiers like %1$@, %2$d
+    const formatSpecifierRegex =
+      /%(\d+\$)?([@dfiuspxXoO]|([0-9.]*f)|(l?l[duxXo])|(z[du])|(t[du]))/g;
+    const matches = value.match(formatSpecifierRegex);
+    return matches ? matches.length : 0;
+  }
+
   private generatePropertyDeclaration(
     key: string,
     value: string,
     tableName: string,
   ): string {
     const sanitizedKey = this.sanitizeKey(key);
-    return SwiftFormatting.joinWithNewLines([
-      this.template.propertyComment(value),
-      SwiftFormatting.joinWithNewLines(
-        this.template.propertyDeclaration({
-          key,
-          sanitizedKey,
-          value,
-          tableName,
-        }),
-      ),
-    ]);
+    const paramCount = this.countFormatSpecifiers(value);
+
+    if (paramCount > 0) {
+      // Generate function
+      return SwiftFormatting.joinWithNewLines([
+        this.template.functionComment(value, paramCount),
+        SwiftFormatting.joinWithNewLines(
+          this.template.functionDeclaration({
+            key,
+            sanitizedKey,
+            tableName,
+            paramCount,
+          }),
+        ),
+      ]);
+    } else {
+      // Generate property (existing logic)
+      return SwiftFormatting.joinWithNewLines([
+        this.template.propertyComment(value),
+        SwiftFormatting.joinWithNewLines(
+          this.template.propertyDeclaration({
+            key,
+            sanitizedKey,
+            value,
+            tableName,
+          }),
+        ),
+      ]);
+    }
   }
 
   private generateEnumDeclaration(table: StringTable): string {
