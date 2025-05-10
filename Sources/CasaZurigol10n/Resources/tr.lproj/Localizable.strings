@@ -60,6 +60,7 @@
 "map_detail_details_toilet_infrastructure_pissoir" = "Pissoir";
 "map_detail_details_toilet_infrastructure_wheelchair_support" = "Tekerlekli Sandalye Desteği";
 "metal" = "Metal";
+"nearby_locations_filter_footer_title" = "Tüm özellikleri açarak yakındaki daha fazla konumu filtreleyin ve görün";
 "no_access_to_location_granted" = "Lokasyona erişim izni yok";
 "no_nearby_location_found" = "Yakın bir konum bulunamadı";
 "no_results_available" = "Sonuç mevcut değil";

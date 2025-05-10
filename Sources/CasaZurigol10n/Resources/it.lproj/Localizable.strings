@@ -60,6 +60,7 @@
 "map_detail_details_toilet_infrastructure_pissoir" = "Pissoir";
 "map_detail_details_toilet_infrastructure_wheelchair_support" = "Supporto per sedia a rotelle";
 "metal" = "Metallo";
+"nearby_locations_filter_footer_title" = "Sblocca tutte le funzioni per filtrare e visualizzare più luoghi vicini.";
 "no_access_to_location_granted" = "Non è stato concesso l'accesso alla posizione";
 "no_nearby_location_found" = "Non è stata trovata una posizione vicina";
 "no_results_available" = "Nessun risultato disponibile";
