@@ -60,7 +60,6 @@
 "map_detail_details_toilet_infrastructure_pissoir" = "Pissoir";
 "map_detail_details_toilet_infrastructure_wheelchair_support" = "Supporto per sedia a rotelle";
 "metal" = "Metallo";
-"nearby_locations_filter_footer_title" = "Sblocca tutte le funzioni per filtrare e visualizzare più luoghi vicini.";
 "no_access_to_location_granted" = "Non è stato concesso l'accesso alla posizione";
 "no_nearby_location_found" = "Non è stata trovata una posizione vicina";
 "no_results_available" = "Nessun risultato disponibile";
@@ -190,6 +189,7 @@
 "tomorrow_paper_recycling_notification_body" = "Domani verrà ritirato il vostro elaborato.";
 "tomorrow_waste_recycling_notification_body" = "Domani i vostri rifiuti saranno raccolti.";
 "unknown" = "Sconosciuto";
+"unlock_all_features_to_see_more_locations_description" = "Sblocca tutte le funzioni per filtrare e visualizzare più luoghi vicini.";
 "user_preferences_about_title" = "Circa";
 "user_preferences_area_of_interest_title" = "Area di interesse";
 "user_preferences_city_title" = "Città";

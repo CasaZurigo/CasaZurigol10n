@@ -776,18 +776,6 @@ public enum L10n {
     )
     public static let metal_key = "metal"
     
-    /// Unlock all features to filter and see more nearby locations.
-    public static let `nearbyLocationsFilterFooterTitle` = L10n.tr("Localizable", "nearby_locations_filter_footer_title", fallback: "Unlock all features to filter and see more nearby locations.")
-    public static let nearbyLocationsFilterFooterTitle_resource = LocalizedStringResource(
-        "nearby_locations_filter_footer_title",
-        defaultValue: "Unlock all features to filter and see more nearby locations.",
-        table: "Localizable",
-        locale: Locale.current,
-        bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: nil
-    )
-    public static let nearbyLocationsFilterFooterTitle_key = "nearby_locations_filter_footer_title"
-    
     /// No access to location granted
     public static let `noAccessToLocationGranted` = L10n.tr("Localizable", "no_access_to_location_granted", fallback: "No access to location granted")
     public static let noAccessToLocationGranted_resource = LocalizedStringResource(
@@ -2335,6 +2323,18 @@ public enum L10n {
         comment: nil
     )
     public static let unknown_key = "unknown"
+    
+    /// Unlock all features to filter and see more nearby locations.
+    public static let `unlockAllFeaturesToSeeMoreLocationsDescription` = L10n.tr("Localizable", "unlock_all_features_to_see_more_locations_description", fallback: "Unlock all features to filter and see more nearby locations.")
+    public static let unlockAllFeaturesToSeeMoreLocationsDescription_resource = LocalizedStringResource(
+        "unlock_all_features_to_see_more_locations_description",
+        defaultValue: "Unlock all features to filter and see more nearby locations.",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let unlockAllFeaturesToSeeMoreLocationsDescription_key = "unlock_all_features_to_see_more_locations_description"
     
     /// About
     public static let `userPreferencesAboutTitle` = L10n.tr("Localizable", "user_preferences_about_title", fallback: "About")

@@ -60,7 +60,6 @@
 "map_detail_details_toilet_infrastructure_pissoir" = "Pissoir";
 "map_detail_details_toilet_infrastructure_wheelchair_support" = "Tekerlekli Sandalye Desteği";
 "metal" = "Metal";
-"nearby_locations_filter_footer_title" = "Tüm özellikleri açarak yakındaki daha fazla konumu filtreleyin ve görün";
 "no_access_to_location_granted" = "Lokasyona erişim izni yok";
 "no_nearby_location_found" = "Yakın bir konum bulunamadı";
 "no_results_available" = "Sonuç mevcut değil";
@@ -190,6 +189,7 @@
 "tomorrow_paper_recycling_notification_body" = "Yarın kağıtlarınız toplanacak.";
 "tomorrow_waste_recycling_notification_body" = "Yarın atıklarınız toplanacak.";
 "unknown" = "Bilinmiyor";
+"unlock_all_features_to_see_more_locations_description" = "Tüm özellikleri açarak yakındaki daha fazla konumu filtreleyin ve görün";
 "user_preferences_about_title" = "Hakkında";
 "user_preferences_area_of_interest_title" = "İlgi Alanları";
 "user_preferences_city_title" = "Şehir";

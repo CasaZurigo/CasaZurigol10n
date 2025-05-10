@@ -60,7 +60,6 @@
 "map_detail_details_toilet_infrastructure_pissoir" = "Pissoir";
 "map_detail_details_toilet_infrastructure_wheelchair_support" = "Rollstuhlgängi";
 "metal" = "Metall";
-"nearby_locations_filter_footer_title" = "Schalten Sie alle Funktionen frei, um nahegelegene Orte zu filtern und mehr zu sehen.";
 "no_access_to_location_granted" = "Kein Zugang zum Standort gewährt";
 "no_nearby_location_found" = "Kein Ort in der Nähe gefunden";
 "no_results_available" = "Keine Ergebnisse verfügbar";
@@ -191,6 +190,7 @@ Energiesparlampe, LED, Leuchtstoffröhre";
 "tomorrow_paper_recycling_notification_body" = "Morgen wird Ihre Arbeit abgeholt.";
 "tomorrow_waste_recycling_notification_body" = "Morgen werden Ihre Abfälle abgeholt.";
 "unknown" = "Unbekannt";
+"unlock_all_features_to_see_more_locations_description" = "Schalten Sie alle Funktionen frei, um nahegelegene Orte zu filtern und mehr zu sehen.";
 "user_preferences_about_title" = "Über";
 "user_preferences_area_of_interest_title" = "Interessensgebiet";
 "user_preferences_city_title" = "Stadt";
