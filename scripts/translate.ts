@@ -83,7 +83,9 @@ class StringsTranslator {
             - Maintain consistent tone and meaning across the app interface
             - Consider cultural nuances in ${targetLanguage}
 
-            Respond only with the refined translation.
+            Provide only the refined translation without any explanation.
+            Never return the refined translation in quotes.
+            Only return the refined translation nothing else additionally.
         `;
 
       const prompt = `
