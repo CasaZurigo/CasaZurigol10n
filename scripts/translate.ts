@@ -12,6 +12,26 @@ import {
 } from "@openrouter/ai-sdk-provider";
 import { text } from "stream/consumers";
 
+const context = `
+CasaZurigo: Your Go-To Guide for Zurich
+
+Welcome to CasaZurigo, your insider's guide to Zurich, designed by me, a local, for both residents and newcomers. Navigate Zurich confidently and uncover the essential conveniences that simplify city living.
+
+Effortless City Navigation:
+With CasaZurigo, key city spots are at your fingertips thanks to iOS Widget and Shortcuts integration. Finding ATMs, postal boxes, or recycling stations is hassle-free, accessible right from your home screen.
+
+Streamlined Recycling:
+Join me in making Zurich cleaner with CasaZurigo's detailed recycling resources. Pinpoint collection points for materials like glass, metal, and oil, discover recycling events, and do your part for a sustainable city.
+
+Vital City Services:
+No more searching in vain. CasaZurigo directs you to public toilets, drinking fountains, ATMs, and vending machines effortlessly. Upgrade to PRO for an extensive network, including bank ATMs and postal boxes.
+
+Ongoing Updates, Local Expertise:
+As a Zurich local, I consistently enrich our database with updates and insights. Trust CasaZurigo for accurate, up-to-date information about the city you love.
+
+Let CasaZurigo transform your Zurich experience. Discover a smarter way to navigate your city with me by your side.
+`;
+
 config();
 
 class StringsTranslator {
@@ -20,7 +40,11 @@ class StringsTranslator {
   private openRouter: OpenRouterProvider;
   private aiModel: string;
 
-  constructor(deeplKey: string, openRouterKey: string, aiModel: string) {
+  constructor(
+    deeplKey: string,
+    openRouterKey: string | undefined,
+    aiModel: string,
+  ) {
     this.translator = new Translator(deeplKey);
     this.openRouter = createOpenRouter({
       apiKey: openRouterKey,
@@ -47,37 +71,44 @@ class StringsTranslator {
     sourceLanguage: string,
     translatedText: string,
     targetLanguage: string,
-    context: string,
   ): Promise<string> {
     try {
+      const systemPrompt = `
+            You are a translation assistant specialized in mobile app interfaces. 
+            Context: You're refining translations for the CasaZurigo app.
+            Additional app context: ${context}
+
+            Your task is to:
+            - Ensure translations align with standard mobile UI/UX terminology
+            - Maintain consistent tone and meaning across the app interface
+            - Consider cultural nuances in ${targetLanguage}
+
+            Respond only with the refined translation.
+        `;
+
       const prompt = `
             Original text: "${originalText}"
             DeepL translation: "${translatedText}"
             Source language: ${sourceLanguage}
             Target language: ${targetLanguage}
-            Context: This is for the CasaZurigo app. The translation should be refined to ensure it makes sense in the app context.
-            Additional context: ${context}
             
             Please provide a refined translation that:
-            1. Maintains the original meaning
-            2. Is appropriate for a mobile app interface
-            3. Considers the specific context of CasaZurigo
-            4. Keeps consistency with mobile UI/UX terms in ${targetLanguage}
-            
-            Provide only the refined translation without any explanation.
+            1. Maintain original meaning
+            2. Using region-specific terminology if necessary
+            3. Ensuring natural flow in the target language
+            4. Adapting formal/informal speech appropriately
         `;
 
       const result = streamText({
         model: this.openRouter(this.aiModel),
         prompt,
+        system: systemPrompt,
       });
 
       const refinedTranslation = await result.toTextStreamResponse().text();
       return refinedTranslation;
     } catch (error) {
-      console.warn(
-        `AI refinement failed, using DeepL translation instead: ${error}`,
-      );
+      console.warn(`AI refinement failed: ${error}`);
       return translatedText;
     }
   }
@@ -88,7 +119,6 @@ class StringsTranslator {
     sourceLanguage: string,
     targetLanguage: string,
     shouldSerializeKeys: boolean,
-    context: string = "",
   ): Promise<Record<string, string>> {
     const translated = { ...targetTranslations };
     let missingTranslations: Record<string, string>;
@@ -144,7 +174,6 @@ class StringsTranslator {
               sourceLanguage,
               deeplResult.text,
               targetLanguage,
-              context,
             );
 
             translated[key] = refinedTranslation;
