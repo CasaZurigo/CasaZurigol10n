@@ -440,6 +440,18 @@ public enum L10n {
     )
     public static let language_key = "language"
     
+    /// Learn more
+    public static let `learnMore` = L10n.tr("Localizable", "learn_more", fallback: "Learn more")
+    public static let learnMore_resource = LocalizedStringResource(
+        "learn_more",
+        defaultValue: "Learn more",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let learnMore_key = "learn_more"
+    
     /// Letter Box
     public static let `letterBox` = L10n.tr("Localizable", "letter_box", fallback: "Letter Box")
     public static let letterBox_resource = LocalizedStringResource(
@@ -763,6 +775,18 @@ public enum L10n {
         comment: nil
     )
     public static let metal_key = "metal"
+    
+    /// Unlock all features to filter and see more nearby locations.
+    public static let `nearbyLocationsFilterFooterTitle` = L10n.tr("Localizable", "nearby_locations_filter_footer_title", fallback: "Unlock all features to filter and see more nearby locations.")
+    public static let nearbyLocationsFilterFooterTitle_resource = LocalizedStringResource(
+        "nearby_locations_filter_footer_title",
+        defaultValue: "Unlock all features to filter and see more nearby locations.",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let nearbyLocationsFilterFooterTitle_key = "nearby_locations_filter_footer_title"
     
     /// No access to location granted
     public static let `noAccessToLocationGranted` = L10n.tr("Localizable", "no_access_to_location_granted", fallback: "No access to location granted")
