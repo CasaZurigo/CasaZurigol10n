@@ -178,8 +178,10 @@ class StringsTranslator {
               targetLanguage,
             );
 
-            translated[key] = refinedTranslation;
-            this.cache[cacheKey] = refinedTranslation;
+            const result = refinedTranslation || deeplResult.text;
+
+            translated[key] = result;
+            this.cache[cacheKey] = result;
             await new Promise((resolve) => setTimeout(resolve, 500)); // Sleep for 500ms
           } catch (e) {
             console.error(`Error translating '${key}': ${e}`);
