@@ -21,6 +21,7 @@
 "feedback_support_email_title" = "Email CasaZurich";
 "feedback_support_leave_review_title" = "Leave a Review";
 "feedback_support_title" = "Feedback & Support";
+"fewer_filters" = "Fewer filters";
 "filter" = "Filter";
 "get_nearest_location" = "Get nearest location";
 "get_nearest_location_description" = "Get the nearest location in Zürich based on your current location.";
@@ -32,6 +33,7 @@
 "home_recylcing_event_title" = "Recycling Events";
 "home_trends_title" = "Today's Trends";
 "language" = "Language";
+"learn_more" = "Learn more";
 "letter_box" = "Letter Box";
 "location_filter_more_soon_title" = "More soon!";
 "location_type" = "Location Type";
@@ -59,6 +61,7 @@
 "map_detail_details_toilet_infrastructure_pissoir" = "Pissoir";
 "map_detail_details_toilet_infrastructure_wheelchair_support" = "Wheelchair Support";
 "metal" = "Metal";
+"more_filters" = "More filters";
 "no_access_to_location_granted" = "No access to location granted";
 "no_nearby_location_found" = "No nearby location found";
 "no_results_available" = "No results available";
@@ -188,6 +191,7 @@
 "tomorrow_paper_recycling_notification_body" = "Tomorrow your paper will be collected.";
 "tomorrow_waste_recycling_notification_body" = "Tomorrow your waste will be collected.";
 "unknown" = "Unknown";
+"unlock_all_features_to_see_more_locations_description" = "Unlock all features to filter and see more nearby locations.";
 "user_preferences_about_title" = "About";
 "user_preferences_area_of_interest_title" = "Area Of Interest";
 "user_preferences_city_title" = "City";
@@ -202,5 +206,3 @@
 "weather_temperature_max" = "Max";
 "weather_temperature_min" = "Min";
 "zip_code_title" = "Zip Code";
-"learn_more" = "Learn more";
-"unlock_all_features_to_see_more_locations_description" = "Unlock all features to filter and see more nearby locations.";

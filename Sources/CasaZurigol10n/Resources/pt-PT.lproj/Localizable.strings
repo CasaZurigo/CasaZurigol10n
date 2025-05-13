@@ -21,6 +21,7 @@
 "feedback_support_email_title" = "Correio eletrónico CasaZurique";
 "feedback_support_leave_review_title" = "Deixar um comentário";
 "feedback_support_title" = "Feedback e apoio";
+"fewer_filters" = "Menos filtros";
 "filter" = "Filtro";
 "get_nearest_location" = "Obter a localização mais próxima";
 "get_nearest_location_description" = "Obtenha a localização mais próxima em Zurique com base na sua localização atual.";
@@ -60,6 +61,7 @@
 "map_detail_details_toilet_infrastructure_pissoir" = "Pissoir";
 "map_detail_details_toilet_infrastructure_wheelchair_support" = "Suporte para cadeira de rodas";
 "metal" = "Metal";
+"more_filters" = "Mais filtros";
 "no_access_to_location_granted" = "Não foi concedido acesso ao local";
 "no_nearby_location_found" = "Não foi encontrado nenhum local próximo";
 "no_results_available" = "Não existem resultados disponíveis";

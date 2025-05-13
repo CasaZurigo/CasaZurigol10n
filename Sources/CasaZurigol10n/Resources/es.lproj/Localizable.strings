@@ -21,6 +21,7 @@
 "feedback_support_email_title" = "Correo electrónico CasaZurich";
 "feedback_support_leave_review_title" = "Deja tu opinión";
 "feedback_support_title" = "Comentarios y asistencia";
+"fewer_filters" = "Menos filtros";
 "filter" = "Filtro";
 "get_nearest_location" = "Obtener la ubicación más cercana";
 "get_nearest_location_description" = "Obtenga la ubicación más cercana en Zúrich en función de su ubicación actual.";
@@ -60,6 +61,7 @@
 "map_detail_details_toilet_infrastructure_pissoir" = "Pissoir";
 "map_detail_details_toilet_infrastructure_wheelchair_support" = "Soporte para sillas de ruedas";
 "metal" = "Metal";
+"more_filters" = "Más filtros";
 "no_access_to_location_granted" = "No se concede acceso a la ubicación";
 "no_nearby_location_found" = "No se ha encontrado ningún lugar cercano";
 "no_results_available" = "No hay resultados disponibles";

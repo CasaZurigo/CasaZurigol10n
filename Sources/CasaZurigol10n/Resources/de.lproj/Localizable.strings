@@ -21,6 +21,7 @@
 "feedback_support_email_title" = "CasaZürich kontaktieren";
 "feedback_support_leave_review_title" = "Eine Bewertung hinterlassen";
 "feedback_support_title" = "Feedback & Support";
+"fewer_filters" = "Weniger Filter";
 "filter" = "Filter";
 "get_nearest_location" = "Nächstgelegenen Standort ermitteln";
 "get_nearest_location_description" = "Ermitteln Sie den nächstgelegenen Standort in Zürich basierend auf Ihrem aktuellen Standort.";
@@ -60,6 +61,7 @@
 "map_detail_details_toilet_infrastructure_pissoir" = "Pissoir";
 "map_detail_details_toilet_infrastructure_wheelchair_support" = "Rollstuhlgängi";
 "metal" = "Metall";
+"more_filters" = "Weitere Filter";
 "no_access_to_location_granted" = "Kein Zugang zum Standort gewährt";
 "no_nearby_location_found" = "Kein Ort in der Nähe gefunden";
 "no_results_available" = "Keine Ergebnisse verfügbar";

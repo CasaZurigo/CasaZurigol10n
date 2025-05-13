@@ -21,6 +21,7 @@
 "feedback_support_email_title" = "CasaZürih'ya e-posta gönder";
 "feedback_support_leave_review_title" = "Yorum Bırakın";
 "feedback_support_title" = "Geri Bildirim ve Destek";
+"fewer_filters" = "Daha Az Filtre";
 "filter" = "Filtre";
 "get_nearest_location" = "En yakın konumu bulun";
 "get_nearest_location_description" = "Geçerli konumunuza göre Zürih'teki en yakın konumu bulun.";
@@ -60,6 +61,7 @@
 "map_detail_details_toilet_infrastructure_pissoir" = "Pissoir";
 "map_detail_details_toilet_infrastructure_wheelchair_support" = "Tekerlekli Sandalye Desteği";
 "metal" = "Metal";
+"more_filters" = "Daha Fazla Filtre";
 "no_access_to_location_granted" = "Lokasyona erişim izni yok";
 "no_nearby_location_found" = "Yakın bir konum bulunamadı";
 "no_results_available" = "Sonuç mevcut değil";
