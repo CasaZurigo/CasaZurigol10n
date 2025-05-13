@@ -308,6 +308,18 @@ public enum L10n {
     )
     public static let feedbackSupportTitle_key = "feedback_support_title"
     
+    /// Fewer filters
+    public static let `fewerFilters` = L10n.tr("Localizable", "fewer_filters", fallback: "Fewer filters")
+    public static let fewerFilters_resource = LocalizedStringResource(
+        "fewer_filters",
+        defaultValue: "Fewer filters",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let fewerFilters_key = "fewer_filters"
+    
     /// Filter
     public static let `filter` = L10n.tr("Localizable", "filter", fallback: "Filter")
     public static let filter_resource = LocalizedStringResource(
@@ -775,6 +787,18 @@ public enum L10n {
         comment: nil
     )
     public static let metal_key = "metal"
+    
+    /// More filters
+    public static let `moreFilters` = L10n.tr("Localizable", "more_filters", fallback: "More filters")
+    public static let moreFilters_resource = LocalizedStringResource(
+        "more_filters",
+        defaultValue: "More filters",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let moreFilters_key = "more_filters"
     
     /// No access to location granted
     public static let `noAccessToLocationGranted` = L10n.tr("Localizable", "no_access_to_location_granted", fallback: "No access to location granted")
