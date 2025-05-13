@@ -14,7 +14,7 @@
       "console": "integratedTerminal",
       "outFiles": ["${workspaceFolder}/scripts/dist/**/*.js"],
       "args": [
-        "--auth-key",
+        "--deepl-key",
         "${input:deepLAuthKey}",
         "--target-langs",
         "fr",
