@@ -15,7 +15,9 @@
       "outFiles": ["${workspaceFolder}/scripts/dist/**/*.js"],
       "args": [
         "--deepl-key",
-        "${input:deepLAuthKey}",
+        "${input:deeplKey}",
+        "--openRouter-key",
+        "${input:openRouterKey}",
         "--target-langs",
         "fr",
         "it",
@@ -72,9 +74,15 @@
   ],
   "inputs": [
     {
-      "id": "deepLAuthKey",
+      "id": "deeplKey",
       "type": "promptString",
       "description": "Enter your DeepL API key",
+      "password": true
+    },
+    {
+      "id": "openRouterKey",
+      "type": "promptString",
+      "description": "Enter your OpenRouter API key",
       "password": true
     },
     {
