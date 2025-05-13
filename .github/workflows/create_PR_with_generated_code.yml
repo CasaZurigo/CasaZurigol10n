@@ -16,15 +16,16 @@ jobs:
   create-generated-code-pr:
     runs-on: self-hosted
 
-    env:
-      HOME: ${{ github.workspace }}
-
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          ref: swiftgen-update
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configure Git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -43,6 +44,8 @@ jobs:
             --output ./Sources/CasaZurigol10n/Generated/Localization+Generated.swift
 
       - name: Create Pull Request
+        env:
+          HOME: ${{ github.workspace }}
         uses: peter-evans/create-pull-request@v7
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -51,11 +54,9 @@ jobs:
           title: "Update generated localization code"
           body: |
             This PR updates the generated Swift localization code.
-
             Changes:
             - Updated `Localization+Generated.swift` based on the latest string files
             - Generated from directory: `./Sources/CasaZurigol10n/Resources/en.lproj`
-
             Please review the changes to ensure the translations are correct.
           reviewers: lucaArchidiacono
           assignees: lucaArchidiacono
