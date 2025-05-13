@@ -19,7 +19,7 @@ Global Options:
 
 Command-specific Options:
     translate:
-        --auth-key <key>          DeepL API authentication key (or use DEEPL_AUTH_KEY env variable)
+        --deepl-key <key>          DeepL API authentication key (or use DEEPL_AUTH_KEY env variable)
         --openRouter-key <key>    OpenRouter API authentication key (or use OPENROUTER_AUTH_KEY env variable)
         --source-lang <lang>      Source language code (default: en)
         --target-langs <langs>    Target language codes (comma-separated)
