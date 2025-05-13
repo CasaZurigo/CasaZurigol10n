@@ -16,6 +16,9 @@ jobs:
   create-generated-code-pr:
     runs-on: self-hosted
 
+    env:
+      HOME: ${{ github.workspace }}
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
