@@ -325,7 +325,7 @@ program
   .option(
     "--ai-model <model>",
     "AI model to use for refinement",
-    "meta-llama/llama-3.3-70b-instruct:free",
+    process.env.AI_MODEL || "google/gemini-2.5-flash-preview",
   )
   .option("--context <context>", "Additional context for AI refinement", "")
   .parse(process.argv);
