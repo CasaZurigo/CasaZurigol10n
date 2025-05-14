@@ -1,6 +1,7 @@
 "all" = "Tous";
 "app_title" = "CasaZurich";
 "ascending" = "Ascendante";
+"back_navigation_title" = "Retour";
 "bancomat" = "Bancomat";
 "cancel" = "Annuler";
 "cardboard_recycling_notification_title" = "📦 CasaZurich";

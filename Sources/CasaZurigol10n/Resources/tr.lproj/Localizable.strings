@@ -1,6 +1,7 @@
 "all" = "Tümü";
 "app_title" = "CasaZürih";
 "ascending" = "Yükselen";
+"back_navigation_title" = "Geri";
 "bancomat" = "ATM";
 "cancel" = "İptal";
 "cardboard_recycling_notification_title" = "📦 CasaZürih";

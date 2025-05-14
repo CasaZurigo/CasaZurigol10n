@@ -1,6 +1,7 @@
 "all" = "Tutti";
 "app_title" = "CasaZurigo";
 "ascending" = "In salita";
+"back_navigation_title" = "Indietro";
 "bancomat" = "Bancomat";
 "cancel" = "Annullamento";
 "cardboard_recycling_notification_title" = "📦 CasaZurigo";

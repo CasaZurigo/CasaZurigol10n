@@ -69,6 +69,18 @@ public enum L10n {
     )
     public static let ascending_key = "ascending"
     
+    /// Back
+    public static let `backNavigationTitle` = L10n.tr("Localizable", "back_navigation_title", fallback: "Back")
+    public static let backNavigationTitle_resource = LocalizedStringResource(
+        "back_navigation_title",
+        defaultValue: "Back",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let backNavigationTitle_key = "back_navigation_title"
+    
     /// Bancomat
     public static let `bancomat` = L10n.tr("Localizable", "bancomat", fallback: "Bancomat")
     public static let bancomat_resource = LocalizedStringResource(

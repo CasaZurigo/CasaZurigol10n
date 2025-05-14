@@ -1,6 +1,7 @@
 "all" = "Todos";
 "app_title" = "CasaZurique";
 "ascending" = "Ascendente";
+"back_navigation_title" = "Voltar";
 "bancomat" = "Bancomat";
 "cancel" = "Cancelar";
 "cardboard_recycling_notification_title" = "📦 CasaZurique";
