@@ -204,6 +204,7 @@ class StringsTranslator {
     inputFiles: string[],
     sourceLanguage: string,
     targetLanguages: string[],
+    ignoreAllTranslations: boolean = false,
     outputDir: string = "translations",
   ): Promise<void> {
     for (const inputFile of inputFiles) {
@@ -248,12 +249,14 @@ class StringsTranslator {
         let existingStringsTranslations = {};
         let existingJsonTranslations = {};
 
-        if (fs.existsSync(stringsOutputFile)) {
-          existingStringsTranslations =
-            stringsHandler.parseFile(stringsOutputFile);
-        }
-        if (fs.existsSync(jsonOutputFile)) {
-          existingJsonTranslations = jsonHandler.parseFile(jsonOutputFile);
+        if (!ignoreAllTranslations) {
+          if (fs.existsSync(stringsOutputFile)) {
+            existingStringsTranslations =
+              stringsHandler.parseFile(stringsOutputFile);
+          }
+          if (fs.existsSync(jsonOutputFile)) {
+            existingJsonTranslations = jsonHandler.parseFile(jsonOutputFile);
+          }
         }
 
         const existingTranslations = {
@@ -327,6 +330,11 @@ program
     "AI model to use for refinement",
     process.env.AI_MODEL || "google/gemini-2.5-flash-preview",
   )
+  .option(
+    "--ignore-all-translations",
+    "Ignore all existing translations in target-langs",
+    false,
+  )
   .option("--context <context>", "Additional context for AI refinement", "")
   .parse(process.argv);
 
@@ -358,6 +366,7 @@ translator
     inputFiles,
     options.sourceLang,
     options.targetLangs,
+    options.ignoreAllTranslations,
     options.outputDir,
   )
   .catch((error) => {

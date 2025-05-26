@@ -27,6 +27,7 @@ Command-specific Options:
         --output-dir <path>       Output directory (default: ./Sources/CasaZurigol10n/Resources)
         --ai-model <model>        AI model to use for refinement (default: google/gemini-2.5-flash-preview)
         --context <context>       Additional context for AI refinement
+        --ignore-all-translations Ignore all existing translations in target-langs
 
     delete:
         --key <key>               The key to delete from all files
