@@ -19,13 +19,13 @@ Global Options:
 
 Command-specific Options:
     translate:
-        --deepl-key <key>          DeepL API authentication key (or use DEEPL_AUTH_KEY env variable)
+        --deepl-key <key>         DeepL API authentication key (or use DEEPL_AUTH_KEY env variable)
         --openRouter-key <key>    OpenRouter API authentication key (or use OPENROUTER_AUTH_KEY env variable)
         --source-lang <lang>      Source language code (default: en)
         --target-langs <langs>    Target language codes (comma-separated)
         --input-dir <path>        Input directory (default: ./Sources/CasaZurigol10n/Resources)
         --output-dir <path>       Output directory (default: ./Sources/CasaZurigol10n/Resources)
-        --ai-model <model>        AI model to use for refinement (default: meta-llama/llama-3.3-70b-instruct:free)
+        --ai-model <model>        AI model to use for refinement (default: google/gemini-2.5-flash-preview)
         --context <context>       Additional context for AI refinement
 
     delete:
