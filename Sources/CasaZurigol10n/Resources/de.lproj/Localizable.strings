@@ -79,7 +79,7 @@
 "onboarding_location_permission_description" = "Wir benötigen Zugriff auf Ihren Standort, um Ihnen Informationen zu öffentlichen Orten in Ihrer Nähe anzuzeigen.";
 "onboarding_location_permission_title" = "Standortberechtigung";
 "onboarding_location_title" = "Standorte in der Nähe finden";
-"onboarding_map_description" = "Finden Sie öffentliche Orte in Ihrer Nähe:\n- Parks\n- Öffentliche Toiletten\n- Bancomat\n- Und mehr folgt...";
+"onboarding_map_description" = "Finden Sie öffentliche Orte in Ihrer Nähe:\n- Parks\n- Öffentliche Toiletten\n- Bancomat\n- Und mehr...";
 "onboarding_map_title" = "Öffentliche Orte in der Nähe finden";
 "onboarding_nearby_location_description" = "Finden Sie öffentliche Orte in Ihrer Nähe, wie Parks, Toiletten und mehr.";
 "onboarding_nearby_location_title" = "Öffentliche Orte in der Nähe";

@@ -79,7 +79,7 @@
 "onboarding_location_permission_description" = "We require location access to provide you with information about nearby public locations.";
 "onboarding_location_permission_title" = "Location Permission";
 "onboarding_location_title" = "Discover Nearby Locations";
-"onboarding_map_description" = "Find public locations near you:\n- Parks\n- Public Toilets\n- Bancomat\n- Plus More to Come...";
+"onboarding_map_description" = "Find public locations near you:\n- Parks\n- Public Toilets\n- Bancomat\n- And more...";
 "onboarding_map_title" = "Find Nearby Public Locations";
 "onboarding_nearby_location_description" = "Get access to public locations around you, such as parks, toilets, and others.";
 "onboarding_nearby_location_title" = "Nearby Public Locations";

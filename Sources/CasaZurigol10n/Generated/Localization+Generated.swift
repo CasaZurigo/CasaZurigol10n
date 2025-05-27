@@ -1004,11 +1004,11 @@ public enum L10n {
     )
     public static let onboardingLocationTitle_key = "onboarding_location_title"
     
-    /// Find public locations near you:\n- Parks\n- Public Toilets\n- Bancomat\n- Plus More to Come...
-    public static let `onboardingMapDescription` = L10n.tr("Localizable", "onboarding_map_description", fallback: "Find public locations near you:\n- Parks\n- Public Toilets\n- Bancomat\n- Plus More to Come...")
+    /// Find public locations near you:\n- Parks\n- Public Toilets\n- Bancomat\n- And more...
+    public static let `onboardingMapDescription` = L10n.tr("Localizable", "onboarding_map_description", fallback: "Find public locations near you:\n- Parks\n- Public Toilets\n- Bancomat\n- And more...")
     public static let onboardingMapDescription_resource = LocalizedStringResource(
         "onboarding_map_description",
-        defaultValue: "Find public locations near you:\n- Parks\n- Public Toilets\n- Bancomat\n- Plus More to Come...",
+        defaultValue: "Find public locations near you:\n- Parks\n- Public Toilets\n- Bancomat\n- And more...",
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),

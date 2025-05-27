@@ -79,7 +79,11 @@
 "onboarding_location_permission_description" = "Necesitamos acceso a tu ubicación para mostrarte información sobre lugares públicos cercanos.";
 "onboarding_location_permission_title" = "Permiso de ubicación";
 "onboarding_location_title" = "Descubrir ubicaciones cercanas";
-"onboarding_map_description" = "Encuentra lugares públicos cerca de ti:\n- Parques\n- Baños públicos\n- Cajeros automáticos\n- Y más próximamente...";
+"onboarding_map_description" = "Encuentra lugares públicos cerca de ti:
+- Parques
+- Baños públicos
+- Cajeros automáticos
+- Y más...";
 "onboarding_map_title" = "Encontrar ubicaciones públicas cercanas";
 "onboarding_nearby_location_description" = "Accede a lugares públicos cercanos, como parques, baños y otros.";
 "onboarding_nearby_location_title" = "Ubicaciones públicas cercanas";

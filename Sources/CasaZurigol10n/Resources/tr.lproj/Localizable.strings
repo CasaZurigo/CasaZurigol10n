@@ -82,8 +82,8 @@
 "onboarding_map_description" = "Yakınınızdaki halka açık yerleri bulun:
 - Parklar
 - Umumi Tuvaletler
-- Bankamatikler
-- Ve Daha Fazlası Gelecek...";
+- ATM
+- Ve daha fazlası...";
 "onboarding_map_title" = "Yakındaki Genel Yerleri Bul";
 "onboarding_nearby_location_description" = "Çevrenizdeki parklar, tuvaletler ve diğerleri gibi halka açık yerlere erişin.";
 "onboarding_nearby_location_title" = "Yakındaki Kamusal Alanlar";

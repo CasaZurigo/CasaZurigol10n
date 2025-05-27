@@ -79,7 +79,7 @@
 "onboarding_location_permission_description" = "Precisamos de acesso à localização para lhe fornecer informações sobre locais públicos próximos.";
 "onboarding_location_permission_title" = "Permissão de Localização";
 "onboarding_location_title" = "Descobrir Locais Próximos";
-"onboarding_map_description" = "Encontre locais públicos perto de si:\n- Parques\n- Sanitários Públicos\n- Multibanco\n- E muito mais a seguir...";
+"onboarding_map_description" = "Encontre locais públicos perto de si:\n- Parques\n- Casas de Banho Públicas\n- Multibanco\n- E mais...";
 "onboarding_map_title" = "Encontrar Locais Públicos Próximos";
 "onboarding_nearby_location_description" = "Obtenha acesso a locais públicos perto de si, como parques, casas de banho e outros.";
 "onboarding_nearby_location_title" = "Locais Públicos Próximos";
