@@ -105,6 +105,7 @@
 "paywall_title" = "Sblocca di più con CasaZurigo Pro!";
 "privacy_description" = "La tua privacy è importante. I tuoi dati non verranno raccolti o archiviati. Quello che fai sono affari tuoi, non nostri o di nessun altro.";
 "privacy_title" = "Informativa sulla privacy";
+"push_notification_recycling_description" = "Ricevi promemoria per il riciclo in base al tuo codice postale.";
 "recycling" = "Riciclo";
 "recycling_cardboard_event_detail_allowed" = "Cartone riciclabile come cartoni per frutta e verdura, sacchetti di carta piegati, pacchi, scatole, imballaggi, cartone a nido d'ape (solo cartone puro), scatole per detersivi (senza manico in plastica)";
 "recycling_cardboard_event_detail_description" = "Riciclare il cartone ha senso perché conserva le risorse naturali ed è più economico dell'incenerimento negli impianti di termovalorizzazione. Il cartone raccolto è una materia prima essenziale per la produzione di cartone ondulato, imballaggi e persino mobili. Grazie ai continui miglioramenti tecnici, anche i prodotti di cartone di alta qualità sono realizzati con cartone riciclato.";

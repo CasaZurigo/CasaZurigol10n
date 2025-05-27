@@ -105,6 +105,7 @@
 "paywall_title" = "Desbloqueie Mais com o CasaZurich Pro!";
 "privacy_description" = "A sua privacidade é importante. Os seus dados não serão recolhidos nem armazenados. O que faz é da sua conta, não da nossa nem de mais ninguém.";
 "privacy_title" = "Política de Privacidade";
+"push_notification_recycling_description" = "Receba lembretes de reciclagem com base no seu código postal.";
 "recycling" = "Reciclagem";
 "recycling_cardboard_event_detail_allowed" = "Cartão reciclável como caixas de fruta, caixas de legumes, sacos de papel dobrados, encomendas, caixas, embalagens, cartão alveolar (apenas cartão puro), caixa de detergente (sem pega de plástico)";
 "recycling_cardboard_event_detail_description" = "Reciclar cartão faz sentido, pois conserva os recursos naturais e é mais barato do que incinerá-lo na central de valorização energética de resíduos. O cartão recolhido é uma matéria-prima essencial para a produção de cartão canelado, embalagens e até mobiliário. Como o processamento técnico continua a melhorar, mesmo produtos de cartão de alta qualidade são feitos de cartão reciclado.";

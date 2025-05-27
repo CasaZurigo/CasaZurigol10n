@@ -1316,6 +1316,18 @@ public enum L10n {
     )
     public static let privacyTitle_key = "privacy_title"
     
+    /// Get recycling reminders based on your ZIP code.
+    public static let `pushNotificationRecyclingDescription` = L10n.tr("Localizable", "push_notification_recycling_description", fallback: "Get recycling reminders based on your ZIP code.")
+    public static let pushNotificationRecyclingDescription_resource = LocalizedStringResource(
+        "push_notification_recycling_description",
+        defaultValue: "Get recycling reminders based on your ZIP code.",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let pushNotificationRecyclingDescription_key = "push_notification_recycling_description"
+    
     /// Recycling
     public static let `recycling` = L10n.tr("Localizable", "recycling", fallback: "Recycling")
     public static let recycling_resource = LocalizedStringResource(
