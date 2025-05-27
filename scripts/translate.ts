@@ -206,6 +206,7 @@ class StringsTranslator {
     targetLanguages: string[],
     ignoreAllTranslations: boolean = false,
     outputDir: string = "translations",
+    key: string | undefined = undefined,
   ): Promise<void> {
     for (const inputFile of inputFiles) {
       const isInfoPlist = this.isInfoPlist(inputFile);
@@ -246,8 +247,8 @@ class StringsTranslator {
           `${inputStem}.json`,
         );
 
-        let existingStringsTranslations = {};
-        let existingJsonTranslations = {};
+        let existingStringsTranslations: Record<string, string> = {};
+        let existingJsonTranslations: Record<string, string> = {};
 
         if (!ignoreAllTranslations) {
           if (fs.existsSync(stringsOutputFile)) {
@@ -259,10 +260,14 @@ class StringsTranslator {
           }
         }
 
-        const existingTranslations = {
+        const existingTranslations: Record<string, string> = {
           ...existingJsonTranslations,
           ...existingStringsTranslations,
         };
+
+        if (key && key in existingTranslations) {
+          delete existingTranslations[key];
+        }
 
         const shouldSerializeKeys = !(isInfoPlist || isAppShortcuts);
 
@@ -335,6 +340,7 @@ program
     "Ignore all existing translations in target-langs",
     false,
   )
+  .option("--key <key>", "Translate a specific key only")
   .option("--context <context>", "Additional context for AI refinement", "")
   .parse(process.argv);
 
@@ -368,6 +374,7 @@ translator
     options.targetLangs,
     options.ignoreAllTranslations,
     options.outputDir,
+    options.key,
   )
   .catch((error) => {
     console.error("Translation failed:", error);
