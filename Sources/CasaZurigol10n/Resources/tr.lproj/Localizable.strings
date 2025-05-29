@@ -109,6 +109,9 @@
 "paywall_title" = "CasaZurich Pro ile Daha Fazlasını Keşfedin!";
 "privacy_description" = "Gizliliğiniz önemlidir. Verileriniz toplanmaz veya saklanmaz. Yaptıklarınız sizi ilgilendirir, bizi veya başkasını değil.";
 "privacy_title" = "Gizlilik Politikası";
+"push_notification_card_button_title" = "Bildirimleri Etkinleştir";
+"push_notification_card_description" = "Tercihlerinizi özelleştirmek için ayarlarınızdan anlık bildirimleri etkinleştirin.";
+"push_notification_card_title" = "Anlık Bildirimler Kapalı";
 "push_notification_recycling_description" = "Posta kodunuza göre geri dönüşüm hatırlatıcıları alın.";
 "recycling" = "Geri Dönüşüm";
 "recycling_cardboard_event_detail_allowed" = "Meyve ve sebze kartonları, katlanmış kağıt poşetler, koliler, kutular, ambalajlar, petek karton (sadece saf karton), deterjan kutusu (plastik sapı olmayan) gibi geri dönüştürülebilir kartonlar";

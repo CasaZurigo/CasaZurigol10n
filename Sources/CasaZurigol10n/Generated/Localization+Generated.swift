@@ -1316,6 +1316,42 @@ public enum L10n {
     )
     public static let privacyTitle_key = "privacy_title"
     
+    /// Enable Push Notifications
+    public static let `pushNotificationCardButtonTitle` = L10n.tr("Localizable", "push_notification_card_button_title", fallback: "Enable Push Notifications")
+    public static let pushNotificationCardButtonTitle_resource = LocalizedStringResource(
+        "push_notification_card_button_title",
+        defaultValue: "Enable Push Notifications",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let pushNotificationCardButtonTitle_key = "push_notification_card_button_title"
+    
+    /// Enable push notifications in your settings to customize your preferences.
+    public static let `pushNotificationCardDescription` = L10n.tr("Localizable", "push_notification_card_description", fallback: "Enable push notifications in your settings to customize your preferences.")
+    public static let pushNotificationCardDescription_resource = LocalizedStringResource(
+        "push_notification_card_description",
+        defaultValue: "Enable push notifications in your settings to customize your preferences.",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let pushNotificationCardDescription_key = "push_notification_card_description"
+    
+    /// Push Notifications Disabled
+    public static let `pushNotificationCardTitle` = L10n.tr("Localizable", "push_notification_card_title", fallback: "Push Notifications Disabled")
+    public static let pushNotificationCardTitle_resource = LocalizedStringResource(
+        "push_notification_card_title",
+        defaultValue: "Push Notifications Disabled",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let pushNotificationCardTitle_key = "push_notification_card_title"
+    
     /// Get recycling reminders based on your ZIP code.
     public static let `pushNotificationRecyclingDescription` = L10n.tr("Localizable", "push_notification_recycling_description", fallback: "Get recycling reminders based on your ZIP code.")
     public static let pushNotificationRecyclingDescription_resource = LocalizedStringResource(

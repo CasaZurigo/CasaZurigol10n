@@ -105,6 +105,9 @@
 "paywall_title" = "Débloquez plus avec CasaZurich Pro !";
 "privacy_description" = "Votre vie privée compte. Vos données ne seront ni collectées ni stockées. Ce que vous faites vous regarde, pas nous ni personne d'autre.";
 "privacy_title" = "Politique de confidentialité";
+"push_notification_card_button_title" = "Activer les notifications push";
+"push_notification_card_description" = "Activez les notifications push dans vos réglages pour personnaliser vos préférences.";
+"push_notification_card_title" = "Notifications push désactivées";
 "push_notification_recycling_description" = "Recevez des rappels de recyclage basés sur votre code postal.";
 "recycling" = "Recyclage";
 "recycling_cardboard_event_detail_allowed" = "Carton recyclable comme les cartons de fruits, les cartons de légumes, les sacs en papier pliés, les colis, les boîtes, les emballages, le carton alvéolé (uniquement carton pur), les boîtes de lessive (sans poignée en plastique).";

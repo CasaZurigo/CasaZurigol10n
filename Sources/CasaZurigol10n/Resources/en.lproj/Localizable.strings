@@ -160,6 +160,9 @@
 "spring" = "Fountain";
 "subscription_card_button_title" = "Get CasaZurich Pro";
 "subscription_card_description" = "Unlock all features and get access to more public locations!";
+"push_notification_card_button_title" = "Enable Push Notifications";
+"push_notification_card_description" = "Enable push notifications in your settings to customize your preferences.";
+"push_notification_card_title" = "Push Notifications Disabled";
 "support_about_me_description" = "Hey! I'm Luca Archidiacono, and I'm passionate about creating things. CasaZurich is a project I'm particularly proud of. If you're enjoying CasaZurich, I'd really appreciate a small tip. Not only would it brighten my day, but it'll also contribute to keeping the app running smoothly for you and support the development of new features. Thanks a bunch!";
 "support_generous_tip_description" = "You are insane, thank you so much!";
 "support_generous_tip_title" = "🚃 Tip for a ZVV Ticket";
@@ -208,3 +211,4 @@
 "weather_temperature_min" = "Min";
 "zip_code_title" = "Zip Code";
 "push_notification_recycling_description" = "Get recycling reminders based on your ZIP code.";
+""

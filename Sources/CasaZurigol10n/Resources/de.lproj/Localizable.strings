@@ -105,6 +105,9 @@
 "paywall_title" = "Mehr entdecken mit CasaZurich Pro!";
 "privacy_description" = "Ihre Privatsphäre ist uns wichtig. Ihre Daten werden nicht gesammelt oder gespeichert. Was Sie tun, ist Ihre Sache, nicht unsere oder die von anderen.";
 "privacy_title" = "Datenschutzerklärung";
+"push_notification_card_button_title" = "Push-Benachrichtigungen aktivieren";
+"push_notification_card_description" = "Aktivieren Sie Push-Benachrichtigungen in Ihren Einstellungen, um Ihre Präferenzen anzupassen.";
+"push_notification_card_title" = "Push-Benachrichtigungen deaktiviert";
 "push_notification_recycling_description" = "Erhalten Sie Recycling-Erinnerungen basierend auf Ihrer Postleitzahl.";
 "recycling" = "Recycling";
 "recycling_cardboard_event_detail_allowed" = "Recyclingfähige Kartonagen wie Obst- und Gemüsekartons, gefaltete Papiertragetaschen, Pakete, Schachteln, Verpackungen, Wabenkarton (nur reine Pappe), Waschmittelkartons (ohne Kunststoffgriff)";

@@ -109,6 +109,9 @@
 "paywall_title" = "Desbloquea más con CasaZurich Pro";
 "privacy_description" = "Tu privacidad es importante. Tus datos no se recopilarán ni almacenarán. Lo que hagas es asunto tuyo, no nuestro ni de nadie más.";
 "privacy_title" = "Política de privacidad";
+"push_notification_card_button_title" = "Activar notificaciones push";
+"push_notification_card_description" = "Activa las notificaciones push en los ajustes para personalizar tus preferencias.";
+"push_notification_card_title" = "Notificaciones push desactivadas";
 "push_notification_recycling_description" = "Recibe recordatorios de reciclaje según tu código postal.";
 "recycling" = "Reciclaje";
 "recycling_cardboard_event_detail_allowed" = "Cartón reciclable como cajas de fruta, cajas de verdura, bolsas de papel plegadas, paquetes, cajas, embalajes, cartón nido de abeja (solo cartón puro), caja de detergente (sin asa de plástico).";
