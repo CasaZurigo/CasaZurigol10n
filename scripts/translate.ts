@@ -11,6 +11,7 @@ import {
   OpenRouterProvider,
 } from "@openrouter/ai-sdk-provider";
 import { text } from "stream/consumers";
+import { FileSynchronizer } from "./fileSync";
 
 const context = `
 CasaZurigo: Your Go-To Guide for Zurich
@@ -39,6 +40,7 @@ class StringsTranslator {
   private cache: Record<string, string> = {};
   private openRouter: OpenRouterProvider;
   private aiModel: string;
+  private fileSynchronizer: FileSynchronizer;
 
   constructor(
     deeplKey: string,
@@ -50,6 +52,7 @@ class StringsTranslator {
       apiKey: openRouterKey,
     });
     this.aiModel = aiModel;
+    this.fileSynchronizer = new FileSynchronizer();
   }
 
   private isInfoPlist(filePath: string): boolean {
@@ -208,6 +211,9 @@ class StringsTranslator {
     outputDir: string = "translations",
     key: string | undefined = undefined,
   ): Promise<void> {
+    // Sync source language files first
+    await this.fileSynchronizer.syncFiles(outputDir, [sourceLanguage]);
+
     for (const inputFile of inputFiles) {
       const isInfoPlist = this.isInfoPlist(inputFile);
       const isAppShortcuts = this.isAppShortcuts(inputFile);
@@ -286,6 +292,9 @@ class StringsTranslator {
         console.log(`Created/Updated ${jsonOutputFile}`);
       }
     }
+
+    // Sync all target language files after translation
+    await this.fileSynchronizer.syncFiles(outputDir, targetLanguages);
   }
 }
 

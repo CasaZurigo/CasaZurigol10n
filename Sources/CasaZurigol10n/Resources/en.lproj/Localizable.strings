@@ -105,6 +105,10 @@
 "paywall_title" = "Unlock More with CasaZurich Pro!";
 "privacy_description" = "Your privacy matters. Your data won’t be collected or stored. What you do is your business, not ours or anyone else’s.";
 "privacy_title" = "Privacy Policy";
+"push_notification_card_button_title" = "Enable Push Notifications";
+"push_notification_card_description" = "Enable push notifications in your settings to customize your preferences.";
+"push_notification_card_title" = "Push Notifications Disabled";
+"push_notification_recycling_description" = "Get recycling reminders based on your ZIP code.";
 "recycling" = "Recycling";
 "recycling_cardboard_event_detail_allowed" = "Recyclable cardboard like fruit cartons, vegetable cartons, folded paper carrier bags, parcels, boxes, packaging, honeycomb cardboard (only pure cardboard), detergent box (without plastic handle)";
 "recycling_cardboard_event_detail_description" = "Recycling cardboard makes sense as it conserves natural resources and is cheaper than incinerating it in the waste-to-energy plant. The collected cardboard is an essential raw material for the production of corrugated cardboard, packaging, and even furniture. Because the technical processing continues to improve, even high-quality cardboard products are made from recycled cardboard.";
@@ -160,9 +164,6 @@
 "spring" = "Fountain";
 "subscription_card_button_title" = "Get CasaZurich Pro";
 "subscription_card_description" = "Unlock all features and get access to more public locations!";
-"push_notification_card_button_title" = "Enable Push Notifications";
-"push_notification_card_description" = "Enable push notifications in your settings to customize your preferences.";
-"push_notification_card_title" = "Push Notifications Disabled";
 "support_about_me_description" = "Hey! I'm Luca Archidiacono, and I'm passionate about creating things. CasaZurich is a project I'm particularly proud of. If you're enjoying CasaZurich, I'd really appreciate a small tip. Not only would it brighten my day, but it'll also contribute to keeping the app running smoothly for you and support the development of new features. Thanks a bunch!";
 "support_generous_tip_description" = "You are insane, thank you so much!";
 "support_generous_tip_title" = "🚃 Tip for a ZVV Ticket";
@@ -210,4 +211,3 @@
 "weather_temperature_max" = "Max";
 "weather_temperature_min" = "Min";
 "zip_code_title" = "Zip Code";
-"push_notification_recycling_description" = "Get recycling reminders based on your ZIP code.";

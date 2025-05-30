@@ -12,6 +12,7 @@ Commands:
     delete          Delete an entry from all the files
     rename          Rename a key from all the files
     compileToSwift  Compiles the curren translation files to a Swift file
+    sync            Synchronize .strings and .json files
     help            Show this help message
 
 Global Options:
@@ -41,12 +42,20 @@ Command-specific Options:
         --input-dir <path>        Input directory containing .strings files (default: ./Sources/CasaZurigol10n/Resources/en.lproj)
         --ignore <files>          Comma-separated list of files to ignore
         --output <path>           Output Swift file path (default: ./Sources/CasaZurigol10n/Generated/Localization+Generated.swift)
+
+    sync:
+        --input-dir <path>        Input directory (default: ./Sources/CasaZurigol10n/Resources)
+        --languages <langs>       Language codes to sync (comma-separated)
+        --file <name>             Specific file to sync (without extension)
+
 Examples:
     $(basename $0) translate                                                            # Translate using settings from .env
     $(basename $0) translate --source-lang en --target-langs fr,it                      # Override source and target languages
     $(basename $0) delete --key "key.to.delete"                                         # Delete specific key from all files
     $(basename $0) rename --old-key "old.key" --new-key "new.key"                       # Rename specific key in all files
     $(basename $0) compileToSwift --ignore "AppShortcuts.strings,Foo.strings"           # Compile translation files to a Swift file
+    $(basename $0) sync --languages en,fr,it                                            # Sync all files for specified languages
+    $(basename $0) sync --file "Localizable" --languages en,fr                          # Sync specific file for specified languages
 
 Environment Variables:
     DEEPL_AUTH_KEY         DeepL API authentication key
@@ -90,6 +99,9 @@ case $COMMAND in
         ;;
     "compileToSwift")
         npm run compileToSwift -- "$@"
+        ;;
+    "sync")
+        npm run fileSync -- "$@"
         ;;
     *)
         echo "Error: Unknown command: $COMMAND"
