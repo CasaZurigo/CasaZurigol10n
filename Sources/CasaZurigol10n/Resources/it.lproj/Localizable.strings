@@ -16,6 +16,7 @@
 "empty_description" = "Hai disattivato alcune impostazioni. Attivale per iniziare!";
 "empty_title" = "Hmm... sembra vuoto qui";
 "etram_recycling_notification_title" = "🚅 CasaZurigo";
+"failed_to_load_locations" = "Impossibile caricare le posizioni";
 "feedback_support_customer_description" = "Anche se leggo ogni messaggio, essendo una sola persona, non riesco a rispondere a tutti. Spero capiate e grazie per il vostro feedback.";
 "feedback_support_customer_title" = "Supporto Clienti";
 "feedback_support_email_footer" = "Se non hai un'app email predefinita configurata, puoi inviarmi un'email direttamente a %@";
@@ -34,9 +35,11 @@
 "home_recylcing_event_title" = "Eventi di riciclo";
 "home_trends_title" = "Tendenze del giorno";
 "language" = "Lingua";
+"last_refresh" = "Ultimo aggiornamento";
 "learn_more" = "Scopri di più";
 "letter_box" = "Cassetta delle lettere";
 "location_filter_more_soon_title" = "Presto altre novità!";
+"location_permission_not_yet_requested" = "Autorizzazione alla posizione non ancora richiesta";
 "location_type" = "Tipo di luogo";
 "location_type_description" = "Tipo di luoghi da mostrare nelle vicinanze";
 "map_detail_details_address_title" = "Indirizzo";

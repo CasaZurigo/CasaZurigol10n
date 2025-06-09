@@ -16,6 +16,7 @@
 "empty_description" = "Sie haben einige Einstellungen deaktiviert. Aktivieren Sie diese, um zu starten!";
 "empty_title" = "Hmmm... hier ist es leer";
 "etram_recycling_notification_title" = "🚅 CasaZürich";
+"failed_to_load_locations" = "Orte konnten nicht geladen werden";
 "feedback_support_customer_description" = "Ich lese zwar jede Nachricht, aber da ich nur eine Person bin, kann ich nicht auf jede antworten. Ich hoffe, Sie haben dafür Verständnis, und danke für Ihr Feedback.";
 "feedback_support_customer_title" = "Kundensupport";
 "feedback_support_email_footer" = "Wenn Sie keine Standard-E-Mail-App konfiguriert haben, können Sie mir direkt eine E-Mail an %1$@ senden";
@@ -34,9 +35,11 @@
 "home_recylcing_event_title" = "Recycling-Termine";
 "home_trends_title" = "Aktuelle Trends";
 "language" = "Sprache";
+"last_refresh" = "Letzte Aktualisierung";
 "learn_more" = "Mehr erfahren";
 "letter_box" = "Briefkasten";
 "location_filter_more_soon_title" = "Mehr in Kürze!";
+"location_permission_not_yet_requested" = "Standortberechtigung noch nicht angefragt";
 "location_type" = "Standorttyp";
 "location_type_description" = "Art der Orte in der Nähe anzeigen";
 "map_detail_details_address_title" = "Adresse";

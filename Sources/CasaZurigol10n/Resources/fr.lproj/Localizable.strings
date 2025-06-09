@@ -16,6 +16,7 @@
 "empty_description" = "Vous avez désactivé certains réglages. Activez-les pour commencer !";
 "empty_title" = "Hmmm... c'est vide ici";
 "etram_recycling_notification_title" = "🚅 CasaZurich";
+"failed_to_load_locations" = "Échec du chargement des lieux";
 "feedback_support_customer_description" = "Bien que je lise tous les messages, étant seul, je ne peux pas répondre à chacun d'entre eux. J'espère que vous comprenez, et merci pour vos commentaires.";
 "feedback_support_customer_title" = "Support client";
 "feedback_support_email_footer" = "Si vous n'avez pas d'application de messagerie par défaut configurée, vous pouvez m'envoyer un e-mail directement à %@";
@@ -34,9 +35,11 @@
 "home_recylcing_event_title" = "Événements de recyclage";
 "home_trends_title" = "Tendances du jour";
 "language" = "Langue";
+"last_refresh" = "Dernière mise à jour";
 "learn_more" = "En savoir plus";
 "letter_box" = "Boîte aux lettres";
 "location_filter_more_soon_title" = "Bientôt plus !";
+"location_permission_not_yet_requested" = "Autorisation de localisation non encore demandée";
 "location_type" = "Type de lieu";
 "location_type_description" = "Types de lieux à afficher à proximité";
 "map_detail_details_address_title" = "Adresse";

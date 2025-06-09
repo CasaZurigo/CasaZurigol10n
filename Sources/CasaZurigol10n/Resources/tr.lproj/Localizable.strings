@@ -16,6 +16,7 @@
 "empty_description" = "Bazı ayarları kapattınız. Başlamak için bunları açın!";
 "empty_title" = "Hmm... burası boş görünüyor";
 "etram_recycling_notification_title" = "🚅 CasaZurich";
+"failed_to_load_locations" = "Konumlar yüklenemedi";
 "feedback_support_customer_description" = "Her mesajı okuyorum ancak tek kişi olduğum için hepsine yanıt veremiyorum. Anlayışınız için teşekkür eder, geri bildirimlerinizi beklerim.";
 "feedback_support_customer_title" = "Müşteri Hizmetleri";
 "feedback_support_email_footer" = "Varsayılan bir e-posta uygulamanız yapılandırılmamışsa, bana doğrudan %@ adresinden e-posta gönderebilirsiniz.";
@@ -34,9 +35,11 @@
 "home_recylcing_event_title" = "Geri Dönüşüm Etkinlikleri";
 "home_trends_title" = "Günün Trendleri";
 "language" = "Dil";
+"last_refresh" = "Son güncelleme";
 "learn_more" = "Daha Fazla Bilgi";
 "letter_box" = "Postane Kutusu";
 "location_filter_more_soon_title" = "Daha fazlası çok yakında!";
+"location_permission_not_yet_requested" = "Konum izni henüz istenmedi";
 "location_type" = "Konum Tipi";
 "location_type_description" = "Yakınlarda gösterilecek konum türleri";
 "map_detail_details_address_title" = "Adres";
