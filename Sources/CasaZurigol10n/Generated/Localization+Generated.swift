@@ -249,6 +249,18 @@ public enum L10n {
     )
     public static let etramRecyclingNotificationTitle_key = "etram_recycling_notification_title"
     
+    /// Failed to load locations
+    public static let `failedToLoadLocations` = L10n.tr("Localizable", "failed_to_load_locations", fallback: "Failed to load locations")
+    public static let failedToLoadLocations_resource = LocalizedStringResource(
+        "failed_to_load_locations",
+        defaultValue: "Failed to load locations",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let failedToLoadLocations_key = "failed_to_load_locations"
+    
     /// While I do read every message, as I'm just one person, I'm not able to respond to every one. I hope you understand, and thanks for your feedback.
     public static let `feedbackSupportCustomerDescription` = L10n.tr("Localizable", "feedback_support_customer_description", fallback: "While I do read every message, as I'm just one person, I'm not able to respond to every one. I hope you understand, and thanks for your feedback.")
     public static let feedbackSupportCustomerDescription_resource = LocalizedStringResource(
@@ -464,6 +476,18 @@ public enum L10n {
     )
     public static let language_key = "language"
     
+    /// Last refresh
+    public static let `lastRefresh` = L10n.tr("Localizable", "last_refresh", fallback: "Last refresh")
+    public static let lastRefresh_resource = LocalizedStringResource(
+        "last_refresh",
+        defaultValue: "Last refresh",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let lastRefresh_key = "last_refresh"
+    
     /// Learn more
     public static let `learnMore` = L10n.tr("Localizable", "learn_more", fallback: "Learn more")
     public static let learnMore_resource = LocalizedStringResource(
@@ -499,6 +523,18 @@ public enum L10n {
         comment: nil
     )
     public static let locationFilterMoreSoonTitle_key = "location_filter_more_soon_title"
+    
+    /// Location permission not yet requested
+    public static let `locationPermissionNotYetRequested` = L10n.tr("Localizable", "location_permission_not_yet_requested", fallback: "Location permission not yet requested")
+    public static let locationPermissionNotYetRequested_resource = LocalizedStringResource(
+        "location_permission_not_yet_requested",
+        defaultValue: "Location permission not yet requested",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let locationPermissionNotYetRequested_key = "location_permission_not_yet_requested"
     
     /// Location Type
     public static let `locationType` = L10n.tr("Localizable", "location_type", fallback: "Location Type")
