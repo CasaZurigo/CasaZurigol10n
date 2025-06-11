@@ -1280,6 +1280,18 @@ public enum L10n {
     )
     public static let paywallProFeatureSheetDescriptionMoreLocations_key = "paywall_pro_feature_sheet_description_more_locations"
     
+    /// ️Unlock access to all these amazing widgets
+    public static let `paywallProFeatureSheetDescriptionWidgets` = L10n.tr("Localizable", "paywall_pro_feature_sheet_description_widgets", fallback: "️Unlock access to all these amazing widgets")
+    public static let paywallProFeatureSheetDescriptionWidgets_resource = LocalizedStringResource(
+        "paywall_pro_feature_sheet_description_widgets",
+        defaultValue: "️Unlock access to all these amazing widgets",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let paywallProFeatureSheetDescriptionWidgets_key = "paywall_pro_feature_sheet_description_widgets"
+    
     /// ️Only with Pro!
     public static let `paywallProFeatureSheetTitle` = L10n.tr("Localizable", "paywall_pro_feature_sheet_title", fallback: "️Only with Pro!")
     public static let paywallProFeatureSheetTitle_resource = LocalizedStringResource(
@@ -1303,6 +1315,18 @@ public enum L10n {
         comment: nil
     )
     public static let paywallProFeatureSupport_key = "paywall_pro_feature_support"
+    
+    /// Widgets
+    public static let `paywallProFeatureWidgets` = L10n.tr("Localizable", "paywall_pro_feature_widgets", fallback: "Widgets")
+    public static let paywallProFeatureWidgets_resource = LocalizedStringResource(
+        "paywall_pro_feature_widgets",
+        defaultValue: "Widgets",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let paywallProFeatureWidgets_key = "paywall_pro_feature_widgets"
     
     /// Gain access to all public locations (ATMs, postal letter boxes, vending machines etc.) and exclusive iOS Widgets. Join our community and make navigating Zurich a breeze!
     public static let `paywallSubtitle` = L10n.tr("Localizable", "paywall_subtitle", fallback: "Gain access to all public locations (ATMs, postal letter boxes, vending machines etc.) and exclusive iOS Widgets. Join our community and make navigating Zurich a breeze!")
