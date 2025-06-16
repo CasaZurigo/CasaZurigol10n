@@ -93,6 +93,18 @@ public enum L10n {
     )
     public static let bancomat_key = "bancomat"
     
+    /// Bike Pump
+    public static let `bikePump` = L10n.tr("Localizable", "bike_pump", fallback: "Bike Pump")
+    public static let bikePump_resource = LocalizedStringResource(
+        "bike_pump",
+        defaultValue: "Bike Pump",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let bikePump_key = "bike_pump"
+    
     /// Cancel
     public static let `cancel` = L10n.tr("Localizable", "cancel", fallback: "Cancel")
     public static let cancel_resource = LocalizedStringResource(
