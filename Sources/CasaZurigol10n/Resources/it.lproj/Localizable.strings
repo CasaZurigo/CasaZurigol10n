@@ -218,4 +218,6 @@ Se hai domande sui Termini di Utilizzo di CasaZurigo, contattami all'indirizzo s
 "weather_navigation_title" = "Meteo";
 "weather_temperature_max" = "Massimo";
 "weather_temperature_min" = "Min";
+"weekly_event_notification_body" = "Scopri i nuovi eventi in programma questa settimana a Zurigo!";
+"weekly_event_notification_title" = "📅 Eventi settimanali a Zurigo";
 "zip_code_title" = "CAP";

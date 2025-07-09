@@ -222,4 +222,6 @@ CasaZurich Kullanım Koşulları hakkında herhangi bir sorunuz olursa, lütfen 
 "weather_navigation_title" = "Hava Durumu";
 "weather_temperature_max" = "Maks";
 "weather_temperature_min" = "Dakika";
+"weekly_event_notification_body" = "Zürih'teki yeni etkinlikleri keşfedin!";
+"weekly_event_notification_title" = "📅 Zürih Haftalık Etkinlikleri";
 "zip_code_title" = "Posta Kodu";

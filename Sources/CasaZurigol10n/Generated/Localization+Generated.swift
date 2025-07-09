@@ -2648,6 +2648,30 @@ public enum L10n {
     )
     public static let weatherTemperatureMin_key = "weather_temperature_min"
     
+    /// Check out new events happening this week in Zurich!
+    public static let `weeklyEventNotificationBody` = L10n.tr("Localizable", "weekly_event_notification_body", fallback: "Check out new events happening this week in Zurich!")
+    public static let weeklyEventNotificationBody_resource = LocalizedStringResource(
+        "weekly_event_notification_body",
+        defaultValue: "Check out new events happening this week in Zurich!",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let weeklyEventNotificationBody_key = "weekly_event_notification_body"
+    
+    /// 📅 Weekly Events in Zurich
+    public static let `weeklyEventNotificationTitle` = L10n.tr("Localizable", "weekly_event_notification_title", fallback: "📅 Weekly Events in Zurich")
+    public static let weeklyEventNotificationTitle_resource = LocalizedStringResource(
+        "weekly_event_notification_title",
+        defaultValue: "📅 Weekly Events in Zurich",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let weeklyEventNotificationTitle_key = "weekly_event_notification_title"
+    
     /// Zip Code
     public static let `zipCodeTitle` = L10n.tr("Localizable", "zip_code_title", fallback: "Zip Code")
     public static let zipCodeTitle_resource = LocalizedStringResource(

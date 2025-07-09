@@ -217,5 +217,7 @@
   "weather_navigation_title": "Clima",
   "weather_temperature_max": "Máx",
   "weather_temperature_min": "Mín.",
+  "weekly_event_notification_body": "Descubre los nuevos eventos de esta semana en Zúrich.",
+  "weekly_event_notification_title": "📅 Eventos semanales en Zúrich",
   "zip_code_title": "Código postal"
 }

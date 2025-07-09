@@ -216,4 +216,6 @@
 "weather_navigation_title" = "Météo";
 "weather_temperature_max" = "Max";
 "weather_temperature_min" = "Min";
+"weekly_event_notification_body" = "Découvrez les événements de la semaine à Zurich !";
+"weekly_event_notification_title" = "📅 Événements de la semaine à Zurich";
 "zip_code_title" = "Code postal";

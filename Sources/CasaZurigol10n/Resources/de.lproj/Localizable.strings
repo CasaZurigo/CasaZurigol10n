@@ -216,4 +216,6 @@
 "weather_navigation_title" = "Wetter";
 "weather_temperature_max" = "Max";
 "weather_temperature_min" = "Min";
+"weekly_event_notification_body" = "Entdecke neue Events diese Woche in Zürich!";
+"weekly_event_notification_title" = "📅 Wöchentliche Events in Zürich";
 "zip_code_title" = "Postleitzahl";
