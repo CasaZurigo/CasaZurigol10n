@@ -57,6 +57,18 @@ public enum L10n {
     )
     public static let appTitle_key = "app_title"
     
+    /// Article not found
+    public static let `articleNotFound` = L10n.tr("Localizable", "article_not_found", fallback: "Article not found")
+    public static let articleNotFound_resource = LocalizedStringResource(
+        "article_not_found",
+        defaultValue: "Article not found",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let articleNotFound_key = "article_not_found"
+    
     /// Ascending
     public static let `ascending` = L10n.tr("Localizable", "ascending", fallback: "Ascending")
     public static let ascending_resource = LocalizedStringResource(
@@ -153,6 +165,30 @@ public enum L10n {
     )
     public static let collectionPoint_key = "collection_point"
     
+    /// Concert
+    public static let `concert` = L10n.tr("Localizable", "concert", fallback: "Concert")
+    public static let concert_resource = LocalizedStringResource(
+        "concert",
+        defaultValue: "Concert",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let concert_key = "concert"
+    
+    /// Configuration
+    public static let `configuration` = L10n.tr("Localizable", "configuration", fallback: "Configuration")
+    public static let configuration_resource = LocalizedStringResource(
+        "configuration",
+        defaultValue: "Configuration",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let configuration_key = "configuration"
+    
     /// Continue
     public static let `continue` = L10n.tr("Localizable", "continue", fallback: "Continue")
     public static let continue_resource = LocalizedStringResource(
@@ -164,6 +200,18 @@ public enum L10n {
         comment: nil
     )
     public static let continue_key = "continue"
+    
+    /// Customize Home
+    public static let `customizeHome` = L10n.tr("Localizable", "customize_home", fallback: "Customize Home")
+    public static let customizeHome_resource = LocalizedStringResource(
+        "customize_home",
+        defaultValue: "Customize Home",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let customizeHome_key = "customize_home"
     
     /// Date
     public static let `date` = L10n.tr("Localizable", "date", fallback: "Date")
@@ -177,6 +225,30 @@ public enum L10n {
     )
     public static let date_key = "date"
     
+    /// Date (Earliest first)
+    public static let `dateEarliestFirst` = L10n.tr("Localizable", "date_earliest_first", fallback: "Date (Earliest first)")
+    public static let dateEarliestFirst_resource = LocalizedStringResource(
+        "date_earliest_first",
+        defaultValue: "Date (Earliest first)",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let dateEarliestFirst_key = "date_earliest_first"
+    
+    /// Date (Latest first)
+    public static let `dateLatestFirst` = L10n.tr("Localizable", "date_latest_first", fallback: "Date (Latest first)")
+    public static let dateLatestFirst_resource = LocalizedStringResource(
+        "date_latest_first",
+        defaultValue: "Date (Latest first)",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let dateLatestFirst_key = "date_latest_first"
+    
     /// Descending
     public static let `descending` = L10n.tr("Localizable", "descending", fallback: "Descending")
     public static let descending_resource = LocalizedStringResource(
@@ -189,6 +261,18 @@ public enum L10n {
     )
     public static let descending_key = "descending"
     
+    /// Discover locations near you
+    public static let `discoverLocationsNearYou` = L10n.tr("Localizable", "discover_locations_near_you", fallback: "Discover locations near you")
+    public static let discoverLocationsNearYou_resource = LocalizedStringResource(
+        "discover_locations_near_you",
+        defaultValue: "Discover locations near you",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let discoverLocationsNearYou_key = "discover_locations_near_you"
+    
     /// Done
     public static let `done` = L10n.tr("Localizable", "done", fallback: "Done")
     public static let done_resource = LocalizedStringResource(
@@ -200,6 +284,18 @@ public enum L10n {
         comment: nil
     )
     public static let done_key = "done"
+    
+    /// Drag to reorder sections and toggle to show or hide them on your home screen.
+    public static let `dragToReorderSectionsAndToggleToShowOrHideThemOnYourHomeScreen` = L10n.tr("Localizable", "drag_to_reorder_sections_and_toggle_to_show_or_hide_them_on_your_home_screen", fallback: "Drag to reorder sections and toggle to show or hide them on your home screen.")
+    public static let dragToReorderSectionsAndToggleToShowOrHideThemOnYourHomeScreen_resource = LocalizedStringResource(
+        "drag_to_reorder_sections_and_toggle_to_show_or_hide_them_on_your_home_screen",
+        defaultValue: "Drag to reorder sections and toggle to show or hide them on your home screen.",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let dragToReorderSectionsAndToggleToShowOrHideThemOnYourHomeScreen_key = "drag_to_reorder_sections_and_toggle_to_show_or_hide_them_on_your_home_screen"
     
     /// Configure your area of interest.
     public static let `emptyConfigureAreaOfInterestTitle` = L10n.tr("Localizable", "empty_configure_area_of_interest_title", fallback: "Configure your area of interest.")
@@ -261,6 +357,30 @@ public enum L10n {
     )
     public static let etramRecyclingNotificationTitle_key = "etram_recycling_notification_title"
     
+    /// Event not found
+    public static let `eventNotFound` = L10n.tr("Localizable", "event_not_found", fallback: "Event not found")
+    public static let eventNotFound_resource = LocalizedStringResource(
+        "event_not_found",
+        defaultValue: "Event not found",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let eventNotFound_key = "event_not_found"
+    
+    /// Events
+    public static let `events` = L10n.tr("Localizable", "events", fallback: "Events")
+    public static let events_resource = LocalizedStringResource(
+        "events",
+        defaultValue: "Events",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let events_key = "events"
+    
     /// Failed to load locations
     public static let `failedToLoadLocations` = L10n.tr("Localizable", "failed_to_load_locations", fallback: "Failed to load locations")
     public static let failedToLoadLocations_resource = LocalizedStringResource(
@@ -272,6 +392,18 @@ public enum L10n {
         comment: nil
     )
     public static let failedToLoadLocations_key = "failed_to_load_locations"
+    
+    /// Feature Request
+    public static let `featureRequest` = L10n.tr("Localizable", "feature_request", fallback: "Feature Request")
+    public static let featureRequest_resource = LocalizedStringResource(
+        "feature_request",
+        defaultValue: "Feature Request",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let featureRequest_key = "feature_request"
     
     /// While I do read every message, as I'm just one person, I'm not able to respond to every one. I hope you understand, and thanks for your feedback.
     public static let `feedbackSupportCustomerDescription` = L10n.tr("Localizable", "feedback_support_customer_description", fallback: "While I do read every message, as I'm just one person, I'm not able to respond to every one. I hope you understand, and thanks for your feedback.")
@@ -368,6 +500,42 @@ public enum L10n {
     )
     public static let filter_key = "filter"
     
+    /// Get access to unlimited events from all sources
+    public static let `getAccessToUnlimitedEventsFromAllSources` = L10n.tr("Localizable", "get_access_to_unlimited_events_from_all_sources", fallback: "Get access to unlimited events from all sources")
+    public static let getAccessToUnlimitedEventsFromAllSources_resource = LocalizedStringResource(
+        "get_access_to_unlimited_events_from_all_sources",
+        defaultValue: "Get access to unlimited events from all sources",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let getAccessToUnlimitedEventsFromAllSources_key = "get_access_to_unlimited_events_from_all_sources"
+    
+    /// Get access to unlimited news from all sources
+    public static let `getAccessToUnlimitedNewsFromAllSources` = L10n.tr("Localizable", "get_access_to_unlimited_news_from_all_sources", fallback: "Get access to unlimited news from all sources")
+    public static let getAccessToUnlimitedNewsFromAllSources_resource = LocalizedStringResource(
+        "get_access_to_unlimited_news_from_all_sources",
+        defaultValue: "Get access to unlimited news from all sources",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let getAccessToUnlimitedNewsFromAllSources_key = "get_access_to_unlimited_news_from_all_sources"
+    
+    /// Get involved
+    public static let `getInvolved` = L10n.tr("Localizable", "get_involved", fallback: "Get involved")
+    public static let getInvolved_resource = LocalizedStringResource(
+        "get_involved",
+        defaultValue: "Get involved",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let getInvolved_key = "get_involved"
+    
     /// Get nearest location
     public static let `getNearestLocation` = L10n.tr("Localizable", "get_nearest_location", fallback: "Get nearest location")
     public static let getNearestLocation_resource = LocalizedStringResource(
@@ -392,6 +560,30 @@ public enum L10n {
     )
     public static let getNearestLocationDescription_key = "get_nearest_location_description"
     
+    /// Get notification about the latest News in Zurich!
+    public static let `getNotificationAboutTheLatestNewsInZurich` = L10n.tr("Localizable", "get_notification_about_the_latest_news_in_zurich", fallback: "Get notification about the latest News in Zurich!")
+    public static let getNotificationAboutTheLatestNewsInZurich_resource = LocalizedStringResource(
+        "get_notification_about_the_latest_news_in_zurich",
+        defaultValue: "Get notification about the latest News in Zurich!",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let getNotificationAboutTheLatestNewsInZurich_key = "get_notification_about_the_latest_news_in_zurich"
+    
+    /// Get reminders about Events in Zurich!
+    public static let `getRemindersAboutEventsInZurich` = L10n.tr("Localizable", "get_reminders_about_events_in_zurich", fallback: "Get reminders about Events in Zurich!")
+    public static let getRemindersAboutEventsInZurich_resource = LocalizedStringResource(
+        "get_reminders_about_events_in_zurich",
+        defaultValue: "Get reminders about Events in Zurich!",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let getRemindersAboutEventsInZurich_key = "get_reminders_about_events_in_zurich"
+    
     /// Glass
     public static let `glass` = L10n.tr("Localizable", "glass", fallback: "Glass")
     public static let glass_resource = LocalizedStringResource(
@@ -403,6 +595,18 @@ public enum L10n {
         comment: nil
     )
     public static let glass_key = "glass"
+    
+    /// Home Configuration
+    public static let `homeConfiguration` = L10n.tr("Localizable", "home_configuration", fallback: "Home Configuration")
+    public static let homeConfiguration_resource = LocalizedStringResource(
+        "home_configuration",
+        defaultValue: "Home Configuration",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let homeConfiguration_key = "home_configuration"
     
     /// Zurich
     public static let `homeNavigationTitle` = L10n.tr("Localizable", "home_navigation_title", fallback: "Zurich")
@@ -452,11 +656,11 @@ public enum L10n {
     )
     public static let homeRecyclingEventFilterTitle_key = "home_recycling_event_filter_title"
     
-    /// Recycling Events
-    public static let `homeRecylcingEventTitle` = L10n.tr("Localizable", "home_recylcing_event_title", fallback: "Recycling Events")
+    /// Recycling
+    public static let `homeRecylcingEventTitle` = L10n.tr("Localizable", "home_recylcing_event_title", fallback: "Recycling")
     public static let homeRecylcingEventTitle_resource = LocalizedStringResource(
         "home_recylcing_event_title",
-        defaultValue: "Recycling Events",
+        defaultValue: "Recycling",
         table: "Localizable",
         locale: Locale.current,
         bundle: .atURL(BundleToken.bundle.bundleURL),
@@ -475,6 +679,18 @@ public enum L10n {
         comment: nil
     )
     public static let homeTrendsTitle_key = "home_trends_title"
+    
+    /// Is Open
+    public static let `isOpen` = L10n.tr("Localizable", "is_open", fallback: "Is Open")
+    public static let isOpen_resource = LocalizedStringResource(
+        "is_open",
+        defaultValue: "Is Open",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let isOpen_key = "is_open"
     
     /// Language
     public static let `language` = L10n.tr("Localizable", "language", fallback: "Language")
@@ -500,6 +716,30 @@ public enum L10n {
     )
     public static let lastRefresh_key = "last_refresh"
     
+    /// Latest Events
+    public static let `latestEvents` = L10n.tr("Localizable", "latest_events", fallback: "Latest Events")
+    public static let latestEvents_resource = LocalizedStringResource(
+        "latest_events",
+        defaultValue: "Latest Events",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let latestEvents_key = "latest_events"
+    
+    /// Latest News
+    public static let `latestNews` = L10n.tr("Localizable", "latest_news", fallback: "Latest News")
+    public static let latestNews_resource = LocalizedStringResource(
+        "latest_news",
+        defaultValue: "Latest News",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let latestNews_key = "latest_news"
+    
     /// Learn more
     public static let `learnMore` = L10n.tr("Localizable", "learn_more", fallback: "Learn more")
     public static let learnMore_resource = LocalizedStringResource(
@@ -511,6 +751,18 @@ public enum L10n {
         comment: nil
     )
     public static let learnMore_key = "learn_more"
+    
+    /// Legal
+    public static let `legal` = L10n.tr("Localizable", "legal", fallback: "Legal")
+    public static let legal_resource = LocalizedStringResource(
+        "legal",
+        defaultValue: "Legal",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let legal_key = "legal"
     
     /// Letter Box
     public static let `letterBox` = L10n.tr("Localizable", "letter_box", fallback: "Letter Box")
@@ -836,6 +1088,18 @@ public enum L10n {
     )
     public static let mapDetailDetailsToiletInfrastructureWheelchairSupport_key = "map_detail_details_toilet_infrastructure_wheelchair_support"
     
+    /// Market
+    public static let `market` = L10n.tr("Localizable", "market", fallback: "Market")
+    public static let market_resource = LocalizedStringResource(
+        "market",
+        defaultValue: "Market",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let market_key = "market"
+    
     /// Metal
     public static let `metal` = L10n.tr("Localizable", "metal", fallback: "Metal")
     public static let metal_resource = LocalizedStringResource(
@@ -847,6 +1111,18 @@ public enum L10n {
         comment: nil
     )
     public static let metal_key = "metal"
+    
+    /// More Events
+    public static let `moreEvents` = L10n.tr("Localizable", "more_events", fallback: "More Events")
+    public static let moreEvents_resource = LocalizedStringResource(
+        "more_events",
+        defaultValue: "More Events",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let moreEvents_key = "more_events"
     
     /// More filters
     public static let `moreFilters` = L10n.tr("Localizable", "more_filters", fallback: "More filters")
@@ -860,6 +1136,66 @@ public enum L10n {
     )
     public static let moreFilters_key = "more_filters"
     
+    /// More News
+    public static let `moreNews` = L10n.tr("Localizable", "more_news", fallback: "More News")
+    public static let moreNews_resource = LocalizedStringResource(
+        "more_news",
+        defaultValue: "More News",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let moreNews_key = "more_news"
+    
+    /// Movie
+    public static let `movie` = L10n.tr("Localizable", "movie", fallback: "Movie")
+    public static let movie_resource = LocalizedStringResource(
+        "movie",
+        defaultValue: "Movie",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let movie_key = "movie"
+    
+    /// Name
+    public static let `name` = L10n.tr("Localizable", "name", fallback: "Name")
+    public static let name_resource = LocalizedStringResource(
+        "name",
+        defaultValue: "Name",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let name_key = "name"
+    
+    /// Need help?
+    public static let `needHelp` = L10n.tr("Localizable", "need_help", fallback: "Need help?")
+    public static let needHelp_resource = LocalizedStringResource(
+        "need_help",
+        defaultValue: "Need help?",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let needHelp_key = "need_help"
+    
+    /// News
+    public static let `news` = L10n.tr("Localizable", "news", fallback: "News")
+    public static let news_resource = LocalizedStringResource(
+        "news",
+        defaultValue: "News",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let news_key = "news"
+    
     /// No access to location granted
     public static let `noAccessToLocationGranted` = L10n.tr("Localizable", "no_access_to_location_granted", fallback: "No access to location granted")
     public static let noAccessToLocationGranted_resource = LocalizedStringResource(
@@ -872,6 +1208,42 @@ public enum L10n {
     )
     public static let noAccessToLocationGranted_key = "no_access_to_location_granted"
     
+    /// No Configuration
+    public static let `noConfiguration` = L10n.tr("Localizable", "no_configuration", fallback: "No Configuration")
+    public static let noConfiguration_resource = LocalizedStringResource(
+        "no_configuration",
+        defaultValue: "No Configuration",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let noConfiguration_key = "no_configuration"
+    
+    /// No events available
+    public static let `noEventsAvailable` = L10n.tr("Localizable", "no_events_available", fallback: "No events available")
+    public static let noEventsAvailable_resource = LocalizedStringResource(
+        "no_events_available",
+        defaultValue: "No events available",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let noEventsAvailable_key = "no_events_available"
+    
+    /// No Events found
+    public static let `noEventsFound` = L10n.tr("Localizable", "no_events_found", fallback: "No Events found")
+    public static let noEventsFound_resource = LocalizedStringResource(
+        "no_events_found",
+        defaultValue: "No Events found",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let noEventsFound_key = "no_events_found"
+    
     /// No nearby location found
     public static let `noNearbyLocationFound` = L10n.tr("Localizable", "no_nearby_location_found", fallback: "No nearby location found")
     public static let noNearbyLocationFound_resource = LocalizedStringResource(
@@ -883,6 +1255,54 @@ public enum L10n {
         comment: nil
     )
     public static let noNearbyLocationFound_key = "no_nearby_location_found"
+    
+    /// No nearby locations available
+    public static let `noNearbyLocationsAvailable` = L10n.tr("Localizable", "no_nearby_locations_available", fallback: "No nearby locations available")
+    public static let noNearbyLocationsAvailable_resource = LocalizedStringResource(
+        "no_nearby_locations_available",
+        defaultValue: "No nearby locations available",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let noNearbyLocationsAvailable_key = "no_nearby_locations_available"
+    
+    /// No news available
+    public static let `noNewsAvailable` = L10n.tr("Localizable", "no_news_available", fallback: "No news available")
+    public static let noNewsAvailable_resource = LocalizedStringResource(
+        "no_news_available",
+        defaultValue: "No news available",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let noNewsAvailable_key = "no_news_available"
+    
+    /// No News found
+    public static let `noNewsFound` = L10n.tr("Localizable", "no_news_found", fallback: "No News found")
+    public static let noNewsFound_resource = LocalizedStringResource(
+        "no_news_found",
+        defaultValue: "No News found",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let noNewsFound_key = "no_news_found"
+    
+    /// No recycling events available
+    public static let `noRecyclingEventsAvailable` = L10n.tr("Localizable", "no_recycling_events_available", fallback: "No recycling events available")
+    public static let noRecyclingEventsAvailable_resource = LocalizedStringResource(
+        "no_recycling_events_available",
+        defaultValue: "No recycling events available",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let noRecyclingEventsAvailable_key = "no_recycling_events_available"
     
     /// No results available
     public static let `noResultsAvailable` = L10n.tr("Localizable", "no_results_available", fallback: "No results available")
@@ -931,6 +1351,18 @@ public enum L10n {
         comment: nil
     )
     public static let noZipCodeProvided_key = "no_zip_code_provided"
+    
+    /// Non-Sortable Sections
+    public static let `nonSortableSections` = L10n.tr("Localizable", "non_sortable_sections", fallback: "Non-Sortable Sections")
+    public static let nonSortableSections_resource = LocalizedStringResource(
+        "non_sortable_sections",
+        defaultValue: "Non-Sortable Sections",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let nonSortableSections_key = "non_sortable_sections"
     
     /// Not able to determine current location
     public static let `notAbleToDetermineCurrentLocation` = L10n.tr("Localizable", "not_able_to_determine_current_location", fallback: "Not able to determine current location")
@@ -1244,6 +1676,18 @@ public enum L10n {
     )
     public static let parking_key = "parking"
     
+    /// Party
+    public static let `party` = L10n.tr("Localizable", "party", fallback: "Party")
+    public static let party_resource = LocalizedStringResource(
+        "party",
+        defaultValue: "Party",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let party_key = "party"
+    
     /// Full access for just
     public static let `paywallFullAccessForJust` = L10n.tr("Localizable", "paywall_full_access_for_just", fallback: "Full access for just")
     public static let paywallFullAccessForJust_resource = LocalizedStringResource(
@@ -1388,6 +1832,18 @@ public enum L10n {
     )
     public static let privacyTitle_key = "privacy_title"
     
+    /// PubliBike
+    public static let `publibike` = L10n.tr("Localizable", "publibike", fallback: "PubliBike")
+    public static let publibike_resource = LocalizedStringResource(
+        "publibike",
+        defaultValue: "PubliBike",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let publibike_key = "publibike"
+    
     /// Enable Push Notifications
     public static let `pushNotificationCardButtonTitle` = L10n.tr("Localizable", "push_notification_card_button_title", fallback: "Enable Push Notifications")
     public static let pushNotificationCardButtonTitle_resource = LocalizedStringResource(
@@ -1435,6 +1891,42 @@ public enum L10n {
         comment: nil
     )
     public static let pushNotificationRecyclingDescription_key = "push_notification_recycling_description"
+    
+    /// Read full article
+    public static let `readFullArticle` = L10n.tr("Localizable", "read_full_article", fallback: "Read full article")
+    public static let readFullArticle_resource = LocalizedStringResource(
+        "read_full_article",
+        defaultValue: "Read full article",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let readFullArticle_key = "read_full_article"
+    
+    /// Read latest news
+    public static let `readLatestNews` = L10n.tr("Localizable", "read_latest_news", fallback: "Read latest news")
+    public static let readLatestNews_resource = LocalizedStringResource(
+        "read_latest_news",
+        defaultValue: "Read latest news",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let readLatestNews_key = "read_latest_news"
+    
+    /// Recommend CasaZurich
+    public static let `recommendCasazurigo` = L10n.tr("Localizable", "recommend_casazurigo", fallback: "Recommend CasaZurich")
+    public static let recommendCasazurigo_resource = LocalizedStringResource(
+        "recommend_casazurigo",
+        defaultValue: "Recommend CasaZurich",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let recommendCasazurigo_key = "recommend_casazurigo"
     
     /// Recycling
     public static let `recycling` = L10n.tr("Localizable", "recycling", fallback: "Recycling")
@@ -1964,6 +2456,18 @@ public enum L10n {
     )
     public static let search_key = "search"
     
+    /// See upcoming events
+    public static let `seeUpcomingEvents` = L10n.tr("Localizable", "see_upcoming_events", fallback: "See upcoming events")
+    public static let seeUpcomingEvents_resource = LocalizedStringResource(
+        "see_upcoming_events",
+        defaultValue: "See upcoming events",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let seeUpcomingEvents_key = "see_upcoming_events"
+    
     /// Location access
     public static let `settingsLocationAccess` = L10n.tr("Localizable", "settings_location_access", fallback: "Location access")
     public static let settingsLocationAccess_resource = LocalizedStringResource(
@@ -2048,6 +2552,18 @@ public enum L10n {
     )
     public static let showNearestLocationDescription_key = "show_nearest_location_description"
     
+    /// Society
+    public static let `society` = L10n.tr("Localizable", "society", fallback: "Society")
+    public static let society_resource = LocalizedStringResource(
+        "society",
+        defaultValue: "Society",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let society_key = "society"
+    
     /// Sort by
     public static let `sortBy` = L10n.tr("Localizable", "sort_by", fallback: "Sort by")
     public static let sortBy_resource = LocalizedStringResource(
@@ -2060,6 +2576,30 @@ public enum L10n {
     )
     public static let sortBy_key = "sort_by"
     
+    /// Sortable Sections
+    public static let `sortableSections` = L10n.tr("Localizable", "sortable_sections", fallback: "Sortable Sections")
+    public static let sortableSections_resource = LocalizedStringResource(
+        "sortable_sections",
+        defaultValue: "Sortable Sections",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let sortableSections_key = "sortable_sections"
+    
+    /// Sport
+    public static let `sport` = L10n.tr("Localizable", "sport", fallback: "Sport")
+    public static let sport_resource = LocalizedStringResource(
+        "sport",
+        defaultValue: "Sport",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let sport_key = "sport"
+    
     /// Fountain
     public static let `spring` = L10n.tr("Localizable", "spring", fallback: "Fountain")
     public static let spring_resource = LocalizedStringResource(
@@ -2071,6 +2611,42 @@ public enum L10n {
         comment: nil
     )
     public static let spring_key = "spring"
+    
+    /// Stage
+    public static let `stage` = L10n.tr("Localizable", "stage", fallback: "Stage")
+    public static let stage_resource = LocalizedStringResource(
+        "stage",
+        defaultValue: "Stage",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let stage_key = "stage"
+    
+    /// Subscribe to Pro
+    public static let `subscribeToPro` = L10n.tr("Localizable", "subscribe_to_pro", fallback: "Subscribe to Pro")
+    public static let subscribeToPro_resource = LocalizedStringResource(
+        "subscribe_to_pro",
+        defaultValue: "Subscribe to Pro",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let subscribeToPro_key = "subscribe_to_pro"
+    
+    /// Subscription
+    public static let `subscription` = L10n.tr("Localizable", "subscription", fallback: "Subscription")
+    public static let subscription_resource = LocalizedStringResource(
+        "subscription",
+        defaultValue: "Subscription",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let subscription_key = "subscription"
     
     /// Get CasaZurich Pro
     public static let `subscriptionCardButtonTitle` = L10n.tr("Localizable", "subscription_card_button_title", fallback: "Get CasaZurich Pro")
@@ -2215,6 +2791,18 @@ public enum L10n {
         comment: nil
     )
     public static let supportTitle_key = "support_title"
+    
+    /// Swimming Pool
+    public static let `swimmingPool` = L10n.tr("Localizable", "swimming_pool", fallback: "Swimming Pool")
+    public static let swimmingPool_resource = LocalizedStringResource(
+        "swimming_pool",
+        defaultValue: "Swimming Pool",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let swimmingPool_key = "swimming_pool"
     
     /// Calendar
     public static let `tabTitleCalendar` = L10n.tr("Localizable", "tab_title_calendar", fallback: "Calendar")
@@ -2384,6 +2972,18 @@ public enum L10n {
     )
     public static let today_key = "today"
     
+    /// Toggle to show or hide them on your home screen.
+    public static let `toggleToShowOrHideThemOnYourHomeScreen` = L10n.tr("Localizable", "toggle_to_show_or_hide_them_on_your_home_screen", fallback: "Toggle to show or hide them on your home screen.")
+    public static let toggleToShowOrHideThemOnYourHomeScreen_resource = LocalizedStringResource(
+        "toggle_to_show_or_hide_them_on_your_home_screen",
+        defaultValue: "Toggle to show or hide them on your home screen.",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let toggleToShowOrHideThemOnYourHomeScreen_key = "toggle_to_show_or_hide_them_on_your_home_screen"
+    
     /// Toilet
     public static let `toilet` = L10n.tr("Localizable", "toilet", fallback: "Toilet")
     public static let toilet_resource = LocalizedStringResource(
@@ -2480,6 +3080,30 @@ public enum L10n {
     )
     public static let unknown_key = "unknown"
     
+    /// Unlock all features to filter and see more events.
+    public static let `unlockAllFeaturesToFilterAndSeeMoreEvents` = L10n.tr("Localizable", "unlock_all_features_to_filter_and_see_more_events", fallback: "Unlock all features to filter and see more events.")
+    public static let unlockAllFeaturesToFilterAndSeeMoreEvents_resource = LocalizedStringResource(
+        "unlock_all_features_to_filter_and_see_more_events",
+        defaultValue: "Unlock all features to filter and see more events.",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let unlockAllFeaturesToFilterAndSeeMoreEvents_key = "unlock_all_features_to_filter_and_see_more_events"
+    
+    /// Unlock all features to filter and see more news.
+    public static let `unlockAllFeaturesToFilterAndSeeMoreNews` = L10n.tr("Localizable", "unlock_all_features_to_filter_and_see_more_news", fallback: "Unlock all features to filter and see more news.")
+    public static let unlockAllFeaturesToFilterAndSeeMoreNews_resource = LocalizedStringResource(
+        "unlock_all_features_to_filter_and_see_more_news",
+        defaultValue: "Unlock all features to filter and see more news.",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let unlockAllFeaturesToFilterAndSeeMoreNews_key = "unlock_all_features_to_filter_and_see_more_news"
+    
     /// Unlock all features to filter and see more nearby locations.
     public static let `unlockAllFeaturesToSeeMoreLocationsDescription` = L10n.tr("Localizable", "unlock_all_features_to_see_more_locations_description", fallback: "Unlock all features to filter and see more nearby locations.")
     public static let unlockAllFeaturesToSeeMoreLocationsDescription_resource = LocalizedStringResource(
@@ -2491,6 +3115,18 @@ public enum L10n {
         comment: nil
     )
     public static let unlockAllFeaturesToSeeMoreLocationsDescription_key = "unlock_all_features_to_see_more_locations_description"
+    
+    /// Upgrade to pro features
+    public static let `upgradeToProFeatures` = L10n.tr("Localizable", "upgrade_to_pro_features", fallback: "Upgrade to pro features")
+    public static let upgradeToProFeatures_resource = LocalizedStringResource(
+        "upgrade_to_pro_features",
+        defaultValue: "Upgrade to pro features",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let upgradeToProFeatures_key = "upgrade_to_pro_features"
     
     /// About
     public static let `userPreferencesAboutTitle` = L10n.tr("Localizable", "user_preferences_about_title", fallback: "About")
@@ -2600,6 +3236,18 @@ public enum L10n {
     )
     public static let vendingMachine_key = "vending_machine"
     
+    /// View recycling calendar events
+    public static let `viewRecyclingCalendarEvents` = L10n.tr("Localizable", "view_recycling_calendar_events", fallback: "View recycling calendar events")
+    public static let viewRecyclingCalendarEvents_resource = LocalizedStringResource(
+        "view_recycling_calendar_events",
+        defaultValue: "View recycling calendar events",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let viewRecyclingCalendarEvents_key = "view_recycling_calendar_events"
+    
     /// 🗑 CasaZurich
     public static let `wasteRecyclingNotificationTitle` = L10n.tr("Localizable", "waste_recycling_notification_title", fallback: "🗑 CasaZurich")
     public static let wasteRecyclingNotificationTitle_resource = LocalizedStringResource(
@@ -2611,6 +3259,18 @@ public enum L10n {
         comment: nil
     )
     public static let wasteRecyclingNotificationTitle_key = "waste_recycling_notification_title"
+    
+    /// Water Temperature
+    public static let `waterTemperature` = L10n.tr("Localizable", "water_temperature", fallback: "Water Temperature")
+    public static let waterTemperature_resource = LocalizedStringResource(
+        "water_temperature",
+        defaultValue: "Water Temperature",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let waterTemperature_key = "water_temperature"
     
     /// Weather
     public static let `weatherNavigationTitle` = L10n.tr("Localizable", "weather_navigation_title", fallback: "Weather")
@@ -2671,6 +3331,18 @@ public enum L10n {
         comment: nil
     )
     public static let weeklyEventNotificationTitle_key = "weekly_event_notification_title"
+    
+    /// When configuration is missing
+    public static let `whenConfigurationIsMissing` = L10n.tr("Localizable", "when_configuration_is_missing", fallback: "When configuration is missing")
+    public static let whenConfigurationIsMissing_resource = LocalizedStringResource(
+        "when_configuration_is_missing",
+        defaultValue: "When configuration is missing",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let whenConfigurationIsMissing_key = "when_configuration_is_missing"
     
     /// Zip Code
     public static let `zipCodeTitle` = L10n.tr("Localizable", "zip_code_title", fallback: "Zip Code")
