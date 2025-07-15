@@ -13,6 +13,7 @@ Commands:
     rename          Rename a key from all the files
     compileToSwift  Compiles the curren translation files to a Swift file
     sync            Synchronize .strings and .json files
+    migrate         Migrate localization keys to use English values as keys
     help            Show this help message
 
 Global Options:
@@ -48,6 +49,11 @@ Command-specific Options:
         --languages <langs>       Language codes to sync (comma-separated)
         --file <name>             Specific file to sync (without extension)
 
+    migrate:
+        --dry-run                 Run migration in dry-run mode (validation only)
+        --no-backup              Disable backup creation
+        --validate-only          Only validate current state, don't migrate
+
 Examples:
     $(basename $0) translate                                                            # Translate using settings from .env
     $(basename $0) translate --source-lang en --target-langs fr,it                      # Override source and target languages
@@ -56,6 +62,8 @@ Examples:
     $(basename $0) compileToSwift --ignore "AppShortcuts.strings,Foo.strings"           # Compile translation files to a Swift file
     $(basename $0) sync --languages en,fr,it                                            # Sync all files for specified languages
     $(basename $0) sync --file "Localizable" --languages en,fr                          # Sync specific file for specified languages
+    $(basename $0) migrate --dry-run                                                     # Test migration without making changes
+    $(basename $0) migrate                                                               # Migrate keys to use English values
 
 Environment Variables:
     DEEPL_AUTH_KEY         DeepL API authentication key
@@ -102,6 +110,9 @@ case $COMMAND in
         ;;
     "sync")
         npm run fileSync -- "$@"
+        ;;
+    "migrate")
+        npm run migrate -- "$@"
         ;;
     *)
         echo "Error: Unknown command: $COMMAND"

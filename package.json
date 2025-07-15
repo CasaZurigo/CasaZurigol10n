@@ -8,6 +8,7 @@
     "rename": "npm run build && node scripts/dist/renameEntries.js",
     "compileToSwift": "npm run build && node scripts/dist/compileToSwift.js --ignore \"AppShortcuts.strings\"",
     "fileSync": "npm run build && node scripts/dist/fileSync.js",
+    "migrate": "npm run build && node scripts/dist/migration/migrate-cli.js",
     "prepare": "husky"
   },
   "keywords": [],
