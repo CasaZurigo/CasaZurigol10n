@@ -2,16 +2,15 @@ import { Command } from "commander";
 import { config } from "dotenv";
 import path from "path";
 import fs from "fs";
-import { FileHandlerFactory, XCStringsFileHandler } from "./fileHandlers";
+import { FileHandlerFactory } from "./fileHandlers";
 import { SourceLanguageCode, TargetLanguageCode, Translator } from "deepl-node";
 import { streamText } from "ai";
 import {
   createOpenRouter,
-  openrouter,
   OpenRouterProvider,
 } from "@openrouter/ai-sdk-provider";
-import { text } from "stream/consumers";
 import { FileSynchronizer } from "./fileSync";
+import { normalizeString } from "./utils";
 
 const context = `
 CasaZurigo: Your Go-To Guide for Zurich
@@ -167,7 +166,7 @@ class StringsTranslator {
         } else {
           try {
             // First, get Deepl translation
-            const deeplResult = await this.translator.translateText(
+            const deeplTranslation = await this.translator.translateText(
               value,
               sourceLanguage.toLowerCase() as SourceLanguageCode,
               targetLanguage.toLowerCase() as TargetLanguageCode,
@@ -177,11 +176,14 @@ class StringsTranslator {
             const refinedTranslation = await this.refineTranslationWithAI(
               value,
               sourceLanguage,
-              deeplResult.text,
+              deeplTranslation.text,
               targetLanguage,
             );
 
-            const result = refinedTranslation || deeplResult.text;
+            const normalisedTranslation = normalizeString(
+              refinedTranslation || deeplTranslation.text,
+            );
+            const result = normalisedTranslation;
 
             translated[key] = result;
             this.cache[cacheKey] = result;
