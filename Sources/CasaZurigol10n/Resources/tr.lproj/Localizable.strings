@@ -119,11 +119,7 @@
 "onboarding_location_permission_description" = "Yakındaki halka açık yerler hakkında bilgi sağlamak için konum erişimine ihtiyacımız var.";
 "onboarding_location_permission_title" = "Konum İzni";
 "onboarding_location_title" = "Yakındaki Yerleri Keşfet";
-"onboarding_map_description" = "Yakınınızdaki halka açık yerleri bulun:
-- Parklar
-- Umumi Tuvaletler
-- ATM
-- Ve daha fazlası...";
+"onboarding_map_description" = "Yakınınızdaki halka açık yerleri bulun:\n- Parklar\n- Umumi Tuvaletler\n- ATM\n- Ve daha fazlası...";
 "onboarding_map_title" = "Yakındaki Genel Yerleri Bul";
 "onboarding_nearby_location_description" = "Çevrenizdeki parklar, tuvaletler ve diğerleri gibi halka açık yerlere erişin.";
 "onboarding_nearby_location_title" = "Yakındaki Kamusal Alanlar";
