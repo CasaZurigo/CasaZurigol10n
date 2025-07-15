@@ -232,9 +232,7 @@
 "tab_title_calendar" = "Calendario";
 "tab_title_home" = "Inicio";
 "tab_title_maps" = "Mapa";
-"terms_of_use_description" = "El uso de CasaZurich se rige por el EULA estándar de Apple para apps.
-Las suscripciones se renovarán automáticamente a menos que se cancelen al menos 24 horas antes del final del período actual. Puedes cancelar en cualquier momento desde la configuración de tu cuenta de iTunes. Cualquier parte no utilizada de una prueba gratuita se perderá si adquieres una suscripción. El usuario puede desactivar la renovación automática accediendo a la Configuración de la cuenta del usuario después de la compra. La duración y el precio de cada suscripción se muestran en la pantalla de compra y se actualizan en el momento de la compra.
-Si tienes alguna pregunta sobre los Términos de uso de CasaZurich, ponte en contacto conmigo en support@casazurigo.ch.";
+"terms_of_use_description" = "El uso de CasaZurich se rige por el EULA estándar de Apple para apps. Las suscripciones se renovarán automáticamente a menos que se cancelen al menos 24 horas antes del final del período actual. Puedes cancelar en cualquier momento desde la configuración de tu cuenta de iTunes. Cualquier parte no utilizada de una prueba gratuita se perderá si adquieres una suscripción. El usuario puede desactivar la renovación automática accediendo a la Configuración de la cuenta del usuario después de la compra. La duración y el precio de cada suscripción se muestran en la pantalla de compra y se actualizan en el momento de la compra. Si tienes alguna pregunta sobre los Términos de uso de CasaZurich, ponte en contacto conmigo en support@casazurigo.ch.";
 "terms_of_use_title" = "Términos de uso";
 "textiles" = "Textiles";
 "timeout" = "Tiempo de espera agotado";
