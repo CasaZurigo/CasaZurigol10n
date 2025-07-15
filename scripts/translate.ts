@@ -2,7 +2,7 @@ import { Command } from "commander";
 import { config } from "dotenv";
 import path from "path";
 import fs from "fs";
-import { FileHandlerFactory } from "./fileHandlers";
+import { FileHandlerFactory, XCStringsFileHandler } from "./fileHandlers";
 import { SourceLanguageCode, TargetLanguageCode, Translator } from "deepl-node";
 import { streamText } from "ai";
 import {
@@ -295,6 +295,55 @@ class StringsTranslator {
 
     // Sync all target language files after translation
     await this.fileSynchronizer.syncFiles(outputDir, targetLanguages);
+
+    // Generate .xcstrings files after translation
+    await this.generateXCStringsFiles(inputFiles, outputDir, targetLanguages);
+  }
+
+  private async generateXCStringsFiles(
+    inputFiles: string[],
+    outputDir: string,
+    targetLanguages: string[],
+  ): Promise<void> {
+    const xcstringsHandler = FileHandlerFactory.getXCStringsFileHandler();
+    const stringsHandler = FileHandlerFactory.getStringsFileHandler();
+    const allLanguages = ["en", ...targetLanguages];
+
+    for (const inputFile of inputFiles) {
+      const inputStem = path.parse(inputFile).name;
+      const xcstringsOutputFile = path.join(
+        outputDir,
+        `${inputStem}.xcstrings`,
+      );
+
+      console.log(`\nGenerating .xcstrings file: ${xcstringsOutputFile}`);
+
+      // Collect all translations for all languages
+      const allLanguageTranslations: Record<
+        string,
+        Record<string, string>
+      > = {};
+
+      for (const language of allLanguages) {
+        const stringsFile = path.join(
+          outputDir,
+          `${language}.lproj`,
+          `${inputStem}.strings`,
+        );
+        if (fs.existsSync(stringsFile)) {
+          allLanguageTranslations[language] =
+            stringsHandler.parseFile(stringsFile);
+        }
+      }
+
+      // Generate .xcstrings file with all translations
+      xcstringsHandler.syncWithTranslations(
+        xcstringsOutputFile,
+        allLanguageTranslations,
+      );
+
+      console.log(`Created/Updated ${xcstringsOutputFile}`);
+    }
   }
 }
 

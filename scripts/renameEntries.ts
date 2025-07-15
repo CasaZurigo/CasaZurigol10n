@@ -1,7 +1,7 @@
 import { Command } from "commander";
 import path from "path";
 import fs from "fs";
-import { FileHandlerFactory } from "./fileHandlers";
+import { FileHandlerFactory, XCStringsFileHandler } from "./fileHandlers";
 
 class StringsEditor {
   private basePath: string;
@@ -34,6 +34,27 @@ class StringsEditor {
     }
   }
 
+  renameKeyInXCStrings(
+    filePath: string,
+    oldKey: string,
+    newKey: string,
+  ): boolean {
+    try {
+      if (fs.existsSync(filePath) && fs.statSync(filePath).isFile()) {
+        const xcstringsHandler = FileHandlerFactory.getXCStringsFileHandler();
+        xcstringsHandler.renameEntry(filePath, oldKey, newKey);
+        console.log(`Renamed key '${oldKey}' to '${newKey}' in ${filePath}`);
+        return true;
+      }
+      return false;
+    } catch (err) {
+      console.error(
+        `Error renaming key in .xcstrings file '${filePath}': ${err}`,
+      );
+      return false;
+    }
+  }
+
   renameKeyInAllFiles(oldKey: string, newKey: string): number {
     let renameCount = 0;
 
@@ -47,8 +68,15 @@ class StringsEditor {
         if (stat.isDirectory()) {
           processDirectory(fullPath);
         } else {
-          if (this.renameKey(fullPath, oldKey, newKey)) {
-            renameCount++;
+          const extension = path.extname(file).toLowerCase();
+          if (extension === ".xcstrings") {
+            if (this.renameKeyInXCStrings(fullPath, oldKey, newKey)) {
+              renameCount++;
+            }
+          } else if (extension === ".strings" || extension === ".json") {
+            if (this.renameKey(fullPath, oldKey, newKey)) {
+              renameCount++;
+            }
           }
         }
       });

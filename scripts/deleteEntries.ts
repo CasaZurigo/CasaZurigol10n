@@ -1,7 +1,7 @@
 import { Command } from "commander";
 import path from "path";
 import fs from "fs";
-import { FileHandlerFactory } from "./fileHandlers";
+import { FileHandlerFactory, XCStringsFileHandler } from "./fileHandlers";
 
 class StringsEditor {
   private basePath: string;
@@ -31,6 +31,23 @@ class StringsEditor {
     }
   }
 
+  deleteEntryFromXCStrings(filePath: string, keyToDelete: string): boolean {
+    try {
+      if (fs.existsSync(filePath) && fs.statSync(filePath).isFile()) {
+        const xcstringsHandler = FileHandlerFactory.getXCStringsFileHandler();
+        xcstringsHandler.deleteEntry(filePath, keyToDelete);
+        console.log(`Deleted key '${keyToDelete}' from ${filePath}`);
+        return true;
+      }
+      return false;
+    } catch (err) {
+      console.error(
+        `Error deleting key from .xcstrings file '${filePath}': ${err}`,
+      );
+      return false;
+    }
+  }
+
   deleteEntryFromAllFiles(keyToDelete: string): number {
     let deletionsCount = 0;
 
@@ -44,8 +61,15 @@ class StringsEditor {
         if (stat.isDirectory()) {
           processDirectory(fullPath);
         } else {
-          if (this.deleteEntry(fullPath, keyToDelete)) {
-            deletionsCount++;
+          const extension = path.extname(file).toLowerCase();
+          if (extension === ".xcstrings") {
+            if (this.deleteEntryFromXCStrings(fullPath, keyToDelete)) {
+              deletionsCount++;
+            }
+          } else if (extension === ".strings" || extension === ".json") {
+            if (this.deleteEntry(fullPath, keyToDelete)) {
+              deletionsCount++;
+            }
           }
         }
       });

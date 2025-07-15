@@ -1,11 +1,12 @@
 import { Command } from "commander";
 import path from "path";
 import fs from "fs";
-import { FileHandlerFactory } from "./fileHandlers";
+import { FileHandlerFactory, XCStringsFileHandler } from "./fileHandlers";
 
 export class FileSynchronizer {
   private stringsHandler = FileHandlerFactory.getStringsFileHandler();
   private jsonHandler = FileHandlerFactory.getJsonFileHandler();
+  private xcstringsHandler = FileHandlerFactory.getXCStringsFileHandler();
 
   private getMatchingFiles(
     directory: string,
@@ -88,6 +89,82 @@ export class FileSynchronizer {
           this.jsonHandler.createFile(mergedTranslations, jsonFile);
           console.log(`Updated ${jsonFile}`);
         }
+      }
+    }
+
+    // Synchronize .xcstrings files after all language files are synced
+    await this.syncXCStringsFiles(inputDir, languages, specificFile);
+  }
+
+  private async syncXCStringsFiles(
+    inputDir: string,
+    languages: string[],
+    specificFile?: string,
+  ): Promise<void> {
+    // Get all unique base names from all languages
+    const baseNames = new Set<string>();
+
+    for (const language of languages) {
+      const langDir = path.join(inputDir, `${language}.lproj`);
+      if (fs.existsSync(langDir)) {
+        const files = fs
+          .readdirSync(langDir)
+          .filter((f) => f.endsWith(".strings") || f.endsWith(".json"))
+          .map((f) => path.parse(f).name);
+        files.forEach((name) => baseNames.add(name));
+      }
+    }
+
+    // Filter by specific file if provided
+    const filesToSync = specificFile ? [specificFile] : Array.from(baseNames);
+
+    for (const baseName of filesToSync) {
+      const xcstringsFile = path.join(inputDir, `${baseName}.xcstrings`);
+
+      console.log(`\nSyncing .xcstrings file: ${xcstringsFile}`);
+
+      // Collect all translations for all languages
+      const allLanguageTranslations: Record<
+        string,
+        Record<string, string>
+      > = {};
+
+      for (const language of languages) {
+        const langDir = path.join(inputDir, `${language}.lproj`);
+        const stringsFile = path.join(langDir, `${baseName}.strings`);
+        const jsonFile = path.join(langDir, `${baseName}.json`);
+
+        let languageTranslations: Record<string, string> = {};
+
+        if (fs.existsSync(stringsFile)) {
+          const stringsTranslations =
+            this.stringsHandler.parseFile(stringsFile);
+          languageTranslations = {
+            ...languageTranslations,
+            ...stringsTranslations,
+          };
+        }
+
+        if (fs.existsSync(jsonFile)) {
+          const jsonTranslations = this.jsonHandler.parseFile(jsonFile);
+          languageTranslations = {
+            ...languageTranslations,
+            ...jsonTranslations,
+          };
+        }
+
+        if (Object.keys(languageTranslations).length > 0) {
+          allLanguageTranslations[language] = languageTranslations;
+        }
+      }
+
+      // Sync the .xcstrings file with all language translations
+      if (Object.keys(allLanguageTranslations).length > 0) {
+        this.xcstringsHandler.syncWithTranslations(
+          xcstringsFile,
+          allLanguageTranslations,
+        );
+        console.log(`Updated ${xcstringsFile}`);
       }
     }
   }
