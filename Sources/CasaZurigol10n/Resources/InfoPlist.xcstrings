@@ -1,0 +1,98 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "CFBundleName": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "CasaZürich"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "CasaZurich"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "CasaZurich"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "CasaZurigo"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "CasaZurich"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "CasaZurich"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "CasaZurich"
+          }
+        }
+      }
+    },
+    "NSLocationWhenInUseUsageDescription": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verbessern Sie Ihr Erlebnis, indem Sie GPS aktivieren, um mühelos Orte in der Nähe zu finden und Ihre Nutzung zu bereichern."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Améliorez votre expérience en activant le GPS pour localiser facilement les lieux à proximité et enrichir votre parcours."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enhance your experience by enabling GPS to effortlessly locate nearby places and enrich your journey."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Migliora la tua esperienza attivando il GPS per trovare facilmente i luoghi vicini e arricchire il tuo percorso."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mejora tu experiencia activando el GPS para encontrar fácilmente lugares cercanos y enriquecer tu recorrido."
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Melhore a sua experiência ativando o GPS para localizar facilmente locais próximos e enriquecer a sua jornada."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yakındaki yerleri kolayca bulmak ve deneyiminizi zenginleştirmek için GPS'i etkinleştirin."
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
