@@ -213,14 +213,19 @@ class SwiftCompiler {
   }
 
   private sanitizeKey(key: string): string {
-    let workingString = key;
-    const matched = key.match(/^[A-Z]+/);
+    const normalizedKey = key
+      .replace(/[^a-zA-Z0-9_]/g, "_")
+      .replace(/__+/g, "_")
+      .replace(/^_+/, "");
+
+    let workingString = normalizedKey;
+    const matched = normalizedKey.match(/^[A-Z]+/);
     if (matched) {
       let prefixMatch = matched[0];
       let prefixMatchLength = prefixMatch.length;
 
-      if (prefixMatchLength <= key.length) {
-        let prefix = key.slice(0, prefixMatchLength).toLowerCase();
+      if (prefixMatchLength <= normalizedKey.length) {
+        let prefix = normalizedKey.slice(0, prefixMatchLength).toLowerCase();
         const prefixLength = prefix.length;
 
         if (prefixLength > 1) {
@@ -230,8 +235,8 @@ class SwiftCompiler {
 
         workingString = prefix;
 
-        if (prefixLength < key.length) {
-          let rest = key.slice(prefixLength);
+        if (prefixLength < normalizedKey.length) {
+          let rest = normalizedKey.slice(prefixLength);
           workingString += rest;
         }
       }
@@ -243,7 +248,7 @@ class SwiftCompiler {
       return workingString;
     }
 
-    return parts
+    const result = parts
       .map((part, index) => {
         if (index === 0) {
           return part.toLowerCase();
@@ -251,6 +256,7 @@ class SwiftCompiler {
         return part.charAt(0).toUpperCase() + part.slice(1).toLowerCase();
       })
       .join("");
+    return result;
   }
 
   private getTableName(filePath: string): string | null {
