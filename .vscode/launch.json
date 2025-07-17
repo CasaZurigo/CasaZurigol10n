@@ -72,15 +72,14 @@
       ]
     },
     {
-      "name": "TS Debugger: Migration CasaZurigol10n Dry Run",
+      "name": "TS Debugger: Migration CasaZurigol10n",
       "type": "node",
       "request": "launch",
       "preLaunchTask": "tsc: build - tsconfig.json",
       "program": "${workspaceFolder}/scripts/dist/migration/migrate-cli.js",
       "sourceMaps": true,
       "console": "integratedTerminal",
-      "outFiles": ["${workspaceFolder}/scripts/dist/**/*.js"],
-      "args": ["--dry-run"]
+      "outFiles": ["${workspaceFolder}/scripts/dist/**/*.js"]
     }
   ],
   "inputs": [
