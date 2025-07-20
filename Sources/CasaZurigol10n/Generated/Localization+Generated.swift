@@ -3116,6 +3116,18 @@ public enum L10n {
     )
     public static let unlockAllFeaturesToSeeMoreLocationsDescription_key = "unlock_all_features_to_see_more_locations_description"
     
+    /// Unlock more with Pro!
+    public static let `unlockMoreWithPro` = L10n.tr("Localizable", "unlock_more_with_pro", fallback: "Unlock more with Pro!")
+    public static let unlockMoreWithPro_resource = LocalizedStringResource(
+        "unlock_more_with_pro",
+        defaultValue: "Unlock more with Pro!",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let unlockMoreWithPro_key = "unlock_more_with_pro"
+    
     /// Upgrade to pro features
     public static let `upgradeToProFeatures` = L10n.tr("Localizable", "upgrade_to_pro_features", fallback: "Upgrade to pro features")
     public static let upgradeToProFeatures_resource = LocalizedStringResource(
