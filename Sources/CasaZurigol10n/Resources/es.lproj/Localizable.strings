@@ -252,6 +252,8 @@
 "tomorrow_paper_recycling_notification_body" = "Mañana se recogerá tu papel.";
 "tomorrow_waste_recycling_notification_body" = "Mañana se recogerán tus residuos.";
 "unknown" = "Desconocido";
+"unlock_access_to_all_these_amazing_events" = "Desbloquea el acceso a todos estos increíbles eventos";
+"unlock_access_to_all_these_amazing_news" = "Desbloquea el acceso a todas estas increíbles fuentes de noticias";
 "unlock_all_features_to_filter_and_see_more_events" = "Desbloquea todas las funciones para filtrar y ver más eventos.";
 "unlock_all_features_to_filter_and_see_more_news" = "Desbloquea todas las funciones para filtrar y ver más novedades.";
 "unlock_all_features_to_see_more_locations_description" = "Desbloquea todas las funciones para filtrar y ver más ubicaciones cercanas.";

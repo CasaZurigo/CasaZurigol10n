@@ -252,6 +252,8 @@
 "tomorrow_paper_recycling_notification_body" = "Morgen wird Ihr Altpapier abgeholt.";
 "tomorrow_waste_recycling_notification_body" = "Morgen wird Ihr Abfall abgeholt.";
 "unknown" = "Unbekannt";
+"unlock_access_to_all_these_amazing_events" = "Schalten Sie den Zugang zu all diesen tollen Veranstaltungen frei";
+"unlock_access_to_all_these_amazing_news" = "Schalten Sie den Zugang zu all diesen fantastischen Nachrichtenquellen frei";
 "unlock_all_features_to_filter_and_see_more_events" = "Alle Funktionen freischalten, um mehr Ereignisse zu filtern und anzuzeigen.";
 "unlock_all_features_to_filter_and_see_more_news" = "Schalte alle Funktionen frei, um mehr Neuigkeiten zu filtern und anzuzeigen.";
 "unlock_all_features_to_see_more_locations_description" = "Schalten Sie alle Funktionen frei, um weitere Orte in der Nähe zu filtern und anzuzeigen.";

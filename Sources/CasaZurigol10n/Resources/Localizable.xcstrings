@@ -12788,6 +12788,98 @@
           }
         }
       }
+    },
+    "unlock_access_to_all_these_amazing_events": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unlock access to all these amazing events"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Débloquez l'accès à tous ces événements extraordinaires"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Schalten Sie den Zugang zu all diesen tollen Veranstaltungen frei"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sbloccate l'accesso a tutti questi eventi straordinari"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Desbloquea el acceso a todos estos increíbles eventos"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Desbloquear o acesso a todos estes eventos fantásticos"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tüm bu muhteşem etkinliklere erişimin kilidini açın"
+          }
+        }
+      }
+    },
+    "unlock_access_to_all_these_amazing_news": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unlock access to all these amazing news sources"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Débloquez l'accès à toutes ces sources d'information étonnantes"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Schalten Sie den Zugang zu all diesen fantastischen Nachrichtenquellen frei"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sbloccate l'accesso a tutte queste incredibili fonti di notizie"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Desbloquea el acceso a todas estas increíbles fuentes de noticias"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Desbloquear o acesso a todas estas fantásticas fontes de notícias"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tüm bu harika haber kaynaklarına erişimin kilidini açın"
+          }
+        }
+      }
     }
   },
   "version": "1.0"

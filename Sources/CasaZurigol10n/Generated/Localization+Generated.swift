@@ -3080,6 +3080,30 @@ public enum L10n {
     )
     public static let unknown_key = "unknown"
     
+    /// Unlock access to all these amazing events
+    public static let `unlockAccessToAllTheseAmazingEvents` = L10n.tr("Localizable", "unlock_access_to_all_these_amazing_events", fallback: "Unlock access to all these amazing events")
+    public static let unlockAccessToAllTheseAmazingEvents_resource = LocalizedStringResource(
+        "unlock_access_to_all_these_amazing_events",
+        defaultValue: "Unlock access to all these amazing events",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let unlockAccessToAllTheseAmazingEvents_key = "unlock_access_to_all_these_amazing_events"
+    
+    /// Unlock access to all these amazing news sources
+    public static let `unlockAccessToAllTheseAmazingNews` = L10n.tr("Localizable", "unlock_access_to_all_these_amazing_news", fallback: "Unlock access to all these amazing news sources")
+    public static let unlockAccessToAllTheseAmazingNews_resource = LocalizedStringResource(
+        "unlock_access_to_all_these_amazing_news",
+        defaultValue: "Unlock access to all these amazing news sources",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let unlockAccessToAllTheseAmazingNews_key = "unlock_access_to_all_these_amazing_news"
+    
     /// Unlock all features to filter and see more events.
     public static let `unlockAllFeaturesToFilterAndSeeMoreEvents` = L10n.tr("Localizable", "unlock_all_features_to_filter_and_see_more_events", fallback: "Unlock all features to filter and see more events.")
     public static let unlockAllFeaturesToFilterAndSeeMoreEvents_resource = LocalizedStringResource(
