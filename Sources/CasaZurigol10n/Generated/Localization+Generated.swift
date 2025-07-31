@@ -273,6 +273,18 @@ public enum L10n {
     )
     public static let descending_key = "descending"
     
+    /// Discover Events
+    public static let `discoverEvents` = L10n.tr("Localizable", "discover_events", fallback: "Discover Events")
+    public static let discoverEvents_resource = LocalizedStringResource(
+        "discover_events",
+        defaultValue: "Discover Events",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let discoverEvents_key = "discover_events"
+    
     /// Discover locations near you
     public static let `discoverLocationsNearYou` = L10n.tr("Localizable", "discover_locations_near_you", fallback: "Discover locations near you")
     public static let discoverLocationsNearYou_resource = LocalizedStringResource(

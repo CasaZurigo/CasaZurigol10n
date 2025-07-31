@@ -18,6 +18,7 @@
 "date_earliest_first" = "Datum (Älteste zuerst)";
 "date_latest_first" = "Datum (Neueste zuerst)";
 "descending" = "Absteigend";
+"discover_events" = "Veranstaltungen entdecken";
 "discover_locations_near_you" = "Standorte in der Nähe entdecken";
 "done" = "Fertig";
 "drag_to_reorder_sections_and_toggle_to_show_or_hide_them_on_your_home_screen" = "Ziehen Sie, um Abschnitte neu anzuordnen, und schalten Sie sie ein oder aus, um sie auf Ihrem Startbildschirm anzuzeigen oder auszublenden.";

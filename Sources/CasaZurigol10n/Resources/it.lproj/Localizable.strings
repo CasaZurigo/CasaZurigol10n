@@ -18,6 +18,7 @@
 "date_earliest_first" = "Data (dalla meno recente)";
 "date_latest_first" = "Data (più recente prima)";
 "descending" = "Discendente";
+"discover_events" = "Scoprire gli eventi";
 "discover_locations_near_you" = "Scopri i luoghi vicini a te";
 "done" = "Fatto";
 "drag_to_reorder_sections_and_toggle_to_show_or_hide_them_on_your_home_screen" = "Trascina per riordinare le sezioni e attiva/disattiva per mostrarle o nasconderle nella schermata iniziale.";
