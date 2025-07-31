@@ -536,6 +536,18 @@ public enum L10n {
     )
     public static let filter_key = "filter"
     
+    /// For more upgrade to Pro
+    public static let `forMoreUpgradeToPro` = L10n.tr("Localizable", "for_more_upgrade_to_pro", fallback: "For more upgrade to Pro")
+    public static let forMoreUpgradeToPro_resource = LocalizedStringResource(
+        "for_more_upgrade_to_pro",
+        defaultValue: "For more upgrade to Pro",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let forMoreUpgradeToPro_key = "for_more_upgrade_to_pro"
+    
     /// Get access to unlimited events from all sources
     public static let `getAccessToUnlimitedEventsFromAllSources` = L10n.tr("Localizable", "get_access_to_unlimited_events_from_all_sources", fallback: "Get access to unlimited events from all sources")
     public static let getAccessToUnlimitedEventsFromAllSources_resource = LocalizedStringResource(
