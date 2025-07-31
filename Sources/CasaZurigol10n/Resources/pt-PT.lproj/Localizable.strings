@@ -11,6 +11,7 @@
 "collection_point" = "Ponto de Recolha";
 "concert" = "Concerto";
 "configuration" = "Definições";
+"construction" = "Construção";
 "continue" = "Continuar";
 "customize_home" = "Personalizar Ecrã Principal";
 "date" = "Data";
@@ -27,6 +28,7 @@
 "etram_recycling_notification_title" = "🚅 CasaZurich";
 "event_not_found" = "Evento não encontrado";
 "events" = "Eventos";
+"explore_local_events_to_stay_informed_about_whats_happening_in_zurich" = "Explore os eventos locais para se manter informado sobre o que está a acontecer em Zurique.";
 "failed_to_load_locations" = "Falha ao carregar localizações";
 "feature_request" = "Sugestão de Funcionalidade";
 "feedback_support_customer_description" = "Embora leia todas as mensagens, como sou apenas uma pessoa, não consigo responder a todas. Espero que compreenda, e obrigado pelo seu feedback.";
@@ -90,6 +92,7 @@
 "metal" = "Metal";
 "more_events" = "Mais Eventos";
 "more_filters" = "Mais filtros";
+"more_information_on_map" = "Mais informações sobre o seu mapa";
 "more_news" = "Mais Notícias";
 "movie" = "Cinema";
 "name" = "Nome";
@@ -199,10 +202,13 @@
 "recycling_paper_event_detail_not_allowed" = "Papel não reciclável, como capas e contracapas de livros, embalagens isoladas* de papel reciclado (por exemplo, Paperfloc), cartão, aparas de papel, sacos de papel, papel plastificado ou sujo, Tetra Pak, embalagens de alimentos congelados";
 "recycling_paper_event_title" = "Papel";
 "recycling_waste_event_title" = "Resíduos";
+"region" = "Região";
 "search" = "Pesquisar";
 "see_upcoming_events" = "Ver próximos eventos";
+"see_whats_going_on_in_zurich" = "Ver o que se passa em Zurique";
 "settings_location_access" = "Acesso à localização";
 "settings_push_notification_access" = "Acesso a notificações push";
+"shop_merchandise" = "Comprar mercadoria";
 "show_all" = "Mostrar Tudo";
 "show_nearby_locations" = "Mostrar locais próximos";
 "show_nearby_locations_description" = "Abre a app e mostra as localizações próximas num mapa.";
@@ -254,7 +260,9 @@
 "unknown" = "Desconhecido";
 "unlock_access_to_all_these_amazing_events" = "Desbloquear o acesso a todos estes eventos fantásticos";
 "unlock_access_to_all_these_amazing_news" = "Desbloquear o acesso a todas estas fantásticas fontes de notícias";
+"unlock_access_to_all_these_informations_on_your_map" = "Desbloquear o acesso a todas as informações do seu mapa";
 "unlock_all_features_to_filter_and_see_more_events" = "Desbloqueie todas as funcionalidades para filtrar e ver mais eventos.";
+"unlock_all_features_to_filter_and_see_more_information_on_your_map." = "Desbloqueie todas as funcionalidades para filtrar e ver mais informações no seu mapa.";
 "unlock_all_features_to_filter_and_see_more_news" = "Desbloqueie todas as funcionalidades para filtrar e ver mais novidades.";
 "unlock_all_features_to_see_more_locations_description" = "Desbloqueie todas as funcionalidades para filtrar e ver mais locais próximos.";
 "unlock_more_with_pro" = "Desbloqueie mais com o Pro!";

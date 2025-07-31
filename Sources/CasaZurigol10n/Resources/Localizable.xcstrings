@@ -5596,7 +5596,7 @@
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Encuentra lugares públicos cerca de ti:\n- Parques\n- Baños públicos\n- Cajeros automáticos\n- Y más..."
+            "value": "Encuentra lugares públicos cerca de ti:\\n- Parques\\n- Baños públicos\\n- Cajeros automáticos\\n- Y más..."
           }
         },
         "pt-PT": {
@@ -5608,7 +5608,7 @@
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Yakınınızdaki halka açık yerleri bulun:\n- Parklar\n- Umumi Tuvaletler\n- ATM\n- Ve daha fazlası..."
+            "value": "Yakınınızdaki halka açık yerleri bulun:\\n- Parklar\\n- Umumi Tuvaletler\\n- ATM\\n- Ve daha fazlası..."
           }
         }
       }
@@ -12877,6 +12877,374 @@
           "stringUnit": {
             "state": "translated",
             "value": "Tüm bu harika haber kaynaklarına erişimin kilidini açın"
+          }
+        }
+      }
+    },
+    "construction": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Construction"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bauwesen"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La construction"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Costruzione"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Construcción"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Construção"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "İnşaat"
+          }
+        }
+      }
+    },
+    "explore_local_events_to_stay_informed_about_whats_happening_in_zurich": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Explore local events to stay informed about whats happening in Zurich."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Entdecken Sie lokale Veranstaltungen und bleiben Sie auf dem Laufenden, was in Zürich passiert."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Explorez les événements locaux pour rester informé de ce qui se passe à Zurich."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Esplorate gli eventi locali per rimanere informati su ciò che accade a Zurigo."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Explore los eventos locales para mantenerse informado de lo que ocurre en Zúrich."
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Explore os eventos locais para se manter informado sobre o que está a acontecer em Zurique."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zürih'te olup bitenlerden haberdar olmak için yerel etkinlikleri keşfedin."
+          }
+        }
+      }
+    },
+    "more_information_on_map": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "More Information on your map"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Weitere Informationen zu Ihrer Karte"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Plus d'informations sur votre carte"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ulteriori informazioni sulla mappa"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Más información sobre su mapa"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mais informações sobre o seu mapa"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Haritanız hakkında daha fazla bilgi"
+          }
+        }
+      }
+    },
+    "region": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Region"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Region"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Région"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Regione"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Región"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Região"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bölge"
+          }
+        }
+      }
+    },
+    "see_whats_going_on_in_zurich": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "See whats going on in Zurich"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sehen, was in Zürich los ist"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Voir ce qui se passe à Zurich"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scopri cosa succede a Zurigo"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vea lo que ocurre en Zúrich"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ver o que se passa em Zurique"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zürih'te neler olup bittiğini görün"
+          }
+        }
+      }
+    },
+    "shop_merchandise": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Shop Merchandise"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Merchandise einkaufen"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Shop Merchandise"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Negozio di prodotti"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tienda"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Comprar mercadoria"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mağaza Ürünleri"
+          }
+        }
+      }
+    },
+    "unlock_access_to_all_these_informations_on_your_map": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unlock access to all the information on your map"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Entsperren Sie den Zugang zu allen Informationen auf Ihrer Karte"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Débloquez l'accès à toutes les informations de votre carte"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sbloccare l'accesso a tutte le informazioni della mappa"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Desbloquea el acceso a toda la información de tu mapa"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Desbloquear o acesso a todas as informações do seu mapa"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Haritanızdaki tüm bilgilere erişimin kilidini açın"
+          }
+        }
+      }
+    },
+    "unlock_all_features_to_filter_and_see_more_information_on_your_map.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unlock all features to filter and see more information on your map."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Schalten Sie alle Funktionen frei, um zu filtern und mehr Informationen auf Ihrer Karte anzuzeigen."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Déverrouillez toutes les fonctions pour filtrer et voir plus d'informations sur votre carte."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sbloccate tutte le funzioni per filtrare e vedere più informazioni sulla vostra mappa."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Desbloquea todas las funciones para filtrar y ver más información en tu mapa."
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Desbloqueie todas as funcionalidades para filtrar e ver mais informações no seu mapa."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Haritanızda filtreleme yapmak ve daha fazla bilgi görmek için tüm özelliklerin kilidini açın."
           }
         }
       }

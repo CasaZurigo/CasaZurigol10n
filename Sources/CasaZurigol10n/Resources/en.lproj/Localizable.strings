@@ -11,6 +11,7 @@
 "collection_point" = "Collection Point";
 "concert" = "Concert";
 "configuration" = "Configuration";
+"construction" = "Construction";
 "continue" = "Continue";
 "customize_home" = "Customize Home";
 "date" = "Date";
@@ -27,6 +28,7 @@
 "etram_recycling_notification_title" = "🚅 CasaZurich";
 "event_not_found" = "Event not found";
 "events" = "Events";
+"explore_local_events_to_stay_informed_about_whats_happening_in_zurich" = "Explore local events to stay informed about whats happening in Zurich.";
 "failed_to_load_locations" = "Failed to load locations";
 "feature_request" = "Feature Request";
 "feedback_support_customer_description" = "While I do read every message, as I'm just one person, I'm not able to respond to every one. I hope you understand, and thanks for your feedback.";
@@ -90,6 +92,7 @@
 "metal" = "Metal";
 "more_events" = "More Events";
 "more_filters" = "More filters";
+"more_information_on_map" = "More Information on your map";
 "more_news" = "More News";
 "movie" = "Movie";
 "name" = "Name";
@@ -199,10 +202,13 @@
 "recycling_paper_event_detail_not_allowed" = "Non-recyclable paper such as book covers and back covers, insulated packaging* from recycled paper (e.g., Paperfloc), cardboard, paper clippings, paper carrier bag, plastic-coated or soiled paper, Tetra Pak, frozen food packaging";
 "recycling_paper_event_title" = "Paper";
 "recycling_waste_event_title" = "Waste";
+"region" = "Region";
 "search" = "Search";
 "see_upcoming_events" = "See upcoming events";
+"see_whats_going_on_in_zurich" = "See whats going on in Zurich";
 "settings_location_access" = "Location access";
 "settings_push_notification_access" = "Push notifications access";
+"shop_merchandise" = "Shop Merchandise";
 "show_all" = "Show All";
 "show_nearby_locations" = "Show nearby locations";
 "show_nearby_locations_description" = "Opens the app and shows the nearby locations on a Map.";
@@ -254,7 +260,9 @@
 "unknown" = "Unknown";
 "unlock_access_to_all_these_amazing_events" = "Unlock access to all these amazing events";
 "unlock_access_to_all_these_amazing_news" = "Unlock access to all these amazing news sources";
+"unlock_access_to_all_these_informations_on_your_map" = "Unlock access to all the information on your map";
 "unlock_all_features_to_filter_and_see_more_events" = "Unlock all features to filter and see more events.";
+"unlock_all_features_to_filter_and_see_more_information_on_your_map." = "Unlock all features to filter and see more information on your map.";
 "unlock_all_features_to_filter_and_see_more_news" = "Unlock all features to filter and see more news.";
 "unlock_all_features_to_see_more_locations_description" = "Unlock all features to filter and see more nearby locations.";
 "unlock_more_with_pro" = "Unlock more with Pro!";

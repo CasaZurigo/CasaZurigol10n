@@ -11,6 +11,7 @@
 "collection_point" = "Sammelstelle";
 "concert" = "Konzert";
 "configuration" = "Einstellungen";
+"construction" = "Bauwesen";
 "continue" = "Weiter";
 "customize_home" = "Startbildschirm anpassen";
 "date" = "Datum";
@@ -27,6 +28,7 @@
 "etram_recycling_notification_title" = "🚅 CasaZürich";
 "event_not_found" = "Eintrag nicht gefunden";
 "events" = "Veranstaltungen";
+"explore_local_events_to_stay_informed_about_whats_happening_in_zurich" = "Entdecken Sie lokale Veranstaltungen und bleiben Sie auf dem Laufenden, was in Zürich passiert.";
 "failed_to_load_locations" = "Orte konnten nicht geladen werden";
 "feature_request" = "Funktionsanfrage";
 "feedback_support_customer_description" = "Ich lese zwar jede Nachricht, aber da ich nur eine Person bin, kann ich nicht auf jede antworten. Ich hoffe, Sie haben dafür Verständnis, und danke für Ihr Feedback.";
@@ -90,6 +92,7 @@
 "metal" = "Metall";
 "more_events" = "Mehr Veranstaltungen";
 "more_filters" = "Weitere Filter";
+"more_information_on_map" = "Weitere Informationen zu Ihrer Karte";
 "more_news" = "Mehr Neuigkeiten";
 "movie" = "Kino";
 "name" = "Name";
@@ -199,10 +202,13 @@
 "recycling_paper_event_detail_not_allowed" = "Nicht wiederverwertbares Papier wie Buchdeckel und -rücken, isolierte Verpackungen* aus Recyclingpapier (z. B. Paperfloc), Karton, Papierschnitzel, Papiertragetaschen, kunststoffbeschichtetes oder verschmutztes Papier, Tetra Pak, Tiefkühlverpackungen";
 "recycling_paper_event_title" = "Papier";
 "recycling_waste_event_title" = "Abfall";
+"region" = "Region";
 "search" = "Suchen";
 "see_upcoming_events" = "Bevorstehende Veranstaltungen anzeigen";
+"see_whats_going_on_in_zurich" = "Sehen, was in Zürich los ist";
 "settings_location_access" = "Standortzugriff";
 "settings_push_notification_access" = "Zugriff auf Push-Mitteilungen";
+"shop_merchandise" = "Merchandise einkaufen";
 "show_all" = "Alle anzeigen";
 "show_nearby_locations" = "Standorte in der Nähe anzeigen";
 "show_nearby_locations_description" = "Öffnet die App und zeigt die Orte in der Nähe auf einer Karte.";
@@ -254,7 +260,9 @@
 "unknown" = "Unbekannt";
 "unlock_access_to_all_these_amazing_events" = "Schalten Sie den Zugang zu all diesen tollen Veranstaltungen frei";
 "unlock_access_to_all_these_amazing_news" = "Schalten Sie den Zugang zu all diesen fantastischen Nachrichtenquellen frei";
+"unlock_access_to_all_these_informations_on_your_map" = "Entsperren Sie den Zugang zu allen Informationen auf Ihrer Karte";
 "unlock_all_features_to_filter_and_see_more_events" = "Alle Funktionen freischalten, um mehr Ereignisse zu filtern und anzuzeigen.";
+"unlock_all_features_to_filter_and_see_more_information_on_your_map." = "Schalten Sie alle Funktionen frei, um zu filtern und mehr Informationen auf Ihrer Karte anzuzeigen.";
 "unlock_all_features_to_filter_and_see_more_news" = "Schalte alle Funktionen frei, um mehr Neuigkeiten zu filtern und anzuzeigen.";
 "unlock_all_features_to_see_more_locations_description" = "Schalten Sie alle Funktionen frei, um weitere Orte in der Nähe zu filtern und anzuzeigen.";
 "unlock_more_with_pro" = "Schalten Sie mit Pro mehr frei!";

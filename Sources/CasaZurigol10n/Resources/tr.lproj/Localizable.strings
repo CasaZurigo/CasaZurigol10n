@@ -11,6 +11,7 @@
 "collection_point" = "Toplama Alanı";
 "concert" = "Konser";
 "configuration" = "Ayarlar";
+"construction" = "İnşaat";
 "continue" = "Devam";
 "customize_home" = "Ana Ekranı Özelleştir";
 "date" = "Tarih";
@@ -27,6 +28,7 @@
 "etram_recycling_notification_title" = "🚅 CasaZurich";
 "event_not_found" = "Etkinlik bulunamadı";
 "events" = "Etkinlikler";
+"explore_local_events_to_stay_informed_about_whats_happening_in_zurich" = "Zürih'te olup bitenlerden haberdar olmak için yerel etkinlikleri keşfedin.";
 "failed_to_load_locations" = "Konumlar yüklenemedi";
 "feature_request" = "Özellik Talebi";
 "feedback_support_customer_description" = "Her mesajı okuyorum ancak tek kişi olduğum için hepsine yanıt veremiyorum. Anlayışınız için teşekkür eder, geri bildirimlerinizi beklerim.";
@@ -90,6 +92,7 @@
 "metal" = "Metal";
 "more_events" = "Daha Fazla Etkinlik";
 "more_filters" = "Daha Fazla Filtre";
+"more_information_on_map" = "Haritanız hakkında daha fazla bilgi";
 "more_news" = "Daha Fazla Haber";
 "movie" = "Film";
 "name" = "Ad";
@@ -199,10 +202,13 @@
 "recycling_paper_event_detail_not_allowed" = "Kitap kapakları ve arka kapakları gibi geri dönüştürülemeyen kağıtlar, geri dönüştürülmüş kağıttan yalıtımlı ambalaj* (örn. Paperfloc), karton, kağıt kırpıntıları, kağıt taşıma çantası, plastik kaplı veya kirli kağıt, Tetra Pak, dondurulmuş gıda ambalajı";
 "recycling_paper_event_title" = "Kağıt";
 "recycling_waste_event_title" = "Atıklar";
+"region" = "Bölge";
 "search" = "Ara";
 "see_upcoming_events" = "Yaklaşan etkinlikleri göster";
+"see_whats_going_on_in_zurich" = "Zürih'te neler olup bittiğini görün";
 "settings_location_access" = "Konum erişimi";
 "settings_push_notification_access" = "Anlık Bildirim Erişimi";
+"shop_merchandise" = "Mağaza Ürünleri";
 "show_all" = "Tümünü Göster";
 "show_nearby_locations" = "Yakınlardaki konumları göster";
 "show_nearby_locations_description" = "Uygulamayı açar ve yakındaki konumları Harita üzerinde gösterir.";
@@ -254,7 +260,9 @@
 "unknown" = "Bilinmiyor";
 "unlock_access_to_all_these_amazing_events" = "Tüm bu muhteşem etkinliklere erişimin kilidini açın";
 "unlock_access_to_all_these_amazing_news" = "Tüm bu harika haber kaynaklarına erişimin kilidini açın";
+"unlock_access_to_all_these_informations_on_your_map" = "Haritanızdaki tüm bilgilere erişimin kilidini açın";
 "unlock_all_features_to_filter_and_see_more_events" = "Tüm özellikleri açarak daha fazla etkinliği filtreleyin ve görün.";
+"unlock_all_features_to_filter_and_see_more_information_on_your_map." = "Haritanızda filtreleme yapmak ve daha fazla bilgi görmek için tüm özelliklerin kilidini açın.";
 "unlock_all_features_to_filter_and_see_more_news" = "Tüm özellikleri açarak daha fazla haberi filtreleyin ve görün.";
 "unlock_all_features_to_see_more_locations_description" = "Daha fazla yakındaki konumu filtrelemek ve görmek için tüm özelliklerin kilidini açın.";
 "unlock_more_with_pro" = "Pro ile daha fazlasının kilidini açın!";

@@ -11,6 +11,7 @@
 "collection_point" = "Punto di raccolta";
 "concert" = "Concerto";
 "configuration" = "Impostazioni";
+"construction" = "Costruzione";
 "continue" = "Continua";
 "customize_home" = "Personalizza Home";
 "date" = "Data";
@@ -27,6 +28,7 @@
 "etram_recycling_notification_title" = "🚅 CasaZurigo";
 "event_not_found" = "Evento non trovato";
 "events" = "Eventi";
+"explore_local_events_to_stay_informed_about_whats_happening_in_zurich" = "Esplorate gli eventi locali per rimanere informati su ciò che accade a Zurigo.";
 "failed_to_load_locations" = "Impossibile caricare le posizioni";
 "feature_request" = "Suggerisci una funzione";
 "feedback_support_customer_description" = "Anche se leggo ogni messaggio, essendo una sola persona, non riesco a rispondere a tutti. Spero capiate e grazie per il vostro feedback.";
@@ -90,6 +92,7 @@
 "metal" = "Metallo";
 "more_events" = "Altri eventi";
 "more_filters" = "Altri filtri";
+"more_information_on_map" = "Ulteriori informazioni sulla mappa";
 "more_news" = "Altre Notizie";
 "movie" = "Film";
 "name" = "Nome";
@@ -199,10 +202,13 @@
 "recycling_paper_event_detail_not_allowed" = "Carta non riciclabile come copertine e dorsi di libri, imballaggi isolanti* in carta riciclata (ad es. Paperfloc), cartone, ritagli di carta, sacchetti di carta, carta plastificata o sporca, Tetra Pak, imballaggi per alimenti surgelati";
 "recycling_paper_event_title" = "Carta";
 "recycling_waste_event_title" = "Rifiuti";
+"region" = "Regione";
 "search" = "Cerca";
 "see_upcoming_events" = "Visualizza eventi futuri";
+"see_whats_going_on_in_zurich" = "Scopri cosa succede a Zurigo";
 "settings_location_access" = "Accesso alla posizione";
 "settings_push_notification_access" = "Accesso alle notifiche push";
+"shop_merchandise" = "Negozio di prodotti";
 "show_all" = "Mostra tutto";
 "show_nearby_locations" = "Mostra posizioni vicine";
 "show_nearby_locations_description" = "Apre l'app e mostra le posizioni vicine su una mappa.";
@@ -254,7 +260,9 @@
 "unknown" = "Sconosciuto";
 "unlock_access_to_all_these_amazing_events" = "Sbloccate l'accesso a tutti questi eventi straordinari";
 "unlock_access_to_all_these_amazing_news" = "Sbloccate l'accesso a tutte queste incredibili fonti di notizie";
+"unlock_access_to_all_these_informations_on_your_map" = "Sbloccare l'accesso a tutte le informazioni della mappa";
 "unlock_all_features_to_filter_and_see_more_events" = "Sblocca tutte le funzioni per filtrare e visualizzare più eventi.";
+"unlock_all_features_to_filter_and_see_more_information_on_your_map." = "Sbloccate tutte le funzioni per filtrare e vedere più informazioni sulla vostra mappa.";
 "unlock_all_features_to_filter_and_see_more_news" = "Sblocca tutte le funzioni per filtrare e visualizzare più notizie.";
 "unlock_all_features_to_see_more_locations_description" = "Sblocca tutte le funzioni per filtrare e vedere più luoghi nelle vicinanze.";
 "unlock_more_with_pro" = "Sbloccate di più con Pro!";
