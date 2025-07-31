@@ -2708,6 +2708,18 @@ public enum L10n {
     )
     public static let stage_key = "stage"
     
+    /// Stay informed
+    public static let `stayInformed` = L10n.tr("Localizable", "stay_informed", fallback: "Stay informed")
+    public static let stayInformed_resource = LocalizedStringResource(
+        "stay_informed",
+        defaultValue: "Stay informed",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let stayInformed_key = "stay_informed"
+    
     /// Subscribe to Pro
     public static let `subscribeToPro` = L10n.tr("Localizable", "subscribe_to_pro", fallback: "Subscribe to Pro")
     public static let subscribeToPro_resource = LocalizedStringResource(
