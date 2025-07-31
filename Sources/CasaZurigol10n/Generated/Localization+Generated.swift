@@ -189,6 +189,18 @@ public enum L10n {
     )
     public static let configuration_key = "configuration"
     
+    /// Construction
+    public static let `construction` = L10n.tr("Localizable", "construction", fallback: "Construction")
+    public static let construction_resource = LocalizedStringResource(
+        "construction",
+        defaultValue: "Construction",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let construction_key = "construction"
+    
     /// Continue
     public static let `continue` = L10n.tr("Localizable", "continue", fallback: "Continue")
     public static let continue_resource = LocalizedStringResource(
@@ -380,6 +392,18 @@ public enum L10n {
         comment: nil
     )
     public static let events_key = "events"
+    
+    /// Explore local events to stay informed about whats happening in Zurich.
+    public static let `exploreLocalEventsToStayInformedAboutWhatsHappeningInZurich` = L10n.tr("Localizable", "explore_local_events_to_stay_informed_about_whats_happening_in_zurich", fallback: "Explore local events to stay informed about whats happening in Zurich.")
+    public static let exploreLocalEventsToStayInformedAboutWhatsHappeningInZurich_resource = LocalizedStringResource(
+        "explore_local_events_to_stay_informed_about_whats_happening_in_zurich",
+        defaultValue: "Explore local events to stay informed about whats happening in Zurich.",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let exploreLocalEventsToStayInformedAboutWhatsHappeningInZurich_key = "explore_local_events_to_stay_informed_about_whats_happening_in_zurich"
     
     /// Failed to load locations
     public static let `failedToLoadLocations` = L10n.tr("Localizable", "failed_to_load_locations", fallback: "Failed to load locations")
@@ -1135,6 +1159,18 @@ public enum L10n {
         comment: nil
     )
     public static let moreFilters_key = "more_filters"
+    
+    /// More Information on your map
+    public static let `moreInformationOnMap` = L10n.tr("Localizable", "more_information_on_map", fallback: "More Information on your map")
+    public static let moreInformationOnMap_resource = LocalizedStringResource(
+        "more_information_on_map",
+        defaultValue: "More Information on your map",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let moreInformationOnMap_key = "more_information_on_map"
     
     /// More News
     public static let `moreNews` = L10n.tr("Localizable", "more_news", fallback: "More News")
@@ -2444,6 +2480,18 @@ public enum L10n {
     )
     public static let recyclingWasteEventTitle_key = "recycling_waste_event_title"
     
+    /// Region
+    public static let `region` = L10n.tr("Localizable", "region", fallback: "Region")
+    public static let region_resource = LocalizedStringResource(
+        "region",
+        defaultValue: "Region",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let region_key = "region"
+    
     /// Search
     public static let `search` = L10n.tr("Localizable", "search", fallback: "Search")
     public static let search_resource = LocalizedStringResource(
@@ -2468,6 +2516,18 @@ public enum L10n {
     )
     public static let seeUpcomingEvents_key = "see_upcoming_events"
     
+    /// See whats going on in Zurich
+    public static let `seeWhatsGoingOnInZurich` = L10n.tr("Localizable", "see_whats_going_on_in_zurich", fallback: "See whats going on in Zurich")
+    public static let seeWhatsGoingOnInZurich_resource = LocalizedStringResource(
+        "see_whats_going_on_in_zurich",
+        defaultValue: "See whats going on in Zurich",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let seeWhatsGoingOnInZurich_key = "see_whats_going_on_in_zurich"
+    
     /// Location access
     public static let `settingsLocationAccess` = L10n.tr("Localizable", "settings_location_access", fallback: "Location access")
     public static let settingsLocationAccess_resource = LocalizedStringResource(
@@ -2491,6 +2551,18 @@ public enum L10n {
         comment: nil
     )
     public static let settingsPushNotificationAccess_key = "settings_push_notification_access"
+    
+    /// Shop Merchandise
+    public static let `shopMerchandise` = L10n.tr("Localizable", "shop_merchandise", fallback: "Shop Merchandise")
+    public static let shopMerchandise_resource = LocalizedStringResource(
+        "shop_merchandise",
+        defaultValue: "Shop Merchandise",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let shopMerchandise_key = "shop_merchandise"
     
     /// Show All
     public static let `showAll` = L10n.tr("Localizable", "show_all", fallback: "Show All")
@@ -3104,6 +3176,18 @@ public enum L10n {
     )
     public static let unlockAccessToAllTheseAmazingNews_key = "unlock_access_to_all_these_amazing_news"
     
+    /// Unlock access to all the information on your map
+    public static let `unlockAccessToAllTheseInformationsOnYourMap` = L10n.tr("Localizable", "unlock_access_to_all_these_informations_on_your_map", fallback: "Unlock access to all the information on your map")
+    public static let unlockAccessToAllTheseInformationsOnYourMap_resource = LocalizedStringResource(
+        "unlock_access_to_all_these_informations_on_your_map",
+        defaultValue: "Unlock access to all the information on your map",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let unlockAccessToAllTheseInformationsOnYourMap_key = "unlock_access_to_all_these_informations_on_your_map"
+    
     /// Unlock all features to filter and see more events.
     public static let `unlockAllFeaturesToFilterAndSeeMoreEvents` = L10n.tr("Localizable", "unlock_all_features_to_filter_and_see_more_events", fallback: "Unlock all features to filter and see more events.")
     public static let unlockAllFeaturesToFilterAndSeeMoreEvents_resource = LocalizedStringResource(
@@ -3115,6 +3199,18 @@ public enum L10n {
         comment: nil
     )
     public static let unlockAllFeaturesToFilterAndSeeMoreEvents_key = "unlock_all_features_to_filter_and_see_more_events"
+    
+    /// Unlock all features to filter and see more information on your map.
+    public static let `unlockAllFeaturesToFilterAndSeeMoreInformationOnYourMap` = L10n.tr("Localizable", "unlock_all_features_to_filter_and_see_more_information_on_your_map.", fallback: "Unlock all features to filter and see more information on your map.")
+    public static let unlockAllFeaturesToFilterAndSeeMoreInformationOnYourMap_resource = LocalizedStringResource(
+        "unlock_all_features_to_filter_and_see_more_information_on_your_map.",
+        defaultValue: "Unlock all features to filter and see more information on your map.",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let unlockAllFeaturesToFilterAndSeeMoreInformationOnYourMap_key = "unlock_all_features_to_filter_and_see_more_information_on_your_map."
     
     /// Unlock all features to filter and see more news.
     public static let `unlockAllFeaturesToFilterAndSeeMoreNews` = L10n.tr("Localizable", "unlock_all_features_to_filter_and_see_more_news", fallback: "Unlock all features to filter and see more news.")
