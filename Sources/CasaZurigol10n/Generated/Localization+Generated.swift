@@ -2528,6 +2528,18 @@ public enum L10n {
     )
     public static let search_key = "search"
     
+    /// See more information on your Map
+    public static let `seeMoreInformationOnYourMap` = L10n.tr("Localizable", "see_more_information_on_your_map", fallback: "See more information on your Map")
+    public static let seeMoreInformationOnYourMap_resource = LocalizedStringResource(
+        "see_more_information_on_your_map",
+        defaultValue: "See more information on your Map",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let seeMoreInformationOnYourMap_key = "see_more_information_on_your_map"
+    
     /// See upcoming events
     public static let `seeUpcomingEvents` = L10n.tr("Localizable", "see_upcoming_events", fallback: "See upcoming events")
     public static let seeUpcomingEvents_resource = LocalizedStringResource(
@@ -3175,6 +3187,18 @@ public enum L10n {
         comment: nil
     )
     public static let tomorrowWasteRecyclingNotificationBody_key = "tomorrow_waste_recycling_notification_body"
+    
+    /// Uncover construction sites and more on your Map
+    public static let `uncoverConstructionSitesAndMoreOnYourMap` = L10n.tr("Localizable", "uncover_construction_sites_and_more_on_your_map", fallback: "Uncover construction sites and more on your Map")
+    public static let uncoverConstructionSitesAndMoreOnYourMap_resource = LocalizedStringResource(
+        "uncover_construction_sites_and_more_on_your_map",
+        defaultValue: "Uncover construction sites and more on your Map",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let uncoverConstructionSitesAndMoreOnYourMap_key = "uncover_construction_sites_and_more_on_your_map"
     
     /// Unknown
     public static let `unknown` = L10n.tr("Localizable", "unknown", fallback: "Unknown")

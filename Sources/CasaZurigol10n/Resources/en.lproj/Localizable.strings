@@ -206,6 +206,7 @@
 "recycling_waste_event_title" = "Waste";
 "region" = "Region";
 "search" = "Search";
+"see_more_information_on_your_map" = "See more information on your Map";
 "see_upcoming_events" = "See upcoming events";
 "see_whats_going_on_in_zurich" = "See whats going on in Zurich";
 "settings_location_access" = "Location access";
@@ -260,6 +261,7 @@
 "tomorrow_organic_recycling_notification_body" = "Tomorrow your organic waste will be collected.";
 "tomorrow_paper_recycling_notification_body" = "Tomorrow your paper will be collected.";
 "tomorrow_waste_recycling_notification_body" = "Tomorrow your waste will be collected.";
+"uncover_construction_sites_and_more_on_your_map" = "Uncover construction sites and more on your Map";
 "unknown" = "Unknown";
 "unlock_access_to_all_these_amazing_events" = "Unlock access to all these amazing events";
 "unlock_access_to_all_these_amazing_news" = "Unlock access to all these amazing news sources";

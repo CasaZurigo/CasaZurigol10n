@@ -13386,6 +13386,98 @@
           }
         }
       }
+    },
+    "see_more_information_on_your_map": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "See more information on your Map"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Weitere Informationen auf Ihrer Karte anzeigen"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Voir plus d'informations sur votre carte"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ulteriori informazioni sulla mappa"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ver más información en su Mapa"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ver mais informações no seu mapa"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Haritanız hakkında daha fazla bilgi edinin"
+          }
+        }
+      }
+    },
+    "uncover_construction_sites_and_more_on_your_map": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uncover construction sites and more on your Map"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Entdecken Sie Baustellen und mehr auf Ihrer Karte"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Découvrez les chantiers de construction et bien plus encore sur votre carte"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scoprite i cantieri e molto altro sulla vostra mappa"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Descubre obras y mucho más en tu mapa"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Descubra locais de construção e muito mais no seu mapa"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Haritanızda inşaat alanlarını ve daha fazlasını ortaya çıkarın"
+          }
+        }
+      }
     }
   },
   "version": "1.0"

@@ -206,6 +206,7 @@
 "recycling_waste_event_title" = "Abfall";
 "region" = "Region";
 "search" = "Suchen";
+"see_more_information_on_your_map" = "Weitere Informationen auf Ihrer Karte anzeigen";
 "see_upcoming_events" = "Bevorstehende Veranstaltungen anzeigen";
 "see_whats_going_on_in_zurich" = "Sehen, was in Zürich los ist";
 "settings_location_access" = "Standortzugriff";
@@ -260,6 +261,7 @@
 "tomorrow_organic_recycling_notification_body" = "Morgen wird Ihr Bioabfall abgeholt.";
 "tomorrow_paper_recycling_notification_body" = "Morgen wird Ihr Altpapier abgeholt.";
 "tomorrow_waste_recycling_notification_body" = "Morgen wird Ihr Abfall abgeholt.";
+"uncover_construction_sites_and_more_on_your_map" = "Entdecken Sie Baustellen und mehr auf Ihrer Karte";
 "unknown" = "Unbekannt";
 "unlock_access_to_all_these_amazing_events" = "Schalten Sie den Zugang zu all diesen tollen Veranstaltungen frei";
 "unlock_access_to_all_these_amazing_news" = "Schalten Sie den Zugang zu all diesen fantastischen Nachrichtenquellen frei";

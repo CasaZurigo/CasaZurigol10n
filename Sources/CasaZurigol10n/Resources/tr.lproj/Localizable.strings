@@ -206,6 +206,7 @@
 "recycling_waste_event_title" = "Atıklar";
 "region" = "Bölge";
 "search" = "Ara";
+"see_more_information_on_your_map" = "Haritanız hakkında daha fazla bilgi edinin";
 "see_upcoming_events" = "Yaklaşan etkinlikleri göster";
 "see_whats_going_on_in_zurich" = "Zürih'te neler olup bittiğini görün";
 "settings_location_access" = "Konum erişimi";
@@ -260,6 +261,7 @@
 "tomorrow_organic_recycling_notification_body" = "Yarın organik atık toplama günü.";
 "tomorrow_paper_recycling_notification_body" = "Yarın kağıt toplama günü.";
 "tomorrow_waste_recycling_notification_body" = "Yarın çöpünüz toplanacak.";
+"uncover_construction_sites_and_more_on_your_map" = "Haritanızda inşaat alanlarını ve daha fazlasını ortaya çıkarın";
 "unknown" = "Bilinmiyor";
 "unlock_access_to_all_these_amazing_events" = "Tüm bu muhteşem etkinliklere erişimin kilidini açın";
 "unlock_access_to_all_these_amazing_news" = "Tüm bu harika haber kaynaklarına erişimin kilidini açın";
