@@ -57,6 +57,18 @@ public enum L10n {
     )
     public static let appTitle_key = "app_title"
     
+    /// Art
+    public static let `art` = L10n.tr("Localizable", "art", fallback: "Art")
+    public static let art_resource = LocalizedStringResource(
+        "art",
+        defaultValue: "Art",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let art_key = "art"
+    
     /// Article not found
     public static let `articleNotFound` = L10n.tr("Localizable", "article_not_found", fallback: "Article not found")
     public static let articleNotFound_resource = LocalizedStringResource(
@@ -535,6 +547,18 @@ public enum L10n {
         comment: nil
     )
     public static let filter_key = "filter"
+    
+    /// Fitness
+    public static let `fitness` = L10n.tr("Localizable", "fitness", fallback: "Fitness")
+    public static let fitness_resource = LocalizedStringResource(
+        "fitness",
+        defaultValue: "Fitness",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let fitness_key = "fitness"
     
     /// For more upgrade to Pro
     public static let `forMoreUpgradeToPro` = L10n.tr("Localizable", "for_more_upgrade_to_pro", fallback: "For more upgrade to Pro")
@@ -1219,6 +1243,18 @@ public enum L10n {
         comment: nil
     )
     public static let movie_key = "movie"
+    
+    /// Museum
+    public static let `museum` = L10n.tr("Localizable", "museum", fallback: "Museum")
+    public static let museum_resource = LocalizedStringResource(
+        "museum",
+        defaultValue: "Museum",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let museum_key = "museum"
     
     /// Name
     public static let `name` = L10n.tr("Localizable", "name", fallback: "Name")

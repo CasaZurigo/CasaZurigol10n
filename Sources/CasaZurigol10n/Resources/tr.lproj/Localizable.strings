@@ -1,5 +1,6 @@
 "all" = "Tümü";
 "app_title" = "CasaZurich";
+"art" = "Sanat";
 "article_not_found" = "Makale bulunamadı";
 "ascending" = "Artan";
 "back_navigation_title" = "Geri";
@@ -40,6 +41,7 @@
 "feedback_support_title" = "Geri Bildirim ve Destek";
 "fewer_filters" = "Daha Az Filtre";
 "filter" = "Filtrele";
+"fitness" = "Fitness";
 "for_more_upgrade_to_pro" = "Daha fazlası için Pro'ya yükseltin";
 "get_access_to_unlimited_events_from_all_sources" = "Tüm kaynaklardaki sınırsız etkinliklere erişin";
 "get_access_to_unlimited_news_from_all_sources" = "Tüm kaynaklardaki haberlere sınırsız erişim sağlayın";
@@ -97,6 +99,7 @@
 "more_information_on_map" = "Haritanız hakkında daha fazla bilgi";
 "more_news" = "Daha Fazla Haber";
 "movie" = "Film";
+"museum" = "Müze";
 "name" = "Ad";
 "need_help" = "Yardım mı lazım?";
 "news" = "Haberler";

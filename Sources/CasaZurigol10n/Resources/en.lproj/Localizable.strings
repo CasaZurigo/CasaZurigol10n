@@ -1,5 +1,6 @@
 "all" = "All";
 "app_title" = "CasaZurich";
+"art" = "Art";
 "article_not_found" = "Article not found";
 "ascending" = "Ascending";
 "back_navigation_title" = "Back";
@@ -40,6 +41,7 @@
 "feedback_support_title" = "Feedback & Support";
 "fewer_filters" = "Fewer filters";
 "filter" = "Filter";
+"fitness" = "Fitness";
 "for_more_upgrade_to_pro" = "For more upgrade to Pro";
 "get_access_to_unlimited_events_from_all_sources" = "Get access to unlimited events from all sources";
 "get_access_to_unlimited_news_from_all_sources" = "Get access to unlimited news from all sources";
@@ -97,6 +99,7 @@
 "more_information_on_map" = "More Information on your map";
 "more_news" = "More News";
 "movie" = "Movie";
+"museum" = "Museum";
 "name" = "Name";
 "need_help" = "Need help?";
 "news" = "News";
