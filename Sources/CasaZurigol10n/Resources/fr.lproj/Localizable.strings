@@ -247,6 +247,7 @@
 "terms_of_use_description" = "L'utilisation de CasaZurich est régie par le CLUF standard d'Apple pour les applications. Les abonnements se renouvellent automatiquement, sauf annulation au moins 24 heures avant la fin de la période en cours. Vous pouvez annuler à tout moment via les réglages de votre compte iTunes. Toute portion inutilisée d'un essai gratuit sera perdue si vous souscrivez un abonnement. Le renouvellement automatique peut être désactivé par l'utilisateur dans les réglages de son compte après l'achat. La durée et le prix de chaque abonnement sont affichés sur l'écran d'achat et mis à jour au moment de l'achat. Si vous avez des questions concernant les conditions d'utilisation de CasaZurich, n'hésitez pas à me contacter à l'adresse support@casazurigo.ch.";
 "terms_of_use_title" = "Conditions d'utilisation";
 "textiles" = "Textiles";
+"theater" = "Théâtre";
 "timeout" = "Délai d’expiration";
 "tips_filter_message" = "Appuyez pour filtrer et afficher uniquement le contenu qui vous intéresse.";
 "tips_filter_title" = "Trouver l'essentiel";

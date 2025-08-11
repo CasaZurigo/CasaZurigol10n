@@ -2756,18 +2756,6 @@ public enum L10n {
     )
     public static let spring_key = "spring"
     
-    /// Stage
-    public static let `stage` = L10n.tr("Localizable", "stage", fallback: "Stage")
-    public static let stage_resource = LocalizedStringResource(
-        "stage",
-        defaultValue: "Stage",
-        table: "Localizable",
-        locale: Locale.current,
-        bundle: .atURL(BundleToken.bundle.bundleURL),
-        comment: nil
-    )
-    public static let stage_key = "stage"
-    
     /// Stay informed
     public static let `stayInformed` = L10n.tr("Localizable", "stay_informed", fallback: "Stay informed")
     public static let stayInformed_resource = LocalizedStringResource(
@@ -3031,6 +3019,18 @@ public enum L10n {
         comment: nil
     )
     public static let textiles_key = "textiles"
+    
+    /// Theatre
+    public static let `theater` = L10n.tr("Localizable", "theater", fallback: "Theatre")
+    public static let theater_resource = LocalizedStringResource(
+        "theater",
+        defaultValue: "Theatre",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let theater_key = "theater"
     
     /// Timeout
     public static let `timeout` = L10n.tr("Localizable", "timeout", fallback: "Timeout")
