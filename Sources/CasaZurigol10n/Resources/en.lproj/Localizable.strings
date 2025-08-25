@@ -9,6 +9,7 @@
 "cancel" = "Cancel";
 "cardboard_recycling_notification_title" = "📦 CasaZurich";
 "cargotram_recycling_notification_title" = "🚃 CasaZurich";
+"clear" = "Cancel";
 "collection_point" = "Collection Point";
 "concert" = "Concert";
 "configuration" = "Configuration";
@@ -27,6 +28,7 @@
 "empty_configure_locations_permission_title" = "Configure locations permission.";
 "empty_description" = "You’ve turned off some settings. Turn them on to get started!";
 "empty_title" = "Hmmm.. it looks empty here";
+"end_date" = "End date";
 "etram_recycling_notification_title" = "🚅 CasaZurich";
 "event_not_found" = "Event not found";
 "events" = "Events";
@@ -212,6 +214,8 @@
 "see_more_information_on_your_map" = "See more information on your Map";
 "see_upcoming_events" = "See upcoming events";
 "see_whats_going_on_in_zurich" = "See whats going on in Zurich";
+"select_date" = "Select date";
+"set_end_date" = "Set end date";
 "settings_location_access" = "Location access";
 "settings_push_notification_access" = "Push notifications access";
 "shop_merchandise" = "Shop Merchandise";
@@ -225,6 +229,7 @@
 "sortable_sections" = "Sortable Sections";
 "sport" = "Sport";
 "spring" = "Fountain";
+"start_date" = "Start date";
 "stay_informed" = "Stay informed";
 "subscribe_to_pro" = "Subscribe to Pro";
 "subscription" = "Subscription";

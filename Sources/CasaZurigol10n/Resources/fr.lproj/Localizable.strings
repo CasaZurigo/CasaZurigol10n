@@ -9,6 +9,7 @@
 "cancel" = "Annuler";
 "cardboard_recycling_notification_title" = "📦 CasaZurich";
 "cargotram_recycling_notification_title" = "🚃 CasaZurich";
+"clear" = "Annuler";
 "collection_point" = "Point de collecte";
 "concert" = "Concert";
 "configuration" = "Réglages";
@@ -27,6 +28,7 @@
 "empty_configure_locations_permission_title" = "Configurer les autorisations de localisation";
 "empty_description" = "Vous avez désactivé certains réglages. Activez-les pour commencer !";
 "empty_title" = "Hmmm... c'est vide ici";
+"end_date" = "Date de fin";
 "etram_recycling_notification_title" = "🚅 CasaZurich";
 "event_not_found" = "Événement introuvable";
 "events" = "Événements";
@@ -212,6 +214,8 @@
 "see_more_information_on_your_map" = "Voir plus d'informations sur votre carte";
 "see_upcoming_events" = "Voir les événements à venir";
 "see_whats_going_on_in_zurich" = "Voir ce qui se passe à Zurich";
+"select_date" = "Sélectionner la date";
+"set_end_date" = "Définir la date de fin";
 "settings_location_access" = "Accès à la localisation";
 "settings_push_notification_access" = "Accès aux notifications push";
 "shop_merchandise" = "Shop Merchandise";
@@ -225,6 +229,7 @@
 "sortable_sections" = "Sections à trier";
 "sport" = "Sport";
 "spring" = "Fontaine";
+"start_date" = "Date de début";
 "stay_informed" = "Rester informé";
 "subscribe_to_pro" = "S'abonner à PRO";
 "subscription" = "Abonnement";

@@ -9,6 +9,7 @@
 "cancel" = "İptal";
 "cardboard_recycling_notification_title" = "📦 CasaZurich";
 "cargotram_recycling_notification_title" = "🚃 CasaZurich";
+"clear" = "İptal";
 "collection_point" = "Toplama Alanı";
 "concert" = "Konser";
 "configuration" = "Ayarlar";
@@ -27,6 +28,7 @@
 "empty_configure_locations_permission_title" = "Konum izinlerini ayarlayın.";
 "empty_description" = "Bazı ayarları kapattınız. Başlamak için bunları açın!";
 "empty_title" = "Hmm... burası boş görünüyor";
+"end_date" = "Bitiş tarihi";
 "etram_recycling_notification_title" = "🚅 CasaZurich";
 "event_not_found" = "Etkinlik bulunamadı";
 "events" = "Etkinlikler";
@@ -212,6 +214,8 @@
 "see_more_information_on_your_map" = "Haritanız hakkında daha fazla bilgi edinin";
 "see_upcoming_events" = "Yaklaşan etkinlikleri göster";
 "see_whats_going_on_in_zurich" = "Zürih'te neler olup bittiğini görün";
+"select_date" = "Tarih seçiniz";
+"set_end_date" = "Bitiş tarihini belirleyin";
 "settings_location_access" = "Konum erişimi";
 "settings_push_notification_access" = "Anlık Bildirim Erişimi";
 "shop_merchandise" = "Mağaza Ürünleri";
@@ -225,6 +229,7 @@
 "sortable_sections" = "Sıralanabilir Bölümler";
 "sport" = "Spor";
 "spring" = "Çeşme";
+"start_date" = "Başlangıç tarihi";
 "stay_informed" = "Haberdar olun";
 "subscribe_to_pro" = "Pro'ya Abone Ol";
 "subscription" = "Abonelikler";

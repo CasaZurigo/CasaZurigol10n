@@ -9,6 +9,7 @@
 "cancel" = "Abbrechen";
 "cardboard_recycling_notification_title" = "📦 CasaZürich";
 "cargotram_recycling_notification_title" = "🚃 CasaZürich";
+"clear" = "Abbrechen";
 "collection_point" = "Sammelstelle";
 "concert" = "Konzert";
 "configuration" = "Einstellungen";
@@ -27,6 +28,7 @@
 "empty_configure_locations_permission_title" = "Standortberechtigung konfigurieren";
 "empty_description" = "Sie haben einige Einstellungen deaktiviert. Aktivieren Sie diese, um zu starten!";
 "empty_title" = "Hmmm... hier ist es leer";
+"end_date" = "Enddatum";
 "etram_recycling_notification_title" = "🚅 CasaZürich";
 "event_not_found" = "Eintrag nicht gefunden";
 "events" = "Veranstaltungen";
@@ -212,6 +214,8 @@
 "see_more_information_on_your_map" = "Weitere Informationen auf Ihrer Karte anzeigen";
 "see_upcoming_events" = "Bevorstehende Veranstaltungen anzeigen";
 "see_whats_going_on_in_zurich" = "Sehen, was in Zürich los ist";
+"select_date" = "Datum auswählen";
+"set_end_date" = "Enddatum setzen";
 "settings_location_access" = "Standortzugriff";
 "settings_push_notification_access" = "Zugriff auf Push-Mitteilungen";
 "shop_merchandise" = "Merchandise einkaufen";
@@ -225,6 +229,7 @@
 "sortable_sections" = "Abschnitte sortieren";
 "sport" = "Sport";
 "spring" = "Brunnen";
+"start_date" = "Startdatum";
 "stay_informed" = "Informiert bleiben";
 "subscribe_to_pro" = "Pro abonnieren";
 "subscription" = "Abo";

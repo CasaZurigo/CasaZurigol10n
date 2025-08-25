@@ -246,12 +246,12 @@ class StringsTranslator {
         const jsonHandler = FileHandlerFactory.getJsonFileHandler();
         const stringsOutputFile = path.join(
           outputDir,
-          `${lang}.lproj`,
+          `${lang.replace("-US", "")}.lproj`,
           `${inputStem}.strings`,
         );
         const jsonOutputFile = path.join(
           outputDir,
-          `${lang}.lproj`,
+          `${lang.replace("-US", "")}.lproj`,
           `${inputStem}.json`,
         );
 
@@ -329,7 +329,7 @@ class StringsTranslator {
       for (const language of allLanguages) {
         const stringsFile = path.join(
           outputDir,
-          `${language}.lproj`,
+          `${language.replace("-US", "")}.lproj`,
           `${inputStem}.strings`,
         );
         if (fs.existsSync(stringsFile)) {
@@ -377,7 +377,7 @@ program
       "pt-PT",
       "tr",
       "de",
-      "en",
+      "en-US",
     ],
   )
   .option(
