@@ -19,6 +19,18 @@ public enum L10n {
     )
     public static let cfBundleName_key = "CFBundleName"
     
+    /// We need calendar permission to add new events, without accessing your existing calendar data.
+    public static let `nsCalendarsWriteOnlyAccessUsageDescription` = L10n.tr("InfoPlist", "NSCalendarsWriteOnlyAccessUsageDescription", fallback: "We need calendar permission to add new events, without accessing your existing calendar data.")
+    public static let nsCalendarsWriteOnlyAccessUsageDescription_resource = LocalizedStringResource(
+        "NSCalendarsWriteOnlyAccessUsageDescription",
+        defaultValue: "We need calendar permission to add new events, without accessing your existing calendar data.",
+        table: "InfoPlist",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let nsCalendarsWriteOnlyAccessUsageDescription_key = "NSCalendarsWriteOnlyAccessUsageDescription"
+    
     /// Enhance your experience by enabling GPS to effortlessly locate nearby places and enrich your journey.
     public static let `nsLocationWhenInUseUsageDescription` = L10n.tr("InfoPlist", "NSLocationWhenInUseUsageDescription", fallback: "Enhance your experience by enabling GPS to effortlessly locate nearby places and enrich your journey.")
     public static let nsLocationWhenInUseUsageDescription_resource = LocalizedStringResource(

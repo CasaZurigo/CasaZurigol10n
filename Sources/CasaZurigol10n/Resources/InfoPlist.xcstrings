@@ -47,6 +47,52 @@
         }
       }
     },
+    "NSCalendarsWriteOnlyAccessUsageDescription": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wir benötigen eine Kalenderberechtigung, um neue Ereignisse hinzuzufügen, ohne auf Ihre bestehenden Kalenderdaten zuzugreifen."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nous avons besoin d'une autorisation de calendrier pour ajouter de nouveaux événements, sans accéder aux données de votre calendrier existant."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "We need calendar permission to add new events, without accessing your existing calendar data."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Per aggiungere nuovi eventi, senza accedere ai dati del calendario esistente, abbiamo bisogno dell'autorizzazione del calendario."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Necesitamos permiso de calendario para añadir nuevos eventos, sin acceder a los datos de calendario existentes."
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Precisamos de permissão de calendário para adicionar novos eventos, sem aceder aos dados de calendário existentes."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mevcut takvim verilerinize erişmeden yeni etkinlikler eklemek için takvim iznine ihtiyacımız var."
+          }
+        }
+      }
+    },
     "NSLocationWhenInUseUsageDescription": {
       "localizations": {
         "de": {

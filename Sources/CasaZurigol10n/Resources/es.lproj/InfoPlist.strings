@@ -1,2 +1,3 @@
 "CFBundleName" = "CasaZurich";
+"NSCalendarsWriteOnlyAccessUsageDescription" = "Necesitamos permiso de calendario para añadir nuevos eventos, sin acceder a los datos de calendario existentes.";
 "NSLocationWhenInUseUsageDescription" = "Mejora tu experiencia activando el GPS para encontrar fácilmente lugares cercanos y enriquecer tu recorrido.";

@@ -1,4 +1,5 @@
 {
   "CFBundleName": "CasaZurich",
-  "NSLocationWhenInUseUsageDescription": "Enhance your experience by enabling GPS to effortlessly locate nearby places and enrich your journey."
+  "NSLocationWhenInUseUsageDescription": "Enhance your experience by enabling GPS to effortlessly locate nearby places and enrich your journey.",
+  "NSCalendarsWriteOnlyAccessUsageDescription": "We need calendar permission to add new events, without accessing your existing calendar data."
 }
