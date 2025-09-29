@@ -3224,6 +3224,18 @@ public enum L10n {
     )
     public static let toilet_key = "toilet"
     
+    /// Tomorrow
+    public static let `tomorrow` = L10n.tr("Localizable", "tomorrow", fallback: "Tomorrow")
+    public static let tomorrow_resource = LocalizedStringResource(
+        "tomorrow",
+        defaultValue: "Tomorrow",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let tomorrow_key = "tomorrow"
+    
     /// Tomorrow your cardboard will be collected.
     public static let `tomorrowCardboardRecyclingNotificationBody` = L10n.tr("Localizable", "tomorrow_cardboard_recycling_notification_body", fallback: "Tomorrow your cardboard will be collected.")
     public static let tomorrowCardboardRecyclingNotificationBody_resource = LocalizedStringResource(
