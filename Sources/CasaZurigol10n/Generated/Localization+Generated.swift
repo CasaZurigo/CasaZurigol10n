@@ -57,6 +57,18 @@ public enum L10n {
     )
     public static let all_key = "all"
     
+    /// All Day
+    public static let `allDay` = L10n.tr("Localizable", "all_day", fallback: "All Day")
+    public static let allDay_resource = LocalizedStringResource(
+        "all_day",
+        defaultValue: "All Day",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .atURL(BundleToken.bundle.bundleURL),
+        comment: nil
+    )
+    public static let allDay_key = "all_day"
+    
     /// CasaZurich
     public static let `appTitle` = L10n.tr("Localizable", "app_title", fallback: "CasaZurich")
     public static let appTitle_resource = LocalizedStringResource(
