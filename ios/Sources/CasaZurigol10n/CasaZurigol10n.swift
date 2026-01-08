@@ -128,9 +128,20 @@ public extension CasaZurigol10n {
     }
 }
 
-func `_`(_ key: String, _ args: CVarArg...) -> String {
-    let format = BundleToken.bundle.localizedString(forKey: key, value: key, table: "Localizable")
+public func tr(_ key: String, _ args: CVarArg...) -> String {
+    let format = Bundle.main.localizedString(forKey: key, value: key, table: "Localizable")
     return String(format: format, locale: Locale.current, arguments: args)
+}
+
+public func tr(_ key: StaticString, _ args: CVarArg...) -> LocalizedStringResource {
+    return LocalizedStringResource(
+        key,
+        defaultValue: "\(key)",
+        table: "Localizable",
+        locale: Locale.current,
+        bundle: .main,
+        comment: nil
+    )
 }
 
 // swiftlint:disable convenience_type
