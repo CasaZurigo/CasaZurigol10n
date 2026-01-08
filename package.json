@@ -10,13 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@openrouter/ai-sdk-provider": "^0.2.2",
-    "ai": "^4.1.45",
-    "commander": "^13.1.0",
-    "deepl-node": "^1.16.0",
-    "dotenv": "^16.4.7",
-    "hermes-i18n": "^0.1.0",
-    "zod": "^3.24.2"
+    "hermes-i18n": "^0.1.0"
   },
   "devDependencies": {
     "@types/node": "^22.13.4",
