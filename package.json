@@ -2,14 +2,8 @@
   "name": "casazurigol10n",
   "version": "1.0.0",
   "scripts": {
-    "build": "tsc",
-    "translate": "npm run build && node scripts/dist/translate.js",
-    "delete": "npm run build && node scripts/dist/deleteEntries.js",
-    "rename": "npm run build && node scripts/dist/renameEntries.js",
-    "compileToSwift": "npm run build && node scripts/dist/compileToSwift.js --ignore \"AppShortcuts.strings\"",
-    "fileSync": "npm run build && node scripts/dist/fileSync.js",
-    "migrate": "npm run build && node scripts/dist/migration/migrate-cli.js",
-    "prepare": "husky"
+    "translate": "bunx hermes-i18n translate",
+    "configure": "bunx hermes-i18n init"
   },
   "keywords": [],
   "author": "",
@@ -21,6 +15,7 @@
     "commander": "^13.1.0",
     "deepl-node": "^1.16.0",
     "dotenv": "^16.4.7",
+    "hermes-i18n": "^0.1.0",
     "zod": "^3.24.2"
   },
   "devDependencies": {
@@ -28,9 +23,13 @@
     "husky": "^9.1.7",
     "lint-staged": "^15.4.3",
     "prettier": "3.5.1",
-    "typescript": "^5.7.3"
+    "typescript": "^5.7.3",
+    "@types/bun": "latest"
   },
   "lint-staged": {
     "**/*": "prettier --write --ignore-unknown"
-  }
+  },
+  "module": "index.ts",
+  "type": "module",
+  "private": true
 }

@@ -127,3 +127,20 @@ public extension CasaZurigol10n {
         }
     }
 }
+
+func `_`(_ key: String, _ args: CVarArg...) -> String {
+    let format = BundleToken.bundle.localizedString(forKey: key, value: key, table: "Localizable")
+    return String(format: format, locale: Locale.current, arguments: args)
+}
+
+// swiftlint:disable convenience_type
+private final class BundleToken {
+  static let bundle: Bundle = {
+    #if SWIFT_PACKAGE
+    return Bundle.module
+    #else
+    return Bundle(for: BundleToken.self)
+    #endif
+  }()
+}
+// swiftlint:enable convenience_type

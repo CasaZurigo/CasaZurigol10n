@@ -6,8 +6,8 @@ DerivedData/
 .swiftpm/configuration/registries.json
 .swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
 .netrc
-translations/
 .env
 /scripts/__pycache__/**/*
 node_modules/
 scripts/dist
+ios/.build/index-build

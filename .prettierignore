@@ -3,3 +3,6 @@ scripts/dist
 node_modules/coverage
 Sources/
 tsconfig.json
+
+# Ignore iOS symbolic links
+ios/Sources/CasaZurigol10n/Resources
