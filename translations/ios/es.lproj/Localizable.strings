@@ -22,7 +22,7 @@
 
 "Back" = "Atrás";
 
-"Bancomat" = "Bancomat";
+"Bancomat" = "Cajero automático";
 
 "Battery, aluminum, electronic device, paint, dishes, glass bottle, ceramics, medicine, metal, mirror, energy-saving lamp, LED, fluorescent tube" = "Batería, aluminio, dispositivo electrónico, pintura, vajilla, botella de vidrio, cerámica, medicina, metal, espejo, lámpara de bajo consumo, LED, tubo fluorescente";
 
@@ -116,7 +116,7 @@
 
 "Find Nearby Public Locations" = "Encontrar lugares públicos cercanos";
 
-"Find public locations near you:\\n- Parks\\n- Public Toilets\\n- Bancomat\\n- And more..." = "Encuentra lugares públicos cerca de ti:\n- Parques\n- Baños públicos\n- Cajeros automáticos\n- Y más...";
+"Find public locations near you:\n- Parks\n- Public Toilets\n- Bancomat\n- And more..." = "Encuentra lugares públicos cerca de ti:\n- Parques\n- Baños públicos\n- Cajeros automáticos\n- Y más...";
 
 "Find what matters" = "Encuentra lo que importa";
 
@@ -168,7 +168,7 @@
 
 "Kiosk" = "Quiosco";
 
-"Lakeside" = "Lakeside";
+"Lakeside" = "A orillas del lago";
 
 "Language" = "Idioma";
 
@@ -231,6 +231,8 @@
 "No events available" = "No hay eventos disponibles";
 
 "No Events found" = "No se encontraron eventos";
+
+"No location permission" = "Sin permiso de ubicación";
 
 "No nearby location found" = "No se encontró ninguna ubicación cercana";
 
@@ -386,7 +388,7 @@
 
 "Unknown" = "Desconocido";
 
-"Use of CasaZurich is governed by Apple’s Standard EULA for apps. Subscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. Auto-renewal may be turned off by the user, by going to the user’s Account Settings after purchase. The duration and price of each subscription is displayed on the purchase screen, and updated at the time of purchase. If you have any questions about CasaZurich Terms of Use, please reach out to me at support@casazurigo.ch" = "El uso de CasaZurich se rige por el EULA estándar de Apple para aplicaciones. Las suscripciones se renovarán automáticamente a menos que se cancelen 24 horas antes del final del período actual. Puedes cancelar en cualquier momento desde la configuración de tu cuenta de iTunes. Cualquier parte no utilizada de un período de prueba gratuito se perderá si compras una suscripción. La renovación automática puede ser desactivada por el usuario, yendo a la Configuración de la Cuenta del usuario después de la compra. La duración y el precio de cada suscripción se muestran en la pantalla de compra y se actualizan en el momento de la compra. Si tienes alguna pregunta sobre los Términos de Uso de CasaZurich, por favor contáctame en support@casazurigo.ch";
+"Use of CasaZurich is governed by Apple's Standard EULA for apps. Subscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. Auto-renewal may be turned off by the user, by going to the user's Account Settings after purchase. The duration and price of each subscription is displayed on the purchase screen, and updated at the time of purchase. If you have any questions about CasaZurich Terms of Use, please reach out to me at support@casazurigo.ch" = "El uso de CasaZurich se rige por el EULA estándar de Apple para aplicaciones. Las suscripciones se renovarán automáticamente a menos que se cancelen 24 horas antes del final del período actual. Puedes cancelar en cualquier momento desde la configuración de tu cuenta de iTunes. Cualquier parte no utilizada de un período de prueba gratuito se perderá si compras una suscripción. La renovación automática puede ser desactivada por el usuario, yendo a la Configuración de la cuenta del usuario después de la compra. La duración y el precio de cada suscripción se muestran en la pantalla de compra y se actualizan en el momento de la compra. Si tienes alguna pregunta sobre los Términos de Uso de CasaZurich, por favor contáctame en support@casazurigo.ch.";
 
 "Vending Machine" = "Máquina expendedora";
 
@@ -410,9 +412,9 @@
 
 "You are insane, thank you so much!" = "Estás loco, ¡muchas gracias!";
 
-"You’ve turned off some settings. Turn them on to get started!" = "Has desactivado algunos ajustes. Actívalos para empezar.";
+"You've turned off some settings. Turn them on to get started!" = "Has desactivado algunos ajustes. ¡Actívalos para empezar!";
 
-"Your privacy matters. Your data won’t be collected or stored. What you do is your business, not ours or anyone else’s." = "Tu privacidad importa. Tus datos no se recopilarán ni almacenarán. Lo que hagas es asunto tuyo, no nuestro ni de nadie más.";
+"Your privacy matters. Your data won't be collected or stored. What you do is your business, not ours or anyone else's." = "Tu privacidad importa. Tus datos no se recopilarán ni almacenarán. Lo que hagas es asunto tuyo, no nuestro ni de nadie más.";
 
 "Zip Code" = "Código postal";
 

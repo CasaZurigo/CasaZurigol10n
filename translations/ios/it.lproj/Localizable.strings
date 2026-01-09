@@ -116,7 +116,7 @@
 
 "Find Nearby Public Locations" = "Trova luoghi pubblici nelle vicinanze";
 
-"Find public locations near you:\\n- Parks\\n- Public Toilets\\n- Bancomat\\n- And more..." = "Trova luoghi pubblici vicino a te:\n- Parchi\n- Bagni pubblici\n- Bancomat\n- E altro ancora...";
+"Find public locations near you:\n- Parks\n- Public Toilets\n- Bancomat\n- And more..." = "Trova luoghi pubblici vicino a te:\n- Parchi\n- Bagni pubblici\n- Bancomat\n- E altro ancora...";
 
 "Find what matters" = "Trova ciò che conta";
 
@@ -146,7 +146,7 @@
 
 "Hmmm.. it looks empty here" = "Hmmm... sembra vuoto qui";
 
-"Home" = "Home";
+"Home" = "Casa";
 
 "Home Configuration" = "Configurazione della home";
 
@@ -232,6 +232,8 @@
 
 "No Events found" = "Nessun evento trovato";
 
+"No location permission" = "Nessun permesso di localizzazione";
+
 "No nearby location found" = "Nessuna posizione trovata nelle vicinanze";
 
 "No news available" = "Nessuna notizia disponibile";
@@ -280,7 +282,7 @@
 
 "Party" = "Festa";
 
-"Ping Pong" = "Ping Pong";
+"Ping Pong" = "Ping pong";
 
 "Pissoir" = "Orinatoio";
 
@@ -386,7 +388,7 @@
 
 "Unknown" = "Sconosciuto";
 
-"Use of CasaZurich is governed by Apple’s Standard EULA for apps. Subscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. Auto-renewal may be turned off by the user, by going to the user’s Account Settings after purchase. The duration and price of each subscription is displayed on the purchase screen, and updated at the time of purchase. If you have any questions about CasaZurich Terms of Use, please reach out to me at support@casazurigo.ch" = "L'utilizzo di CasaZurich è regolato dall'EULA standard di Apple per le app. Gli abbonamenti si rinnoveranno automaticamente a meno che non vengano annullati entro 24 ore dalla fine del periodo corrente. Puoi annullare in qualsiasi momento tramite le impostazioni del tuo account iTunes. Qualsiasi porzione non utilizzata di una prova gratuita verrà persa se acquisti un abbonamento. Il rinnovo automatico può essere disattivato dall'utente accedendo alle Impostazioni dell'account dopo l'acquisto. La durata e il prezzo di ciascun abbonamento sono visualizzati nella schermata di acquisto e aggiornati al momento dell'acquisto. Per qualsiasi domanda sui Termini di utilizzo di CasaZurich, ti preghiamo di contattarmi all'indirizzo support@casazurigo.ch";
+"Use of CasaZurich is governed by Apple's Standard EULA for apps. Subscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. Auto-renewal may be turned off by the user, by going to the user's Account Settings after purchase. The duration and price of each subscription is displayed on the purchase screen, and updated at the time of purchase. If you have any questions about CasaZurich Terms of Use, please reach out to me at support@casazurigo.ch" = "L'utilizzo di CasaZurich è regolato dall'EULA standard di Apple per le app. Gli abbonamenti si rinnoveranno automaticamente a meno che non vengano annullati entro 24 ore dalla fine del periodo corrente. Puoi annullare in qualsiasi momento tramite le impostazioni del tuo account iTunes. Qualsiasi porzione non utilizzata di una prova gratuita verrà persa se acquisti un abbonamento. Il rinnovo automatico può essere disattivato dall'utente accedendo alle Impostazioni dell'account dopo l'acquisto. La durata e il prezzo di ciascun abbonamento sono visualizzati nella schermata di acquisto e aggiornati al momento dell'acquisto. Per qualsiasi domanda sui Termini di utilizzo di CasaZurich, ti preghiamo di contattarmi all'indirizzo support@casazurigo.ch";
 
 "Vending Machine" = "Distributore automatico";
 
@@ -410,9 +412,9 @@
 
 "You are insane, thank you so much!" = "Siete pazzi, grazie mille!";
 
-"You’ve turned off some settings. Turn them on to get started!" = "Hai disattivato alcune impostazioni. Attivale per iniziare!";
+"You've turned off some settings. Turn them on to get started!" = "Hai disattivato alcune impostazioni. Attivale per iniziare!";
 
-"Your privacy matters. Your data won’t be collected or stored. What you do is your business, not ours or anyone else’s." = "La tua privacy è importante. I tuoi dati non verranno raccolti né archiviati. Ciò che fai sono affari tuoi, non nostri né di altri.";
+"Your privacy matters. Your data won't be collected or stored. What you do is your business, not ours or anyone else's." = "La tua privacy è importante. I tuoi dati non verranno raccolti né archiviati. Ciò che fai sono affari tuoi, non nostri né di altri.";
 
 "Zip Code" = "Codice postale";
 

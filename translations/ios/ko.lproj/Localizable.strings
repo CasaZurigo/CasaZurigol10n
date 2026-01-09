@@ -1,0 +1,421 @@
+"☕️ Tip for a Coffee" = "☕️ 커피 팁";
+
+"🍭 Small Tip" = "🍭 작은 팁";
+
+"🎟️ Tip for a Cinema Ticket" = "🎟️ 영화 티켓 팁";
+
+"🚃 Tip for a ZVV Ticket" = "🚃 ZVV 티켓 팁";
+
+"Accessible" = "접근 가능한";
+
+"Address" = "주소";
+
+"Adjust filters to see more results." = "더 많은 결과를 보려면 필터를 조정하세요.";
+
+"All Day" = "하루 종일";
+
+"Allowed:" = "허용됨:";
+
+"Art" = "예술";
+
+"Article not found" = "기사를 찾을 수 없습니다";
+
+"Back" = "뒤로";
+
+"Bancomat" = "현금 자동 입출금기";
+
+"Battery, aluminum, electronic device, paint, dishes, glass bottle, ceramics, medicine, metal, mirror, energy-saving lamp, LED, fluorescent tube" = "배터리, 알루미늄, 전자기기, 페인트, 접시, 유리병, 도자기, 의약품, 금속, 거울, 에너지 절약 램프, LED, 형광등";
+
+"Beach Volleyball" = "비치발리볼";
+
+"Bench" = "벤치";
+
+"Bike Pump" = "자전거 펌프";
+
+"Bulky waste is flammable waste that is too large and heavy for the Zuri bag. It usually consists of furniture made from various materials such as plastic, wood, composite materials, metal, textiles, or glass. Dispose of bulky waste at the recycling center or in the cargo tram." = "부피가 큰 폐기물은 Zuri 봉투에 담기에는 너무 크고 무거운 가연성 폐기물입니다. 일반적으로 플라스틱, 목재, 복합 재료, 금속, 섬유 또는 유리와 같은 다양한 재료로 만든 가구로 구성됩니다. 부피가 큰 폐기물은 재활용 센터나 화물 트램에 버리십시오.";
+
+"Cancel" = "취소";
+
+"Cardboard" = "카드보드";
+
+"Cargotram" = "카고트램";
+
+"Changing Table" = "기저귀 교환대";
+
+"Check the tram schedule and stops to find the nearest collection point." = "트램 시간표와 정류장을 확인하여 가장 가까운 수거 장소를 찾으세요.";
+
+"Chess" = "체스";
+
+"Christmas tree, light bulb, halogen lamp, hygiene items, cat litter, plastic material, plastic packaging, nylon stocking, paper scraps, razor blade (well-packaged), vacuum cleaner bag, frozen food packaging, drinking glass (small quantities), bicycle tire (small quantities), cleaning waste, cigarette butts, dog waste bags" = "크리스마스 트리, 전구, 할로겐 램프, 위생용품, 고양이 모래, 플라스틱 재질, 플라스틱 포장재, 나일론 스타킹, 종이 조각, 면도날(잘 포장된 것), 진공청소기 봉투, 냉동식품 포장재, 유리잔(소량), 자전거 타이어(소량), 청소 폐기물, 담배꽁초, 개 배변 봉투";
+
+"Clear cache" = "캐시 지우기";
+
+"Coffee" = "커피";
+
+"Collection Point" = "수거 장소";
+
+"Concert" = "콘서트";
+
+"Configuration" = "구성";
+
+"Configure locations permission." = "위치 권한 설정";
+
+"Configure your area of interest." = "관심 영역을 설정하세요.";
+
+"Construction" = "건설";
+
+"Construction waste, organic waste, hazardous waste, electronic device, household waste, stove, individual item heavier than 40 kg or longer than 2.5 m" = "건설 폐기물, 유기 폐기물, 유해 폐기물, 전자 기기, 생활 폐기물, 난로, 40kg 초과 또는 2.5m 초과 품목";
+
+"Continue" = "계속하기";
+
+"Coordinates" = "좌표";
+
+"Customize Home" = "홈 맞춤 설정";
+
+"Date" = "날짜";
+
+"Deliver bulky waste, large metal items, and gravel to the cargo tram. No cars allowed! The cargo tram is available to you if you are traveling on foot, by bike, or by public transport. You can also give away or take well-preserved items for free. Delivery by car or van is not allowed." = "부피가 큰 폐기물, 대형 금속 물품, 자갈 등은 카고 트램으로 운반해 주세요. 차량 이용은 금지됩니다! 카고 트램은 도보, 자전거 또는 대중교통 이용 시 사용 가능합니다. 상태가 좋은 물품은 무료로 가져가거나 기증할 수도 있습니다. 승용차나 승합차를 이용한 반입은 허용되지 않습니다.";
+
+"Deliver electronic devices to the E-Tram. No cars allowed! The E-Tram is available to you if you are traveling on foot, by bike, or by public transport. You can also return old electronic devices to the point of sale without any hesitation. A pre-disposal fee is included in the purchase price of electronic and electrical devices. Retailers are therefore obliged to take back devices of the same type that they distribute, even if you don't buy a new one." = "전자 기기는 E-트램으로 운반해 주세요. 자동차는 이용할 수 없습니다! E-트램은 도보, 자전거 또는 대중교통 이용 시 이용 가능합니다. 오래된 전자 기기는 구매처에 망설임 없이 반납하실 수 있습니다. 전자 및 전기 기기 구매 가격에는 사전 폐기 수수료가 포함되어 있습니다. 따라서 판매점은 새 제품을 구매하지 않더라도 판매하는 것과 동일한 종류의 기기를 회수할 의무가 있습니다.";
+
+"Description:" = "설명:";
+
+"Discover Events" = "이벤트 둘러보기";
+
+"Discover locations near you" = "가까운 곳 찾아보기";
+
+"Discover Recycling Events" = "재활용 이벤트 알아보기";
+
+"Done" = "완료";
+
+"Drag to reorder sections and toggle to show or hide them on your home screen." = "섹션을 재정렬하려면 드래그하고 홈 화면에 표시하거나 숨기려면 토글하세요.";
+
+"E-Tram" = "이 트램";
+
+"Electronic waste does not belong in household waste because it contains recyclable metals and toxic heavy metals. Thanks to separate collection, these substances can be recovered or environmentally disposed of." = "전자 폐기물은 재활용 가능한 금속과 유해 중금속을 포함하고 있어 일반 생활 쓰레기와 함께 버려서는 안 됩니다. 분리수거를 통해 이러한 물질을 회수하거나 환경적으로 안전하게 처리할 수 있습니다.";
+
+"Enable Push Notifications" = "푸시 알림 사용 설정";
+
+"Enable push notifications in your settings to customize your preferences." = "설정에서 푸시 알림을 활성화하여 환경설정을 맞춤 설정하세요.";
+
+"End date" = "종료일";
+
+"Event not found" = "이벤트를 찾을 수 없습니다";
+
+"Events" = "이벤트";
+
+"Explore local events to stay informed about whats happening in Zurich." = "취리히에서 무슨 일이 일어나고 있는지 알아보려면 지역 행사를 둘러보세요.";
+
+"Explore local recycling events to stay informed about what you can recycle and the rules to follow." = "지역 재활용 행사를 통해 재활용 가능한 품목과 따라야 할 규칙에 대한 정보를 얻으세요.";
+
+"Feature Request" = "기능 요청";
+
+"Fewer filters" = "필터 더 적게";
+
+"Filter" = "필터";
+
+"Find Nearby Public Locations" = "주변 공공장소 찾기";
+
+"Find public locations near you:\n- Parks\n- Public Toilets\n- Bancomat\n- And more..." = "주변 공공장소 찾기:\n- 공원\n- 공중화장실\n- ATM\n- 기타 더보기...";
+
+"Find what matters" = "핵심을 찾으세요";
+
+"Fitness" = "피트니스";
+
+"Fountain" = "분수";
+
+"Gasoline-powered equipment like chainsaw, large metal, metal tools, battery and battery, waste" = "체인톱, 대형 금속, 금속 공구, 배터리 및 축전지, 폐기물 등 휘발유 동력 장비";
+
+"Get involved" = "참여하기";
+
+"Get notification about the latest News in Zurich!" = "취리히의 최신 뉴스 알림을 받아보세요!";
+
+"Get recycling reminders based on your ZIP code." = "우편번호를 기준으로 재활용 알림을 받으세요.";
+
+"Get reminders about Events in Zurich!" = "취리히에서 열리는 이벤트 알림을 받아보세요!";
+
+"Glass" = "유리";
+
+"Good to Know:" = "알아두면 좋은 정보:";
+
+"Grant Location Access" = "위치 액세스 권한 부여";
+
+"Grill/Fireplace" = "그릴/벽난로";
+
+"Hey! I'm Luca Archidiacono, and I'm passionate about creating things. CasaZurich is a project I'm particularly proud of. If you're enjoying CasaZurich, I'd really appreciate a small tip. Not only would it brighten my day, but it'll also contribute to keeping the app running smoothly for you and support the development of new features. Thanks a bunch!" = "안녕하세요! 저는 루카 아키디아코노입니다. 무언가를 만드는 것에 열정을 가지고 있습니다. 카사취리히는 제가 특히 자랑스럽게 생각하는 프로젝트입니다. 카사취리히를 즐기고 계신다면 작은 팁 하나만 주시면 정말 감사하겠습니다. 제 하루를 밝게 해줄 뿐만 아니라, 여러분을 위해 앱을 원활하게 유지하고 새로운 기능을 개발하는 데에도 도움이 될 것입니다. 정말 감사합니다!";
+
+"Hmmm.. it looks empty here" = "흠... 여기는 텅 빈 것 같네요.";
+
+"Home" = "홈";
+
+"Home Configuration" = "홈 구성";
+
+"How to Recycle:" = "재활용 방법:";
+
+"I love the taste of a fancy coffee ❤️" = "고급스러운 커피 맛이 좋아요 ❤️";
+
+"If you see duplicate locations, you can clear your local cache." = "중복된 위치가 보이면 로컬 캐시를 삭제할 수 있습니다.";
+
+"In addition to all garden waste, you can also dispose of biodegradable kitchen waste and leftovers. By providing organic waste in the appropriate container, you need fewer Zuri bags, which also eases the burden on your wallet. Organic waste is processed into biogas and compost products at the Biogas Zurich AG digestion plant. The biogas is fed into the Energie 360° AG gas network and is available as renewable energy for heating, cooking, or electricity production. This closes a cycle that promotes the quality of life in the city." = "모든 정원 쓰레기 외에도 생분해성 주방 쓰레기와 남은 음식물도 버릴 수 있습니다. 적절한 용기에 유기성 쓰레기를 배출하면 Zuri 봉투 사용량이 줄어들어 지갑 부담도 덜 수 있습니다. 유기성 쓰레기는 Biogas Zurich AG 소화 시설에서 바이오가스와 퇴비 제품으로 처리됩니다. 바이오가스는 Energie 360° AG 가스망으로 공급되어 난방, 요리 또는 전기 생산을 위한 재생 에너지로 사용됩니다. 이를 통해 도시의 삶의 질을 향상시키는 순환이 완성됩니다.";
+
+"In general, products made of biodegradable materials (EN 13432), such as compostable coffee capsules, disposable tableware made from cornstarch, or products/packaging made of 100%% fiber products, should not be disposed of in the organic waste container. This is because they are not visually recognizable during collection. The exception is bio-waste bags with lattice print." = "일반적으로 퇴비화 가능한 커피 캡슐, 옥수수 전분으로 만든 일회용 식기, 100% 섬유 제품으로 만든 제품/포장 등 생분해성 재료(EN 13432)로 만든 제품은 유기성 쓰레기통에 버려서는 안 됩니다. 수거 시 육안으로 식별하기 어렵기 때문입니다. 격자 무늬가 있는 바이오 쓰레기 봉투는 예외입니다.";
+
+"Infrastructure" = "인프라";
+
+"Is Open" = "열림";
+
+"It will go a long way to keep CasaZurich running!" = "카사 취리히를 계속 운영하는 데 큰 도움이 될 것입니다!";
+
+"Kiosk" = "키오스크";
+
+"Lakeside" = "레이크사이드";
+
+"Language" = "언어";
+
+"Last refresh" = "마지막 새로고침";
+
+"Latest Events" = "최신 이벤트";
+
+"Latest News" = "최신 뉴스";
+
+"Leave a Review" = "리뷰 남기기";
+
+"Legal" = "법률";
+
+"Letter Box" = "편지함";
+
+"Location access" = "위치 액세스";
+
+"Location Permission" = "위치 권한";
+
+"Location permission not yet requested" = "위치 권한이 아직 요청되지 않았습니다";
+
+"Location Type" = "위치 유형";
+
+"Loose plant garden waste, balcony and potted plant (without container), soil (without stones or hydro balls), leaves, weeds and fallen fruit, lawn and meadow clippings, cut flowers, perennials from flowers and vegetables, shrub and tree clippings up to 10 cm in diameter, kitchen waste, eggshell, egg carton, fruit stone, coffee pods without packaging (e.g. from CoffeeB), coffee grounds, tea herb, small animal manure including feathers, straw, hay and sawdust, palm leaf dishes, fruit and vegetable trimmings, bio-waste bags with lattice print, household leftovers, bread, pastry and dessert, meat and fish (including bones and grates), cereal products, rice, legumes, cooking fat, sauce, dairy product, cheese, egg" = "정원 식물 폐기물, 발코니 및 화분 식물(용기 제외), 흙(돌 또는 하이드로볼 제외), 낙엽, 잡초 및 떨어진 과일, 잔디 및 초원 잔디 깎은 것, 절화, 꽃과 채소의 다년생 식물, 지름 10cm 이하의 관목 및 나무 가지, 음식물 쓰레기, 달걀 껍질, 달걀 상자, 과일 씨앗, 포장 없는 커피 캡슐(예: CoffeeB), 커피 찌꺼기, 차 잎, 깃털, 짚, 건초, 톱밥을 포함한 소형 동물 배설물, 야자 잎 접시, 과일 및 채소 껍질, 격자 무늬가 있는 생분해성 폐기물 봉투, 가정에서 남은 음식, 빵, 페이스트리 및 디저트, 육류 및 생선(뼈 및 뼈대 포함), 곡물 제품, 쌀, 콩류, 조리용 지방, 소스, 유제품, 치즈, 달걀";
+
+"Make it yours" = "나만의 것으로 만드세요";
+
+"Map" = "지도";
+
+"Market" = "마켓";
+
+"Max" = "맥스";
+
+"Metal" = "금속";
+
+"Metal, bulky waste, gravel, beverage cartons, plastic bottles, Styrofoam, textiles, luggage, baskets, mattress, furniture, plastic, skis, carpet, corks, aluminum coffee capsules, sofa/upholstered furniture up to 2m long, individual item up to 40 kg heavy and 2.5m long" = "금속, 부피가 큰 폐기물, 자갈, 음료수 상자, 플라스틱 병, 스티로폼, 직물, 수하물, 바구니, 매트리스, 가구, 플라스틱, 스키, 카펫, 코르크, 알루미늄 커피 캡슐, 길이 2m 이하의 소파/쿠션 가구, 개별 품목 최대 40kg, 최대 길이 2.5m";
+
+"Min" = "민";
+
+"Mobile" = "모바일";
+
+"More filters" = "더 많은 필터";
+
+"Movie" = "영화";
+
+"Museum" = "박물관";
+
+"Name" = "이름";
+
+"Nearby Locations" = "주변 장소";
+
+"Need help?" = "도움이 필요하신가요?";
+
+"News" = "뉴스";
+
+"No access to location granted" = "위치 액세스 권한이 부여되지 않았습니다";
+
+"No Configuration" = "구성 없음";
+
+"No events available" = "이벤트가 없습니다";
+
+"No Events found" = "이벤트가 없습니다";
+
+"No location permission" = "위치 권한 없음";
+
+"No nearby location found" = "주변에 찾을 수 있는 장소가 없습니다";
+
+"No news available" = "이용 가능한 뉴스가 없습니다";
+
+"No News found" = "뉴스 없음";
+
+"No recycling events available" = "이용 가능한 재활용 행사가 없습니다";
+
+"No results available" = "결과 없음";
+
+"No subscription available" = "구독 가능한 상품이 없습니다";
+
+"No ZIP code provided" = "우편번호를 입력하지 않았습니다";
+
+"Non-organic or non-biogenic waste, treated and untreated old wood, ash and cigarette butts, expanded clay, flower pot and foam, boxwood (infested by boxwood moths), Christmas tree, disposable dishes, dog waste, hygiene items, pads, tampons, diapers, bandages, cat litter, compostable clothes, medicine, mussel shells, neophytes, plastic, recycled plastic bags, vacuum cleaner bags, stones, gravel, sand, tea/coffee capsules and bags, packaging materials, glass, metal, paper, cardboard, PET beverage bottle, Zuri bag and waste bag" = "비유기성 또는 비생물성 폐기물, 처리 및 미처리된 폐목재, 재 및 담배꽁초, 팽창토, 화분 및 스티로폼, 회양목(회양목 나방 피해), 크리스마스 트리, 일회용 식기, 애견 배설물, 위생용품, 생리대, 탐폰, 기저귀, 붕대, 고양이 모래, 퇴비화 가능한 의류, 의약품, 홍합 껍질, 생태계 교란 식물, 플라스틱, 재활용 비닐봉투, 진공청소기 먼지 봉투, 돌, 자갈, 모래, 차/커피 캡슐 및 티백, 포장재, 유리, 금속, 종이, 판지, PET 음료병, 취리백 및 쓰레기 봉투";
+
+"Non-recyclable paper such as book covers and back covers, insulated packaging* from recycled paper (e.g., Paperfloc), cardboard, paper clippings, paper carrier bag, plastic-coated or soiled paper, Tetra Pak, frozen food packaging" = "책 표지 및 뒷표지, 재활용 종이로 만든 단열 포장재*(예: 페이퍼플록), 판지, 종이 조각, 종이 쇼핑백, 플라스틱 코팅 또는 오염된 종이, 테트라팩, 냉동 식품 포장재 등 재활용 불가 종이";
+
+"Non-Sortable Sections" = "정렬할 수 없는 섹션";
+
+"Not able to determine current location" = "현재 위치를 확인할 수 없습니다";
+
+"Not Allowed:" = "허용되지 않음:";
+
+"Not available" = "사용 불가";
+
+"Off" = "끔";
+
+"Office equipment, computers and accessories, keyboard, mouse, data storage, printer, fax machine, copier, modem, network device, tablet, phone, household appliances, boiler, iron, hair dryer, dishwasher, coffee machine, air conditioner, stove, refrigerator, lamp, blender, sewing machine, electric shaver, gaming device, sports equipment, floor lamp, vacuum cleaner, freezer, toaster, tumble dryer, washing machine, cable, entertainment devices, screen, CD and CD device, DVD and DVD device, leisure equipment, projector, radio, TV and accessories (remote control), video device/tape" = "사무용품, 컴퓨터 및 액세서리, 키보드, 마우스, 데이터 저장 장치, 프린터, 팩스 기기, 복사기, 모뎀, 네트워크 장치, 태블릿, 휴대폰, 가전제품, 보일러, 다리미, 헤어드라이어, 식기세척기, 커피 머신, 에어컨, 스토브, 냉장고, 램프, 블렌더, 재봉틀, 전기 면도기, 게임기, 스포츠 용품, 플로어 램프, 진공 청소기, 냉동고, 토스터기, 건조기, 세탁기, 케이블, 엔터테인먼트 기기, 스크린, CD 및 CD 기기, DVD 및 DVD 기기, 레저 용품, 프로젝터, 라디오, TV 및 액세서리(리모컨), 비디오 기기/테이프";
+
+"Oil" = "오일";
+
+"On" = "켬";
+
+"Organic" = "유기농";
+
+"Paper" = "종이";
+
+"Paper carrier bags and cardboard boxes do not belong in paper collection and are not suitable as collection containers. They are specially treated and affect the recycling process, and they fall apart in wet and windy conditions." = "종이 쇼핑백과 골판지 상자는 종이류 수거함에 버리면 안 되며, 수거 용기로도 사용할 수 없습니다. 특수 처리가 되어 있어 재활용 과정에 영향을 미치며, 습하거나 바람이 많이 부는 날씨에는 쉽게 부서집니다.";
+
+"Park" = "공원";
+
+"Parking" = "주차";
+
+"Parking Zones" = "주차 구역";
+
+"Party" = "파티";
+
+"Ping Pong" = "탁구";
+
+"Pissoir" = "소변기";
+
+"Place the bundled cardboard or your cardboard container at the roadside on the collection day before 7 a.m." = "수거일 오전 7시 이전까지 묶은 골판지나 골판지 용기를 길가에 내놓아 주세요.";
+
+"Place the bundled paper or your paper container at the roadside on the collection day before 7 a.m." = "수거일 오전 7시 이전까지 묶은 종이나 종이 용기를 길가에 내놓아 주세요.";
+
+"Playground" = "놀이터";
+
+"Privacy Policy" = "개인정보처리방침";
+
+"PubliBike" = "퍼블리바이크";
+
+"Push Notification" = "푸시 알림";
+
+"Push Notifications Disabled" = "푸시 알림 비활성화됨";
+
+"Read full article" = "전체 기사 읽기";
+
+"Read latest news" = "최신 뉴스 읽기";
+
+"Recommend CasaZurich" = "카사취리히 추천";
+
+"Recyclable cardboard like fruit cartons, vegetable cartons, folded paper carrier bags, parcels, boxes, packaging, honeycomb cardboard (only pure cardboard), detergent box (without plastic handle)" = "과일 상자, 채소 상자, 접이식 종이 쇼핑백, 소포, 상자, 포장재, 허니콤 보드(순수 판지만 해당), 세제 상자(플라스틱 손잡이 제외) 등 재활용 가능한 판지";
+
+"Recyclable paper such as books without front and back covers, envelopes, brochures (not coated), paperback, magazine, newspaper" = "앞뒤 표지가 없는 책, 봉투, 브로셔(코팅되지 않은 것), 페이퍼백, 잡지, 신문 등 재활용 가능한 종이류";
+
+"Recycling" = "재활용";
+
+"Recycling cardboard makes sense as it conserves natural resources and is cheaper than incinerating it in the waste-to-energy plant. The collected cardboard is an essential raw material for the production of corrugated cardboard, packaging, and even furniture. Because the technical processing continues to improve, even high-quality cardboard products are made from recycled cardboard." = "골판지를 재활용하는 것은 천연 자원을 보존하고 폐기물 에너지화 공장에서 소각하는 것보다 비용이 저렴하기 때문에 합리적입니다. 수거된 골판지는 골판지, 포장재, 심지어 가구 생산에 필수적인 원료입니다. 기술적인 가공이 계속 개선됨에 따라 고품질의 골판지 제품도 재활용 골판지로 만들어지고 있습니다.";
+
+"Region" = "지역";
+
+"Relaxing Lawn" = "편안한 잔디밭";
+
+"Restaurant" = "레스토랑";
+
+"See more information on your Map" = "지도에서 더 많은 정보 보기";
+
+"See upcoming events" = "예정된 이벤트 보기";
+
+"See whats going on in Zurich" = "취리히에서 무슨 일이 일어나고 있는지 확인하세요";
+
+"Separately collected paper can be recycled multiple times and is therefore the most important raw material for the Swiss paper industry: newspapers are made of up to 80 percent recycled paper." = "분리수거된 종이는 여러 번 재활용될 수 있어 스위스 제지 산업에서 가장 중요한 원자재입니다. 신문은 최대 80%까지 재활용 종이로 만들어집니다.";
+
+"Set end date" = "종료 날짜 설정";
+
+"Settings" = "설정";
+
+"Shop Merchandise" = "상품 쇼핑하기";
+
+"Show All" = "모두 보기";
+
+"Since January 1, 2023, there has been a container and location requirement for organic waste in the city of Zurich. Properties that do not yet have an organic waste container will be equipped throughout the year 2023. Simply toss the organic waste into the organic waste container and close it again." = "2023년 1월 1일부터 취리히 시에서는 유기 폐기물 용기 및 장소 설치가 의무화되었습니다. 아직 유기 폐기물 용기가 없는 건물에는 2023년 한 해 동안 설치될 예정입니다. 유기 폐기물을 유기 폐기물 용기에 넣고 다시 닫아주시면 됩니다.";
+
+"Small but cute!" = "작지만 귀여워요!";
+
+"Society" = "사회";
+
+"Sortable Sections" = "정렬 가능한 섹션";
+
+"Sport" = "스포츠";
+
+"Sport Area" = "스포츠 구역";
+
+"Start date" = "시작일";
+
+"Stay informed" = "최신 정보를 받아보세요";
+
+"Sun or Rain?" = "햇살이냐 비냐?";
+
+"Support CasaZurich" = "카사 취리히 지원";
+
+"Swimming Pool" = "수영장";
+
+"Tap to customize the app to your liking" = "앱을 원하는 대로 맞춤 설정하려면 탭하세요";
+
+"Tap to filter and see just the content you care about" = "탭하여 관심 있는 콘텐츠만 필터링하여 보세요";
+
+"Tap to get the latest forecast" = "최신 예보를 보려면 탭하세요";
+
+"Terms of Use" = "이용 약관";
+
+"Textilies" = "텍스타일";
+
+"The waste must be disposed of in a blue Zuri bag. The blue Zuri bag is available for a fee in retail stores and comes in 10, 17, 35, 60, or 110-liter sizes. Place your Zuri bag container at the designated pickup location before 7 a.m. on the collection day." = "쓰레기는 파란색 주리 봉투에 버려야 합니다. 파란색 주리 봉투는 판매점에서 유료로 구매할 수 있으며, 10리터, 17리터, 35리터, 60리터, 110리터 용량으로 제공됩니다. 수거일 오전 7시까지 지정된 수거 장소에 주리 봉투 용기를 놓아주세요.";
+
+"The Zurich Waste Disposal and Recycling brings over 30,000 Zuri bags to the Hagenholz waste-to-energy plant every day, where they are environmentally burned. The heat generated from incineration produces ecological power and climate-friendly Zurich heat, which can heat around 170,000 apartments." = "취리히 폐기물 처리 및 재활용 센터는 매일 30,000개 이상의 취리히 봉투를 하겐홀츠 폐기물 에너지화 공장으로 운반하여 친환경적으로 소각합니다. 소각 과정에서 발생하는 열은 약 170,000가구에 난방을 공급할 수 있는 친환경적인 취리히 난방열과 친환경 전력을 생산합니다.";
+
+"Theater" = "극장";
+
+"Those who dispose of their household waste in fee-free bags, illegally, or in public trash bins are unfair to those who properly prepare their waste. Illegal dumpers are reported to the police and may face fines of up to several thousand Swiss francs." = "수수료 없는 봉투에 쓰레기를 버리거나 불법적으로 버리거나 공공 쓰레기통에 버리는 행위는 올바르게 쓰레기를 처리하는 사람들에게 불공평한 것입니다. 불법 쓰레기 투기자는 경찰에 신고되며 최대 수천 스위스 프랑의 벌금이 부과될 수 있습니다.";
+
+"Timeout" = "시간 초과";
+
+"Today" = "오늘";
+
+"Toggle to show or hide them on your home screen." = "홈 화면에서 표시하거나 숨기도록 토글하세요.";
+
+"Toilet" = "화장실";
+
+"Uncover construction sites and more on your Map" = "지도에서 건설 현장 등을 찾아보세요";
+
+"Unknown" = "알 수 없음";
+
+"Use of CasaZurich is governed by Apple's Standard EULA for apps. Subscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. Auto-renewal may be turned off by the user, by going to the user's Account Settings after purchase. The duration and price of each subscription is displayed on the purchase screen, and updated at the time of purchase. If you have any questions about CasaZurich Terms of Use, please reach out to me at support@casazurigo.ch" = "CasaZurich의 사용은 앱용 Apple의 표준 EULA를 따릅니다. 현재 기간 종료 24시간 이내에 취소하지 않으면 구독은 자동으로 갱신됩니다. iTunes 계정 설정에서 언제든지 취소할 수 있습니다. 구독을 구매하면 무료 체험판의 사용하지 않은 부분은 모두 소멸됩니다. 구매 후 사용자 계정 설정으로 이동하여 자동 갱신을 사용 중지할 수 있습니다. 각 구독의 기간과 가격은 구매 화면에 표시되며 구매 시점에 업데이트됩니다. CasaZurich 이용 약관에 대해 궁금한 점이 있으면 support@casazurigo.ch으로 문의해 주세요.";
+
+"Vending Machine" = "자판기";
+
+"View recycling calendar events" = "재활용 일정 이벤트 보기";
+
+"Wardrobe" = "옷장";
+
+"Waste" = "폐기물";
+
+"Water Temperature" = "수온";
+
+"Weather" = "날씨";
+
+"Welcome to CasaZurich" = "카사 취리히에 오신 것을 환영합니다";
+
+"Wheelchair Support" = "휠체어 지원";
+
+"When configuration is missing" = "구성 누락 시";
+
+"While uncoated pizza boxes are made of cardboard, only clean ones should be placed in the cardboard collection. Greasy pizza boxes with food residues cannot be recycled and should be placed in household waste." = "코팅되지 않은 피자 상자는 골판지로 만들어지지만, 깨끗한 상자만 골판지 수거함에 넣어야 합니다. 음식물 찌꺼기가 묻은 기름진 피자 상자는 재활용할 수 없으므로 일반 쓰레기로 버려야 합니다.";
+
+"You are insane, thank you so much!" = "미쳤네요, 정말 감사합니다!";
+
+"You've turned off some settings. Turn them on to get started!" = "시작하려면 일부 설정을 켜세요!";
+
+"Your privacy matters. Your data won't be collected or stored. What you do is your business, not ours or anyone else's." = "귀하의 개인정보는 소중합니다. 귀하의 데이터는 수집되거나 저장되지 않습니다. 귀하의 활동은 저희나 다른 누구의 사업도 아닌, 귀하의 사업입니다.";
+
+"Zip Code" = "우편번호";
+
+"Zurich" = "취리히";
