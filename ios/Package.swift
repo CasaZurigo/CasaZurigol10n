@@ -24,8 +24,8 @@ let package = Package(
         .process("Resources/es.lproj"),
         .process("Resources/fr.lproj"),
         .process("Resources/it.lproj"),
-        .process("Resources/pt-PT.lproj"),
-        .process("Resources/tr.lproj"),
+        // .process("Resources/pt-PT.lproj"),
+        // .process("Resources/tr.lproj"),
       ]
     )
   ]
