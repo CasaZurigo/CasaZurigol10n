@@ -1,421 +1,220 @@
 "☕️ Tip for a Coffee" = "☕️ Napiwek na kawę";
-
 "🍭 Small Tip" = "🍭 Mała wskazówka";
-
 "🎟️ Tip for a Cinema Ticket" = "🎟️ Wskazówka dotycząca biletu do kina";
-
 "🚃 Tip for a ZVV Ticket" = "🚃 Wskazówka dotycząca biletu ZVV";
-
 "Accessible" = "Dostępny";
-
 "Address" = "Adres";
-
 "Adjust filters to see more results." = "Dostosuj filtry, aby zobaczyć więcej wyników.";
-
 "All Day" = "Cały dzień";
-
 "Allowed:" = "Dozwolone:";
-
 "Art" = "Sztuka";
-
 "Article not found" = "Nie znaleziono artykułu";
-
 "Back" = "Powrót";
-
 "Bancomat" = "Bankomat";
-
 "Battery, aluminum, electronic device, paint, dishes, glass bottle, ceramics, medicine, metal, mirror, energy-saving lamp, LED, fluorescent tube" = "Bateria, aluminium, urządzenie elektroniczne, farba, naczynia, szklana butelka, ceramika, lekarstwa, metal, lustro, lampa energooszczędna, LED, świetlówka";
-
 "Beach Volleyball" = "Siatkówka plażowa";
-
 "Bench" = "Ławka";
-
 "Bike Pump" = "Pompka rowerowa";
-
 "Bulky waste is flammable waste that is too large and heavy for the Zuri bag. It usually consists of furniture made from various materials such as plastic, wood, composite materials, metal, textiles, or glass. Dispose of bulky waste at the recycling center or in the cargo tram." = "Odpady wielkogabarytowe to odpady palne, które są zbyt duże i ciężkie, aby zmieścić się w worku Zuri. Zazwyczaj są to meble wykonane z różnych materiałów, takich jak plastik, drewno, materiały kompozytowe, metal, tekstylia lub szkło. Odpady wielkogabarytowe należy oddać do punktu zbiórki odpadów wielkogabarytowych lub do wagonu towarowego.";
-
 "Cancel" = "Anuluj";
-
 "Cardboard" = "Karton";
-
 "Cargotram" = "Cargotram";
-
 "Changing Table" = "Przewijak";
-
 "Check the tram schedule and stops to find the nearest collection point." = "Sprawdź rozkład jazdy tramwajów i przystanki, aby znaleźć najbliższy punkt odbioru.";
-
 "Chess" = "Szachy";
-
 "Christmas tree, light bulb, halogen lamp, hygiene items, cat litter, plastic material, plastic packaging, nylon stocking, paper scraps, razor blade (well-packaged), vacuum cleaner bag, frozen food packaging, drinking glass (small quantities), bicycle tire (small quantities), cleaning waste, cigarette butts, dog waste bags" = "Choinka, żarówka, lampa halogenowa, artykuły higieniczne, żwirek dla kota, tworzywo sztuczne, opakowania z tworzyw sztucznych, pończochy nylonowe, skrawki papieru, żyletka (dobrze zapakowana), worek do odkurzacza, opakowania po mrożonkach, szklanka (małe ilości), opona rowerowa (małe ilości), odpady po sprzątaniu, niedopałki papierosów, worki na psie odchody";
-
 "Clear cache" = "Wyczyść pamięć podręczną";
-
 "Coffee" = "Kawa";
-
 "Collection Point" = "Punkt odbioru";
-
 "Concert" = "Koncert";
-
 "Configuration" = "Konfiguracja";
-
 "Configure locations permission." = "Skonfiguruj uprawnienia do lokalizacji.";
-
 "Configure your area of interest." = "Skonfiguruj swój obszar zainteresowań.";
-
 "Construction" = "Budowa";
-
 "Construction waste, organic waste, hazardous waste, electronic device, household waste, stove, individual item heavier than 40 kg or longer than 2.5 m" = "Odpady budowlane, odpady organiczne, odpady niebezpieczne, urządzenia elektroniczne, odpady komunalne, piece, pojedyncze przedmioty cięższe niż 40 kg lub dłuższe niż 2,5 m";
-
 "Continue" = "Kontynuuj";
-
 "Coordinates" = "Współrzędne";
-
 "Customize Home" = "Dostosuj ekran główny";
-
 "Date" = "Data";
-
 "Deliver bulky waste, large metal items, and gravel to the cargo tram. No cars allowed! The cargo tram is available to you if you are traveling on foot, by bike, or by public transport. You can also give away or take well-preserved items for free. Delivery by car or van is not allowed." = "Odpady wielkogabarytowe, duże przedmioty metalowe i żwir należy dostarczać tramwajem towarowym. Samochody osobowe nie są dozwolone! Tramwaj towarowy jest dostępny dla osób podróżujących pieszo, rowerem lub transportem publicznym. Można również bezpłatnie oddać lub zabrać przedmioty w dobrym stanie. Dostawa samochodem lub vanem jest niedozwolona.";
-
 "Deliver electronic devices to the E-Tram. No cars allowed! The E-Tram is available to you if you are traveling on foot, by bike, or by public transport. You can also return old electronic devices to the point of sale without any hesitation. A pre-disposal fee is included in the purchase price of electronic and electrical devices. Retailers are therefore obliged to take back devices of the same type that they distribute, even if you don't buy a new one." = "Dostarcz urządzenia elektroniczne do E-Tramu. Samochody nie są dozwolone! E-Tram jest dostępny dla osób podróżujących pieszo, rowerem lub transportem publicznym. Możesz również bez wahania zwrócić stare urządzenia elektroniczne do punktu sprzedaży. Opłata za wstępną utylizację jest wliczona w cenę zakupu urządzeń elektronicznych i elektrycznych. Sprzedawcy detaliczni są zatem zobowiązani do przyjmowania z powrotem urządzeń tego samego typu, które sprzedają, nawet jeśli nie kupujesz nowego.";
-
 "Description:" = "Opis:";
-
 "Discover Events" = "Odkryj wydarzenia";
-
 "Discover locations near you" = "Odkryj miejsca w pobliżu";
-
 "Discover Recycling Events" = "Odkryj wydarzenia związane z recyklingiem";
-
 "Done" = "Gotowe";
-
 "Drag to reorder sections and toggle to show or hide them on your home screen." = "Przeciągnij, aby zmienić kolejność sekcji i przełączaj, aby je pokazać lub ukryć na ekranie głównym.";
-
 "E-Tram" = "E-Tram";
-
 "Electronic waste does not belong in household waste because it contains recyclable metals and toxic heavy metals. Thanks to separate collection, these substances can be recovered or environmentally disposed of." = "Odpady elektroniczne nie powinny trafiać do odpadów domowych, ponieważ zawierają zarówno metale nadające się do recyklingu, jak i toksyczne metale ciężkie. Dzięki selektywnej zbiórce można je odzyskać lub zutylizować w sposób bezpieczny dla środowiska.";
-
 "Enable Push Notifications" = "Włącz powiadomienia push";
-
 "Enable push notifications in your settings to customize your preferences." = "Włącz powiadomienia push w ustawieniach, aby dostosować swoje preferencje.";
-
 "End date" = "Data zakończenia";
-
 "Event not found" = "Nie znaleziono zdarzenia";
-
 "Events" = "Wydarzenia";
-
 "Explore local events to stay informed about whats happening in Zurich." = "Odkrywaj lokalne wydarzenia, aby być na bieżąco z tym, co dzieje się w Zurychu.";
-
 "Explore local recycling events to stay informed about what you can recycle and the rules to follow." = "Zapoznaj się z lokalnymi wydarzeniami dotyczącymi recyklingu, aby dowiedzieć się, co możesz poddać recyklingowi i jakie zasady należy przestrzegać.";
-
 "Feature Request" = "Prośba o funkcję";
-
 "Fewer filters" = "Mniej filtrów";
-
 "Filter" = "Filtr";
-
 "Find Nearby Public Locations" = "Znajdź pobliskie miejsca publiczne";
-
+"Find public locations near you:
+- Parks
+- Public Toilets
+- Bancomat
+- And more..." = "Znajdź publiczne miejsca w pobliżu:
+- Parki
+- Toalety publiczne
+- Bankomaty
+- I wiele więcej...";
 "Find public locations near you:\n- Parks\n- Public Toilets\n- Bancomat\n- And more..." = "Znajdź publiczne miejsca w pobliżu:\n- Parki\n- Toalety publiczne\n- Bankomaty\n- I wiele więcej...";
-
 "Find what matters" = "Znajdź to, co ważne";
-
 "Fitness" = "Fitness";
-
 "Fountain" = "Fontanna";
-
 "Gasoline-powered equipment like chainsaw, large metal, metal tools, battery and battery, waste" = "Sprzęt zasilany benzyną, taki jak piła łańcuchowa, duże metalowe przedmioty, narzędzia metalowe, akumulatory i baterie, odpady";
-
 "Get involved" = "Zaangażuj się";
-
 "Get notification about the latest News in Zurich!" = "Otrzymuj powiadomienia o najnowszych wiadomościach z Zurychu!";
-
 "Get recycling reminders based on your ZIP code." = "Otrzymuj przypomnienia o recyklingu na podstawie Twojego kodu pocztowego.";
-
 "Get reminders about Events in Zurich!" = "Otrzymuj przypomnienia o wydarzeniach w Zurychu!";
-
 "Glass" = "Szkło";
-
 "Good to Know:" = "Dobrze wiedzieć:";
-
 "Grant Location Access" = "Zezwól na dostęp do lokalizacji";
-
 "Grill/Fireplace" = "Grill/kominek";
-
 "Hey! I'm Luca Archidiacono, and I'm passionate about creating things. CasaZurich is a project I'm particularly proud of. If you're enjoying CasaZurich, I'd really appreciate a small tip. Not only would it brighten my day, but it'll also contribute to keeping the app running smoothly for you and support the development of new features. Thanks a bunch!" = "Cześć! Jestem Luca Archidiacono i pasjonuje mnie tworzenie. CasaZurich to projekt, z którego jestem szczególnie dumny. Jeśli CasaZurich Ci się podoba, będę bardzo wdzięczny za drobny napiwek. Nie tylko sprawi mi to radość, ale także pomoże utrzymać płynne działanie aplikacji i wesprze rozwój nowych funkcji. Wielkie dzięki!";
-
 "Hmmm.. it looks empty here" = "Hmmm... wygląda na puste.";
-
 "Home" = "Strona główna";
-
 "Home Configuration" = "Konfiguracja domowa";
-
 "How to Recycle:" = "Jak poddać recyklingowi:";
-
 "I love the taste of a fancy coffee ❤️" = "Uwielbiam smak wyszukanej kawy ❤️";
-
 "If you see duplicate locations, you can clear your local cache." = "Jeśli widzisz zduplikowane lokalizacje, możesz wyczyścić lokalną pamięć podręczną.";
-
 "In addition to all garden waste, you can also dispose of biodegradable kitchen waste and leftovers. By providing organic waste in the appropriate container, you need fewer Zuri bags, which also eases the burden on your wallet. Organic waste is processed into biogas and compost products at the Biogas Zurich AG digestion plant. The biogas is fed into the Energie 360° AG gas network and is available as renewable energy for heating, cooking, or electricity production. This closes a cycle that promotes the quality of life in the city." = "Oprócz wszystkich odpadów ogrodowych można również wyrzucać biodegradowalne odpady kuchenne i resztki jedzenia. Dostarczając odpady organiczne do odpowiedniego pojemnika, potrzebujesz mniej worków Zuri, co odciąża również Twój portfel. Odpady organiczne są przetwarzane na biogaz i produkty kompostowe w zakładzie fermentacyjnym Biogas Zurich AG. Biogaz jest wprowadzany do sieci gazowej Energie 360° AG i jest dostępny jako energia odnawialna do ogrzewania, gotowania lub produkcji energii elektrycznej. Zamyka to cykl, który przyczynia się do poprawy jakości życia w mieście.";
-
 "In general, products made of biodegradable materials (EN 13432), such as compostable coffee capsules, disposable tableware made from cornstarch, or products/packaging made of 100%% fiber products, should not be disposed of in the organic waste container. This is because they are not visually recognizable during collection. The exception is bio-waste bags with lattice print." = "Ogólnie rzecz biorąc, produkty wykonane z materiałów biodegradowalnych (zgodnie z normą EN 13432), takie jak kompostowalne kapsułki do kawy, jednorazowa zastawa stołowa ze skrobi kukurydzianej lub produkty/opakowania w 100% z materiałów włóknistych, nie powinny być wyrzucane do pojemnika na odpady organiczne. Dzieje się tak, ponieważ nie są one wizualnie rozpoznawalne podczas zbiórki. Wyjątkiem są worki na bioodpady z nadrukiem kratowym.";
-
 "Infrastructure" = "Infrastruktura";
-
 "Is Open" = "Otwarte";
-
 "It will go a long way to keep CasaZurich running!" = "To w dużej mierze przyczyni się do utrzymania CasaZurich w ruchu!";
-
 "Kiosk" = "Kiosk";
-
 "Lakeside" = "Nad jeziorem";
-
 "Language" = "Język";
-
 "Last refresh" = "Ostatnie odświeżenie";
-
 "Latest Events" = "Najnowsze wydarzenia";
-
 "Latest News" = "Najnowsze wiadomości";
-
 "Leave a Review" = "Zostaw recenzję";
-
 "Legal" = "Prawne";
-
 "Letter Box" = "Skrzynka na listy";
-
 "Location access" = "Dostęp do lokalizacji";
-
 "Location Permission" = "Zezwolenie na lokalizację";
-
 "Location permission not yet requested" = "Nie poproszono jeszcze o uprawnienia do lokalizacji";
-
 "Location Type" = "Typ lokalizacji";
-
 "Loose plant garden waste, balcony and potted plant (without container), soil (without stones or hydro balls), leaves, weeds and fallen fruit, lawn and meadow clippings, cut flowers, perennials from flowers and vegetables, shrub and tree clippings up to 10 cm in diameter, kitchen waste, eggshell, egg carton, fruit stone, coffee pods without packaging (e.g. from CoffeeB), coffee grounds, tea herb, small animal manure including feathers, straw, hay and sawdust, palm leaf dishes, fruit and vegetable trimmings, bio-waste bags with lattice print, household leftovers, bread, pastry and dessert, meat and fish (including bones and grates), cereal products, rice, legumes, cooking fat, sauce, dairy product, cheese, egg" = "Luźne odpady roślinne z ogrodów, rośliny balkonowe i doniczkowe (bez pojemników), ziemia (bez kamieni i kul hydroponicznych), liście, chwasty i opadłe owoce, skoszona trawa i ścinki z łąk, kwiaty cięte, byliny z kwiatów i warzyw, gałęzie krzewów i drzew o średnicy do 10 cm, odpady kuchenne, skorupki jaj, wytłoczki po jajkach, pestki owoców, kapsułki po kawie bez opakowania (np. z CoffeeB), fusy z kawy, zioła z herbaty, odchody małych zwierząt, w tym pióra, słoma, siano i trociny, naczynia z liści palmowych, resztki owoców i warzyw, worki na bioodpady z nadrukiem kratowym, resztki domowe, chleb, ciasta i desery, mięso i ryby (w tym kości i ości), produkty zbożowe, ryż, rośliny strączkowe, tłuszcze kuchenne, sosy, produkty mleczne, ser, jajka";
-
 "Make it yours" = "Uczyń go swoim";
-
 "Map" = "Mapa";
-
 "Market" = "Rynek";
-
 "Max" = "Maks";
-
 "Metal" = "Metal";
-
 "Metal, bulky waste, gravel, beverage cartons, plastic bottles, Styrofoam, textiles, luggage, baskets, mattress, furniture, plastic, skis, carpet, corks, aluminum coffee capsules, sofa/upholstered furniture up to 2m long, individual item up to 40 kg heavy and 2.5m long" = "Metal, odpady wielkogabarytowe, żwir, kartony po napojach, butelki plastikowe, styropian, tekstylia, bagaż, kosze, materace, meble, tworzywa sztuczne, narty, dywany, korki, aluminiowe kapsułki po kawie, sofy/meble tapicerowane o długości do 2 m, pojedynczy przedmiot o wadze do 40 kg i długości do 2,5 m";
-
 "Min" = "Min";
-
 "Mobile" = "Mobilny";
-
 "More filters" = "Więcej filtrów";
-
 "Movie" = "Film";
-
 "Museum" = "Muzeum";
-
 "Name" = "Nazwa";
-
 "Nearby Locations" = "Pobliskie lokalizacje";
-
 "Need help?" = "Potrzebujesz pomocy?";
-
 "News" = "Aktualności";
-
 "No access to location granted" = "Nie przyznano dostępu do lokalizacji";
-
 "No Configuration" = "Brak konfiguracji";
-
 "No events available" = "Brak dostępnych wydarzeń";
-
 "No Events found" = "Nie znaleziono żadnych wydarzeń";
-
 "No location permission" = "Brak uprawnień do lokalizacji";
-
 "No nearby location found" = "Nie znaleziono pobliskiej lokalizacji";
-
 "No news available" = "Brak dostępnych wiadomości";
-
 "No News found" = "Nie znaleziono żadnych wiadomości";
-
 "No recycling events available" = "Brak dostępnych wydarzeń recyklingowych";
-
 "No results available" = "Brak dostępnych wyników";
-
 "No subscription available" = "Brak dostępnych subskrypcji";
-
 "No ZIP code provided" = "Nie podano kodu pocztowego";
-
 "Non-organic or non-biogenic waste, treated and untreated old wood, ash and cigarette butts, expanded clay, flower pot and foam, boxwood (infested by boxwood moths), Christmas tree, disposable dishes, dog waste, hygiene items, pads, tampons, diapers, bandages, cat litter, compostable clothes, medicine, mussel shells, neophytes, plastic, recycled plastic bags, vacuum cleaner bags, stones, gravel, sand, tea/coffee capsules and bags, packaging materials, glass, metal, paper, cardboard, PET beverage bottle, Zuri bag and waste bag" = "Odpady nieorganiczne lub niebiogenne, stare drewno poddane i niepoddane obróbce, popiół i niedopałki papierosów, keramzyt, doniczki i pianka, bukszpan (zaatakowany przez ćmę bukszpanową), choinka, naczynia jednorazowe, psie odchody, artykuły higieniczne, podpaski, tampony, pieluchy, bandaże, żwirek dla kotów, odzież kompostowalna, leki, muszle małży, gatunki inwazyjne, plastik, plastikowe torby z recyklingu, worki do odkurzaczy, kamienie, żwir, piasek, kapsułki i torebki po herbacie/kawie, materiały opakowaniowe, szkło, metal, papier, karton, butelki PET po napojach, torby Zuri i worki na odpady";
-
 "Non-recyclable paper such as book covers and back covers, insulated packaging* from recycled paper (e.g., Paperfloc), cardboard, paper clippings, paper carrier bag, plastic-coated or soiled paper, Tetra Pak, frozen food packaging" = "Papier nienadający się do recyklingu, taki jak okładki i grzbiety książek, opakowania izolowane* z papieru makulaturowego (np. Paperfloc), karton, ścinki papieru, papierowe torby na zakupy, papier powlekany tworzywem sztucznym lub zabrudzony, opakowania Tetra Pak, opakowania po mrożonkach";
-
 "Non-Sortable Sections" = "Sekcje niepodlegające sortowaniu";
-
 "Not able to determine current location" = "Nie można określić bieżącej lokalizacji";
-
 "Not Allowed:" = "Niedozwolone:";
-
 "Not available" = "Niedostępne";
-
 "Off" = "Wyłączony";
-
 "Office equipment, computers and accessories, keyboard, mouse, data storage, printer, fax machine, copier, modem, network device, tablet, phone, household appliances, boiler, iron, hair dryer, dishwasher, coffee machine, air conditioner, stove, refrigerator, lamp, blender, sewing machine, electric shaver, gaming device, sports equipment, floor lamp, vacuum cleaner, freezer, toaster, tumble dryer, washing machine, cable, entertainment devices, screen, CD and CD device, DVD and DVD device, leisure equipment, projector, radio, TV and accessories (remote control), video device/tape" = "Sprzęt biurowy, komputery i akcesoria, klawiatura, mysz, pamięć masowa, drukarka, faks, kopiarka, modem, urządzenie sieciowe, tablet, telefon, sprzęt AGD, bojler, żelazko, suszarka do włosów, zmywarka, ekspres do kawy, klimatyzator, kuchenka, lodówka, lampa, blender, maszyna do szycia, golarka elektryczna, konsola do gier, sprzęt sportowy, lampa podłogowa, odkurzacz, zamrażarka, toster, suszarka bębnowa, pralka, kabel, urządzenia rozrywkowe, ekran, odtwarzacz CD i płyty CD, odtwarzacz DVD i płyty DVD, sprzęt rekreacyjny, projektor, radio, telewizor i akcesoria (pilot), urządzenie wideo/taśma";
-
 "Oil" = "Olej";
-
 "On" = "Włączony";
-
 "Organic" = "Organiczny";
-
 "Paper" = "Papier";
-
 "Paper carrier bags and cardboard boxes do not belong in paper collection and are not suitable as collection containers. They are specially treated and affect the recycling process, and they fall apart in wet and windy conditions." = "Torebki papierowe i kartony nie nadają się do zbiórki papieru i nie mogą być używane jako pojemniki do jego zbierania. Są one specjalnie impregnowane, co wpływa na proces recyklingu, a ponadto rozpadają się w wilgotnych i wietrznych warunkach.";
-
 "Park" = "Park";
-
 "Parking" = "Parking";
-
 "Parking Zones" = "Strefy parkowania";
-
 "Party" = "Impreza";
-
 "Ping Pong" = "Tenis stołowy";
-
 "Pissoir" = "Pisuar";
-
 "Place the bundled cardboard or your cardboard container at the roadside on the collection day before 7 a.m." = "Karton lub pojemnik na karton należy umieścić przy drodze w dniu odbioru przed godziną 7:00.";
-
 "Place the bundled paper or your paper container at the roadside on the collection day before 7 a.m." = "Związaną makulaturę lub pojemnik na papier należy wystawić na pobocze drogi w dniu odbioru przed godziną 7:00.";
-
 "Playground" = "Plac zabaw";
-
 "Privacy Policy" = "Polityka prywatności";
-
 "PubliBike" = "PubliBike";
-
 "Push Notification" = "Powiadomienie push";
-
 "Push Notifications Disabled" = "Powiadomienia push wyłączone";
-
 "Read full article" = "Przeczytaj cały artykuł";
-
 "Read latest news" = "Przeczytaj najnowsze wiadomości";
-
 "Recommend CasaZurich" = "Poleć CasaZurich";
-
 "Recyclable cardboard like fruit cartons, vegetable cartons, folded paper carrier bags, parcels, boxes, packaging, honeycomb cardboard (only pure cardboard), detergent box (without plastic handle)" = "Karton nadający się do recyklingu, taki jak kartony na owoce, kartony na warzywa, składane torby papierowe, paczki, pudełka, opakowania, tektura falista (tylko czysty karton), pudełko po detergencie (bez plastikowej rączki)";
-
 "Recyclable paper such as books without front and back covers, envelopes, brochures (not coated), paperback, magazine, newspaper" = "Papier nadający się do recyklingu, taki jak książki bez okładek, koperty, broszury (niepowlekane), książki w miękkiej oprawie, czasopisma, gazety";
-
 "Recycling" = "Recykling";
-
 "Recycling cardboard makes sense as it conserves natural resources and is cheaper than incinerating it in the waste-to-energy plant. The collected cardboard is an essential raw material for the production of corrugated cardboard, packaging, and even furniture. Because the technical processing continues to improve, even high-quality cardboard products are made from recycled cardboard." = "Recykling tektury ma sens, ponieważ chroni zasoby naturalne i jest tańszy niż jej spalanie w spalarni odpadów. Zebrana tektura stanowi niezbędny surowiec do produkcji tektury falistej, opakowań, a nawet mebli. Dzięki ciągłemu doskonaleniu procesów technologicznych, nawet wysokiej jakości produkty kartonowe powstają z tektury pochodzącej z recyklingu.";
-
 "Region" = "Region";
-
 "Relaxing Lawn" = "Relaksujący trawnik";
-
 "Restaurant" = "Restauracja";
-
 "See more information on your Map" = "Więcej informacji na mapie";
-
 "See upcoming events" = "Zobacz nadchodzące wydarzenia";
-
 "See whats going on in Zurich" = "Zobacz, co dzieje się w Zurychu";
-
 "Separately collected paper can be recycled multiple times and is therefore the most important raw material for the Swiss paper industry: newspapers are made of up to 80 percent recycled paper." = "Oddzielnie zbierany papier może być wielokrotnie poddawany recyklingowi i dlatego jest najważniejszym surowcem dla szwajcarskiego przemysłu papierniczego: gazety składają się nawet w 80 procentach z papieru pochodzącego z recyklingu.";
-
 "Set end date" = "Ustaw datę zakończenia";
-
 "Settings" = "Ustawienia";
-
 "Shop Merchandise" = "Kupuj artykuły";
-
 "Show All" = "Pokaż wszystko";
-
 "Since January 1, 2023, there has been a container and location requirement for organic waste in the city of Zurich. Properties that do not yet have an organic waste container will be equipped throughout the year 2023. Simply toss the organic waste into the organic waste container and close it again." = "Od 1 stycznia 2023 r. w Zurychu obowiązuje wymóg posiadania pojemników i wyznaczonego miejsca na odpady organiczne. Nieruchomości, które nie mają jeszcze pojemnika na odpady organiczne, zostaną w niego wyposażone w ciągu 2023 roku. Po prostu wrzuć odpady organiczne do pojemnika na odpady organiczne i zamknij go.";
-
 "Small but cute!" = "Mały, ale uroczy!";
-
 "Society" = "Społeczeństwo";
-
 "Sortable Sections" = "Sekcje z możliwością sortowania";
-
 "Sport" = "Sport";
-
 "Sport Area" = "Teren sportowy";
-
 "Start date" = "Data rozpoczęcia";
-
 "Stay informed" = "Bądź na bieżąco";
-
 "Sun or Rain?" = "Słońce czy deszcz?";
-
 "Support CasaZurich" = "Wsparcie CasaZurich";
-
 "Swimming Pool" = "Basen";
-
 "Tap to customize the app to your liking" = "Stuknij, aby dostosować aplikację do swoich potrzeb";
-
 "Tap to filter and see just the content you care about" = "Stuknij, aby filtrować i wyświetlać tylko treści, które Cię interesują";
-
 "Tap to get the latest forecast" = "Dotknij, aby zobaczyć najnowszą prognozę";
-
 "Terms of Use" = "Warunki korzystania";
-
 "Textilies" = "Tekstylia";
-
 "The waste must be disposed of in a blue Zuri bag. The blue Zuri bag is available for a fee in retail stores and comes in 10, 17, 35, 60, or 110-liter sizes. Place your Zuri bag container at the designated pickup location before 7 a.m. on the collection day." = "Odpady należy wyrzucać do niebieskiego worka Zuri. Niebieski worek Zuri jest dostępny odpłatnie w sklepach detalicznych w rozmiarach 10, 17, 35, 60 lub 110 litrów. Prosimy o umieszczenie pojemnika z workiem Zuri w wyznaczonym miejscu odbioru przed godziną 7:00 w dniu odbioru.";
-
 "The Zurich Waste Disposal and Recycling brings over 30,000 Zuri bags to the Hagenholz waste-to-energy plant every day, where they are environmentally burned. The heat generated from incineration produces ecological power and climate-friendly Zurich heat, which can heat around 170,000 apartments." = "Zakład Utylizacji i Recyklingu Odpadów w Zurychu codziennie dostarcza ponad 30 000 worków Zuri do spalarni odpadów Hagenholz, gdzie są one spalane w sposób przyjazny dla środowiska. Ciepło wytworzone ze spalania produkuje ekologiczną energię elektryczną i przyjazne dla klimatu ciepło dla Zurychu, które może ogrzać około 170 000 mieszkań.";
-
 "Theater" = "Teatr";
-
 "Those who dispose of their household waste in fee-free bags, illegally, or in public trash bins are unfair to those who properly prepare their waste. Illegal dumpers are reported to the police and may face fines of up to several thousand Swiss francs." = "Osoby, które pozbywają się odpadów komunalnych w workach bezpłatnych, w sposób nielegalny lub do publicznych koszy na śmieci, postępują nieuczciwie wobec tych, którzy prawidłowo przygotowują swoje odpady. Nielegalni wysypujący śmieci są zgłaszani policji i mogą zostać ukarani grzywną w wysokości do kilku tysięcy franków szwajcarskich.";
-
 "Timeout" = "Przekroczenie limitu czasu";
-
 "Today" = "Dzisiaj";
-
 "Toggle to show or hide them on your home screen." = "Przełącz, aby pokazać lub ukryć je na ekranie głównym.";
-
 "Toilet" = "Toaleta";
-
 "Uncover construction sites and more on your Map" = "Odkrywaj place budowy i inne miejsca na swojej mapie";
-
 "Unknown" = "Nieznany";
-
 "Use of CasaZurich is governed by Apple's Standard EULA for apps. Subscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. Auto-renewal may be turned off by the user, by going to the user's Account Settings after purchase. The duration and price of each subscription is displayed on the purchase screen, and updated at the time of purchase. If you have any questions about CasaZurich Terms of Use, please reach out to me at support@casazurigo.ch" = "Korzystanie z CasaZurich podlega standardowej umowie EULA firmy Apple dla aplikacji. Subskrypcje odnawiają się automatycznie, chyba że zostaną anulowane w ciągu 24 godzin przed końcem bieżącego okresu. Możesz anulować subskrypcję w dowolnym momencie w ustawieniach swojego konta iTunes. Niewykorzystana część bezpłatnego okresu próbnego zostanie utracona, jeśli kupisz subskrypcję. Automatyczne odnawianie może zostać wyłączone przez użytkownika poprzez przejście do Ustawień konta użytkownika po zakupie. Czas trwania i cena każdej subskrypcji są wyświetlane na ekranie zakupu i aktualizowane w momencie zakupu. Jeśli masz jakiekolwiek pytania dotyczące Warunków użytkowania CasaZurich, skontaktuj się ze mną pod adresem support@casazurigo.ch.";
-
 "Vending Machine" = "Automat sprzedający";
-
 "View recycling calendar events" = "Zobacz wydarzenia z kalendarza recyklingu";
-
 "Wardrobe" = "Szafa";
-
 "Waste" = "Odpady";
-
 "Water Temperature" = "Temperatura wody";
-
 "Weather" = "Pogoda";
-
 "Welcome to CasaZurich" = "Witamy w CasaZurich";
-
 "Wheelchair Support" = "Wsparcie dla wózków inwalidzkich";
-
 "When configuration is missing" = "Gdy brakuje konfiguracji";
-
 "While uncoated pizza boxes are made of cardboard, only clean ones should be placed in the cardboard collection. Greasy pizza boxes with food residues cannot be recycled and should be placed in household waste." = "Chociaż niepowlekane pudełka na pizzę są wykonane z tektury, tylko czyste powinny trafiać do pojemników na tekturę. Tłuste pudełka po pizzy z resztkami jedzenia nie nadają się do recyklingu i należy je wyrzucać do odpadów zmieszanych.";
-
 "You are insane, thank you so much!" = "Jesteś szalony, dziękuję bardzo!";
-
 "You've turned off some settings. Turn them on to get started!" = "Wyłączyłeś/aś niektóre ustawienia. Włącz je, aby zacząć!";
-
 "Your privacy matters. Your data won't be collected or stored. What you do is your business, not ours or anyone else's." = "Twoja prywatność jest dla nas ważna. Twoje dane nie będą gromadzone ani przechowywane. To, co robisz, jest Twoją sprawą, a nie naszą ani nikogo innego.";
-
 "Zip Code" = "Kod pocztowy";
-
 "Zurich" = "Zurych";
