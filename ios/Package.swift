@@ -7,7 +7,7 @@ let package = Package(
   name: "CasaZurigol10n",
   defaultLocalization: "en",
   platforms: [
-    .iOS(.v17)
+    .iOS(.v17), .macOS(.v13)
   ],
   products: [
     .library(
