@@ -6,7 +6,7 @@
       "name": "casazurigol10n",
       "dependencies": {
         "dotenv-cli": "^11.0.0",
-        "hermes-i18n": "^0.1.8",
+        "hermes-i18n": "^0.1.11",
       },
       "devDependencies": {
         "@types/bun": "latest",
@@ -155,7 +155,7 @@
 
     "hasown": ["hasown@2.0.2", "", { "dependencies": { "function-bind": "^1.1.2" } }, "sha512-0hJU9SCPvmMzIBdZFqNPXWa6dqh7WdH0cII9y+CyS8rG3nL48Bclra9HmKhVVUHyPWNH5Y7xDwAB7bfgSjkUMQ=="],
 
-    "hermes-i18n": ["hermes-i18n@0.1.8", "", { "dependencies": { "@ai-sdk/anthropic": "^1.0.0", "@ai-sdk/google": "^1.0.0", "@ai-sdk/mistral": "^1.0.0", "@ai-sdk/openai": "^1.0.0", "ai": "^4.0.0", "commander": "^12.0.0", "consola": "^3.2.0", "deepl-node": "^1.24.0", "fast-xml-parser": "^4.5.0", "glob": "^11.0.0" }, "bin": { "hermes": "dist/index.js" } }, "sha512-XxK19E9NiEA2LUoz/Wgn2iVLfnLVt0jz2HOAJDuikDoQNxvu8cOUahJuZmT4iwGGfrexVlnzKrpDFdQFX4OoTg=="],
+    "hermes-i18n": ["hermes-i18n@0.1.11", "", { "dependencies": { "@ai-sdk/anthropic": "^1.0.0", "@ai-sdk/google": "^1.0.0", "@ai-sdk/mistral": "^1.0.0", "@ai-sdk/openai": "^1.0.0", "ai": "^4.0.0", "commander": "^12.0.0", "consola": "^3.2.0", "deepl-node": "^1.24.0", "fast-xml-parser": "^4.5.0", "glob": "^11.0.0" }, "bin": { "hermes": "dist/index.js" } }, "sha512-3fVsEI/grMhwLX79WUaFyRYzQTl0ufW5zyUrtrvInPiHq8Oo0Ox3STXeld5rwVp/SqXD3vL3JkZGWWkRQI5Xsg=="],
 
     "human-signals": ["human-signals@5.0.0", "", {}, "sha512-AXcZb6vzzrFAUE61HnN4mpLqd/cSIwNQjtNWR0euPm6y0iqx3G4gOXaIDdtdDwZmhwe82LA6+zinmW4UBWVePQ=="],
 
