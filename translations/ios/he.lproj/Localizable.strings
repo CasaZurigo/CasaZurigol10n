@@ -19,8 +19,8 @@
 "Better luck next time!" = "בהצלחה בפעם הבאה!";
 "Bike Pump" = "משאבת אופניים";
 "Bulky waste is flammable waste that is too large and heavy for the Zuri bag. It usually consists of furniture made from various materials such as plastic, wood, composite materials, metal, textiles, or glass. Dispose of bulky waste at the recycling center or in the cargo tram." = "פסולת גושית היא פסולת דליקה שגודלה ומשקלה גדולים מדי עבור שקית זורי. היא מורכבת בדרך כלל מרהיטים העשויים מחומרים שונים כגון פלסטיק, עץ, חומרים מרוכבים, מתכת, טקסטיל או זכוכית. יש להשליך פסולת גושית במרכז המיחזור או ברכבת המטען.";
-"Cancel" = "Cancel";
-"Cardboard" = "Cardboard";
+"Cancel" = "ביטול";
+"Cardboard" = "קרטון";
 "Cargotram" = "קרגוטראם";
 "Changing Table" = "שידת החתלה";
 "Check the tram schedule and stops to find the nearest collection point." = "בדקו את לוח הזמנים והתחנות של החשמלית כדי למצוא את נקודת האיסוף הקרובה ביותר.";
@@ -67,7 +67,6 @@
 "Fewer filters" = "פחות מסננים";
 "Filter" = "סנן";
 "Find Nearby Public Locations" = "מצא מקומות ציבוריים בקרבת מקום";
-"Find public locations near you:\n- Parks\n- Public Toilets\n- Bancomat\n- And more..." = "Find public locations near you:\n- Parks\n- Public Toilets\n- Bancomat\n- And more...";
 "Find what matters" = "מצא את מה שחשוב";
 "Fitness" = "כושר";
 "Food" = "מזון";
