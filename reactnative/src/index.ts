@@ -181,6 +181,13 @@ export function tr(key: string): string {
   return translate(key);
 }
 
+/**
+ * Alias for tr() - shorthand translation function.
+ * @param key - The English text to translate
+ * @returns The translated text or the key if no translation exists
+ */
+export const _ = tr;
+
 export type TranslationValue =
   | string
   | Record<string, string>
