@@ -215,7 +215,21 @@ export function pickTranslation(value: TranslationValue): string {
  * Get the list of supported languages.
  */
 export function getSupportedLanguages(): SupportedLanguage[] {
-  return ["de", "en", "es", "fr", "he", "it", "ko", "pl", "pt", "ru", "tr", "uk", "zh"];
+  return [
+    "de",
+    "en",
+    "es",
+    "fr",
+    "he",
+    "it",
+    "ko",
+    "pl",
+    "pt",
+    "ru",
+    "tr",
+    "uk",
+    "zh",
+  ];
 }
 
 /**
