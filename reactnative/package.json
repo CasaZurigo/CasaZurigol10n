@@ -1,0 +1,23 @@
+{
+  "name": "@casazurigo/l10n",
+  "version": "1.0.0",
+  "description": "Localization module for CasaZurigo React Native app",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": [
+    "localization",
+    "i18n",
+    "react-native",
+    "expo",
+    "casazurigo"
+  ],
+  "author": "Luca Archidiacono",
+  "license": "ISC",
+  "peerDependencies": {
+    "expo-localization": ">=15.0.0"
+  },
+  "files": [
+    "src",
+    "../translations/reactnative"
+  ]
+}
