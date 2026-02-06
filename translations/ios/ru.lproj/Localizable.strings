@@ -112,6 +112,7 @@
 "Location Permission" = "Разрешение на доступ к местоположению";
 "Location permission not yet requested" = "Разрешение на доступ к местоположению еще не запрашивалось";
 "Location Type" = "Тип местоположения";
+"Locations" = "Места расположения";
 "Loose plant garden waste, balcony and potted plant (without container), soil (without stones or hydro balls), leaves, weeds and fallen fruit, lawn and meadow clippings, cut flowers, perennials from flowers and vegetables, shrub and tree clippings up to 10 cm in diameter, kitchen waste, eggshell, egg carton, fruit stone, coffee pods without packaging (e.g. from CoffeeB), coffee grounds, tea herb, small animal manure including feathers, straw, hay and sawdust, palm leaf dishes, fruit and vegetable trimmings, bio-waste bags with lattice print, household leftovers, bread, pastry and dessert, meat and fish (including bones and grates), cereal products, rice, legumes, cooking fat, sauce, dairy product, cheese, egg" = "Садовые отходы растительного происхождения (россыпью), балконные и горшечные растения (без горшка), почва (без камней и керамзита), листья, сорняки и опавшие плоды, скошенная трава с газонов и лугов, срезанные цветы, многолетние растения из цветов и овощей, обрезки кустарников и деревьев диаметром до 10 см, пищевые отходы, яичная скорлупа, яичные лотки, косточки от фруктов, кофейные капсулы без упаковки (например, от CoffeeB), кофейная гуща, чайная заварка, навоз мелких животных (включая перья), солома, сено и опилки, посуда из пальмовых листьев, обрезки фруктов и овощей, биоразлагаемые пакеты с сетчатым принтом, остатки домашней еды, хлеб, выпечка и десерты, мясо и рыба (включая кости и хрящи), злаковые продукты, рис, бобовые, пищевые жиры, соусы, молочные продукты, сыр, яйца.";
 "Make it yours" = "Сделайте его своим";
 "Map" = "Карта";
@@ -140,6 +141,7 @@
 "No news available" = "Нет доступных новостей";
 "No News found" = "Новостей не найдено";
 "No recycling events available" = "Нет доступных мероприятий по переработке";
+"No results" = "Нет результатов";
 "No results available" = "Нет доступных результатов";
 "No subscription available" = "Подписка недоступна";
 "No trivia available today" = "Сегодня викторина недоступна.";
@@ -180,6 +182,9 @@
 "Region" = "Регион";
 "Relaxing Lawn" = "Расслабляющий газон";
 "Restaurant" = "Ресторан";
+"Search" = "Поиск";
+"Search events" = "Поиск событий";
+"Search news" = "Поиск новостей";
 "See more information on your Map" = "Подробнее на вашей карте";
 "See upcoming events" = "Смотрите предстоящие события";
 "See whats going on in Zurich" = "Узнайте, что происходит в Цюрихе";
@@ -220,6 +225,7 @@
 "Toggle to show or hide them on your home screen." = "Переключите, чтобы показать или скрыть их на главном экране.";
 "Toilet" = "Туалет";
 "Transport" = "Транспорт";
+"Try a different search term" = "Попробуйте другой поисковый запрос.";
 "Uncover construction sites and more on your Map" = "Откройте для себя строительные площадки и многое другое на своей карте";
 "Unknown" = "Неизвестно";
 "Use of CasaZurich is governed by Apple's Standard EULA for apps. Subscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. Auto-renewal may be turned off by the user, by going to the user's Account Settings after purchase. The duration and price of each subscription is displayed on the purchase screen, and updated at the time of purchase. If you have any questions about CasaZurich Terms of Use, please reach out to me at support@casazurigo.ch" = "Использование CasaZurich регулируется стандартным лицензионным соглашением Apple для приложений. Подписки автоматически продлеваются, если они не отменены в течение 24 часов до окончания текущего периода. Вы можете отменить подписку в любое время в настройках своей учетной записи iTunes. Любая неиспользованная часть бесплатного пробного периода будет аннулирована, если вы приобретете подписку. Автоматическое продление может быть отключено пользователем в настройках учетной записи после покупки. Продолжительность и цена каждой подписки отображаются на экране покупки и обновляются в момент покупки. Если у вас есть вопросы по Условиям использования CasaZurich, пожалуйста, свяжитесь со мной по адресу support@casazurigo.ch.";

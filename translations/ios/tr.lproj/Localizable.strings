@@ -112,6 +112,7 @@
 "Location Permission" = "Konum İzni";
 "Location permission not yet requested" = "Konum izni henüz istenmedi";
 "Location Type" = "Konum Türü";
+"Locations" = "Konumlar";
 "Loose plant garden waste, balcony and potted plant (without container), soil (without stones or hydro balls), leaves, weeds and fallen fruit, lawn and meadow clippings, cut flowers, perennials from flowers and vegetables, shrub and tree clippings up to 10 cm in diameter, kitchen waste, eggshell, egg carton, fruit stone, coffee pods without packaging (e.g. from CoffeeB), coffee grounds, tea herb, small animal manure including feathers, straw, hay and sawdust, palm leaf dishes, fruit and vegetable trimmings, bio-waste bags with lattice print, household leftovers, bread, pastry and dessert, meat and fish (including bones and grates), cereal products, rice, legumes, cooking fat, sauce, dairy product, cheese, egg" = "Gevşek bitki ve bahçe atıkları, balkon ve saksı bitkileri (kapları hariç), toprak (taş veya hidrokültsüz), yapraklar, otlar ve dökülmüş meyveler, çim ve çayır biçme artıkları, kesme çiçekler, çiçek ve sebzelerden çok yıllık bitkiler, çapı 10 cm'ye kadar olan çalı ve ağaç budama artıkları, mutfak atıkları, yumurta kabuğu, yumurta kartonu, meyve çekirdeği, ambalajsız kahve kapsülleri (örn. CoffeeB'den), kahve telvesi, çay otu, tüy, saman, ot ve talaş dahil küçük hayvan gübresi, palmiye yaprağı tabakları, meyve ve sebze artıkları, kafes desenli biyo-atık torbaları, ev artıkları, ekmek, hamur işleri ve tatlılar, et ve balık (kemik ve kılçıklar dahil), tahıl ürünleri, pirinç, baklagiller, yemeklik yağ, sos, süt ürünleri, peynir, yumurta";
 "Make it yours" = "Senin olsun";
 "Map" = "Harita";
@@ -140,6 +141,7 @@
 "No news available" = "Hiç haber yok";
 "No News found" = "Hiç haber bulunamadı";
 "No recycling events available" = "Geri dönüşüm etkinliği bulunmamaktadır";
+"No results" = "Sonuç bulunamadı.";
 "No results available" = "Sonuç bulunamadı";
 "No subscription available" = "Abonelik yok";
 "No trivia available today" = "Bugün bilgi yarışması sorusu yok.";
@@ -180,6 +182,9 @@
 "Region" = "Bölge";
 "Relaxing Lawn" = "Dinlendirici Çim";
 "Restaurant" = "Restoran";
+"Search" = "Ara";
+"Search events" = "Etkinlikleri ara";
+"Search news" = "Haberleri ara";
 "See more information on your Map" = "Haritanızda daha fazla bilgi görüntüleyin";
 "See upcoming events" = "Yaklaşan etkinlikleri gör";
 "See whats going on in Zurich" = "Zürih'te neler olup bittiğini görün";
@@ -220,6 +225,7 @@
 "Toggle to show or hide them on your home screen." = "Ana ekranınızda göstermek veya gizlemek için geçiş yapın.";
 "Toilet" = "Tuvalet";
 "Transport" = "Ulaşım";
+"Try a different search term" = "Farklı bir arama terimi deneyin.";
 "Uncover construction sites and more on your Map" = "Haritanızda inşaat alanlarını ve daha fazlasını keşfedin";
 "Unknown" = "Bilinmiyor";
 "Use of CasaZurich is governed by Apple's Standard EULA for apps. Subscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. Auto-renewal may be turned off by the user, by going to the user's Account Settings after purchase. The duration and price of each subscription is displayed on the purchase screen, and updated at the time of purchase. If you have any questions about CasaZurich Terms of Use, please reach out to me at support@casazurigo.ch" = "CasaZurich'in kullanımı, uygulamalar için Apple'ın Standart EULA'sına tabidir. Abonelikler, mevcut dönemin bitiminden 24 saat önce iptal edilmediği sürece otomatik olarak yenilenir. İstediğiniz zaman iTunes hesap ayarlarınızdan iptal edebilirsiniz. Ücretsiz deneme süresinin kullanılmayan herhangi bir kısmı, abonelik satın almanız durumunda kaybedilecektir. Otomatik yenileme, satın alma işleminden sonra kullanıcının Hesap Ayarları'na gidilerek kullanıcı tarafından kapatılabilir. Her aboneliğin süresi ve fiyatı satın alma ekranında görüntülenir ve satın alma sırasında güncellenir. CasaZurich Kullanım Koşulları hakkında herhangi bir sorunuz varsa, lütfen support@casazurigo.ch adresinden bana ulaşın.";

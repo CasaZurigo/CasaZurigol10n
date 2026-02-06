@@ -136,10 +136,10 @@ public func tr(_ key: String, _ args: CVarArg...) -> String {
 public func tr(_ key: StaticString, _ args: CVarArg...) -> LocalizedStringResource {
     return LocalizedStringResource(
         key,
-        defaultValue: "\(key)",
+        defaultValue: "\(String(describing: key))",
         table: "Localizable",
         locale: Locale.current,
-        bundle: .main,
+        bundle: .casaZurigol10n,
         comment: nil
     )
 }

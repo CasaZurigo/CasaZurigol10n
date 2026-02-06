@@ -112,6 +112,7 @@
 "Location Permission" = "Permissão de localização";
 "Location permission not yet requested" = "Permissão de localização ainda não solicitada";
 "Location Type" = "Tipo de localização";
+"Locations" = "Locais";
 "Loose plant garden waste, balcony and potted plant (without container), soil (without stones or hydro balls), leaves, weeds and fallen fruit, lawn and meadow clippings, cut flowers, perennials from flowers and vegetables, shrub and tree clippings up to 10 cm in diameter, kitchen waste, eggshell, egg carton, fruit stone, coffee pods without packaging (e.g. from CoffeeB), coffee grounds, tea herb, small animal manure including feathers, straw, hay and sawdust, palm leaf dishes, fruit and vegetable trimmings, bio-waste bags with lattice print, household leftovers, bread, pastry and dessert, meat and fish (including bones and grates), cereal products, rice, legumes, cooking fat, sauce, dairy product, cheese, egg" = "Resíduos vegetais soltos de jardim, plantas de varanda e de vaso (sem recipiente), terra (sem pedras ou bolas de hidrocultura), folhas, ervas daninhas e frutos caídos, aparas de relva e de prados, flores cortadas, plantas perenes de flores e hortícolas, aparas de arbustos e árvores até 10 cm de diâmetro, resíduos de cozinha, casca de ovo, caixa de ovos, caroço de fruta, cápsulas de café sem embalagem (por ex. do CoffeeB), borras de café, ervas de chá, estrume de pequenos animais incluindo penas, palha, feno e serradura, pratos de folhas de palmeira, aparas de frutas e legumes, sacos de biorresíduos com impressão em rede, restos domésticos, pão, pastelaria e sobremesas, carne e peixe (incluindo espinhas e grelhas), produtos à base de cereais, arroz, leguminosas, gordura alimentar, molhos, produtos lácteos, queijo, ovos";
 "Make it yours" = "Torne-o seu";
 "Map" = "Mapa";
@@ -140,6 +141,7 @@
 "No news available" = "Não há notícias disponíveis";
 "No News found" = "Não foram encontradas notícias";
 "No recycling events available" = "Não há eventos de reciclagem disponíveis";
+"No results" = "Nenhum resultado";
 "No results available" = "Não existem resultados disponíveis";
 "No subscription available" = "Nenhuma subscrição disponível";
 "No trivia available today" = "Nenhuma curiosidade disponível hoje.";
@@ -180,6 +182,9 @@
 "Region" = "Região";
 "Relaxing Lawn" = "Relvado relaxante";
 "Restaurant" = "Restaurante";
+"Search" = "Procurar";
+"Search events" = "Pesquisar eventos";
+"Search news" = "Pesquisar notícias";
 "See more information on your Map" = "Ver mais informações no seu mapa";
 "See upcoming events" = "Ver eventos futuros";
 "See whats going on in Zurich" = "Ver o que se passa em Zurique";
@@ -220,6 +225,7 @@
 "Toggle to show or hide them on your home screen." = "Alternar para mostrar ou ocultar no seu ecrã inicial.";
 "Toilet" = "Casa de banho";
 "Transport" = "Transporte";
+"Try a different search term" = "Experimente um termo de pesquisa diferente.";
 "Uncover construction sites and more on your Map" = "Descubra estaleiros de obras e muito mais no seu mapa";
 "Unknown" = "Desconhecido";
 "Use of CasaZurich is governed by Apple's Standard EULA for apps. Subscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. Auto-renewal may be turned off by the user, by going to the user's Account Settings after purchase. The duration and price of each subscription is displayed on the purchase screen, and updated at the time of purchase. If you have any questions about CasaZurich Terms of Use, please reach out to me at support@casazurigo.ch" = "A utilização do CasaZurich é regida pelo EULA padrão da Apple para aplicações. As subscrições serão renovadas automaticamente, a menos que sejam canceladas 24 horas antes do final do período atual. Pode cancelar a qualquer momento nas definições da sua conta iTunes. Qualquer parte não utilizada de um período de teste gratuito será perdida se adquirir uma subscrição. A renovação automática pode ser desativada pelo utilizador, acedendo às Definições da Conta do utilizador após a compra. A duração e o preço de cada subscrição são apresentados no ecrã de compra e atualizados no momento da compra. Se tiver alguma dúvida sobre os Termos de Utilização do CasaZurich, contacte-me através do endereço support@casazurigo.ch.";

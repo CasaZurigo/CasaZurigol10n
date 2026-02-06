@@ -112,6 +112,7 @@
 "Location Permission" = "位置权限";
 "Location permission not yet requested" = "尚未请求位置权限";
 "Location Type" = "位置类型";
+"Locations" = "地点";
 "Loose plant garden waste, balcony and potted plant (without container), soil (without stones or hydro balls), leaves, weeds and fallen fruit, lawn and meadow clippings, cut flowers, perennials from flowers and vegetables, shrub and tree clippings up to 10 cm in diameter, kitchen waste, eggshell, egg carton, fruit stone, coffee pods without packaging (e.g. from CoffeeB), coffee grounds, tea herb, small animal manure including feathers, straw, hay and sawdust, palm leaf dishes, fruit and vegetable trimmings, bio-waste bags with lattice print, household leftovers, bread, pastry and dessert, meat and fish (including bones and grates), cereal products, rice, legumes, cooking fat, sauce, dairy product, cheese, egg" = "散装植物园艺废弃物、阳台及盆栽植物（不含容器）、土壤（不含石块或水培球）、落叶、杂草及掉落果实、草坪与草地修剪物、切花、花卉及蔬菜的多年生植物、直径不超过10厘米的灌木与树木修剪物、厨余垃圾、蛋壳、蛋盒、果核、无包装咖啡胶囊（如CoffeeB品牌）、咖啡渣、茶叶、含羽毛的小动物粪便、稻草、干草及锯末、棕榈叶餐盘、蔬果边角料、带网格印刷的生物垃圾袋、家庭剩菜、面包糕点甜点、肉类鱼类（含骨头及鱼骨）、谷物制品、大米、豆类、烹饪油脂、酱料、乳制品、奶酪、鸡蛋";
 "Make it yours" = "打造属于你的";
 "Map" = "地图";
@@ -140,6 +141,7 @@
 "No news available" = "暂无消息";
 "No News found" = "未找到新闻";
 "No recycling events available" = "暂无可用的回收活动";
+"No results" = "没有结果";
 "No results available" = "没有可用结果";
 "No subscription available" = "没有可用的订阅";
 "No trivia available today" = "今天没有冷知识。";
@@ -180,6 +182,9 @@
 "Region" = "区域";
 "Relaxing Lawn" = "休闲草坪";
 "Restaurant" = "餐厅";
+"Search" = "搜索";
+"Search events" = "搜索活动";
+"Search news" = "搜索新闻";
 "See more information on your Map" = "在您的地图上查看更多信息";
 "See upcoming events" = "查看即将举行的活动";
 "See whats going on in Zurich" = "看看苏黎世正在发生什么";
@@ -220,6 +225,7 @@
 "Toggle to show or hide them on your home screen." = "在主屏幕上切换以显示或隐藏它们。";
 "Toilet" = "厕所";
 "Transport" = "运输";
+"Try a different search term" = "尝试其他搜索词";
 "Uncover construction sites and more on your Map" = "在地图上探索建筑工地及更多内容";
 "Unknown" = "未知";
 "Use of CasaZurich is governed by Apple's Standard EULA for apps. Subscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. Auto-renewal may be turned off by the user, by going to the user's Account Settings after purchase. The duration and price of each subscription is displayed on the purchase screen, and updated at the time of purchase. If you have any questions about CasaZurich Terms of Use, please reach out to me at support@casazurigo.ch" = "使用 CasaZurich 受 Apple 的标准最终用户许可协议 (EULA) 管辖。订阅服务将在当前周期结束前 24 小时内未取消的情况下自动续订。您可以随时通过您的 iTunes 账户设置取消订阅。如果您购买了订阅服务，免费试用期内任何未使用的部分将被没收。用户可在购买后前往用户账户设置关闭自动续订功能。每个订阅的时长和价格均在购买屏幕上显示，并在购买时更新。如果您对 CasaZurich 的使用条款有任何疑问，请通过 support@casazurigo.ch 与我联系。";

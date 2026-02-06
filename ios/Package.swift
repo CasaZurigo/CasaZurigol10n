@@ -19,13 +19,7 @@ let package = Package(
     .target(
       name: "CasaZurigol10n",
       resources: [
-        .process("Resources/de.lproj"),
-        .process("Resources/en.lproj"),
-        .process("Resources/es.lproj"),
-        .process("Resources/fr.lproj"),
-        .process("Resources/it.lproj"),
-        // .process("Resources/pt-PT.lproj"),
-        // .process("Resources/tr.lproj"),
+        .process("Resources"),
       ]
     )
   ]
