@@ -18,11 +18,13 @@
 "Bench" = "長凳";
 "Better luck next time!" = "祝你下次好運！";
 "Bike Pump" = "自行車打氣筒";
+"Bring your recyclables to the Mobile Recycling Center at the scheduled stop. No cars allowed! The Mobile Recycling Center is available if you are traveling on foot, by bike, or by public transport. You can also give away or take well-preserved items for free." = "請將您的可回收物帶到指定的流動回收站點。禁止車輛進入！無論您是步行、騎自行車或搭乘大眾運輸工具，都可以前往流動回收站。您也可以免費贈送或領取保存良好的物品。";
 "Bulky waste is flammable waste that is too large and heavy for the Zuri bag. It usually consists of furniture made from various materials such as plastic, wood, composite materials, metal, textiles, or glass. Dispose of bulky waste at the recycling center or in the cargo tram." = "大型廢棄物是指體積過大、重量過重而無法裝入 Zuri 袋的易燃廢棄物。此類廢棄物通常包含由塑膠、木材、複合材料、金屬、紡織品或玻璃等各種材質製成的家具。請將大型廢棄物送至回收中心或裝載至貨運電車進行處理。";
 "Cancel" = "取消";
 "Cardboard" = "紙板";
 "Cargotram" = "貨運電車";
 "Changing Table" = "尿布更換台";
+"Check the schedule and stops to find the nearest Mobile Recycling Center collection point." = "請檢查行程與停靠站點，以找到離您最近的行動回收中心收集點。";
 "Check the tram schedule and stops to find the nearest collection point." = "請查看電車時刻表和停靠站，以找到最近的收集點。";
 "Chess" = "西洋棋";
 "Christmas tree, light bulb, halogen lamp, hygiene items, cat litter, plastic material, plastic packaging, nylon stocking, paper scraps, razor blade (well-packaged), vacuum cleaner bag, frozen food packaging, drinking glass (small quantities), bicycle tire (small quantities), cleaning waste, cigarette butts, dog waste bags" = "聖誕樹、燈泡、鹵素燈、衛生用品、貓砂、塑膠材料、塑膠包裝、尼龍襪、紙屑、刮鬍刀片（妥善包裝）、吸塵器集塵袋、冷凍食品包裝、飲用水杯（少量）、自行車輪胎（少量）、清潔廢棄物、菸蒂、狗便袋";
@@ -36,6 +38,7 @@
 "Configure your area of interest." = "設定您的關注區域。";
 "Construction" = "建築";
 "Construction waste, organic waste, hazardous waste, electronic device, household waste, stove, individual item heavier than 40 kg or longer than 2.5 m" = "建築廢料、有機廢料、有害廢料、電子設備、家用廢棄物、爐具、單件重量超過 40 公斤或長度超過 2.5 公尺的物品";
+"Construction waste, organic waste, hazardous waste, household waste, individual item heavier than 40 kg or longer than 2.5 m" = "建築廢料、有機廢物、有害廢物、家居廢物、單件重量超過 40 公斤或長度超過 2.5 公尺的物品";
 "Continue" = "繼續";
 "Coordinates" = "座標";
 "Correct!" = "正確！";
@@ -121,8 +124,10 @@
 "Medium" = "中等";
 "Metal" = "金屬";
 "Metal, bulky waste, gravel, beverage cartons, plastic bottles, Styrofoam, textiles, luggage, baskets, mattress, furniture, plastic, skis, carpet, corks, aluminum coffee capsules, sofa/upholstered furniture up to 2m long, individual item up to 40 kg heavy and 2.5m long" = "金屬、大型廢棄物、礫石、飲料紙盒、塑膠瓶、保麗龍、紡織品、行李、籃子、床墊、家具、塑膠製品、滑雪板、地毯、軟木塞、鋁製咖啡膠囊、長度不超過2公尺的沙發/布藝家具、單件最重40公斤且最長2.5公尺的物品";
+"Metal, bulky waste, gravel, beverage cartons, plastic bottles, Styrofoam, textiles, luggage, baskets, mattress, furniture, plastic, skis, carpet, corks, aluminum coffee capsules, sofa/upholstered furniture up to 2m long, individual item up to 40 kg heavy and 2.5m long, electronic devices, office equipment, computers and accessories, household appliances" = "金屬、大型廢棄物、碎石、飲料紙盒、塑膠瓶、保麗龍、紡織品、行李、籃子、床墊、家具、塑膠製品、滑雪板、地毯、軟木塞、鋁製咖啡膠囊、長度不超過 2 公尺的沙發/軟墊家具、單件最重不超過 40 公斤且最長不超過 2.5 公尺的物品、電子設備、辦公設備、電腦及配件、家用電器";
 "Min" = "最小值";
 "Mobile" = "行動裝置";
+"Mobile Recycling" = "行動回收";
 "More filters" = "更多篩選條件";
 "Movie" = "電影";
 "Multiple choice" = "多選題";
@@ -216,6 +221,7 @@
 "Terms of Use" = "使用條款";
 "Test your Zurich knowledge" = "測試您對蘇黎世的了解";
 "Textilies" = "紡織品";
+"The Mobile Recycling Center (Mobiler Recyclinghof) brings recycling services directly to your neighborhood. You can drop off bulky waste, electronic devices, metals, and other recyclables. It replaces the former Cargo Tram and E-Tram services, offering a convenient and accessible way to recycle materials that don't belong in regular household waste." = "行動回收中心（Mobiler Recyclinghof）將回收服務直接送到您的社區。您可以在此丟棄大型廢棄物、電子設備、金屬及其他可回收物。它取代了先前的貨運電車和電動電車服務，為回收不屬於一般家庭垃圾的物品提供了一種便利且易於取得的方式。";
 "The waste must be disposed of in a blue Zuri bag. The blue Zuri bag is available for a fee in retail stores and comes in 10, 17, 35, 60, or 110-liter sizes. Place your Zuri bag container at the designated pickup location before 7 a.m. on the collection day." = "廢棄物必須使用藍色 Zuri 袋處理。藍色 Zuri 袋可在零售店付費購買，有 10、17、35、60 或 110 公升等尺寸。請於收集日早上 7 點前，將您的 Zuri 袋容器放置於指定的收集地點。";
 "The Zurich Waste Disposal and Recycling brings over 30,000 Zuri bags to the Hagenholz waste-to-energy plant every day, where they are environmentally burned. The heat generated from incineration produces ecological power and climate-friendly Zurich heat, which can heat around 170,000 apartments." = "蘇黎世廢物處理及回收公司每日將超過 30,000 個蘇黎世專用垃圾袋運送至 Hagenholz 廢物發電廠進行環保焚燒。焚燒產生的熱能轉化為環保電力和對氣候友善的蘇黎世市區供暖，足以為約 170,000 套公寓供暖。";
 "Theater" = "劇場";

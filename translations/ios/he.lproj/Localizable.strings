@@ -18,11 +18,13 @@
 "Bench" = "ספסל";
 "Better luck next time!" = "בהצלחה בפעם הבאה!";
 "Bike Pump" = "משאבת אופניים";
+"Bring your recyclables to the Mobile Recycling Center at the scheduled stop. No cars allowed! The Mobile Recycling Center is available if you are traveling on foot, by bike, or by public transport. You can also give away or take well-preserved items for free." = "הביאו את הפריטים למחזור למרכז המיחזור הנייד בתחנה המיועדת. אין כניסה לכלי רכב! מרכז המיחזור הנייד מיועד להולכי רגל, רוכבי אופניים ומשתמשי תחבורה ציבורית. ניתן גם למסור או לקחת פריטים במצב טוב ללא תשלום.";
 "Bulky waste is flammable waste that is too large and heavy for the Zuri bag. It usually consists of furniture made from various materials such as plastic, wood, composite materials, metal, textiles, or glass. Dispose of bulky waste at the recycling center or in the cargo tram." = "פסולת גושית היא פסולת דליקה שגודלה ומשקלה גדולים מדי עבור שקית זורי. היא מורכבת בדרך כלל מרהיטים העשויים מחומרים שונים כגון פלסטיק, עץ, חומרים מרוכבים, מתכת, טקסטיל או זכוכית. יש להשליך פסולת גושית במרכז המיחזור או ברכבת המטען.";
 "Cancel" = "ביטול";
 "Cardboard" = "קרטון";
 "Cargotram" = "קרגוטראם";
 "Changing Table" = "שידת החתלה";
+"Check the schedule and stops to find the nearest Mobile Recycling Center collection point." = "בדקו את לוח הזמנים והתחנות כדי למצוא את נקודת האיסוף הקרובה ביותר של מרכז המיחזור הנייד.";
 "Check the tram schedule and stops to find the nearest collection point." = "בדקו את לוח הזמנים והתחנות של החשמלית כדי למצוא את נקודת האיסוף הקרובה ביותר.";
 "Chess" = "שחמט";
 "Christmas tree, light bulb, halogen lamp, hygiene items, cat litter, plastic material, plastic packaging, nylon stocking, paper scraps, razor blade (well-packaged), vacuum cleaner bag, frozen food packaging, drinking glass (small quantities), bicycle tire (small quantities), cleaning waste, cigarette butts, dog waste bags" = "עץ חג המולד, נורת חשמל, נורת הלוגן, מוצרי היגיינה, חול לחתולים, חומר פלסטי, אריזות פלסטיק, גרבי ניילון, שאריות נייר, סכין גילוח (ארוז היטב), שקית שואב אבק, אריזות מזון קפוא, כוס שתייה (בכמויות קטנות), צמיג אופניים (בכמויות קטנות), פסולת ניקוי, בדלי סיגריות, שקיות להפרשות כלבים";
@@ -36,6 +38,7 @@
 "Configure your area of interest." = "הגדר את אזור העניין שלך.";
 "Construction" = "בנייה";
 "Construction waste, organic waste, hazardous waste, electronic device, household waste, stove, individual item heavier than 40 kg or longer than 2.5 m" = "פסולת בניין, פסולת אורגנית, פסולת מסוכנת, מכשיר אלקטרוני, פסולת ביתית, כיריים, פריט בודד שמשקלו עולה על 40 קג או שאורכו עולה על 2.5 מטר";
+"Construction waste, organic waste, hazardous waste, household waste, individual item heavier than 40 kg or longer than 2.5 m" = "פסולת בניין, פסולת אורגנית, פסולת מסוכנת, פסולת ביתית, פריט בודד שמשקלו עולה על 40 ק\"ג או שאורכו עולה על 2.5 מטר";
 "Continue" = "המשך";
 "Coordinates" = "קואורדינטות";
 "Correct!" = "נָכוֹן!";
@@ -121,8 +124,10 @@
 "Medium" = "בֵּינוֹנִי";
 "Metal" = "מתכת";
 "Metal, bulky waste, gravel, beverage cartons, plastic bottles, Styrofoam, textiles, luggage, baskets, mattress, furniture, plastic, skis, carpet, corks, aluminum coffee capsules, sofa/upholstered furniture up to 2m long, individual item up to 40 kg heavy and 2.5m long" = "מתכת, פסולת מגושמת, חצץ, קרטוני משקאות, בקבוקי פלסטיק, קלקר, טקסטיל, מזוודות, סלים, מזרן, רהיטים, פלסטיק, מגלשי סקי, שטיח, פקקי שעם, קפסולות קפה מאלומיניום, ספה/ריהוט מרופד באורך של עד 2 מטר, פריט בודד במשקל של עד 40 קג ובאורך של עד 2.5 מטר.";
+"Metal, bulky waste, gravel, beverage cartons, plastic bottles, Styrofoam, textiles, luggage, baskets, mattress, furniture, plastic, skis, carpet, corks, aluminum coffee capsules, sofa/upholstered furniture up to 2m long, individual item up to 40 kg heavy and 2.5m long, electronic devices, office equipment, computers and accessories, household appliances" = "מתכת, פסולת גדולה, חצץ, קרטוני משקה, בקבוקי פלסטיק, קלקר, טקסטיל, מזוודות, סלים, מזרנים, רהיטים, פלסטיק, מגלשי סקי, שטיחים, פקקי שעם, קפסולות קפה מאלומיניום, ספות/רהיטים מרופדים באורך של עד 2 מטר, פריט בודד במשקל של עד 40 ק\"ג ובאורך של עד 2.5 מטר, מכשירים אלקטרוניים, ציוד משרדי, מחשבים ואביזרים, מכשירי חשמל ביתיים";
 "Min" = "מיני";
 "Mobile" = "נייד";
+"Mobile Recycling" = "מיחזור נייד";
 "More filters" = "מסננים נוספים";
 "Movie" = "סרט";
 "Multiple choice" = "בחירה מרובה";
@@ -216,6 +221,7 @@
 "Terms of Use" = "תנאי שימוש";
 "Test your Zurich knowledge" = "בחן את הידע שלך על ציריך";
 "Textilies" = "טקסטיל";
+"The Mobile Recycling Center (Mobiler Recyclinghof) brings recycling services directly to your neighborhood. You can drop off bulky waste, electronic devices, metals, and other recyclables. It replaces the former Cargo Tram and E-Tram services, offering a convenient and accessible way to recycle materials that don't belong in regular household waste." = "מרכז המיחזור הנייד (Mobiler Recyclinghof) מביא שירותי מיחזור ישירות לשכונתכם. תוכלו להשליך פסולת גדולה, מכשירים אלקטרוניים, מתכות וחומרים ניתנים למחזור אחרים. הוא מחליף את שירותי ה-Cargo Tram וה-E-Tram לשעבר, ומציע דרך נוחה ונגישה למחזר חומרים שאינם שייכים לפסולת ביתית רגילה.";
 "The waste must be disposed of in a blue Zuri bag. The blue Zuri bag is available for a fee in retail stores and comes in 10, 17, 35, 60, or 110-liter sizes. Place your Zuri bag container at the designated pickup location before 7 a.m. on the collection day." = "יש להשליך את הפסולת בשקית Zuri כחולה. שקית Zuri כחולה זמינה בתשלום בחנויות קמעונאיות, והיא מגיעה בנפחים של 10, 17, 35, 60 או 110 ליטר. יש להניח את מיכל שקית Zuri במיקום האיסוף המיועד לפני השעה 7:00 בבוקר ביום האיסוף.";
 "The Zurich Waste Disposal and Recycling brings over 30,000 Zuri bags to the Hagenholz waste-to-energy plant every day, where they are environmentally burned. The heat generated from incineration produces ecological power and climate-friendly Zurich heat, which can heat around 170,000 apartments." = "חברת Zurich Waste Disposal and Recycling מביאה מדי יום למעלה מ-30,000 שקיות Zuri למתקן ה-Hagenholz להפקת אנרגיה מפסולת, שם הן נשרפות באופן ידידותי לסביבה. החום הנוצר מהשריפה מייצר חשמל אקולוגי וחום ידידותי לאקלים עבור ציריך, המספיק לחימום של כ-170,000 דירות.";
 "Theater" = "תיאטרון";

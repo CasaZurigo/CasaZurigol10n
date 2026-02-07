@@ -18,11 +18,13 @@
 "Bench" = "Banco";
 "Better luck next time!" = "¡Mucha suerte la próxima vez!";
 "Bike Pump" = "Bomba de bicicleta";
+"Bring your recyclables to the Mobile Recycling Center at the scheduled stop. No cars allowed! The Mobile Recycling Center is available if you are traveling on foot, by bike, or by public transport. You can also give away or take well-preserved items for free." = "Trae tus reciclables al Centro de Reciclaje Móvil en la parada programada. ¡No se permiten coches! El Centro de Reciclaje Móvil está disponible si viajas a pie, en bicicleta o en transporte público. También puedes donar o llevarte artículos en buen estado de forma gratuita.";
 "Bulky waste is flammable waste that is too large and heavy for the Zuri bag. It usually consists of furniture made from various materials such as plastic, wood, composite materials, metal, textiles, or glass. Dispose of bulky waste at the recycling center or in the cargo tram." = "Los residuos voluminosos son residuos inflamables demasiado grandes y pesados para la bolsa Zuri. Suelen consistir en muebles fabricados con diversos materiales como plástico, madera, materiales compuestos, metal, textiles o vidrio. Deshágase de los residuos voluminosos en el centro de reciclaje o en el tranvía de carga.";
 "Cancel" = "Cancelar";
 "Cardboard" = "Cartón";
 "Cargotram" = "Cargotram";
 "Changing Table" = "Cambiador";
+"Check the schedule and stops to find the nearest Mobile Recycling Center collection point." = "Consulta el horario y las paradas para encontrar el punto de recogida del Centro de Reciclaje Móvil más cercano.";
 "Check the tram schedule and stops to find the nearest collection point." = "Consulta el horario y las paradas del tranvía para encontrar el punto de recogida más cercano.";
 "Chess" = "Ajedrez";
 "Christmas tree, light bulb, halogen lamp, hygiene items, cat litter, plastic material, plastic packaging, nylon stocking, paper scraps, razor blade (well-packaged), vacuum cleaner bag, frozen food packaging, drinking glass (small quantities), bicycle tire (small quantities), cleaning waste, cigarette butts, dog waste bags" = "Árbol de Navidad, bombilla, lámpara halógena, artículos de higiene, arena para gatos, material plástico, envases de plástico, medias de nailon, restos de papel, cuchilla de afeitar (bien empaquetada), bolsa de aspiradora, envases de alimentos congelados, vaso (pequeñas cantidades), neumático de bicicleta (pequeñas cantidades), residuos de limpieza, colillas de cigarrillos, bolsas para excrementos de perro";
@@ -36,6 +38,7 @@
 "Configure your area of interest." = "Configure su área de interés.";
 "Construction" = "Construcción";
 "Construction waste, organic waste, hazardous waste, electronic device, household waste, stove, individual item heavier than 40 kg or longer than 2.5 m" = "Residuos de construcción, residuos orgánicos, residuos peligrosos, aparatos electrónicos, residuos domésticos, estufas, objetos individuales de más de 40 kg o más de 2,5 m de longitud";
+"Construction waste, organic waste, hazardous waste, household waste, individual item heavier than 40 kg or longer than 2.5 m" = "Residuos de construcción, residuos orgánicos, residuos peligrosos, residuos domésticos, artículos individuales de más de 40 kg o de más de 2,5 m";
 "Continue" = "Continuar";
 "Coordinates" = "Coordenadas";
 "Correct!" = "¡Correcto!";
@@ -121,8 +124,10 @@
 "Medium" = "Medio";
 "Metal" = "Metal";
 "Metal, bulky waste, gravel, beverage cartons, plastic bottles, Styrofoam, textiles, luggage, baskets, mattress, furniture, plastic, skis, carpet, corks, aluminum coffee capsules, sofa/upholstered furniture up to 2m long, individual item up to 40 kg heavy and 2.5m long" = "Metal, residuos voluminosos, grava, envases de bebidas, botellas de plástico, poliestireno expandido, textiles, equipaje, cestas, colchones, muebles, plástico, esquís, alfombras, corchos, cápsulas de café de aluminio, sofás/muebles tapizados de hasta 2 m de longitud, artículo individual de hasta 40 kg de peso y 2,5 m de longitud";
+"Metal, bulky waste, gravel, beverage cartons, plastic bottles, Styrofoam, textiles, luggage, baskets, mattress, furniture, plastic, skis, carpet, corks, aluminum coffee capsules, sofa/upholstered furniture up to 2m long, individual item up to 40 kg heavy and 2.5m long, electronic devices, office equipment, computers and accessories, household appliances" = "Metales, residuos voluminosos, grava, envases de bebidas, botellas de plástico, poliestireno, textiles, equipaje, cestas, colchones, muebles, plástico, esquís, alfombras, corchos, cápsulas de café de aluminio, sofás/muebles tapizados de hasta 2 m de largo, artículos individuales de hasta 40 kg de peso y 2,5 m de largo, aparatos electrónicos, equipos de oficina, ordenadores y accesorios, electrodomésticos.";
 "Min" = "Min";
 "Mobile" = "Móvil";
+"Mobile Recycling" = "Reciclaje móvil";
 "More filters" = "Más filtros";
 "Movie" = "Película";
 "Multiple choice" = "Opción múltiple";
@@ -216,6 +221,7 @@
 "Terms of Use" = "Términos de uso";
 "Test your Zurich knowledge" = "Pon a prueba tus conocimientos sobre Zúrich";
 "Textilies" = "Textiles";
+"The Mobile Recycling Center (Mobiler Recyclinghof) brings recycling services directly to your neighborhood. You can drop off bulky waste, electronic devices, metals, and other recyclables. It replaces the former Cargo Tram and E-Tram services, offering a convenient and accessible way to recycle materials that don't belong in regular household waste." = "El Centro Móvil de Reciclaje (Mobiler Recyclinghof) lleva los servicios de reciclaje directamente a tu barrio. Puedes depositar residuos voluminosos, aparatos electrónicos, metales y otros materiales reciclables. Sustituye a los antiguos servicios de Tranvía de Carga y Tranvía Eléctrico, ofreciendo una forma cómoda y accesible de reciclar materiales que no corresponden a la basura doméstica habitual.";
 "The waste must be disposed of in a blue Zuri bag. The blue Zuri bag is available for a fee in retail stores and comes in 10, 17, 35, 60, or 110-liter sizes. Place your Zuri bag container at the designated pickup location before 7 a.m. on the collection day." = "Los residuos deben desecharse en una bolsa Zuri azul. La bolsa Zuri azul está disponible previo pago en tiendas y se ofrece en tamaños de 10, 17, 35, 60 o 110 litros. Coloque su contenedor con bolsa Zuri en el lugar de recogida designado antes de las 7 a. m. del día de recogida.";
 "The Zurich Waste Disposal and Recycling brings over 30,000 Zuri bags to the Hagenholz waste-to-energy plant every day, where they are environmentally burned. The heat generated from incineration produces ecological power and climate-friendly Zurich heat, which can heat around 170,000 apartments." = "La empresa de gestión de residuos y reciclaje de Zúrich lleva cada día más de 30.000 bolsas Zuri a la planta de valorización energética de Hagenholz, donde se incineran de forma ecológica. El calor generado por la incineración produce energía ecológica y calor respetuoso con el clima para Zúrich, que puede calentar alrededor de 170.000 apartamentos.";
 "Theater" = "Teatro";
