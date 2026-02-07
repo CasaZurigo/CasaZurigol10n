@@ -18,13 +18,11 @@
 "Bench" = "벤치";
 "Better luck next time!" = "다음엔 더 잘될 거예요!";
 "Bike Pump" = "자전거 펌프";
-"Bring your recyclables to the Mobile Recycling Center at the scheduled stop. No cars allowed! The Mobile Recycling Center is available if you are traveling on foot, by bike, or by public transport. You can also give away or take well-preserved items for free." = "예정된 정류장에 있는 이동식 재활용 센터로 재활용품을 가져오세요. 차량 진입 금지! 이동식 재활용 센터는 도보, 자전거 또는 대중교통을 이용하는 경우에만 이용 가능합니다. 상태가 양호한 물품은 무료로 기부하거나 가져갈 수도 있습니다.";
 "Bulky waste is flammable waste that is too large and heavy for the Zuri bag. It usually consists of furniture made from various materials such as plastic, wood, composite materials, metal, textiles, or glass. Dispose of bulky waste at the recycling center or in the cargo tram." = "부피가 큰 폐기물은 Zuri 봉투에 담기에는 너무 크고 무거운 가연성 폐기물입니다. 일반적으로 플라스틱, 목재, 복합 재료, 금속, 섬유 또는 유리와 같은 다양한 재료로 만든 가구로 구성됩니다. 부피가 큰 폐기물은 재활용 센터나 화물 트램에 버리십시오.";
 "Cancel" = "취소";
 "Cardboard" = "카드보드";
 "Cargotram" = "카고트램";
 "Changing Table" = "기저귀 교환대";
-"Check the schedule and stops to find the nearest Mobile Recycling Center collection point." = "일정과 정류장을 확인하여 가장 가까운 모바일 재활용 센터 수거 지점을 찾으세요.";
 "Check the tram schedule and stops to find the nearest collection point." = "트램 시간표와 정류장을 확인하여 가장 가까운 수거 장소를 찾으세요.";
 "Chess" = "체스";
 "Christmas tree, light bulb, halogen lamp, hygiene items, cat litter, plastic material, plastic packaging, nylon stocking, paper scraps, razor blade (well-packaged), vacuum cleaner bag, frozen food packaging, drinking glass (small quantities), bicycle tire (small quantities), cleaning waste, cigarette butts, dog waste bags" = "크리스마스 트리, 전구, 할로겐 램프, 위생용품, 고양이 모래, 플라스틱 재질, 플라스틱 포장재, 나일론 스타킹, 종이 조각, 면도날(잘 포장된 것), 진공청소기 봉투, 냉동식품 포장재, 유리잔(소량), 자전거 타이어(소량), 청소 폐기물, 담배꽁초, 개 배변 봉투";
@@ -38,7 +36,6 @@
 "Configure your area of interest." = "관심 영역을 설정하세요.";
 "Construction" = "건설";
 "Construction waste, organic waste, hazardous waste, electronic device, household waste, stove, individual item heavier than 40 kg or longer than 2.5 m" = "건설 폐기물, 유기 폐기물, 유해 폐기물, 전자 기기, 생활 폐기물, 난로, 40kg 초과 또는 2.5m 초과 품목";
-"Construction waste, organic waste, hazardous waste, household waste, individual item heavier than 40 kg or longer than 2.5 m" = "건설 폐기물, 유기성 폐기물, 유해 폐기물, 생활 폐기물, 40kg 초과 또는 2.5m 초과 품목";
 "Continue" = "계속하기";
 "Coordinates" = "좌표";
 "Correct!" = "정답입니다!";
@@ -124,10 +121,8 @@
 "Medium" = "중간";
 "Metal" = "금속";
 "Metal, bulky waste, gravel, beverage cartons, plastic bottles, Styrofoam, textiles, luggage, baskets, mattress, furniture, plastic, skis, carpet, corks, aluminum coffee capsules, sofa/upholstered furniture up to 2m long, individual item up to 40 kg heavy and 2.5m long" = "금속, 부피가 큰 폐기물, 자갈, 음료수 상자, 플라스틱 병, 스티로폼, 직물, 수하물, 바구니, 매트리스, 가구, 플라스틱, 스키, 카펫, 코르크, 알루미늄 커피 캡슐, 길이 2m 이하의 소파/쿠션 가구, 개별 품목 최대 40kg, 최대 길이 2.5m";
-"Metal, bulky waste, gravel, beverage cartons, plastic bottles, Styrofoam, textiles, luggage, baskets, mattress, furniture, plastic, skis, carpet, corks, aluminum coffee capsules, sofa/upholstered furniture up to 2m long, individual item up to 40 kg heavy and 2.5m long, electronic devices, office equipment, computers and accessories, household appliances" = "금속, 부피가 큰 폐기물, 자갈, 음료수 용기, 플라스틱 병, 스티로폼, 직물, 여행 가방, 바구니, 매트리스, 가구, 플라스틱, 스키, 카펫, 코르크, 알루미늄 커피 캡슐, 길이 2m 이하의 소파/패브릭 가구, 무게 40kg 이하 및 길이 2.5m 이하의 개별 품목, 전자 기기, 사무 기기, 컴퓨터 및 액세서리, 가전 제품";
 "Min" = "민";
 "Mobile" = "모바일";
-"Mobile Recycling" = "모바일 재활용";
 "More filters" = "더 많은 필터";
 "Movie" = "영화";
 "Multiple choice" = "객관식";
@@ -221,7 +216,6 @@
 "Terms of Use" = "이용 약관";
 "Test your Zurich knowledge" = "취리히 지식 테스트";
 "Textilies" = "텍스타일";
-"The Mobile Recycling Center (Mobiler Recyclinghof) brings recycling services directly to your neighborhood. You can drop off bulky waste, electronic devices, metals, and other recyclables. It replaces the former Cargo Tram and E-Tram services, offering a convenient and accessible way to recycle materials that don't belong in regular household waste." = "모바일 재활용 센터(Mobiler Recyclinghof)는 재활용 서비스를 여러분의 동네로 직접 찾아갑니다. 대형 폐기물, 전자기기, 금속 및 기타 재활용품을 반납할 수 있습니다. 기존 화물 트램(Cargo Tram) 및 E-트램(E-Tram) 서비스를 대체하며, 일반 가정 쓰레기에 포함되지 않는 재료를 편리하고 쉽게 재활용할 수 있는 방법을 제공합니다.";
 "The waste must be disposed of in a blue Zuri bag. The blue Zuri bag is available for a fee in retail stores and comes in 10, 17, 35, 60, or 110-liter sizes. Place your Zuri bag container at the designated pickup location before 7 a.m. on the collection day." = "쓰레기는 파란색 주리 봉투에 버려야 합니다. 파란색 주리 봉투는 판매점에서 유료로 구매할 수 있으며, 10리터, 17리터, 35리터, 60리터, 110리터 용량으로 제공됩니다. 수거일 오전 7시까지 지정된 수거 장소에 주리 봉투 용기를 놓아주세요.";
 "The Zurich Waste Disposal and Recycling brings over 30,000 Zuri bags to the Hagenholz waste-to-energy plant every day, where they are environmentally burned. The heat generated from incineration produces ecological power and climate-friendly Zurich heat, which can heat around 170,000 apartments." = "취리히 폐기물 처리 및 재활용 센터는 매일 30,000개 이상의 취리히 봉투를 하겐홀츠 폐기물 에너지화 공장으로 운반하여 친환경적으로 소각합니다. 소각 과정에서 발생하는 열은 약 170,000가구에 난방을 공급할 수 있는 친환경적인 취리히 난방열과 친환경 전력을 생산합니다.";
 "Theater" = "극장";
