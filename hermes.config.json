@@ -1,0 +1,48 @@
+{
+  "sourceLanguage": "en",
+  "targetLanguages": [
+    "de",
+    "fr",
+    "es",
+    "it",
+    "pt-PT",
+    "he",
+    "zh-HANS",
+    "zh-HANT",
+    "tr",
+    "ru",
+    "uk",
+    "ko",
+    "pl"
+  ],
+  "source": {
+    "path": "./translations/ios/en.lproj/Localizable.strings",
+    "type": "strings"
+  },
+  "outputs": [
+    {
+      "type": "strings",
+      "path": "./translations/ios/{lang}.lproj/Localizable.strings"
+    },
+    {
+      "type": "strings",
+      "path": "../../CasaZurigo/{lang}.lproj/Localizable.strings"
+    },
+    {
+      "type": "json",
+      "path": "./translations/reactnative/{lang}.json"
+    }
+  ],
+  "include": ["../../**/*.swift"],
+  "exclude": ["**/node_modules/**", "**/dist/**", "**/build/**"],
+  "extractPattern": "tr\\(\\s*\"([^\"\\\\]*(?:\\\\.[^\"\\\\]*)*)\"\\s*\\)",
+  "translator": "google",
+  "googleTranslate": {},
+  "deepl": {
+    "formality": "default"
+  },
+  "ai": {
+    "provider": "google",
+    "model": "gemini-2.5-flash-lite"
+  }
+}

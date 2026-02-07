@@ -11,5 +11,4 @@ DerivedData/
 node_modules/
 scripts/dist
 ios/.build/index-build
-hermes.config.json
 ios/.build
