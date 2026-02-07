@@ -18,11 +18,13 @@
 "Bench" = "Скамейка";
 "Better luck next time!" = "Удачи в следующий раз!";
 "Bike Pump" = "Велосипедный насос";
+"Bring your recyclables to the Mobile Recycling Center at the scheduled stop. No cars allowed! The Mobile Recycling Center is available if you are traveling on foot, by bike, or by public transport. You can also give away or take well-preserved items for free." = "Приносите вторсырье в мобильный пункт приема на запланированной остановке. Въезд на автомобилях запрещен! Мобильный пункт приема работает для тех, кто прибывает пешком, на велосипеде или общественном транспорте. Вы также можете бесплатно отдать или забрать хорошо сохранившиеся вещи.";
 "Bulky waste is flammable waste that is too large and heavy for the Zuri bag. It usually consists of furniture made from various materials such as plastic, wood, composite materials, metal, textiles, or glass. Dispose of bulky waste at the recycling center or in the cargo tram." = "Крупногабаритные отходы — это горючие отходы, которые слишком велики и тяжелы для мешка Zuri. Обычно это мебель из различных материалов, таких как пластик, дерево, композитные материалы, металл, текстиль или стекло. Утилизируйте крупногабаритные отходы в центре переработки или в грузовом трамвае.";
 "Cancel" = "Отмена";
 "Cardboard" = "Картон";
 "Cargotram" = "Карготрам";
 "Changing Table" = "Пеленальный столик";
+"Check the schedule and stops to find the nearest Mobile Recycling Center collection point." = "Проверьте расписание и остановки, чтобы найти ближайший пункт сбора мобильного центра переработки.";
 "Check the tram schedule and stops to find the nearest collection point." = "Проверьте расписание трамваев и остановки, чтобы найти ближайший пункт сбора.";
 "Chess" = "Шахматы";
 "Christmas tree, light bulb, halogen lamp, hygiene items, cat litter, plastic material, plastic packaging, nylon stocking, paper scraps, razor blade (well-packaged), vacuum cleaner bag, frozen food packaging, drinking glass (small quantities), bicycle tire (small quantities), cleaning waste, cigarette butts, dog waste bags" = "Ёлка, лампочка, галогенная лампа, предметы гигиены, наполнитель для кошачьего туалета, пластик, пластиковая упаковка, нейлоновый чулок, бумажные обрезки, лезвие бритвы (хорошо упакованное), мешок для пылесоса, упаковка от замороженных продуктов, стакан (небольшое количество), велосипедная шина (небольшое количество), отходы от уборки, окурки, пакеты для собачьих отходов";
@@ -36,6 +38,7 @@
 "Configure your area of interest." = "Настройте интересующую вас область.";
 "Construction" = "Строительство";
 "Construction waste, organic waste, hazardous waste, electronic device, household waste, stove, individual item heavier than 40 kg or longer than 2.5 m" = "Строительный мусор, органические отходы, опасные отходы, электронные устройства, бытовые отходы, плита, отдельные предметы весом более 40 кг или длиной более 2,5 м";
+"Construction waste, organic waste, hazardous waste, household waste, individual item heavier than 40 kg or longer than 2.5 m" = "Строительный мусор, органические отходы, опасные отходы, бытовые отходы, отдельные предметы весом более 40 кг или длиной более 2,5 м";
 "Continue" = "Продолжить";
 "Coordinates" = "Координаты";
 "Correct!" = "Верно!";
@@ -121,8 +124,10 @@
 "Medium" = "Средний";
 "Metal" = "Металл";
 "Metal, bulky waste, gravel, beverage cartons, plastic bottles, Styrofoam, textiles, luggage, baskets, mattress, furniture, plastic, skis, carpet, corks, aluminum coffee capsules, sofa/upholstered furniture up to 2m long, individual item up to 40 kg heavy and 2.5m long" = "Металл, крупногабаритный мусор, гравий, картонные упаковки от напитков, пластиковые бутылки, пенопласт, текстиль, багаж, корзины, матрасы, мебель, пластик, лыжи, ковры, пробки, алюминиевые кофейные капсулы, диван/мягкая мебель длиной до 2 м, отдельные предметы весом до 40 кг и длиной до 2,5 м";
+"Metal, bulky waste, gravel, beverage cartons, plastic bottles, Styrofoam, textiles, luggage, baskets, mattress, furniture, plastic, skis, carpet, corks, aluminum coffee capsules, sofa/upholstered furniture up to 2m long, individual item up to 40 kg heavy and 2.5m long, electronic devices, office equipment, computers and accessories, household appliances" = "Металл, крупногабаритный мусор, гравий, картонные упаковки от напитков, пластиковые бутылки, пенопласт, текстиль, багаж, корзины, матрасы, мебель, пластик, лыжи, ковры, пробки, алюминиевые кофейные капсулы, диваны/мягкая мебель длиной до 2 м, отдельные предметы весом до 40 кг и длиной до 2,5 м, электронные устройства, офисное оборудование, компьютеры и аксессуары, бытовая техника.";
 "Min" = "Мин";
 "Mobile" = "Мобильный";
+"Mobile Recycling" = "Мобильная переработка";
 "More filters" = "Дополнительные фильтры";
 "Movie" = "Фильм";
 "Multiple choice" = "Множественный выбор";
@@ -216,6 +221,7 @@
 "Terms of Use" = "Условия использования";
 "Test your Zurich knowledge" = "Проверьте свои знания о Цюрихе";
 "Textilies" = "Текстиль";
+"The Mobile Recycling Center (Mobiler Recyclinghof) brings recycling services directly to your neighborhood. You can drop off bulky waste, electronic devices, metals, and other recyclables. It replaces the former Cargo Tram and E-Tram services, offering a convenient and accessible way to recycle materials that don't belong in regular household waste." = "Мобильный центр переработки отходов (Mobiler Recyclinghof) привозит услуги по переработке прямо в ваш район. Вы можете сдать крупногабаритный мусор, электронные устройства, металлы и другие вторсырьевые материалы. Он заменяет прежние службы Cargo Tram и E-Tram, предлагая удобный и доступный способ утилизации материалов, которые не относятся к обычным бытовым отходам.";
 "The waste must be disposed of in a blue Zuri bag. The blue Zuri bag is available for a fee in retail stores and comes in 10, 17, 35, 60, or 110-liter sizes. Place your Zuri bag container at the designated pickup location before 7 a.m. on the collection day." = "Отходы необходимо утилизировать в синем пакете Zuri. Синий пакет Zuri можно приобрести за отдельную плату в розничных магазинах. Пакеты доступны в размерах 10, 17, 35, 60 или 110 литров. Поместите ваш контейнер с пакетом Zuri в назначенное место сбора до 7 утра в день вывоза.";
 "The Zurich Waste Disposal and Recycling brings over 30,000 Zuri bags to the Hagenholz waste-to-energy plant every day, where they are environmentally burned. The heat generated from incineration produces ecological power and climate-friendly Zurich heat, which can heat around 170,000 apartments." = "Компания Zurich Waste Disposal and Recycling ежедневно доставляет более 30 000 мешков Zuri на мусоросжигательный завод в Хагенхольце, где они экологически безопасно сжигаются. Тепло, выделяющееся при сжигании, используется для производства экологически чистой электроэнергии и климатически нейтрального цюрихского тепла, которым можно отапливать около 170 000 квартир.";
 "Theater" = "Театр";
