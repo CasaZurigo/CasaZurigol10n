@@ -2,8 +2,8 @@
   "name": "casazurigol10n",
   "version": "1.0.0",
   "scripts": {
-    "translate": "bunx dotenv -e .env -- bunx hermes-i18n sync",
-    "configure": "bunx dotenv -e .env -- bunx hermes-i18n init"
+    "translate": "bunx dotenv -e .env -- bunx stryngz sync",
+    "configure": "bunx dotenv -e .env -- bunx stryngz init"
   },
   "keywords": [],
   "author": "",
@@ -11,7 +11,7 @@
   "description": "",
   "dependencies": {
     "dotenv-cli": "^11.0.0",
-    "hermes-i18n": "^0.1.12"
+    "stryngz": "^1.0.0"
   },
   "devDependencies": {
     "@types/node": "^22.13.4",
