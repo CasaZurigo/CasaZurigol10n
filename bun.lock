@@ -6,7 +6,7 @@
       "name": "casazurigol10n",
       "dependencies": {
         "dotenv-cli": "^11.0.0",
-        "stryngz": "^1.0.0",
+        "stryngz": "^1.0.1",
       },
       "devDependencies": {
         "@types/bun": "latest",
@@ -257,7 +257,7 @@
 
     "strnum": ["strnum@1.1.2", "", {}, "sha512-vrN+B7DBIoTTZjnPNewwhx6cBA/H+IS7rfW68n7XxC1y7uoiGQBxaKzqucGUgavX15dJgiGztLJ8vxuEzwqBdA=="],
 
-    "stryngz": ["stryngz@1.0.0", "", { "dependencies": { "@ai-sdk/anthropic": "^1.0.0", "@ai-sdk/google": "^1.0.0", "@ai-sdk/mistral": "^1.0.0", "@ai-sdk/openai": "^1.0.0", "ai": "^4.0.0", "commander": "^12.0.0", "consola": "^3.2.0", "deepl-node": "^1.24.0", "fast-xml-parser": "^4.5.0", "glob": "^11.0.0" }, "bin": { "stryngz": "dist/index.js" } }, "sha512-zmpUl4/rXaI4cCKJDfKYVo/a3MbSwMp5hnDFtUuYegYzFpelNMINHOcb9Si4Qavumyh2O4Le77xx+CZx1oow8w=="],
+    "stryngz": ["stryngz@1.0.1", "", { "dependencies": { "@ai-sdk/anthropic": "^1.0.0", "@ai-sdk/google": "^1.0.0", "@ai-sdk/mistral": "^1.0.0", "@ai-sdk/openai": "^1.0.0", "ai": "^4.0.0", "commander": "^12.0.0", "consola": "^3.2.0", "deepl-node": "^1.24.0", "fast-xml-parser": "^4.5.0", "glob": "^11.0.0" }, "bin": { "stryngz": "dist/index.js" } }, "sha512-yJkcGeItKQZGC5RjZfstlSb9RdApEemeQUnX5jF0YvCYdAQp5RkELJO+QS1vhmsNYzIc87MAAomdDVNBthEiWA=="],
 
     "swr": ["swr@2.3.8", "", { "dependencies": { "dequal": "^2.0.3", "use-sync-external-store": "^1.6.0" }, "peerDependencies": { "react": "^16.11.0 || ^17.0.0 || ^18.0.0 || ^19.0.0" } }, "sha512-gaCPRVoMq8WGDcWj9p4YWzCMPHzE0WNl6W8ADIx9c3JBEIdMkJGMzW+uzXvxHMltwcYACr9jP+32H8/hgwMR7w=="],
 
