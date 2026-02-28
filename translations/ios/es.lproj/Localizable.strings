@@ -11,12 +11,14 @@
 "Art" = "Arte";
 "Article not found" = "Artículo no encontrado";
 "ATM" = "cajero automático";
+"Available Prizes" = "Premios disponibles";
 "Back" = "Atrás";
 "Bancomat" = "Cajero automático";
 "Battery, aluminum, electronic device, paint, dishes, glass bottle, ceramics, medicine, metal, mirror, energy-saving lamp, LED, fluorescent tube" = "Batería, aluminio, dispositivo electrónico, pintura, vajilla, botella de vidrio, cerámica, medicina, metal, espejo, lámpara de bajo consumo, LED, tubo fluorescente";
 "Beach Volleyball" = "Voleibol de playa";
 "Bench" = "Banco";
 "Better luck next time!" = "¡Mucha suerte la próxima vez!";
+"Better Luck Tomorrow!" = "¡Mucha suerte mañana!";
 "Bike Pump" = "Bomba de bicicleta";
 "Bring your recyclables to the Mobile Recycling Center at the scheduled stop. No cars allowed! The Mobile Recycling Center is available if you are traveling on foot, by bike, or by public transport. You can also give away or take well-preserved items for free." = "Trae tus reciclables al Centro de Reciclaje Móvil en la parada programada. ¡No se permiten coches! El Centro de Reciclaje Móvil está disponible si viajas a pie, en bicicleta o en transporte público. También puedes donar o llevarte artículos en buen estado de forma gratuita.";
 "Bulky waste is flammable waste that is too large and heavy for the Zuri bag. It usually consists of furniture made from various materials such as plastic, wood, composite materials, metal, textiles, or glass. Dispose of bulky waste at the recycling center or in the cargo tram." = "Los residuos voluminosos son residuos inflamables demasiado grandes y pesados para la bolsa Zuri. Suelen consistir en muebles fabricados con diversos materiales como plástico, madera, materiales compuestos, metal, textiles o vidrio. Deshágase de los residuos voluminosos en el centro de reciclaje o en el tranvía de carga.";
@@ -28,10 +30,14 @@
 "Check the tram schedule and stops to find the nearest collection point." = "Consulta el horario y las paradas del tranvía para encontrar el punto de recogida más cercano.";
 "Chess" = "Ajedrez";
 "Christmas tree, light bulb, halogen lamp, hygiene items, cat litter, plastic material, plastic packaging, nylon stocking, paper scraps, razor blade (well-packaged), vacuum cleaner bag, frozen food packaging, drinking glass (small quantities), bicycle tire (small quantities), cleaning waste, cigarette butts, dog waste bags" = "Árbol de Navidad, bombilla, lámpara halógena, artículos de higiene, arena para gatos, material plástico, envases de plástico, medias de nailon, restos de papel, cuchilla de afeitar (bien empaquetada), bolsa de aspiradora, envases de alimentos congelados, vaso (pequeñas cantidades), neumático de bicicleta (pequeñas cantidades), residuos de limpieza, colillas de cigarrillos, bolsas para excrementos de perro";
+"Claim" = "Reclamación";
 "Clear cache" = "Borrar caché";
 "Close" = "Cerrar";
+"Code" = "Código";
 "Coffee" = "Café";
 "Collection Point" = "Punto de recogida";
+"Come back tomorrow" = "Vuelve mañana";
+"Come back tomorrow for another chance!" = "¡Vuelve mañana para otra oportunidad!";
 "Concert" = "Concierto";
 "Configuration" = "Configuración";
 "Configure locations permission." = "Configurar el permiso de ubicación.";
@@ -63,6 +69,7 @@
 "End date" = "Fecha de finalización";
 "Event not found" = "Evento no encontrado";
 "Events" = "Eventos";
+"Expires" = "Caduca";
 "Explanation" = "Explicación";
 "Explore local events to stay informed about whats happening in Zurich." = "Explora los eventos locales para mantenerte informado de lo que sucede en Zúrich.";
 "Explore local recycling events to stay informed about what you can recycle and the rules to follow." = "Explora los eventos locales de reciclaje para mantenerte informado sobre qué puedes reciclar y las normas a seguir.";
@@ -94,6 +101,7 @@
 "Home Configuration" = "Configuración del inicio";
 "How to Recycle:" = "Cómo reciclar:";
 "I love the taste of a fancy coffee ❤️" = "Me encanta el sabor de un café elegante ❤️";
+"I'd like to take the chance and thank you for using my app!\nWith this email you are trying to file a bug. Please state your issue below this line:\n" = "Me gustaría aprovechar la oportunidad para agradecerle por usar mi aplicación.\nCon este correo electrónico intenta reportar un error. Por favor, describa su problema debajo de esta línea:";
 "If you see duplicate locations, you can clear your local cache." = "Si ves ubicaciones duplicadas, puedes borrar tu caché local.";
 "In addition to all garden waste, you can also dispose of biodegradable kitchen waste and leftovers. By providing organic waste in the appropriate container, you need fewer Zuri bags, which also eases the burden on your wallet. Organic waste is processed into biogas and compost products at the Biogas Zurich AG digestion plant. The biogas is fed into the Energie 360° AG gas network and is available as renewable energy for heating, cooking, or electricity production. This closes a cycle that promotes the quality of life in the city." = "Además de todos los residuos del jardín, también puede desechar residuos orgánicos de cocina y restos de comida biodegradables. Al depositar los residuos orgánicos en el contenedor adecuado, necesitará menos bolsas Zuri, lo que también alivia su bolsillo. Los residuos orgánicos se procesan en biogás y productos de compost en la planta de digestión de Biogas Zurich AG. El biogás se inyecta en la red de gas de Energie 360° AG y está disponible como energía renovable para calefacción, cocina o producción de electricidad. Así se cierra un ciclo que promueve la calidad de vida en la ciudad.";
 "In general, products made of biodegradable materials (EN 13432), such as compostable coffee capsules, disposable tableware made from cornstarch, or products/packaging made of 100%% fiber products, should not be disposed of in the organic waste container. This is because they are not visually recognizable during collection. The exception is bio-waste bags with lattice print." = "En general, los productos fabricados con materiales biodegradables (EN 13432), como las cápsulas de café compostables, la vajilla desechable de almidón de maíz o los productos/embalajes de fibra 100%, no deben desecharse en el contenedor de residuos orgánicos. Esto se debe a que no son reconocibles visualmente durante la recogida. La excepción son las bolsas de biorresiduos con impresión de rejilla.";
@@ -116,6 +124,7 @@
 "Location permission not yet requested" = "Permiso de ubicación aún no solicitado";
 "Location Type" = "Tipo de ubicación";
 "Locations" = "Ubicaciones";
+"Log Files" = "Archivos de registro";
 "Loose plant garden waste, balcony and potted plant (without container), soil (without stones or hydro balls), leaves, weeds and fallen fruit, lawn and meadow clippings, cut flowers, perennials from flowers and vegetables, shrub and tree clippings up to 10 cm in diameter, kitchen waste, eggshell, egg carton, fruit stone, coffee pods without packaging (e.g. from CoffeeB), coffee grounds, tea herb, small animal manure including feathers, straw, hay and sawdust, palm leaf dishes, fruit and vegetable trimmings, bio-waste bags with lattice print, household leftovers, bread, pastry and dessert, meat and fish (including bones and grates), cereal products, rice, legumes, cooking fat, sauce, dairy product, cheese, egg" = "Residuos vegetales sueltos de jardín, plantas de balcón y de maceta (sin contenedor), tierra (sin piedras ni bolas de hidrocultivo), hojas, malas hierbas y fruta caída, recortes de césped y prado, flores cortadas, plantas perennes de flores y hortalizas, recortes de arbustos y árboles de hasta 10 cm de diámetro, residuos de cocina, cáscara de huevo, cartón de huevos, huesos de fruta, cápsulas de café sin envoltorio (p. ej. de CoffeeB), posos de café, hierbas de té, estiércol de animales pequeños (incluidas plumas), paja, heno y serrín, platos de hoja de palma, recortes de frutas y verduras, bolsas de biorresiduos con impresión de rejilla, restos de comida casera, pan, bollería y postres, carne y pescado (incluidas espinas y parrillas), productos de cereales, arroz, legumbres, grasa de cocina, salsa, productos lácteos, queso, huevo";
 "Make it yours" = "Hazlo tuyo";
 "Map" = "Mapa";
@@ -132,6 +141,7 @@
 "Movie" = "Película";
 "Multiple choice" = "Opción múltiple";
 "Museum" = "Museo";
+"My Passport" = "Mi pasaporte";
 "Name" = "Nombre";
 "Nature" = "Naturaleza";
 "Nearby Locations" = "Lugares cercanos";
@@ -145,6 +155,8 @@
 "No nearby location found" = "No se encontró ninguna ubicación cercana";
 "No news available" = "No hay noticias disponibles";
 "No News found" = "No se encontraron noticias";
+"No prizes available right now" = "No hay premios disponibles en este momento";
+"No Prizes Yet" = "Aún no hay premios";
 "No recycling events available" = "No hay eventos de reciclaje disponibles";
 "No results" = "No hay resultados";
 "No results available" = "No hay resultados disponibles";
@@ -168,6 +180,7 @@
 "Parking" = "Aparcamiento";
 "Parking Zones" = "Zonas de aparcamiento";
 "Party" = "Fiesta";
+"Pass" = "Pasar";
 "Ping Pong" = "Ping Pong";
 "Pissoir" = "Orinal";
 "Place the bundled cardboard or your cardboard container at the roadside on the collection day before 7 a.m." = "Coloque el cartón atado o su contenedor de cartón en el arcén el día de la recogida antes de las 7 a.m.";
@@ -179,6 +192,7 @@
 "Push Notifications Disabled" = "Notificaciones push desactivadas";
 "Read full article" = "Leer el artículo completo";
 "Read latest news" = "Leer las últimas noticias";
+"Ready" = "Listo";
 "Recommend CasaZurich" = "Recomendar CasaZurich";
 "Recyclable cardboard like fruit cartons, vegetable cartons, folded paper carrier bags, parcels, boxes, packaging, honeycomb cardboard (only pure cardboard), detergent box (without plastic handle)" = "Cartón reciclable como cajas de frutas, cajas de verduras, bolsas de papel plegables, paquetes, cajas, embalajes, cartón alveolado (solo cartón puro), caja de detergente (sin asa de plástico)";
 "Recyclable paper such as books without front and back covers, envelopes, brochures (not coated), paperback, magazine, newspaper" = "Papel reciclable como libros sin cubiertas delantera ni trasera, sobres, folletos (no plastificados), libros de bolsillo, revistas, periódicos";
@@ -205,6 +219,10 @@
 "Small but cute!" = "¡Pequeño pero lindo!";
 "Society" = "Sociedad";
 "Sortable Sections" = "Secciones ordenables";
+"Spin now!" = "¡Gira ahora!";
+"Spin Now!" = "¡Gira ahora!";
+"Spin the Wheel" = "Gira la rueda";
+"Spin the wheel to win prizes!" = "¡Gira la rueda para ganar premios!";
 "Sport" = "Deporte";
 "Sport Area" = "Área Deportiva";
 "Sports" = "Deportes";
@@ -231,10 +249,14 @@
 "Toggle to show or hide them on your home screen." = "Alternar para mostrarlos u ocultarlos en tu pantalla de inicio.";
 "Toilet" = "Inodoro";
 "Transport" = "Transporte";
+"Trivia not found" = "Trivia no encontrada";
 "Try a different search term" = "Prueba con un término de búsqueda diferente";
+"Try again tomorrow for another chance" = "Inténtalo de nuevo mañana para tener otra oportunidad.";
+"Try your luck!" = "¡Prueba tu suerte!";
 "Uncover construction sites and more on your Map" = "Descubre obras en construcción y mucho más en tu mapa";
 "Unknown" = "Desconocido";
 "Use of CasaZurich is governed by Apple's Standard EULA for apps. Subscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. Auto-renewal may be turned off by the user, by going to the user's Account Settings after purchase. The duration and price of each subscription is displayed on the purchase screen, and updated at the time of purchase. If you have any questions about CasaZurich Terms of Use, please reach out to me at support@casazurigo.ch" = "El uso de CasaZurich se rige por el EULA estándar de Apple para aplicaciones. Las suscripciones se renovarán automáticamente a menos que se cancelen 24 horas antes del final del período actual. Puedes cancelar en cualquier momento desde la configuración de tu cuenta de iTunes. Cualquier parte no utilizada de un período de prueba gratuito se perderá si compras una suscripción. La renovación automática puede ser desactivada por el usuario, yendo a la Configuración de la cuenta del usuario después de la compra. La duración y el precio de cada suscripción se muestran en la pantalla de compra y se actualizan en el momento de la compra. Si tienes alguna pregunta sobre los Términos de Uso de CasaZurich, por favor contáctame en support@casazurigo.ch.";
+"Used" = "Usado";
 "Vending Machine" = "Máquina expendedora";
 "View recycling calendar events" = "Ver eventos del calendario de reciclaje";
 "Wardrobe" = "Armario";
@@ -245,7 +267,10 @@
 "Wheelchair Support" = "Soporte para sillas de ruedas";
 "When configuration is missing" = "Cuando falta la configuración";
 "While uncoated pizza boxes are made of cardboard, only clean ones should be placed in the cardboard collection. Greasy pizza boxes with food residues cannot be recycled and should be placed in household waste." = "Aunque las cajas de pizza sin recubrimiento son de cartón, solo las limpias deben depositarse en la recogida de cartón. Las cajas de pizza grasientas y con restos de comida no se pueden reciclar y deben desecharse en la basura doméstica.";
+"Win prizes from local venues" = "Gana premios en locales de tu zona";
 "You are insane, thank you so much!" = "Estás loco, ¡muchas gracias!";
+"You Won!" = "¡Ganaste!";
+"You've already spun today" = "Ya has girado hoy";
 "You've turned off some settings. Turn them on to get started!" = "Has desactivado algunos ajustes. ¡Actívalos para empezar!";
 "Your privacy matters. Your data won't be collected or stored. What you do is your business, not ours or anyone else's." = "Tu privacidad importa. Tus datos no se recopilarán ni almacenarán. Lo que hagas es asunto tuyo, no nuestro ni de nadie más.";
 "Zip Code" = "Código postal";

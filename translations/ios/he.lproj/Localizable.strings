@@ -11,12 +11,14 @@
 "Art" = "אמנות";
 "Article not found" = "המאמר לא נמצא";
 "ATM" = "כספומט";
+"Available Prizes" = "פרסים זמינים";
 "Back" = "חזרה";
 "Bancomat" = "כספומט";
 "Battery, aluminum, electronic device, paint, dishes, glass bottle, ceramics, medicine, metal, mirror, energy-saving lamp, LED, fluorescent tube" = "סוללה, אלומיניום, מכשיר אלקטרוני, צבע, כלי אוכל, בקבוק זכוכית, קרמיקה, תרופות, מתכת, מראה, נורת חיסכון באנרגיה, נורת לד, נורת פלורסנט";
 "Beach Volleyball" = "כדורעף חופים";
 "Bench" = "ספסל";
 "Better luck next time!" = "בהצלחה בפעם הבאה!";
+"Better Luck Tomorrow!" = "בהצלחה מחר!";
 "Bike Pump" = "משאבת אופניים";
 "Bring your recyclables to the Mobile Recycling Center at the scheduled stop. No cars allowed! The Mobile Recycling Center is available if you are traveling on foot, by bike, or by public transport. You can also give away or take well-preserved items for free." = "הביאו את הפריטים למחזור למרכז המיחזור הנייד בתחנה המיועדת. אין כניסה לכלי רכב! מרכז המיחזור הנייד מיועד להולכי רגל, רוכבי אופניים ומשתמשי תחבורה ציבורית. ניתן גם למסור או לקחת פריטים במצב טוב ללא תשלום.";
 "Bulky waste is flammable waste that is too large and heavy for the Zuri bag. It usually consists of furniture made from various materials such as plastic, wood, composite materials, metal, textiles, or glass. Dispose of bulky waste at the recycling center or in the cargo tram." = "פסולת גושית היא פסולת דליקה שגודלה ומשקלה גדולים מדי עבור שקית זורי. היא מורכבת בדרך כלל מרהיטים העשויים מחומרים שונים כגון פלסטיק, עץ, חומרים מרוכבים, מתכת, טקסטיל או זכוכית. יש להשליך פסולת גושית במרכז המיחזור או ברכבת המטען.";
@@ -28,10 +30,14 @@
 "Check the tram schedule and stops to find the nearest collection point." = "בדקו את לוח הזמנים והתחנות של החשמלית כדי למצוא את נקודת האיסוף הקרובה ביותר.";
 "Chess" = "שחמט";
 "Christmas tree, light bulb, halogen lamp, hygiene items, cat litter, plastic material, plastic packaging, nylon stocking, paper scraps, razor blade (well-packaged), vacuum cleaner bag, frozen food packaging, drinking glass (small quantities), bicycle tire (small quantities), cleaning waste, cigarette butts, dog waste bags" = "עץ חג המולד, נורת חשמל, נורת הלוגן, מוצרי היגיינה, חול לחתולים, חומר פלסטי, אריזות פלסטיק, גרבי ניילון, שאריות נייר, סכין גילוח (ארוז היטב), שקית שואב אבק, אריזות מזון קפוא, כוס שתייה (בכמויות קטנות), צמיג אופניים (בכמויות קטנות), פסולת ניקוי, בדלי סיגריות, שקיות להפרשות כלבים";
+"Claim" = "תביעה";
 "Clear cache" = "נקה מטמון";
 "Close" = "סגור";
+"Code" = "קוד";
 "Coffee" = "קפה";
 "Collection Point" = "נקודת איסוף";
+"Come back tomorrow" = "תחזור מחר";
+"Come back tomorrow for another chance!" = "חזרו מחר להזדמנות נוספת!";
 "Concert" = "קונצרט";
 "Configuration" = "תצורה";
 "Configure locations permission." = "הגדר הרשאות למיקום.";
@@ -63,6 +69,7 @@
 "End date" = "תאריך סיום";
 "Event not found" = "האירוע לא נמצא";
 "Events" = "אירועים";
+"Expires" = "פג תוקף";
 "Explanation" = "הסבר";
 "Explore local events to stay informed about whats happening in Zurich." = "גלו אירועים מקומיים כדי להישאר מעודכנים לגבי המתרחש בציריך.";
 "Explore local recycling events to stay informed about what you can recycle and the rules to follow." = "גלו אירועי מיחזור מקומיים כדי להישאר מעודכנים לגבי מה ניתן למחזר והכללים שיש להקפיד עליהם.";
@@ -94,6 +101,7 @@
 "Home Configuration" = "תצורת הבית";
 "How to Recycle:" = "איך למחזר:";
 "I love the taste of a fancy coffee ❤️" = "אני אוהבת את הטעם של קפה משובח ❤️";
+"I'd like to take the chance and thank you for using my app!\nWith this email you are trying to file a bug. Please state your issue below this line:\n" = "אני רוצה לנצל את ההזדמנות ולהודות לך על השימוש באפליקציה שלי!\nבאמצעות אימייל זה אתה מנסה לדווח על תקלה. אנא פרט את הבעיה שלך מתחת לשורה זו:";
 "If you see duplicate locations, you can clear your local cache." = "אם אתה רואה מיקומים כפולים, תוכל לנקות את המטמון המקומי שלך.";
 "In addition to all garden waste, you can also dispose of biodegradable kitchen waste and leftovers. By providing organic waste in the appropriate container, you need fewer Zuri bags, which also eases the burden on your wallet. Organic waste is processed into biogas and compost products at the Biogas Zurich AG digestion plant. The biogas is fed into the Energie 360° AG gas network and is available as renewable energy for heating, cooking, or electricity production. This closes a cycle that promotes the quality of life in the city." = "בנוסף לכל פסולת הגינה, ניתן להשליך גם פסולת מטבח ושאריות מזון מתכלות. על ידי מסירת פסולת אורגנית במיכל המתאים, תזדקקו לפחות לשקיות Zuri, מה שיקל גם על הארנק שלכם. הפסולת האורגנית מעובדת לביוגז ומוצרי קומפוסט במתקן העיכול של Biogas Zurich AG. הביוגז מוזרם לרשת הגז של Energie 360° AG וזמין כאנרגיה מתחדשת לחימום, בישול או ייצור חשמל. כך נסגר מעגל המקדם את איכות החיים בעיר.";
 "In general, products made of biodegradable materials (EN 13432), such as compostable coffee capsules, disposable tableware made from cornstarch, or products/packaging made of 100%% fiber products, should not be disposed of in the organic waste container. This is because they are not visually recognizable during collection. The exception is bio-waste bags with lattice print." = "באופן כללי, אין להשליך לפח האשפה האורגנית מוצרים העשויים מחומרים מתכלים (EN 13432), כגון קפסולות קפה מתכלות, כלי אוכל חד-פעמיים מעמילן תירס, או מוצרים/אריזות מסיבים ב-100%. הסיבה לכך היא שהם אינם ניתנים לזיהוי ויזואלי במהלך איסוף הפסולת. החריג לכך הוא שקיות ביו-פסולת עם הדפס רשת.";
@@ -116,6 +124,7 @@
 "Location permission not yet requested" = "טרם התבקשה הרשאת מיקום";
 "Location Type" = "סוג מיקום";
 "Locations" = "מיקומים";
+"Log Files" = "קבצי יומן";
 "Loose plant garden waste, balcony and potted plant (without container), soil (without stones or hydro balls), leaves, weeds and fallen fruit, lawn and meadow clippings, cut flowers, perennials from flowers and vegetables, shrub and tree clippings up to 10 cm in diameter, kitchen waste, eggshell, egg carton, fruit stone, coffee pods without packaging (e.g. from CoffeeB), coffee grounds, tea herb, small animal manure including feathers, straw, hay and sawdust, palm leaf dishes, fruit and vegetable trimmings, bio-waste bags with lattice print, household leftovers, bread, pastry and dessert, meat and fish (including bones and grates), cereal products, rice, legumes, cooking fat, sauce, dairy product, cheese, egg" = "פסולת גינה צמחית רופפת, צמחי מרפסת ועציצים (ללא מיכל), אדמה (ללא אבנים או כדורי הידרו), עלים, עשבים שוטים ופירות שנפלו, גזרי דשא וכרי דשא, פרחים חתוכים, צמחים רב-שנתיים מפרחים וירקות, גזרי שיחים ועצים בקוטר של עד 10 סמ, פסולת מטבח, קליפות ביצים, קרטוני ביצים, גרעיני פירות, קפסולות קפה ללא אריזה (למשל מ-CoffeeB), קפה טחון, עשבי תה, הפרשות של בעלי חיים קטנים כולל נוצות, קש, חציר ונסורת, צלחות מעלי דקל, שאריות פירות וירקות, שקיות פסולת ביולוגית עם הדפס רשת, שאריות ביתיות, לחם, מאפים וקינוחים, בשר ודגים (כולל עצמות ורשתות), מוצרי דגנים, אורז, קטניות, שומן בישול, רטבים, מוצרי חלב, גבינה, ביצים.";
 "Make it yours" = "הפוך אותו לשלך";
 "Map" = "מפה";
@@ -132,6 +141,7 @@
 "Movie" = "סרט";
 "Multiple choice" = "בחירה מרובה";
 "Museum" = "מוזיאון";
+"My Passport" = "הדרכון שלי";
 "Name" = "שם";
 "Nature" = "טֶבַע";
 "Nearby Locations" = "מיקומים קרובים";
@@ -145,6 +155,8 @@
 "No nearby location found" = "לא נמצא מיקום קרוב";
 "No news available" = "אין חדשות זמינות";
 "No News found" = "לא נמצאו חדשות";
+"No prizes available right now" = "אין פרסים זמינים כרגע";
+"No Prizes Yet" = "עדיין אין פרסים";
 "No recycling events available" = "אין אירועי מיחזור זמינים";
 "No results" = "אין תוצאות";
 "No results available" = "אין תוצאות זמינות";
@@ -168,6 +180,7 @@
 "Parking" = "חניה";
 "Parking Zones" = "אזורי חניה";
 "Party" = "מסיבה";
+"Pass" = "עבור";
 "Ping Pong" = "פינג פונג";
 "Pissoir" = "משתנה";
 "Place the bundled cardboard or your cardboard container at the roadside on the collection day before 7 a.m." = "הניחו את הקרטון המקובץ או את מיכל הקרטון שלכם בצד הדרך ביום האיסוף, לפני השעה 7 בבוקר.";
@@ -179,6 +192,7 @@
 "Push Notifications Disabled" = "התראות דחיפה מושבתות";
 "Read full article" = "קרא את המאמר המלא";
 "Read latest news" = "קרא את החדשות האחרונות";
+"Ready" = "מוכן";
 "Recommend CasaZurich" = "המלץ על CasaZurich";
 "Recyclable cardboard like fruit cartons, vegetable cartons, folded paper carrier bags, parcels, boxes, packaging, honeycomb cardboard (only pure cardboard), detergent box (without plastic handle)" = "קרטון למחזור כמו קרטוני פירות, קרטוני ירקות, שקיות נייר מתקפלות, חבילות, קופסאות, אריזות, קרטון חלת דבש (קרטון טהור בלבד), קופסת חומרי ניקוי (ללא ידית פלסטיק)";
 "Recyclable paper such as books without front and back covers, envelopes, brochures (not coated), paperback, magazine, newspaper" = "נייר למחזור כגון ספרים ללא כריכה קדמית ואחורית, מעטפות, חוברות (לא מצופות), ספרים בכריכה רכה, מגזינים, עיתונים";
@@ -205,6 +219,10 @@
 "Small but cute!" = "קטן אבל חמוד!";
 "Society" = "חברה";
 "Sortable Sections" = "חלקים ניתנים למיון";
+"Spin now!" = "סובבו עכשיו!";
+"Spin Now!" = "סובבו עכשיו!";
+"Spin the Wheel" = "סובב את הגלגל";
+"Spin the wheel to win prizes!" = "סובבו את הגלגל וזכו בפרסים!";
 "Sport" = "ספורט";
 "Sport Area" = "אזור ספורט";
 "Sports" = "ספורט";
@@ -231,10 +249,14 @@
 "Toggle to show or hide them on your home screen." = "החלף כדי להציג או להסתיר אותם במסך הבית שלך.";
 "Toilet" = "שירותים";
 "Transport" = "תחבורה";
+"Trivia not found" = "טריוויה לא נמצאה";
 "Try a different search term" = "נסה מונח חיפוש אחר";
+"Try again tomorrow for another chance" = "נסו שוב מחר להזדמנות נוספת";
+"Try your luck!" = "נסה את מזלך!";
 "Uncover construction sites and more on your Map" = "גלה אתרי בנייה ועוד במפה שלך";
 "Unknown" = "לא ידוע";
 "Use of CasaZurich is governed by Apple's Standard EULA for apps. Subscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. Auto-renewal may be turned off by the user, by going to the user's Account Settings after purchase. The duration and price of each subscription is displayed on the purchase screen, and updated at the time of purchase. If you have any questions about CasaZurich Terms of Use, please reach out to me at support@casazurigo.ch" = "השימוש ב-CasaZurich כפוף להסכם הרישיון הסטנדרטי של Apple לאפליקציות. מנויים יחודשו אוטומטית אלא אם יבוטלו 24 שעות לפני תום התקופה הנוכחית. ניתן לבטל בכל עת דרך הגדרות חשבון ה-iTunes שלכם. כל חלק שלא נוצל מתקופת ניסיון חינמית יאבד אם תרכשו מנוי. חידוש אוטומטי ניתן לביטול על ידי המשתמש, דרך הגדרות החשבון שלו לאחר הרכישה. משך כל מנוי ומחירו מוצגים במסך הרכישה, ומתעדכנים בעת הרכישה. אם יש לכם שאלות בנוגע לתנאי השימוש של CasaZurich, אנא פנו אליי בכתובת support@casazurigo.ch.";
+"Used" = "מְשׁוּמָשׁ";
 "Vending Machine" = "מכונת ממכר אוטומטית";
 "View recycling calendar events" = "הצג אירועי יומן מיחזור";
 "Wardrobe" = "ארון בגדים";
@@ -245,7 +267,10 @@
 "Wheelchair Support" = "תמיכה בכיסאות גלגלים";
 "When configuration is missing" = "כאשר התצורה חסרה";
 "While uncoated pizza boxes are made of cardboard, only clean ones should be placed in the cardboard collection. Greasy pizza boxes with food residues cannot be recycled and should be placed in household waste." = "בעוד שקופסאות פיצה ללא ציפוי עשויות מקרטון, רק קופסאות נקיות יש להכניס לאיסוף הקרטון. קופסאות פיצה שמנוניות עם שאריות מזון אינן ניתנות למיחזור ויש להשליך אותן לפסולת הביתית.";
+"Win prizes from local venues" = "זכו בפרסים מבתי עסק מקומיים";
 "You are insane, thank you so much!" = "את/ה משוגע/ת, תודה רבה!";
+"You Won!" = "ניצחת!";
+"You've already spun today" = "כבר הסתובבת היום";
 "You've turned off some settings. Turn them on to get started!" = "כיבית כמה הגדרות. הפעל אותן כדי להתחיל!";
 "Your privacy matters. Your data won't be collected or stored. What you do is your business, not ours or anyone else's." = "הפרטיות שלך חשובה. הנתונים שלך לא ייאספו ולא יאוחסנו. מה שתעשה זה עניינך, לא ענייננו ולא עניינו של איש אחר.";
 "Zip Code" = "מיקוד";

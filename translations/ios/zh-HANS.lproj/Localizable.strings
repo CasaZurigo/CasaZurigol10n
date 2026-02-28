@@ -11,12 +11,14 @@
 "Art" = "艺术";
 "Article not found" = "文章未找到";
 "ATM" = "自动取款机";
+"Available Prizes" = "可用奖品";
 "Back" = "返回";
 "Bancomat" = "自动取款机";
 "Battery, aluminum, electronic device, paint, dishes, glass bottle, ceramics, medicine, metal, mirror, energy-saving lamp, LED, fluorescent tube" = "电池、铝、电子设备、油漆、餐具、玻璃瓶、陶瓷、药品、金属、镜子、节能灯、LED、荧光灯管";
 "Beach Volleyball" = "沙滩排球";
 "Bench" = "长凳";
 "Better luck next time!" = "下次好运！";
+"Better Luck Tomorrow!" = "祝你明天好运！";
 "Bike Pump" = "自行车打气筒";
 "Bring your recyclables to the Mobile Recycling Center at the scheduled stop. No cars allowed! The Mobile Recycling Center is available if you are traveling on foot, by bike, or by public transport. You can also give away or take well-preserved items for free." = "请将您的可回收物带到指定地点的流动回收中心。禁止车辆进入！步行、骑自行车或乘坐公共交通工具均可前往流动回收中心。您也可以免费赠送或领取保存完好的物品。";
 "Bulky waste is flammable waste that is too large and heavy for the Zuri bag. It usually consists of furniture made from various materials such as plastic, wood, composite materials, metal, textiles, or glass. Dispose of bulky waste at the recycling center or in the cargo tram." = "大件垃圾是指体积过大、重量过重而无法装入Zuri垃圾袋的易燃废弃物。这类垃圾通常包含由塑料、木材、复合材料、金属、纺织品或玻璃等多种材质制成的家具。请将大件垃圾送至回收中心或装入货运电车进行处理。";
@@ -28,10 +30,14 @@
 "Check the tram schedule and stops to find the nearest collection point." = "查看电车时刻表和站点，找到最近的取件点。";
 "Chess" = "国际象棋";
 "Christmas tree, light bulb, halogen lamp, hygiene items, cat litter, plastic material, plastic packaging, nylon stocking, paper scraps, razor blade (well-packaged), vacuum cleaner bag, frozen food packaging, drinking glass (small quantities), bicycle tire (small quantities), cleaning waste, cigarette butts, dog waste bags" = "圣诞树、灯泡、卤素灯、卫生用品、猫砂、塑料制品、塑料包装、尼龙袜、纸屑、剃须刀片（妥善包装）、吸尘器尘袋、冷冻食品包装、玻璃杯（少量）、自行车轮胎（少量）、清洁垃圾、烟头、狗粪便袋";
+"Claim" = "声明";
 "Clear cache" = "清除缓存";
 "Close" = "关闭";
+"Code" = "代码";
 "Coffee" = "咖啡";
 "Collection Point" = "收集点";
+"Come back tomorrow" = "明天再来";
+"Come back tomorrow for another chance!" = "明天再来一次吧！";
 "Concert" = "音乐会";
 "Configuration" = "配置";
 "Configure locations permission." = "配置位置权限。";
@@ -63,6 +69,7 @@
 "End date" = "结束日期";
 "Event not found" = "未找到事件";
 "Events" = "活动";
+"Expires" = "过期";
 "Explanation" = "解释";
 "Explore local events to stay informed about whats happening in Zurich." = "探索本地活动，随时了解苏黎世的最新动态。";
 "Explore local recycling events to stay informed about what you can recycle and the rules to follow." = "探索当地的回收活动，及时了解可回收物品的种类和需要遵守的规定。";
@@ -94,6 +101,7 @@
 "Home Configuration" = "主页配置";
 "How to Recycle:" = "如何回收：";
 "I love the taste of a fancy coffee ❤️" = "我喜欢精致咖啡的味道❤️";
+"I'd like to take the chance and thank you for using my app!\nWith this email you are trying to file a bug. Please state your issue below this line:\n" = "我想借此机会感谢您使用我的应用！\n您似乎想通过这封邮件提交一个错误报告。请在下方详细描述您遇到的问题：";
 "If you see duplicate locations, you can clear your local cache." = "如果看到重复的位置，您可以清除本地缓存。";
 "In addition to all garden waste, you can also dispose of biodegradable kitchen waste and leftovers. By providing organic waste in the appropriate container, you need fewer Zuri bags, which also eases the burden on your wallet. Organic waste is processed into biogas and compost products at the Biogas Zurich AG digestion plant. The biogas is fed into the Energie 360° AG gas network and is available as renewable energy for heating, cooking, or electricity production. This closes a cycle that promotes the quality of life in the city." = "除所有园林垃圾外，您还可以处理可生物降解的厨余垃圾和剩菜剩饭。通过将有机垃圾投放到合适的容器中，您所需的苏黎世垃圾袋数量会减少，这也能减轻您的经济负担。有机垃圾在 Biogas Zurich AG 的消化厂被加工成沼气和堆肥产品。沼气被输送到 Energie 360° AG 的燃气网络，作为可再生能源用于供暖、烹饪或发电。这形成了一个闭环，提升了城市的生活品质。";
 "In general, products made of biodegradable materials (EN 13432), such as compostable coffee capsules, disposable tableware made from cornstarch, or products/packaging made of 100%% fiber products, should not be disposed of in the organic waste container. This is because they are not visually recognizable during collection. The exception is bio-waste bags with lattice print." = "通常情况下，由可生物降解材料（符合EN 13432标准）制成的产品，例如可堆肥咖啡胶囊、玉米淀粉制成的一次性餐具，或100%纤维制品制成的产品/包装，不应丢弃在有机垃圾容器中。这是因为在收集过程中，这些物品无法通过肉眼识别。唯一的例外是带有网格印花的生物垃圾袋。";
@@ -116,6 +124,7 @@
 "Location permission not yet requested" = "尚未请求位置权限";
 "Location Type" = "位置类型";
 "Locations" = "地点";
+"Log Files" = "日志文件";
 "Loose plant garden waste, balcony and potted plant (without container), soil (without stones or hydro balls), leaves, weeds and fallen fruit, lawn and meadow clippings, cut flowers, perennials from flowers and vegetables, shrub and tree clippings up to 10 cm in diameter, kitchen waste, eggshell, egg carton, fruit stone, coffee pods without packaging (e.g. from CoffeeB), coffee grounds, tea herb, small animal manure including feathers, straw, hay and sawdust, palm leaf dishes, fruit and vegetable trimmings, bio-waste bags with lattice print, household leftovers, bread, pastry and dessert, meat and fish (including bones and grates), cereal products, rice, legumes, cooking fat, sauce, dairy product, cheese, egg" = "散装植物园艺废弃物、阳台及盆栽植物（不含容器）、土壤（不含石块或水培球）、落叶、杂草及掉落果实、草坪与草地修剪物、切花、花卉及蔬菜的多年生植物、直径不超过10厘米的灌木与树木修剪物、厨余垃圾、蛋壳、蛋盒、果核、无包装咖啡胶囊（如CoffeeB品牌）、咖啡渣、茶叶、含羽毛的小动物粪便、稻草、干草及锯末、棕榈叶餐盘、蔬果边角料、带网格印刷的生物垃圾袋、家庭剩菜、面包糕点甜点、肉类鱼类（含骨头及鱼骨）、谷物制品、大米、豆类、烹饪油脂、酱料、乳制品、奶酪、鸡蛋";
 "Make it yours" = "打造属于你的";
 "Map" = "地图";
@@ -132,6 +141,7 @@
 "Movie" = "电影";
 "Multiple choice" = "多项选择";
 "Museum" = "博物馆";
+"My Passport" = "我的护照";
 "Name" = "名称";
 "Nature" = "自然";
 "Nearby Locations" = "附近地点";
@@ -145,6 +155,8 @@
 "No nearby location found" = "未找到附近位置";
 "No news available" = "暂无消息";
 "No News found" = "未找到新闻";
+"No prizes available right now" = "目前暂无奖品。";
+"No Prizes Yet" = "暂无奖项";
 "No recycling events available" = "暂无可用的回收活动";
 "No results" = "没有结果";
 "No results available" = "没有可用结果";
@@ -168,6 +180,7 @@
 "Parking" = "停车";
 "Parking Zones" = "停车区";
 "Party" = "派对";
+"Pass" = "通过";
 "Ping Pong" = "乒乓球";
 "Pissoir" = "小便池";
 "Place the bundled cardboard or your cardboard container at the roadside on the collection day before 7 a.m." = "请在收集日早上7点前，将捆扎好的纸板或纸板容器放在路边。";
@@ -179,6 +192,7 @@
 "Push Notifications Disabled" = "推送通知已停用";
 "Read full article" = "阅读全文";
 "Read latest news" = "阅读最新新闻";
+"Ready" = "准备就绪";
 "Recommend CasaZurich" = "推荐CasaZurich";
 "Recyclable cardboard like fruit cartons, vegetable cartons, folded paper carrier bags, parcels, boxes, packaging, honeycomb cardboard (only pure cardboard), detergent box (without plastic handle)" = "可回收纸板，如水果盒、蔬菜盒、折叠纸袋、包裹、纸箱、包装盒、蜂窝纸板（仅限纯纸板）、洗涤剂盒（无塑料提手）";
 "Recyclable paper such as books without front and back covers, envelopes, brochures (not coated), paperback, magazine, newspaper" = "可回收纸张，例如：无封面封底的书籍、信封、宣传册（未涂层）、平装书、杂志、报纸";
@@ -205,6 +219,10 @@
 "Small but cute!" = "小巧可爱！";
 "Society" = "社会";
 "Sortable Sections" = "可排序分区";
+"Spin now!" = "立即旋转！";
+"Spin Now!" = "立即旋转！";
+"Spin the Wheel" = "转动轮盘";
+"Spin the wheel to win prizes!" = "转动轮盘赢取奖品！";
 "Sport" = "体育";
 "Sport Area" = "运动区";
 "Sports" = "体育";
@@ -231,10 +249,14 @@
 "Toggle to show or hide them on your home screen." = "在主屏幕上切换以显示或隐藏它们。";
 "Toilet" = "厕所";
 "Transport" = "运输";
+"Trivia not found" = "未找到相关信息";
 "Try a different search term" = "尝试其他搜索词";
+"Try again tomorrow for another chance" = "明天再试一次，争取另一个机会。";
+"Try your luck!" = "试试你的运气！";
 "Uncover construction sites and more on your Map" = "在地图上探索建筑工地及更多内容";
 "Unknown" = "未知";
 "Use of CasaZurich is governed by Apple's Standard EULA for apps. Subscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. Auto-renewal may be turned off by the user, by going to the user's Account Settings after purchase. The duration and price of each subscription is displayed on the purchase screen, and updated at the time of purchase. If you have any questions about CasaZurich Terms of Use, please reach out to me at support@casazurigo.ch" = "使用 CasaZurich 受 Apple 的标准最终用户许可协议 (EULA) 管辖。订阅服务将在当前周期结束前 24 小时内未取消的情况下自动续订。您可以随时通过您的 iTunes 账户设置取消订阅。如果您购买了订阅服务，免费试用期内任何未使用的部分将被没收。用户可在购买后前往用户账户设置关闭自动续订功能。每个订阅的时长和价格均在购买屏幕上显示，并在购买时更新。如果您对 CasaZurich 的使用条款有任何疑问，请通过 support@casazurigo.ch 与我联系。";
+"Used" = "已用";
 "Vending Machine" = "自动售货机";
 "View recycling calendar events" = "查看回收日历事件";
 "Wardrobe" = "衣柜";
@@ -245,7 +267,10 @@
 "Wheelchair Support" = "轮椅支持";
 "When configuration is missing" = "当配置缺失时";
 "While uncoated pizza boxes are made of cardboard, only clean ones should be placed in the cardboard collection. Greasy pizza boxes with food residues cannot be recycled and should be placed in household waste." = "未涂层的披萨盒虽然由纸板制成，但只有干净的披萨盒才能放入纸板回收箱。沾有油污和食物残渣的披萨盒无法回收，应放入生活垃圾中。";
+"Win prizes from local venues" = "赢取本地场馆的奖品";
 "You are insane, thank you so much!" = "你疯了，太感谢你了！";
+"You Won!" = "你赢了！";
+"You've already spun today" = "您今天已经转过了";
 "You've turned off some settings. Turn them on to get started!" = "您已关闭部分设置。请开启它们以开始使用！";
 "Your privacy matters. Your data won't be collected or stored. What you do is your business, not ours or anyone else's." = "您的隐私至关重要。我们不会收集或存储您的数据。您的行为是您自己的事，与我们或任何其他人无关。";
 "Zip Code" = "邮政编码";

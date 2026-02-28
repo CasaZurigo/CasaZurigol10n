@@ -11,12 +11,14 @@
 "Art" = "Sanat";
 "Article not found" = "Makale bulunamadı";
 "ATM" = "ATM";
+"Available Prizes" = "Mevcut Ödüller";
 "Back" = "Geri";
 "Bancomat" = "Banka kartı";
 "Battery, aluminum, electronic device, paint, dishes, glass bottle, ceramics, medicine, metal, mirror, energy-saving lamp, LED, fluorescent tube" = "Pil, alüminyum, elektronik cihaz, boya, tabak, cam şişe, seramik, ilaç, metal, ayna, enerji tasarruflu lamba, LED, floresan lamba";
 "Beach Volleyball" = "Plaj Voleybolu";
 "Bench" = "Bank";
 "Better luck next time!" = "İyi şanslar!";
+"Better Luck Tomorrow!" = "Umarım yarın daha iyi şansın olur!";
 "Bike Pump" = "Bisiklet Pompası";
 "Bring your recyclables to the Mobile Recycling Center at the scheduled stop. No cars allowed! The Mobile Recycling Center is available if you are traveling on foot, by bike, or by public transport. You can also give away or take well-preserved items for free." = "Geri dönüştürülebilir malzemelerinizi, belirlenen duraktaki Mobil Geri Dönüşüm Merkezi'ne getirin. Araç kabul edilmemektedir! Mobil Geri Dönüşüm Merkezi, yürüyerek, bisikletle veya toplu taşıma ile seyahat edenler için hizmet vermektedir. Ayrıca, iyi durumdaki eşyalarınızı ücretsiz olarak bırakabilir veya alabilirsiniz.";
 "Bulky waste is flammable waste that is too large and heavy for the Zuri bag. It usually consists of furniture made from various materials such as plastic, wood, composite materials, metal, textiles, or glass. Dispose of bulky waste at the recycling center or in the cargo tram." = "Hacimli atıklar, Zuri torbasına sığmayacak kadar büyük ve ağır olan yanıcı atıklardır. Genellikle plastik, ahşap, kompozit malzemeler, metal, tekstil veya cam gibi çeşitli malzemelerden yapılmış mobilyalardan oluşur. Hacimli atıkları geri dönüşüm merkezine veya kargo tramvayına bırakın.";
@@ -28,10 +30,14 @@
 "Check the tram schedule and stops to find the nearest collection point." = "Tramvay tarifesini ve duraklarını kontrol ederek en yakın toplama noktasını bulun.";
 "Chess" = "Satranç";
 "Christmas tree, light bulb, halogen lamp, hygiene items, cat litter, plastic material, plastic packaging, nylon stocking, paper scraps, razor blade (well-packaged), vacuum cleaner bag, frozen food packaging, drinking glass (small quantities), bicycle tire (small quantities), cleaning waste, cigarette butts, dog waste bags" = "Yılbaşı ağacı, ampul, halojen lamba, hijyen malzemeleri, kedi kumu, plastik malzeme, plastik ambalaj, naylon çorap, kağıt artıkları, jilet (iyi paketlenmiş), elektrikli süpürge torbası, dondurulmuş gıda ambalajı, içme bardağı (az miktarda), bisiklet lastiği (az miktarda), temizlik atıkları, sigara izmaritleri, köpek dışkı torbası";
+"Claim" = "İddia";
 "Clear cache" = "Önbelleği temizle";
 "Close" = "Kapat";
+"Code" = "Kod";
 "Coffee" = "Kahve";
 "Collection Point" = "Toplama Noktası";
+"Come back tomorrow" = "Yarın tekrar gelin.";
+"Come back tomorrow for another chance!" = "Yarın başka bir şans için tekrar gelin!";
 "Concert" = "Konser";
 "Configuration" = "Yapılandırma";
 "Configure locations permission." = "Konum izinlerini yapılandırın.";
@@ -63,6 +69,7 @@
 "End date" = "Bitiş tarihi";
 "Event not found" = "Etkinlik bulunamadı";
 "Events" = "Etkinlikler";
+"Expires" = "Son kullanma tarihi";
 "Explanation" = "Açıklama";
 "Explore local events to stay informed about whats happening in Zurich." = "Zürih'te neler olup bittiğinden haberdar olmak için yerel etkinlikleri keşfedin.";
 "Explore local recycling events to stay informed about what you can recycle and the rules to follow." = "Neleri geri dönüştürebileceğiniz ve hangi kurallara uymanız gerektiği konusunda bilgi sahibi olmak için yerel geri dönüşüm etkinliklerini keşfedin.";
@@ -94,6 +101,7 @@
 "Home Configuration" = "Ev Yapılandırması";
 "How to Recycle:" = "Nasıl Geri Dönüştürülür:";
 "I love the taste of a fancy coffee ❤️" = "Şık bir kahvenin tadını seviyorum ❤️";
+"I'd like to take the chance and thank you for using my app!\nWith this email you are trying to file a bug. Please state your issue below this line:\n" = "Bu fırsatı değerlendirerek uygulamamı kullandığınız için teşekkür etmek istiyorum!\nBu e-posta ile bir hata bildirmeye çalışıyorsunuz. Lütfen sorununuzu aşağıdaki satırın altına yazın:";
 "If you see duplicate locations, you can clear your local cache." = "Yinelenen konumlar görürseniz yerel önbelleğinizi temizleyebilirsiniz.";
 "In addition to all garden waste, you can also dispose of biodegradable kitchen waste and leftovers. By providing organic waste in the appropriate container, you need fewer Zuri bags, which also eases the burden on your wallet. Organic waste is processed into biogas and compost products at the Biogas Zurich AG digestion plant. The biogas is fed into the Energie 360° AG gas network and is available as renewable energy for heating, cooking, or electricity production. This closes a cycle that promotes the quality of life in the city." = "Tüm bahçe atıklarına ek olarak, biyolojik olarak parçalanabilen mutfak atıklarını ve yemek artıklarını da atabilirsiniz. Organik atıkları uygun kaplara vererek daha az Zuri poşeti kullanırsınız, bu da cüzdanınızı rahatlatır. Organik atıklar, Biogas Zurich AG'nin fermantasyon tesisinde biyogaz ve kompost ürünlerine dönüştürülür. Biyogaz, Energie 360° AG'nin gaz şebekesine verilir ve ısıtma, yemek pişirme veya elektrik üretimi için yenilenebilir enerji olarak kullanılır. Böylece şehirdeki yaşam kalitesini artıran bir döngü tamamlanmış olur.";
 "In general, products made of biodegradable materials (EN 13432), such as compostable coffee capsules, disposable tableware made from cornstarch, or products/packaging made of 100%% fiber products, should not be disposed of in the organic waste container. This is because they are not visually recognizable during collection. The exception is bio-waste bags with lattice print." = "Genel olarak, kompostlanabilir kahve kapsülleri, mısır nişastasından yapılmış tek kullanımlık sofra takımları veya %100 lifli ürünlerden yapılmış ürünler/ambalajlar gibi biyolojik olarak parçalanabilen malzemelerden (EN 13432) üretilen ürünler, organik atık kutusuna atılmamalıdır. Bunun nedeni, toplama sırasında görsel olarak ayırt edilememeleridir. Bunun istisnası, kafes desenli biyolojik atık torbalarıdır.";
@@ -116,6 +124,7 @@
 "Location permission not yet requested" = "Konum izni henüz istenmedi";
 "Location Type" = "Konum Türü";
 "Locations" = "Konumlar";
+"Log Files" = "Günlük Dosyaları";
 "Loose plant garden waste, balcony and potted plant (without container), soil (without stones or hydro balls), leaves, weeds and fallen fruit, lawn and meadow clippings, cut flowers, perennials from flowers and vegetables, shrub and tree clippings up to 10 cm in diameter, kitchen waste, eggshell, egg carton, fruit stone, coffee pods without packaging (e.g. from CoffeeB), coffee grounds, tea herb, small animal manure including feathers, straw, hay and sawdust, palm leaf dishes, fruit and vegetable trimmings, bio-waste bags with lattice print, household leftovers, bread, pastry and dessert, meat and fish (including bones and grates), cereal products, rice, legumes, cooking fat, sauce, dairy product, cheese, egg" = "Gevşek bitki ve bahçe atıkları, balkon ve saksı bitkileri (kapları hariç), toprak (taş veya hidrokültsüz), yapraklar, otlar ve dökülmüş meyveler, çim ve çayır biçme artıkları, kesme çiçekler, çiçek ve sebzelerden çok yıllık bitkiler, çapı 10 cm'ye kadar olan çalı ve ağaç budama artıkları, mutfak atıkları, yumurta kabuğu, yumurta kartonu, meyve çekirdeği, ambalajsız kahve kapsülleri (örn. CoffeeB'den), kahve telvesi, çay otu, tüy, saman, ot ve talaş dahil küçük hayvan gübresi, palmiye yaprağı tabakları, meyve ve sebze artıkları, kafes desenli biyo-atık torbaları, ev artıkları, ekmek, hamur işleri ve tatlılar, et ve balık (kemik ve kılçıklar dahil), tahıl ürünleri, pirinç, baklagiller, yemeklik yağ, sos, süt ürünleri, peynir, yumurta";
 "Make it yours" = "Senin olsun";
 "Map" = "Harita";
@@ -132,6 +141,7 @@
 "Movie" = "Film";
 "Multiple choice" = "Çoktan seçmeli";
 "Museum" = "Müze";
+"My Passport" = "Pasaportum";
 "Name" = "Ad";
 "Nature" = "Doğa";
 "Nearby Locations" = "Yakındaki Konumlar";
@@ -145,6 +155,8 @@
 "No nearby location found" = "Yakınlarda konum bulunamadı";
 "No news available" = "Hiç haber yok";
 "No News found" = "Hiç haber bulunamadı";
+"No prizes available right now" = "Şu anda ödül bulunmamaktadır.";
+"No Prizes Yet" = "Henüz Ödül Yok";
 "No recycling events available" = "Geri dönüşüm etkinliği bulunmamaktadır";
 "No results" = "Sonuç bulunamadı.";
 "No results available" = "Sonuç bulunamadı";
@@ -168,6 +180,7 @@
 "Parking" = "Otopark";
 "Parking Zones" = "Park Bölgeleri";
 "Party" = "Parti";
+"Pass" = "Geç";
 "Ping Pong" = "Masa Tenisi";
 "Pissoir" = "Pissoir";
 "Place the bundled cardboard or your cardboard container at the roadside on the collection day before 7 a.m." = "Paketlenmiş kartonunuzu veya karton kabınızı toplama günü sabah 7'den önce yol kenarına bırakın.";
@@ -179,6 +192,7 @@
 "Push Notifications Disabled" = "Anlık Bildirimler Devre Dışı";
 "Read full article" = "Makalenin tamamını oku";
 "Read latest news" = "Son haberleri oku";
+"Ready" = "Hazır";
 "Recommend CasaZurich" = "CasaZurich'i Tavsiye Et";
 "Recyclable cardboard like fruit cartons, vegetable cartons, folded paper carrier bags, parcels, boxes, packaging, honeycomb cardboard (only pure cardboard), detergent box (without plastic handle)" = "Meyve kartonları, sebze kartonları, katlanmış kağıt taşıma çantaları, koliler, kutular, ambalajlar, petek karton (yalnızca saf karton), deterjan kutusu (plastik sapı olmayan) gibi geri dönüştürülebilir kartonlar";
 "Recyclable paper such as books without front and back covers, envelopes, brochures (not coated), paperback, magazine, newspaper" = "Ön ve arka kapakları olmayan kitaplar, zarflar, broşürler (kaplamasız), ciltsiz kitaplar, dergiler, gazeteler gibi geri dönüştürülebilir kağıtlar";
@@ -205,6 +219,10 @@
 "Small but cute!" = "Küçük ama şirin!";
 "Society" = "Toplum";
 "Sortable Sections" = "Sıralanabilir Bölümler";
+"Spin now!" = "Şimdi çevir!";
+"Spin Now!" = "Şimdi Döndür!";
+"Spin the Wheel" = "Çarkı Çevir";
+"Spin the wheel to win prizes!" = "Ödüller kazanmak için çarkı çevirin!";
 "Sport" = "Spor";
 "Sport Area" = "Spor Alanı";
 "Sports" = "Spor";
@@ -231,10 +249,14 @@
 "Toggle to show or hide them on your home screen." = "Ana ekranınızda göstermek veya gizlemek için geçiş yapın.";
 "Toilet" = "Tuvalet";
 "Transport" = "Ulaşım";
+"Trivia not found" = "Bilgi bulunamadı.";
 "Try a different search term" = "Farklı bir arama terimi deneyin.";
+"Try again tomorrow for another chance" = "Yarın tekrar deneyin, başka bir şansınız olsun.";
+"Try your luck!" = "Şansını dene!";
 "Uncover construction sites and more on your Map" = "Haritanızda inşaat alanlarını ve daha fazlasını keşfedin";
 "Unknown" = "Bilinmiyor";
 "Use of CasaZurich is governed by Apple's Standard EULA for apps. Subscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. Auto-renewal may be turned off by the user, by going to the user's Account Settings after purchase. The duration and price of each subscription is displayed on the purchase screen, and updated at the time of purchase. If you have any questions about CasaZurich Terms of Use, please reach out to me at support@casazurigo.ch" = "CasaZurich'in kullanımı, uygulamalar için Apple'ın Standart EULA'sına tabidir. Abonelikler, mevcut dönemin bitiminden 24 saat önce iptal edilmediği sürece otomatik olarak yenilenir. İstediğiniz zaman iTunes hesap ayarlarınızdan iptal edebilirsiniz. Ücretsiz deneme süresinin kullanılmayan herhangi bir kısmı, abonelik satın almanız durumunda kaybedilecektir. Otomatik yenileme, satın alma işleminden sonra kullanıcının Hesap Ayarları'na gidilerek kullanıcı tarafından kapatılabilir. Her aboneliğin süresi ve fiyatı satın alma ekranında görüntülenir ve satın alma sırasında güncellenir. CasaZurich Kullanım Koşulları hakkında herhangi bir sorunuz varsa, lütfen support@casazurigo.ch adresinden bana ulaşın.";
+"Used" = "Kullanılmış";
 "Vending Machine" = "Otomat";
 "View recycling calendar events" = "Geri dönüşüm takvimi etkinliklerini görüntüle";
 "Wardrobe" = "Gardırop";
@@ -245,7 +267,10 @@
 "Wheelchair Support" = "Tekerlekli Sandalye Desteği";
 "When configuration is missing" = "Yapılandırma eksik olduğunda";
 "While uncoated pizza boxes are made of cardboard, only clean ones should be placed in the cardboard collection. Greasy pizza boxes with food residues cannot be recycled and should be placed in household waste." = "Kaplamasız pizza kutuları kartondan yapılmış olsa da, yalnızca temiz olanlar karton geri dönüşümüne atılmalıdır. Yemek artığı bulunan yağlı pizza kutuları geri dönüştürülemez ve evsel atık kutusuna atılmalıdır.";
+"Win prizes from local venues" = "Yerel mekanlardan ödüller kazanın";
 "You are insane, thank you so much!" = "Sen delisin, çok teşekkür ederim!";
+"You Won!" = "Kazandınız!";
+"You've already spun today" = "Bugün zaten çevirdiniz.";
 "You've turned off some settings. Turn them on to get started!" = "Bazı ayarları kapattınız. Başlamak için onları açın!";
 "Your privacy matters. Your data won't be collected or stored. What you do is your business, not ours or anyone else's." = "Gizliliğiniz bizim için önemlidir. Verileriniz toplanmayacak veya saklanmayacaktır. Ne yaptığınız sizi ilgilendirir, bizi veya başkasını değil.";
 "Zip Code" = "Posta Kodu";

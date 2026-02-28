@@ -11,12 +11,14 @@
 "Art" = "Мистецтво";
 "Article not found" = "Статтю не знайдено";
 "ATM" = "Банкомат";
+"Available Prizes" = "Доступні призи";
 "Back" = "Назад";
 "Bancomat" = "Банкомат";
 "Battery, aluminum, electronic device, paint, dishes, glass bottle, ceramics, medicine, metal, mirror, energy-saving lamp, LED, fluorescent tube" = "Акумулятор, алюміній, електронний пристрій, фарба, посуд, скляна пляшка, кераміка, ліки, метал, дзеркало, енергозберігаюча лампа, світлодіод, люмінесцентна трубка";
 "Beach Volleyball" = "Пляжний волейбол";
 "Bench" = "Лавка";
 "Better luck next time!" = "Наступного разу пощастить більше!";
+"Better Luck Tomorrow!" = "Краще хай щастить завтра!";
 "Bike Pump" = "Велосипедний насос";
 "Bring your recyclables to the Mobile Recycling Center at the scheduled stop. No cars allowed! The Mobile Recycling Center is available if you are traveling on foot, by bike, or by public transport. You can also give away or take well-preserved items for free." = "Принесіть свої відходи для вторинної переробки до Мобільного центру переробки на запланованій зупинці. Автомобілям в'їзд заборонено! Мобільний центр переробки доступний для тих, хто подорожує пішки, на велосипеді або громадським транспортом. Ви також можете безкоштовно віддати або забрати добре збережені речі.";
 "Bulky waste is flammable waste that is too large and heavy for the Zuri bag. It usually consists of furniture made from various materials such as plastic, wood, composite materials, metal, textiles, or glass. Dispose of bulky waste at the recycling center or in the cargo tram." = "Великогабаритні відходи — це легкозаймисті відходи, які занадто великі та важкі для мішка Zuri. Зазвичай це меблі, виготовлені з різних матеріалів, таких як пластик, дерево, композитні матеріали, метал, текстиль або скло. Утилізуйте великогабаритні відходи в центрі переробки або у вантажному трамваї.";
@@ -28,10 +30,14 @@
 "Check the tram schedule and stops to find the nearest collection point." = "Перевірте розклад трамваїв та зупинки, щоб знайти найближчий пункт збору.";
 "Chess" = "Шахи";
 "Christmas tree, light bulb, halogen lamp, hygiene items, cat litter, plastic material, plastic packaging, nylon stocking, paper scraps, razor blade (well-packaged), vacuum cleaner bag, frozen food packaging, drinking glass (small quantities), bicycle tire (small quantities), cleaning waste, cigarette butts, dog waste bags" = "Ялинка, лампочка, галогенна лампа, предмети гігієни, наповнювач для котячого туалету, пластик, пластикова упаковка, нейлонова панчоха, паперові обрізки, лезо для гоління (добре упаковане), мішок для пилососа, упаковка від заморожених продуктів, склянка (невелика кількість), велосипедна шина (невелика кількість), відходи від прибирання, недопалки, пакети для собачих відходів";
+"Claim" = "Претензія";
 "Clear cache" = "Очистити кеш";
 "Close" = "Закрити";
+"Code" = "Код";
 "Coffee" = "Кава";
 "Collection Point" = "Пункт збору";
+"Come back tomorrow" = "Повертайся завтра";
+"Come back tomorrow for another chance!" = "Приходьте завтра за ще одним шансом!";
 "Concert" = "Концерт";
 "Configuration" = "Конфігурація";
 "Configure locations permission." = "Налаштуйте дозвіл на доступ до розташування.";
@@ -63,6 +69,7 @@
 "End date" = "Дата закінчення";
 "Event not found" = "Подію не знайдено";
 "Events" = "Події";
+"Expires" = "Термін дії закінчується";
 "Explanation" = "Пояснення";
 "Explore local events to stay informed about whats happening in Zurich." = "Досліджуйте місцеві події, щоб бути в курсі того, що відбувається в Цюріху.";
 "Explore local recycling events to stay informed about what you can recycle and the rules to follow." = "Дізнавайтеся про місцеві заходи з переробки, щоб бути в курсі того, що можна переробляти та яких правил дотримуватися.";
@@ -94,6 +101,7 @@
 "Home Configuration" = "Налаштування головної сторінки";
 "How to Recycle:" = "Як переробляти:";
 "I love the taste of a fancy coffee ❤️" = "Я люблю смак вишуканої кави ❤️";
+"I'd like to take the chance and thank you for using my app!\nWith this email you are trying to file a bug. Please state your issue below this line:\n" = "Я хотів би скористатися нагодою і подякувати вам за використання мого застосунку!\nЦим листом ви намагаєтеся повідомити про помилку. Будь ласка, опишіть свою проблему нижче цього рядка:";
 "If you see duplicate locations, you can clear your local cache." = "Якщо ви бачите дублікати місць, ви можете очистити локальний кеш.";
 "In addition to all garden waste, you can also dispose of biodegradable kitchen waste and leftovers. By providing organic waste in the appropriate container, you need fewer Zuri bags, which also eases the burden on your wallet. Organic waste is processed into biogas and compost products at the Biogas Zurich AG digestion plant. The biogas is fed into the Energie 360° AG gas network and is available as renewable energy for heating, cooking, or electricity production. This closes a cycle that promotes the quality of life in the city." = "Окрім усіх садових відходів, ви також можете утилізувати біологічно розкладні кухонні відходи та залишки їжі. Надаючи органічні відходи у відповідний контейнер, ви потребуєте менше мішків Zuri, що також полегшує навантаження на ваш гаманець. Органічні відходи переробляються на біогаз та компост на заводі Biogas Zurich AG. Біогаз подається до газової мережі Energie 360° AG і доступний як відновлювана енергія для опалення, приготування їжі або виробництва електроенергії. Це замикає цикл, який сприяє підвищенню якості життя в місті.";
 "In general, products made of biodegradable materials (EN 13432), such as compostable coffee capsules, disposable tableware made from cornstarch, or products/packaging made of 100%% fiber products, should not be disposed of in the organic waste container. This is because they are not visually recognizable during collection. The exception is bio-waste bags with lattice print." = "Загалом, вироби з біорозкладних матеріалів (EN 13432), як-от капсули для кави, що компостуються, одноразовий посуд із кукурудзяного крохмалю або вироби/паковання зі 100% волокон, не слід викидати в контейнер для органічних відходів. Це пов'язано з тим, що під час збору їх візуально не розпізнають. Виняток становлять мішки для біовідходів із сітчастим принтом.";
@@ -116,6 +124,7 @@
 "Location permission not yet requested" = "Дозвіл на доступ до місцезнаходження ще не запитувався";
 "Location Type" = "Тип місця розташування";
 "Locations" = "Місця розташування";
+"Log Files" = "Файли журналів";
 "Loose plant garden waste, balcony and potted plant (without container), soil (without stones or hydro balls), leaves, weeds and fallen fruit, lawn and meadow clippings, cut flowers, perennials from flowers and vegetables, shrub and tree clippings up to 10 cm in diameter, kitchen waste, eggshell, egg carton, fruit stone, coffee pods without packaging (e.g. from CoffeeB), coffee grounds, tea herb, small animal manure including feathers, straw, hay and sawdust, palm leaf dishes, fruit and vegetable trimmings, bio-waste bags with lattice print, household leftovers, bread, pastry and dessert, meat and fish (including bones and grates), cereal products, rice, legumes, cooking fat, sauce, dairy product, cheese, egg" = "Сипучі садові відходи, балконні та горщикові рослини (без горщика), ґрунт (без каміння чи гідрокультур), листя, бур'яни та опалі фрукти, скошена трава та лугові рослини, зрізані квіти, багаторічні рослини з квітів та овочів, обрізки кущів та дерев діаметром до 10 см, кухонні відходи, яєчна шкаралупа, картонні лотки для яєць, кісточки фруктів, кавові капсули без упаковки (напр. від CoffeeB), кавова гуща, чайна заварка, послід дрібних тварин, включаючи пір'я, солому, сіно та тирсу, посуд з пальмового листя, залишки фруктів та овочів, біорозкладні пакети з сітчастим принтом, побутові залишки їжі, хліб, випічка та десерти, м'ясо та риба (включаючи кістки та луску), зернові продукти, рис, бобові, кулінарний жир, соуси, молочні продукти, сир, яйця";
 "Make it yours" = "Зробіть його своїм";
 "Map" = "Карта";
@@ -132,6 +141,7 @@
 "Movie" = "Фільм";
 "Multiple choice" = "Множинний вибір";
 "Museum" = "Музей";
+"My Passport" = "Мій паспорт";
 "Name" = "Ім'я";
 "Nature" = "Природа";
 "Nearby Locations" = "Найближчі місця";
@@ -145,6 +155,8 @@
 "No nearby location found" = "Місцезнаходжень поблизу не знайдено";
 "No news available" = "Немає новин";
 "No News found" = "Новин не знайдено";
+"No prizes available right now" = "Наразі немає доступних призів";
+"No Prizes Yet" = "Призів поки що немає";
 "No recycling events available" = "Немає доступних заходів з переробки";
 "No results" = "Немає результатів";
 "No results available" = "Немає доступних результатів";
@@ -168,6 +180,7 @@
 "Parking" = "Паркування";
 "Parking Zones" = "Зони паркування";
 "Party" = "Вечірка";
+"Pass" = "Пас";
 "Ping Pong" = "Пінг-понг";
 "Pissoir" = "Пісуар";
 "Place the bundled cardboard or your cardboard container at the roadside on the collection day before 7 a.m." = "Покладіть зв'язаний картон або ваш картонний контейнер біля дороги в день збору до 7 ранку.";
@@ -179,6 +192,7 @@
 "Push Notifications Disabled" = "Push-сповіщення вимкнено";
 "Read full article" = "Читати повну статтю";
 "Read latest news" = "Читайте останні новини";
+"Ready" = "Готово";
 "Recommend CasaZurich" = "Рекомендуйте CasaZurich";
 "Recyclable cardboard like fruit cartons, vegetable cartons, folded paper carrier bags, parcels, boxes, packaging, honeycomb cardboard (only pure cardboard), detergent box (without plastic handle)" = "Картон, що підлягає вторинній переробці, як-от: фруктові коробки, овочеві коробки, складені паперові пакети, посилки, коробки, пакування, стільниковий картон (тільки чистий картон), коробки з-під мийних засобів (без пластикової ручки)";
 "Recyclable paper such as books without front and back covers, envelopes, brochures (not coated), paperback, magazine, newspaper" = "Папір, що підлягає вторинній переробці, наприклад, книги без обкладинок, конверти, брошури (не глянцеві), видання в м'якій обкладинці, журнали, газети";
@@ -205,6 +219,10 @@
 "Small but cute!" = "Маленький, але милий!";
 "Society" = "Суспільство";
 "Sortable Sections" = "Розділи з можливістю сортування";
+"Spin now!" = "Крути зараз!";
+"Spin Now!" = "Крути зараз!";
+"Spin the Wheel" = "Обертання колеса";
+"Spin the wheel to win prizes!" = "Оберніть колесо, щоб виграти призи!";
 "Sport" = "Спорт";
 "Sport Area" = "Спортивна зона";
 "Sports" = "Спорт";
@@ -231,10 +249,14 @@
 "Toggle to show or hide them on your home screen." = "Перемкніть, щоб показати або приховати їх на головному екрані.";
 "Toilet" = "Туалет";
 "Transport" = "Транспорт";
+"Trivia not found" = "Відомості не знайдено";
 "Try a different search term" = "Спробуйте інший пошуковий запит";
+"Try again tomorrow for another chance" = "Спробуйте завтра ще раз, щоб отримати ще один шанс";
+"Try your luck!" = "Спробуй свою удачу!";
 "Uncover construction sites and more on your Map" = "Відкривайте будівельні майданчики та багато іншого на своїй мапі";
 "Unknown" = "Невідомо";
 "Use of CasaZurich is governed by Apple's Standard EULA for apps. Subscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. Auto-renewal may be turned off by the user, by going to the user's Account Settings after purchase. The duration and price of each subscription is displayed on the purchase screen, and updated at the time of purchase. If you have any questions about CasaZurich Terms of Use, please reach out to me at support@casazurigo.ch" = "Використання CasaZurich регулюється Стандартною ліцензійною угодою Apple для додатків. Підписки автоматично поновлюються, якщо їх не скасовано протягом 24 годин до закінчення поточного періоду. Ви можете скасувати підписку будь-коли в налаштуваннях свого облікового запису iTunes. Будь-яка невикористана частина безкоштовного пробного періоду буде анульована, якщо ви придбаєте підписку. Користувач може вимкнути автоматичне поновлення, перейшовши до налаштувань облікового запису після покупки. Тривалість і ціна кожної підписки відображаються на екрані покупки та оновлюються під час покупки. Якщо у вас виникли запитання щодо Умов використання CasaZurich, будь ласка, зв'яжіться зі мною за адресою support@casazurigo.ch.";
+"Used" = "Використано";
 "Vending Machine" = "Торговий автомат";
 "View recycling calendar events" = "Переглянути події календаря переробки";
 "Wardrobe" = "Гардероб";
@@ -245,7 +267,10 @@
 "Wheelchair Support" = "Підтримка для інвалідного візка";
 "When configuration is missing" = "Коли конфігурація відсутня";
 "While uncoated pizza boxes are made of cardboard, only clean ones should be placed in the cardboard collection. Greasy pizza boxes with food residues cannot be recycled and should be placed in household waste." = "Хоча коробки для піци без покриття виготовляються з картону, в контейнер для картону слід викидати лише чисті коробки. Забруднені залишки їжі коробки з-під піци не підлягають переробці, їх слід викидати разом з побутовими відходами.";
+"Win prizes from local venues" = "Вигравайте призи від місцевих закладів";
 "You are insane, thank you so much!" = "Ви божевільні, величезне вам спасибі!";
+"You Won!" = "Ви перемогли!";
+"You've already spun today" = "Ви вже сьогодні крутили";
 "You've turned off some settings. Turn them on to get started!" = "Ви вимкнули деякі налаштування. Увімкніть їх, щоб почати!";
 "Your privacy matters. Your data won't be collected or stored. What you do is your business, not ours or anyone else's." = "Ваша конфіденційність має значення. Ваші дані не збиратимуться та не зберігатимуться. Те, що ви робите, — це ваша справа, а не наша чи чиясь інша.";
 "Zip Code" = "Поштовий індекс";

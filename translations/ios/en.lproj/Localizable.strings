@@ -11,12 +11,14 @@
 "Art" = "Art";
 "Article not found" = "Article not found";
 "ATM" = "ATM";
+"Available Prizes" = "Available Prizes";
 "Back" = "Back";
 "Bancomat" = "Bancomat";
 "Battery, aluminum, electronic device, paint, dishes, glass bottle, ceramics, medicine, metal, mirror, energy-saving lamp, LED, fluorescent tube" = "Battery, aluminum, electronic device, paint, dishes, glass bottle, ceramics, medicine, metal, mirror, energy-saving lamp, LED, fluorescent tube";
 "Beach Volleyball" = "Beach Volleyball";
 "Bench" = "Bench";
 "Better luck next time!" = "Better luck next time!";
+"Better Luck Tomorrow!" = "Better Luck Tomorrow!";
 "Bike Pump" = "Bike Pump";
 "Bring your recyclables to the Mobile Recycling Center at the scheduled stop. No cars allowed! The Mobile Recycling Center is available if you are traveling on foot, by bike, or by public transport. You can also give away or take well-preserved items for free." = "Bring your recyclables to the Mobile Recycling Center at the scheduled stop. No cars allowed! The Mobile Recycling Center is available if you are traveling on foot, by bike, or by public transport. You can also give away or take well-preserved items for free.";
 "Bulky waste is flammable waste that is too large and heavy for the Zuri bag. It usually consists of furniture made from various materials such as plastic, wood, composite materials, metal, textiles, or glass. Dispose of bulky waste at the recycling center or in the cargo tram." = "Bulky waste is flammable waste that is too large and heavy for the Zuri bag. It usually consists of furniture made from various materials such as plastic, wood, composite materials, metal, textiles, or glass. Dispose of bulky waste at the recycling center or in the cargo tram.";
@@ -28,10 +30,14 @@
 "Check the tram schedule and stops to find the nearest collection point." = "Check the tram schedule and stops to find the nearest collection point.";
 "Chess" = "Chess";
 "Christmas tree, light bulb, halogen lamp, hygiene items, cat litter, plastic material, plastic packaging, nylon stocking, paper scraps, razor blade (well-packaged), vacuum cleaner bag, frozen food packaging, drinking glass (small quantities), bicycle tire (small quantities), cleaning waste, cigarette butts, dog waste bags" = "Christmas tree, light bulb, halogen lamp, hygiene items, cat litter, plastic material, plastic packaging, nylon stocking, paper scraps, razor blade (well-packaged), vacuum cleaner bag, frozen food packaging, drinking glass (small quantities), bicycle tire (small quantities), cleaning waste, cigarette butts, dog waste bags";
+"Claim" = "Claim";
 "Clear cache" = "Clear cache";
 "Close" = "Close";
+"Code" = "Code";
 "Coffee" = "Coffee";
 "Collection Point" = "Collection Point";
+"Come back tomorrow" = "Come back tomorrow";
+"Come back tomorrow for another chance!" = "Come back tomorrow for another chance!";
 "Concert" = "Concert";
 "Configuration" = "Configuration";
 "Configure locations permission." = "Configure locations permission.";
@@ -63,6 +69,7 @@
 "End date" = "End date";
 "Event not found" = "Event not found";
 "Events" = "Events";
+"Expires" = "Expires";
 "Explanation" = "Explanation";
 "Explore local events to stay informed about whats happening in Zurich." = "Explore local events to stay informed about whats happening in Zurich.";
 "Explore local recycling events to stay informed about what you can recycle and the rules to follow." = "Explore local recycling events to stay informed about what you can recycle and the rules to follow.";
@@ -132,6 +139,7 @@
 "Movie" = "Movie";
 "Multiple choice" = "Multiple choice";
 "Museum" = "Museum";
+"My Passport" = "My Passport";
 "Name" = "Name";
 "Nature" = "Nature";
 "Nearby Locations" = "Nearby Locations";
@@ -145,6 +153,8 @@
 "No nearby location found" = "No nearby location found";
 "No news available" = "No news available";
 "No News found" = "No News found";
+"No prizes available right now" = "No prizes available right now";
+"No Prizes Yet" = "No Prizes Yet";
 "No recycling events available" = "No recycling events available";
 "No results" = "No results";
 "No results available" = "No results available";
@@ -168,6 +178,7 @@
 "Parking" = "Parking";
 "Parking Zones" = "Parking Zones";
 "Party" = "Party";
+"Pass" = "Pass";
 "Ping Pong" = "Ping Pong";
 "Pissoir" = "Pissoir";
 "Place the bundled cardboard or your cardboard container at the roadside on the collection day before 7 a.m." = "Place the bundled cardboard or your cardboard container at the roadside on the collection day before 7 a.m.";
@@ -179,6 +190,7 @@
 "Push Notifications Disabled" = "Push Notifications Disabled";
 "Read full article" = "Read full article";
 "Read latest news" = "Read latest news";
+"Ready" = "Ready";
 "Recommend CasaZurich" = "Recommend CasaZurich";
 "Recyclable cardboard like fruit cartons, vegetable cartons, folded paper carrier bags, parcels, boxes, packaging, honeycomb cardboard (only pure cardboard), detergent box (without plastic handle)" = "Recyclable cardboard like fruit cartons, vegetable cartons, folded paper carrier bags, parcels, boxes, packaging, honeycomb cardboard (only pure cardboard), detergent box (without plastic handle)";
 "Recyclable paper such as books without front and back covers, envelopes, brochures (not coated), paperback, magazine, newspaper" = "Recyclable paper such as books without front and back covers, envelopes, brochures (not coated), paperback, magazine, newspaper";
@@ -205,6 +217,10 @@
 "Small but cute!" = "Small but cute!";
 "Society" = "Society";
 "Sortable Sections" = "Sortable Sections";
+"Spin now!" = "Spin now!";
+"Spin Now!" = "Spin Now!";
+"Spin the Wheel" = "Spin the Wheel";
+"Spin the wheel to win prizes!" = "Spin the wheel to win prizes!";
 "Sport" = "Sport";
 "Sport Area" = "Sport Area";
 "Sports" = "Sports";
@@ -231,10 +247,14 @@
 "Toggle to show or hide them on your home screen." = "Toggle to show or hide them on your home screen.";
 "Toilet" = "Toilet";
 "Transport" = "Transport";
+"Trivia not found" = "Trivia not found";
 "Try a different search term" = "Try a different search term";
+"Try again tomorrow for another chance" = "Try again tomorrow for another chance";
+"Try your luck!" = "Try your luck!";
 "Uncover construction sites and more on your Map" = "Uncover construction sites and more on your Map";
 "Unknown" = "Unknown";
 "Use of CasaZurich is governed by Apple's Standard EULA for apps. Subscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. Auto-renewal may be turned off by the user, by going to the user's Account Settings after purchase. The duration and price of each subscription is displayed on the purchase screen, and updated at the time of purchase. If you have any questions about CasaZurich Terms of Use, please reach out to me at support@casazurigo.ch" = "Use of CasaZurich is governed by Apple's Standard EULA for apps. Subscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. Auto-renewal may be turned off by the user, by going to the user's Account Settings after purchase. The duration and price of each subscription is displayed on the purchase screen, and updated at the time of purchase. If you have any questions about CasaZurich Terms of Use, please reach out to me at support@casazurigo.ch";
+"Used" = "Used";
 "Vending Machine" = "Vending Machine";
 "View recycling calendar events" = "View recycling calendar events";
 "Wardrobe" = "Wardrobe";
@@ -245,7 +265,10 @@
 "Wheelchair Support" = "Wheelchair Support";
 "When configuration is missing" = "When configuration is missing";
 "While uncoated pizza boxes are made of cardboard, only clean ones should be placed in the cardboard collection. Greasy pizza boxes with food residues cannot be recycled and should be placed in household waste." = "While uncoated pizza boxes are made of cardboard, only clean ones should be placed in the cardboard collection. Greasy pizza boxes with food residues cannot be recycled and should be placed in household waste.";
+"Win prizes from local venues" = "Win prizes from local venues";
 "You are insane, thank you so much!" = "You are insane, thank you so much!";
+"You Won!" = "You Won!";
+"You've already spun today" = "You've already spun today";
 "You've turned off some settings. Turn them on to get started!" = "You've turned off some settings. Turn them on to get started!";
 "Your privacy matters. Your data won't be collected or stored. What you do is your business, not ours or anyone else's." = "Your privacy matters. Your data won't be collected or stored. What you do is your business, not ours or anyone else's.";
 "Zip Code" = "Zip Code";
