@@ -53,6 +53,8 @@
 "Customize Home" = "Налаштувати головну";
 "Daily Trivia" = "Щоденна вікторина";
 "Date" = "Дата";
+"day ago" = "день тому";
+"days ago" = "кілька днів тому";
 "Deliver bulky waste, large metal items, and gravel to the cargo tram. No cars allowed! The cargo tram is available to you if you are traveling on foot, by bike, or by public transport. You can also give away or take well-preserved items for free. Delivery by car or van is not allowed." = "Великогабаритне сміття, великі металеві предмети та гравій здавайте до вантажного трамвая. Автомобілям заїзд заборонено! Вантажний трамвай доступний для вас, якщо ви подорожуєте пішки, велосипедом або громадським транспортом. Ви також можете безкоштовно віддати або забрати добре збережені речі. Доставка автомобілем чи фургоном заборонена.";
 "Deliver electronic devices to the E-Tram. No cars allowed! The E-Tram is available to you if you are traveling on foot, by bike, or by public transport. You can also return old electronic devices to the point of sale without any hesitation. A pre-disposal fee is included in the purchase price of electronic and electrical devices. Retailers are therefore obliged to take back devices of the same type that they distribute, even if you don't buy a new one." = "Доставляйте електронні пристрої до E-Tram. Автомобілі заборонені! E-Tram доступний для вас, якщо ви подорожуєте пішки, на велосипеді або громадським транспортом. Ви також можете без вагань повернути старі електронні пристрої до пункту продажу. Плата за попередню утилізацію включена в ціну покупки електронних та електричних пристроїв. Тому продавці зобов'язані приймати назад пристрої того ж типу, які вони продають, навіть якщо ви не купуєте новий.";
 "Description:" = "Опис:";
@@ -69,6 +71,7 @@
 "Enable Push Notifications" = "Увімкнути push-сповіщення";
 "Enable push notifications in your settings to customize your preferences." = "Увімкніть push-сповіщення у своїх налаштуваннях, щоб персоналізувати їх.";
 "End date" = "Дата закінчення";
+"Event" = "Подія";
 "Event not found" = "Подію не знайдено";
 "Events" = "Події";
 "Expires" = "Термін дії закінчується";
@@ -101,6 +104,8 @@
 "Hmmm.. it looks empty here" = "Хм... тут порожньо";
 "Home" = "Головна";
 "Home Configuration" = "Налаштування головної сторінки";
+"hour ago" = "годину тому";
+"hours ago" = "кілька годин тому";
 "How to Recycle:" = "Як переробляти:";
 "I love the taste of a fancy coffee ❤️" = "Я люблю смак вишуканої кави ❤️";
 "I'd like to suggest the following feature:\n" = "Я хотів би запропонувати таку функцію:";
@@ -112,6 +117,7 @@
 "Infrastructure" = "Інфраструктура";
 "Is Open" = "Відкрито";
 "It will go a long way to keep CasaZurich running!" = "Це допоможе забезпечити безперебійну роботу CasaZurich!";
+"Just now" = "Щойно";
 "Kiosk" = "Кіоск";
 "Lakeside" = "На березі озера";
 "Landmarks" = "Визначні місця";
@@ -139,6 +145,8 @@
 "Metal, bulky waste, gravel, beverage cartons, plastic bottles, Styrofoam, textiles, luggage, baskets, mattress, furniture, plastic, skis, carpet, corks, aluminum coffee capsules, sofa/upholstered furniture up to 2m long, individual item up to 40 kg heavy and 2.5m long" = "Метал, великогабаритне сміття, гравій, картонні упаковки від напоїв, пластикові пляшки, пінопласт, текстиль, багаж, кошики, матраци, меблі, пластик, лижі, килими, корки, алюмінієві капсули для кави, дивани/м'які меблі довжиною до 2 м, окремі предмети вагою до 40 кг і довжиною до 2,5 м";
 "Metal, bulky waste, gravel, beverage cartons, plastic bottles, Styrofoam, textiles, luggage, baskets, mattress, furniture, plastic, skis, carpet, corks, aluminum coffee capsules, sofa/upholstered furniture up to 2m long, individual item up to 40 kg heavy and 2.5m long, electronic devices, office equipment, computers and accessories, household appliances" = "Метал, великогабаритне сміття, гравій, картонні упаковки з-під напоїв, пластикові пляшки, пінопласт, текстиль, багаж, кошики, матраци, меблі, пластик, лижі, килими, корки, алюмінієві кавові капсули, дивани/м'які меблі довжиною до 2 м, окремі предмети вагою до 40 кг та довжиною до 2,5 м, електронні пристрої, офісне обладнання, комп'ютери та аксесуари, побутова техніка";
 "Min" = "Хв";
+"minute ago" = "хвилину тому";
+"minutes ago" = "кілька хвилин тому";
 "Mobile" = "Мобільний";
 "Mobile Recycling" = "Мобільна переробка";
 "More filters" = "Більше фільтрів";
@@ -198,6 +206,7 @@
 "Read full article" = "Читати повну статтю";
 "Read latest news" = "Читайте останні новини";
 "Ready" = "Готово";
+"Recently" = "Нещодавно";
 "Recommend CasaZurich" = "Рекомендуйте CasaZurich";
 "Recyclable cardboard like fruit cartons, vegetable cartons, folded paper carrier bags, parcels, boxes, packaging, honeycomb cardboard (only pure cardboard), detergent box (without plastic handle)" = "Картон, що підлягає вторинній переробці, як-от: фруктові коробки, овочеві коробки, складені паперові пакети, посилки, коробки, пакування, стільниковий картон (тільки чистий картон), коробки з-під мийних засобів (без пластикової ручки)";
 "Recyclable paper such as books without front and back covers, envelopes, brochures (not coated), paperback, magazine, newspaper" = "Папір, що підлягає вторинній переробці, наприклад, книги без обкладинок, конверти, брошури (не глянцеві), видання в м'якій обкладинці, журнали, газети";
@@ -249,10 +258,12 @@
 "The Zurich Waste Disposal and Recycling brings over 30,000 Zuri bags to the Hagenholz waste-to-energy plant every day, where they are environmentally burned. The heat generated from incineration produces ecological power and climate-friendly Zurich heat, which can heat around 170,000 apartments." = "Щодня Цюріхська служба утилізації та переробки відходів доставляє понад 30 000 пакетів Zuri на сміттєспалювальний завод у Хагенхольці, де їх екологічно спалюють. Тепло, що утворюється під час спалювання, виробляє екологічно чисту електроенергію та кліматично нейтральне цюріхське тепло, яким можна обігріти близько 170 000 квартир.";
 "Theater" = "Театр";
 "Those who dispose of their household waste in fee-free bags, illegally, or in public trash bins are unfair to those who properly prepare their waste. Illegal dumpers are reported to the police and may face fines of up to several thousand Swiss francs." = "Ті, хто викидає побутові відходи у безкоштовні пакети, незаконно або у громадські сміттєві баки, чинять несправедливо щодо тих, хто належним чином готує свої відходи. Про незаконних сміттярів повідомляють поліції, і їм загрожують штрафи до кількох тисяч швейцарських франків.";
+"Time TBD" = "Час буде визначено пізніше";
 "Timeout" = "Тайм-аут";
 "Today" = "Сьогодні";
 "Toggle to show or hide them on your home screen." = "Перемкніть, щоб показати або приховати їх на головному екрані.";
 "Toilet" = "Туалет";
+"Tomorrow" = "Завтра";
 "Transport" = "Транспорт";
 "Trivia not found" = "Відомості не знайдено";
 "Try a different search term" = "Спробуйте інший пошуковий запит";

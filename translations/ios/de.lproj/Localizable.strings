@@ -53,6 +53,8 @@
 "Customize Home" = "Startseite anpassen";
 "Daily Trivia" = "Tägliche Trivia";
 "Date" = "Datum";
+"day ago" = "vor einem Tag";
+"days ago" = "vor Tagen";
 "Deliver bulky waste, large metal items, and gravel to the cargo tram. No cars allowed! The cargo tram is available to you if you are traveling on foot, by bike, or by public transport. You can also give away or take well-preserved items for free. Delivery by car or van is not allowed." = "Sperrmüll, große Metallteile und Kies zur Güterbahn bringen. Keine Autos erlaubt! Die Güterbahn steht Ihnen zur Verfügung, wenn Sie zu Fuß, mit dem Fahrrad oder mit öffentlichen Verkehrsmitteln unterwegs sind. Gut erhaltene Gegenstände können Sie auch kostenlos abgeben oder mitnehmen. Die Anlieferung mit dem Auto oder Lieferwagen ist nicht gestattet.";
 "Deliver electronic devices to the E-Tram. No cars allowed! The E-Tram is available to you if you are traveling on foot, by bike, or by public transport. You can also return old electronic devices to the point of sale without any hesitation. A pre-disposal fee is included in the purchase price of electronic and electrical devices. Retailers are therefore obliged to take back devices of the same type that they distribute, even if you don't buy a new one." = "Liefern Sie elektronische Geräte an der E-Tram ab. Autos sind nicht erlaubt! Die E-Tram steht Ihnen zur Verfügung, wenn Sie zu Fuß, mit dem Fahrrad oder mit öffentlichen Verkehrsmitteln unterwegs sind. Sie können alte elektronische Geräte auch bedenkenlos in der Verkaufsstelle zurückgeben. Im Kaufpreis von elektronischen und elektrischen Geräten ist eine Vorab-Entsorgungsgebühr enthalten. Die Händler sind daher verpflichtet, Geräte desselben Typs, die sie vertreiben, zurückzunehmen, auch wenn Sie kein neues Gerät kaufen.";
 "Description:" = "Beschreibung:";
@@ -69,6 +71,7 @@
 "Enable Push Notifications" = "Push-Benachrichtigungen aktivieren";
 "Enable push notifications in your settings to customize your preferences." = "Aktivieren Sie Push-Benachrichtigungen in Ihren Einstellungen, um Ihre Präferenzen anzupassen.";
 "End date" = "Enddatum";
+"Event" = "Veranstaltung";
 "Event not found" = "Ereignis nicht gefunden";
 "Events" = "Veranstaltungen";
 "Expires" = "Abgelaufen";
@@ -101,6 +104,8 @@
 "Hmmm.. it looks empty here" = "Hmmm... hier sieht es leer aus";
 "Home" = "Startseite";
 "Home Configuration" = "Startseitenkonfiguration";
+"hour ago" = "vor einer Stunde";
+"hours ago" = "vor Stunden";
 "How to Recycle:" = "Anleitung zum Recycling:";
 "I love the taste of a fancy coffee ❤️" = "Ich liebe den Geschmack eines ausgefallenen Kaffees ❤️";
 "I'd like to suggest the following feature:\n" = "Ich möchte folgende Funktion vorschlagen:";
@@ -112,6 +117,7 @@
 "Infrastructure" = "Infrastruktur";
 "Is Open" = "Ist offen";
 "It will go a long way to keep CasaZurich running!" = "Das wird viel dazu beitragen, dass CasaZurich weiterläuft!";
+"Just now" = "Gerade eben";
 "Kiosk" = "Kiosk";
 "Lakeside" = "Am See";
 "Landmarks" = "Sehenswürdigkeiten";
@@ -139,6 +145,8 @@
 "Metal, bulky waste, gravel, beverage cartons, plastic bottles, Styrofoam, textiles, luggage, baskets, mattress, furniture, plastic, skis, carpet, corks, aluminum coffee capsules, sofa/upholstered furniture up to 2m long, individual item up to 40 kg heavy and 2.5m long" = "Metall, Sperrmüll, Kies, Getränkekartons, Plastikflaschen, Styropor, Textilien, Gepäck, Körbe, Matratzen, Möbel, Kunststoffe, Skier, Teppiche, Korken, Aluminium-Kaffeekapseln, Sofas/Polstermöbel bis 2 m Länge, Einzelstücke bis 40 kg Gewicht und 2,5 m Länge";
 "Metal, bulky waste, gravel, beverage cartons, plastic bottles, Styrofoam, textiles, luggage, baskets, mattress, furniture, plastic, skis, carpet, corks, aluminum coffee capsules, sofa/upholstered furniture up to 2m long, individual item up to 40 kg heavy and 2.5m long, electronic devices, office equipment, computers and accessories, household appliances" = "Metall, Sperrmüll, Kies, Getränkekartons, Plastikflaschen, Styropor, Textilien, Gepäck, Körbe, Matratzen, Möbel, Kunststoffe, Skier, Teppiche, Korken, Aluminium-Kaffeekapseln, Sofas/Polstermöbel bis 2 m Länge, Einzelstücke bis 40 kg Gewicht und 2,5 m Länge, Elektrogeräte, Büroausstattung, Computer und Zubehör, Haushaltsgeräte";
 "Min" = "Min";
+"minute ago" = "vor einer Minute";
+"minutes ago" = "vor wenigen Minuten";
 "Mobile" = "Mobil";
 "Mobile Recycling" = "Mobiles Recycling";
 "More filters" = "Mehr Filter";
@@ -198,6 +206,7 @@
 "Read full article" = "Vollständigen Artikel lesen";
 "Read latest news" = "Neueste Nachrichten lesen";
 "Ready" = "Bereit";
+"Recently" = "Kürzlich";
 "Recommend CasaZurich" = "CasaZurich weiterempfehlen";
 "Recyclable cardboard like fruit cartons, vegetable cartons, folded paper carrier bags, parcels, boxes, packaging, honeycomb cardboard (only pure cardboard), detergent box (without plastic handle)" = "Recycelbare Pappe wie Obstkartons, Gemüsekartons, gefaltete Papiertragetaschen, Pakete, Schachteln, Verpackungen, Wabenkarton (nur reine Pappe), Waschmittelkartons (ohne Kunststoffgriff)";
 "Recyclable paper such as books without front and back covers, envelopes, brochures (not coated), paperback, magazine, newspaper" = "Recycelbares Papier wie Bücher ohne Vorder- und Rückdeckel, Briefumschläge, Broschüren (nicht beschichtet), Taschenbücher, Zeitschriften, Zeitungen";
@@ -249,10 +258,12 @@
 "The Zurich Waste Disposal and Recycling brings over 30,000 Zuri bags to the Hagenholz waste-to-energy plant every day, where they are environmentally burned. The heat generated from incineration produces ecological power and climate-friendly Zurich heat, which can heat around 170,000 apartments." = "Die Zürcher Abfallentsorgung und Recycling bringt täglich über 30'000 Zuri-Säcke ins Kehrichtheizkraftwerk Hagenholz, wo sie umweltgerecht verbrannt werden. Die bei der Verbrennung entstehende Wärme produziert ökologischen Strom und klimafreundliche Zürich-Wärme, mit der rund 170'000 Wohnungen beheizt werden können.";
 "Theater" = "Theater";
 "Those who dispose of their household waste in fee-free bags, illegally, or in public trash bins are unfair to those who properly prepare their waste. Illegal dumpers are reported to the police and may face fines of up to several thousand Swiss francs." = "Wer seinen Hausmüll in gebührenfreien Säcken, illegal oder in öffentlichen Abfallbehältern entsorgt, ist unfair gegenüber denjenigen, die ihren Abfall ordnungsgemäß vorbereiten. Illegale Müllentsorger werden der Polizei gemeldet und können mit Bussen von bis zu mehreren tausend Schweizer Franken bestraft werden.";
+"Time TBD" = "Zeitpunkt noch offen";
 "Timeout" = "Zeitüberschreitung";
 "Today" = "Heute";
 "Toggle to show or hide them on your home screen." = "Ein-/ausblenden, um sie auf Ihrem Startbildschirm anzuzeigen oder zu verbergen.";
 "Toilet" = "Toilette";
+"Tomorrow" = "Morgen";
 "Transport" = "Transport";
 "Trivia not found" = "Keine Trivia gefunden";
 "Try a different search term" = "Versuchen Sie einen anderen Suchbegriff";
