@@ -42,6 +42,7 @@
   ],
   "refiner": {
     "provider": "google",
-    "model": "gemini-2.5-flash-lite"
+    "model": "gemini-2.5-flash-lite",
+    "systemPrompt": "You are a professional translator and localization expert. Refine the following translations to ensure they are accurate, natural, and culturally appropriate for the mobile app audience. Pay special attention to idiomatic expressions, context, and tone. Provide the refined translations in the same format as the input. Preserve any placeholders exactly as they appear (e.g., {name}, %s, %@, %d, {{variable}}). Preserve any escape sequences. Use same trailing punctuation as the source text. Return ONLY the translated text, nothing else - no explanations, no quotes, just the translation."
   }
 }
