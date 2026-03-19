@@ -41,6 +41,7 @@
 "Concert" = "Концерт";
 "Configuration" = "Конфигурация";
 "Configure locations permission." = "Настроить разрешения для местоположений.";
+"Configure your area of interest" = "Настройте интересующую вас область";
 "Configure your area of interest." = "Настройте интересующую вас область.";
 "Construction" = "Строительство";
 "Construction waste, organic waste, hazardous waste, electronic device, household waste, stove, individual item heavier than 40 kg or longer than 2.5 m" = "Строительный мусор, органические отходы, опасные отходы, электронные устройства, бытовые отходы, плита, отдельные предметы весом более 40 кг или длиной более 2,5 м";
@@ -64,6 +65,7 @@
 "Easy" = "Легко";
 "Economy" = "Экономика";
 "Electronic waste does not belong in household waste because it contains recyclable metals and toxic heavy metals. Thanks to separate collection, these substances can be recovered or environmentally disposed of." = "Электронные отходы не относятся к бытовым, поскольку содержат как перерабатываемые металлы, так и токсичные тяжелые металлы. Благодаря раздельному сбору эти вещества могут быть извлечены или безопасно утилизированы с соблюдением экологических норм.";
+"Email support" = "Поддержка по электронной почте";
 "Enable Push Notifications" = "Включить push-уведомления";
 "Enable push notifications in your settings to customize your preferences." = "Включите push-уведомления в настройках, чтобы настроить предпочтения.";
 "End date" = "Дата окончания";
@@ -101,6 +103,7 @@
 "Home Configuration" = "Настройки дома";
 "How to Recycle:" = "Как перерабатывать:";
 "I love the taste of a fancy coffee ❤️" = "Я люблю вкус изысканного кофе ❤️";
+"I'd like to suggest the following feature:\n" = "Я хотел бы предложить следующую функцию:";
 "I'd like to take the chance and thank you for using my app!\nWith this email you are trying to file a bug. Please state your issue below this line:\n" = "Я хотел бы воспользоваться возможностью и поблагодарить вас за использование моего приложения!\nЭтим письмом вы пытаетесь сообщить об ошибке. Пожалуйста, опишите свою проблему ниже этой строки:\n\"";
 "If you see duplicate locations, you can clear your local cache." = "Если вы видите дублирующиеся местоположения, вы можете очистить локальный кэш.";
 "In addition to all garden waste, you can also dispose of biodegradable kitchen waste and leftovers. By providing organic waste in the appropriate container, you need fewer Zuri bags, which also eases the burden on your wallet. Organic waste is processed into biogas and compost products at the Biogas Zurich AG digestion plant. The biogas is fed into the Energie 360° AG gas network and is available as renewable energy for heating, cooking, or electricity production. This closes a cycle that promotes the quality of life in the city." = "Помимо всех садовых отходов, вы также можете утилизировать биоразлагаемые кухонные отходы и остатки пищи. Сдавая органические отходы в соответствующий контейнер, вы будете использовать меньше мешков Zuri, что также облегчит нагрузку на ваш кошелек. Органические отходы перерабатываются в биогаз и компост на заводе по переработке Biogas Zurich AG. Биогаз поступает в газовую сеть Energie 360° AG и используется в качестве возобновляемой энергии для отопления, приготовления пищи или производства электроэнергии. Таким образом замыкается цикл, способствующий повышению качества жизни в городе.";
@@ -117,6 +120,7 @@
 "Latest Events" = "Последние события";
 "Latest News" = "Последние новости";
 "Leave a Review" = "Оставить отзыв";
+"Leave a tip" = "Оставить чаевые";
 "Legal" = "Юридическая";
 "Letter Box" = "Почтовый ящик";
 "Location access" = "Доступ к местоположению";
@@ -162,6 +166,7 @@
 "No results available" = "Нет доступных результатов";
 "No subscription available" = "Подписка недоступна";
 "No trivia available today" = "Сегодня викторина недоступна.";
+"No wheel available today" = "Колес в наличии сегодня нет.";
 "No ZIP code provided" = "Почтовый индекс не указан";
 "Non-organic or non-biogenic waste, treated and untreated old wood, ash and cigarette butts, expanded clay, flower pot and foam, boxwood (infested by boxwood moths), Christmas tree, disposable dishes, dog waste, hygiene items, pads, tampons, diapers, bandages, cat litter, compostable clothes, medicine, mussel shells, neophytes, plastic, recycled plastic bags, vacuum cleaner bags, stones, gravel, sand, tea/coffee capsules and bags, packaging materials, glass, metal, paper, cardboard, PET beverage bottle, Zuri bag and waste bag" = "Неорганические или небиогенные отходы, обработанная и необработанная старая древесина, зола и окурки, керамзит, цветочные горшки и пенопласт, самшит (зараженный самшитовой огнёвкой), рождественская елка, одноразовая посуда, собачьи экскременты, предметы гигиены, прокладки, тампоны, подгузники, бинты, кошачий наполнитель, компостируемая одежда, лекарства, раковины мидий, неофиты, пластик, переработанные пластиковые пакеты, мешки для пылесоса, камни, гравий, песок, чайные/кофейные капсулы и пакетики, упаковочные материалы, стекло, металл, бумага, картон, ПЭТ-бутылка для напитков, пакет Zuri и мусорный мешок";
 "Non-recyclable paper such as book covers and back covers, insulated packaging* from recycled paper (e.g., Paperfloc), cardboard, paper clippings, paper carrier bag, plastic-coated or soiled paper, Tetra Pak, frozen food packaging" = "Бумага, не подлежащая вторичной переработке, такая как обложки и задние обложки книг, термоизоляционная упаковка* из переработанной бумаги (например, Paperfloc), картон, бумажная стружка, бумажный пакет, бумага с пластиковым покрытием или загрязненная бумага, Tetra Pak, упаковка для замороженных продуктов";

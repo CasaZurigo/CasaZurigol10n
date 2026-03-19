@@ -41,6 +41,7 @@
 "Concert" = "音乐会";
 "Configuration" = "配置";
 "Configure locations permission." = "配置位置权限。";
+"Configure your area of interest" = "配置您的感兴趣区域";
 "Configure your area of interest." = "配置您的关注区域。";
 "Construction" = "建筑";
 "Construction waste, organic waste, hazardous waste, electronic device, household waste, stove, individual item heavier than 40 kg or longer than 2.5 m" = "建筑垃圾、有机废物、危险废物、电子设备、生活垃圾、炉灶、单件重量超过40公斤或长度超过2.5米的物品";
@@ -64,6 +65,7 @@
 "Easy" = "简单";
 "Economy" = "经济";
 "Electronic waste does not belong in household waste because it contains recyclable metals and toxic heavy metals. Thanks to separate collection, these substances can be recovered or environmentally disposed of." = "电子垃圾不应混入生活垃圾，因为它含有可回收金属和有毒重金属。通过分类收集，这些物质可以被回收或进行环保处理。";
+"Email support" = "邮件支持";
 "Enable Push Notifications" = "启用推送通知";
 "Enable push notifications in your settings to customize your preferences." = "在您的设置中启用推送通知，以自定义您的偏好。";
 "End date" = "结束日期";
@@ -101,6 +103,7 @@
 "Home Configuration" = "主页配置";
 "How to Recycle:" = "如何回收：";
 "I love the taste of a fancy coffee ❤️" = "我喜欢精致咖啡的味道❤️";
+"I'd like to suggest the following feature:\n" = "我建议添加以下功能：";
 "I'd like to take the chance and thank you for using my app!\nWith this email you are trying to file a bug. Please state your issue below this line:\n" = "我想借此机会感谢您使用我的应用！\n您似乎想通过这封邮件提交一个错误报告。请在下方详细描述您遇到的问题：";
 "If you see duplicate locations, you can clear your local cache." = "如果看到重复的位置，您可以清除本地缓存。";
 "In addition to all garden waste, you can also dispose of biodegradable kitchen waste and leftovers. By providing organic waste in the appropriate container, you need fewer Zuri bags, which also eases the burden on your wallet. Organic waste is processed into biogas and compost products at the Biogas Zurich AG digestion plant. The biogas is fed into the Energie 360° AG gas network and is available as renewable energy for heating, cooking, or electricity production. This closes a cycle that promotes the quality of life in the city." = "除所有园林垃圾外，您还可以处理可生物降解的厨余垃圾和剩菜剩饭。通过将有机垃圾投放到合适的容器中，您所需的苏黎世垃圾袋数量会减少，这也能减轻您的经济负担。有机垃圾在 Biogas Zurich AG 的消化厂被加工成沼气和堆肥产品。沼气被输送到 Energie 360° AG 的燃气网络，作为可再生能源用于供暖、烹饪或发电。这形成了一个闭环，提升了城市的生活品质。";
@@ -117,6 +120,7 @@
 "Latest Events" = "最新活动";
 "Latest News" = "最新消息";
 "Leave a Review" = "留下评论";
+"Leave a tip" = "留下小费";
 "Legal" = "法律";
 "Letter Box" = "信箱";
 "Location access" = "位置访问";
@@ -162,6 +166,7 @@
 "No results available" = "没有可用结果";
 "No subscription available" = "没有可用的订阅";
 "No trivia available today" = "今天没有冷知识。";
+"No wheel available today" = "今天没有可用的轮子";
 "No ZIP code provided" = "未提供邮政编码";
 "Non-organic or non-biogenic waste, treated and untreated old wood, ash and cigarette butts, expanded clay, flower pot and foam, boxwood (infested by boxwood moths), Christmas tree, disposable dishes, dog waste, hygiene items, pads, tampons, diapers, bandages, cat litter, compostable clothes, medicine, mussel shells, neophytes, plastic, recycled plastic bags, vacuum cleaner bags, stones, gravel, sand, tea/coffee capsules and bags, packaging materials, glass, metal, paper, cardboard, PET beverage bottle, Zuri bag and waste bag" = "非有机或非生物源废弃物、经处理与未经处理的旧木材、灰烬与烟头、陶粒、花盆与泡沫塑料、黄杨木（受黄杨枯梢蛾侵扰）、圣诞树、一次性餐具、狗粪、卫生用品、卫生巾、棉条、尿布、绷带、猫砂、可堆肥衣物、药品、贻贝壳、入侵植物、塑料、再生塑料袋、吸尘器集尘袋、石块、砾石、沙子、茶/咖啡胶囊及茶包、包装材料、玻璃、金属、纸张、纸板、PET饮料瓶、Zuri袋及垃圾袋";
 "Non-recyclable paper such as book covers and back covers, insulated packaging* from recycled paper (e.g., Paperfloc), cardboard, paper clippings, paper carrier bag, plastic-coated or soiled paper, Tetra Pak, frozen food packaging" = "书本封面和封底等不可回收纸张、再生纸制成的隔热包装*（例如 Paperfloc）、纸板、纸边角料、纸质手提袋、塑料涂层或脏污的纸张、利乐包装、冷冻食品包装";

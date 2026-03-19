@@ -41,6 +41,7 @@
 "Concert" = "Konzert";
 "Configuration" = "Konfiguration";
 "Configure locations permission." = "Standortberechtigung konfigurieren.";
+"Configure your area of interest" = "Konfigurieren Sie Ihren Interessensbereich.";
 "Configure your area of interest." = "Konfigurieren Sie Ihren Interessensbereich.";
 "Construction" = "Bauwesen";
 "Construction waste, organic waste, hazardous waste, electronic device, household waste, stove, individual item heavier than 40 kg or longer than 2.5 m" = "Bauschutt, organische Abfälle, gefährliche Abfälle, Elektrogeräte, Hausmüll, Herd, Einzelstücke, die schwerer als 40 kg oder länger als 2,5 m sind";
@@ -64,6 +65,7 @@
 "Easy" = "Einfach";
 "Economy" = "Wirtschaft";
 "Electronic waste does not belong in household waste because it contains recyclable metals and toxic heavy metals. Thanks to separate collection, these substances can be recovered or environmentally disposed of." = "Elektronikschrott gehört nicht in den Hausmüll, da er recycelbare Metalle und giftige Schwermetalle enthält. Dank der getrennten Sammlung können diese Stoffe zurückgewonnen oder umweltgerecht entsorgt werden.";
+"Email support" = "E-Mail-Support";
 "Enable Push Notifications" = "Push-Benachrichtigungen aktivieren";
 "Enable push notifications in your settings to customize your preferences." = "Aktivieren Sie Push-Benachrichtigungen in Ihren Einstellungen, um Ihre Präferenzen anzupassen.";
 "End date" = "Enddatum";
@@ -101,6 +103,7 @@
 "Home Configuration" = "Startseitenkonfiguration";
 "How to Recycle:" = "Anleitung zum Recycling:";
 "I love the taste of a fancy coffee ❤️" = "Ich liebe den Geschmack eines ausgefallenen Kaffees ❤️";
+"I'd like to suggest the following feature:\n" = "Ich möchte folgende Funktion vorschlagen:";
 "I'd like to take the chance and thank you for using my app!\nWith this email you are trying to file a bug. Please state your issue below this line:\n" = "Ich möchte die Gelegenheit nutzen, Ihnen für die Nutzung meiner App zu danken!\nMit dieser E-Mail versuchen Sie, einen Fehler zu melden. Bitte beschreiben Sie Ihr Problem unterhalb dieser Zeile:";
 "If you see duplicate locations, you can clear your local cache." = "Wenn Sie doppelte Orte sehen, können Sie Ihren lokalen Cache leeren.";
 "In addition to all garden waste, you can also dispose of biodegradable kitchen waste and leftovers. By providing organic waste in the appropriate container, you need fewer Zuri bags, which also eases the burden on your wallet. Organic waste is processed into biogas and compost products at the Biogas Zurich AG digestion plant. The biogas is fed into the Energie 360° AG gas network and is available as renewable energy for heating, cooking, or electricity production. This closes a cycle that promotes the quality of life in the city." = "Neben sämtlichen Gartenabfällen können Sie auch biologisch abbaubare Küchenabfälle und Essensreste entsorgen. Wenn Sie organische Abfälle im entsprechenden Behälter bereitstellen, benötigen Sie weniger Zuri-Säcke, was auch Ihren Geldbeutel schont. Die organischen Abfälle werden in der Vergärungsanlage der Biogas Zürich AG zu Biogas und Kompostprodukten verarbeitet. Das Biogas wird in das Gasnetz der Energie 360° AG eingespeist und steht als erneuerbare Energie zum Heizen, Kochen oder zur Stromproduktion zur Verfügung. Damit schliesst sich ein Kreislauf, der die Lebensqualität in der Stadt fördert.";
@@ -117,6 +120,7 @@
 "Latest Events" = "Neueste Ereignisse";
 "Latest News" = "Neueste Nachrichten";
 "Leave a Review" = "Bewertung abgeben";
+"Leave a tip" = "Trinkgeld geben";
 "Legal" = "Rechtliches";
 "Letter Box" = "Briefkasten";
 "Location access" = "Standortzugriff";
@@ -162,6 +166,7 @@
 "No results available" = "Keine Ergebnisse verfügbar";
 "No subscription available" = "Kein Abonnement verfügbar";
 "No trivia available today" = "Heute sind keine Trivia verfügbar.";
+"No wheel available today" = "Heute ist kein Rad verfügbar.";
 "No ZIP code provided" = "Keine Postleitzahl angegeben";
 "Non-organic or non-biogenic waste, treated and untreated old wood, ash and cigarette butts, expanded clay, flower pot and foam, boxwood (infested by boxwood moths), Christmas tree, disposable dishes, dog waste, hygiene items, pads, tampons, diapers, bandages, cat litter, compostable clothes, medicine, mussel shells, neophytes, plastic, recycled plastic bags, vacuum cleaner bags, stones, gravel, sand, tea/coffee capsules and bags, packaging materials, glass, metal, paper, cardboard, PET beverage bottle, Zuri bag and waste bag" = "Nicht organische oder nicht biogene Abfälle, behandeltes und unbehandeltes Altholz, Asche und Zigarettenkippen, Blähton, Blumentöpfe und Schaumstoff, Buchsbaum (befallen von Buchsbaummotten), Weihnachtsbaum, Einweggeschirr, Hundekot, Hygieneartikel, Binden, Tampons, Windeln, Katzenstreu, kompostierbare Kleidung, Medikamente, Muschelschalen, Neophyten, Plastik, recycelte Plastiktüten, Staubsaugerbeutel, Steine, Kies, Sand, Tee-/Kaffeekapseln und -beutel, Verpackungsmaterialien, Glas, Metall, Papier, Karton, PET-Getränkeflaschen, Zuri-Beutel und Abfallbeutel";
 "Non-recyclable paper such as book covers and back covers, insulated packaging* from recycled paper (e.g., Paperfloc), cardboard, paper clippings, paper carrier bag, plastic-coated or soiled paper, Tetra Pak, frozen food packaging" = "Nicht recycelbares Papier wie Bucheinbände und Rückseiten, isolierte Verpackungen* aus Recyclingpapier (z. B. Paperfloc), Karton, Papierschnipsel, Papiertragetaschen, kunststoffbeschichtetes oder verschmutztes Papier, Tetra Pak, Tiefkühlverpackungen";

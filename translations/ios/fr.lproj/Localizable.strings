@@ -41,6 +41,7 @@
 "Concert" = "Concert";
 "Configuration" = "Configuration";
 "Configure locations permission." = "Configurer les autorisations de localisation.";
+"Configure your area of interest" = "Configurez votre domaine d'intérêt";
 "Configure your area of interest." = "Configurez votre domaine d'intérêt.";
 "Construction" = "Construction";
 "Construction waste, organic waste, hazardous waste, electronic device, household waste, stove, individual item heavier than 40 kg or longer than 2.5 m" = "Déchets de construction, déchets organiques, déchets dangereux, appareils électroniques, déchets ménagers, cuisinières, articles individuels de plus de 40 kg ou de plus de 2,5 m";
@@ -64,6 +65,7 @@
 "Easy" = "Facile";
 "Economy" = "Économie";
 "Electronic waste does not belong in household waste because it contains recyclable metals and toxic heavy metals. Thanks to separate collection, these substances can be recovered or environmentally disposed of." = "Les déchets électroniques ne doivent pas être jetés avec les ordures ménagères car ils contiennent des métaux recyclables et des métaux lourds toxiques. Grâce à la collecte séparée, ces substances peuvent être récupérées ou éliminées dans le respect de l'environnement.";
+"Email support" = "Assistance par e-mail";
 "Enable Push Notifications" = "Activer les notifications push";
 "Enable push notifications in your settings to customize your preferences." = "Activez les notifications push dans vos paramètres pour personnaliser vos préférences.";
 "End date" = "Date de fin";
@@ -101,6 +103,7 @@
 "Home Configuration" = "Configuration de l'accueil";
 "How to Recycle:" = "Comment recycler :";
 "I love the taste of a fancy coffee ❤️" = "J'adore le goût d'un café chic ❤️";
+"I'd like to suggest the following feature:\n" = "Je souhaiterais suggérer la fonctionnalité suivante :";
 "I'd like to take the chance and thank you for using my app!\nWith this email you are trying to file a bug. Please state your issue below this line:\n" = "Je profite de cette occasion pour vous remercier d'utiliser mon application !\nAvec cet e-mail, vous essayez de signaler un bug. Veuillez décrire votre problème ci-dessous :";
 "If you see duplicate locations, you can clear your local cache." = "Si vous voyez des emplacements en double, vous pouvez vider votre cache local.";
 "In addition to all garden waste, you can also dispose of biodegradable kitchen waste and leftovers. By providing organic waste in the appropriate container, you need fewer Zuri bags, which also eases the burden on your wallet. Organic waste is processed into biogas and compost products at the Biogas Zurich AG digestion plant. The biogas is fed into the Energie 360° AG gas network and is available as renewable energy for heating, cooking, or electricity production. This closes a cycle that promotes the quality of life in the city." = "En plus de tous les déchets de jardin, vous pouvez également déposer vos déchets de cuisine biodégradables et vos restes. En fournissant les déchets organiques dans le conteneur approprié, vous aurez besoin de moins de sacs Zuri, ce qui allège également le fardeau de votre portefeuille. Les déchets organiques sont transformés en biogaz et en produits de compost à l'usine de digestion de Biogas Zurich AG. Le biogaz est injecté dans le réseau de gaz d'Energie 360° AG et est disponible sous forme d'énergie renouvelable pour le chauffage, la cuisine ou la production d'électricité. Cela boucle un cycle qui favorise la qualité de vie en ville.";
@@ -117,6 +120,7 @@
 "Latest Events" = "Derniers événements";
 "Latest News" = "Dernières nouvelles";
 "Leave a Review" = "Laisser un avis";
+"Leave a tip" = "Laissez un pourboire";
 "Legal" = "Juridique";
 "Letter Box" = "Boîte aux lettres";
 "Location access" = "Accès à la localisation";
@@ -162,6 +166,7 @@
 "No results available" = "Aucun résultat disponible";
 "No subscription available" = "Aucun abonnement disponible";
 "No trivia available today" = "Aucune anecdote disponible aujourd'hui";
+"No wheel available today" = "Aucune roue disponible aujourd'hui";
 "No ZIP code provided" = "Aucun code postal fourni";
 "Non-organic or non-biogenic waste, treated and untreated old wood, ash and cigarette butts, expanded clay, flower pot and foam, boxwood (infested by boxwood moths), Christmas tree, disposable dishes, dog waste, hygiene items, pads, tampons, diapers, bandages, cat litter, compostable clothes, medicine, mussel shells, neophytes, plastic, recycled plastic bags, vacuum cleaner bags, stones, gravel, sand, tea/coffee capsules and bags, packaging materials, glass, metal, paper, cardboard, PET beverage bottle, Zuri bag and waste bag" = "Déchets non organiques ou non biogènes, vieux bois traité et non traité, cendres et mégots de cigarettes, argile expansée, pots de fleurs et mousse, buis (infesté par la pyrale du buis), sapin de Noël, vaisselle jetable, déjections canines, articles d'hygiène, serviettes hygiéniques, tampons, couches, pansements, litière pour chats, vêtements compostables, médicaments, coquilles de moules, néophytes, plastique, sacs en plastique recyclé, sacs d'aspirateur, pierres, gravier, sable, capsules et sachets de thé/café, matériaux d'emballage, verre, métal, papier, carton, bouteille de boisson en PET, sac Zuri et sac poubelle";
 "Non-recyclable paper such as book covers and back covers, insulated packaging* from recycled paper (e.g., Paperfloc), cardboard, paper clippings, paper carrier bag, plastic-coated or soiled paper, Tetra Pak, frozen food packaging" = "Papier non recyclable tel que couvertures et dos de livres, emballages isolants* en papier recyclé (par exemple, Paperfloc), carton, rognures de papier, sacs en papier, papier plastifié ou souillé, Tetra Pak, emballages de produits surgelés";
