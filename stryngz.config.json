@@ -36,12 +36,11 @@
   "include": ["../../**/*.swift"],
   "exclude": ["**/node_modules/**", "**/dist/**", "**/build/**"],
   "extractPattern": "tr\\(\\s*\"([^\"\\\\]*(?:\\\\.[^\"\\\\]*)*)\"\\s*\\)",
-  "translator": "google",
-  "googleTranslate": {},
-  "deepl": {
-    "formality": "default"
-  },
-  "ai": {
+  "translations": [
+    { "provider": "deepl", "formality": "default" },
+    { "provider": "google-translate" }
+  ],
+  "refiner": {
     "provider": "google",
     "model": "gemini-2.5-flash-lite"
   }
