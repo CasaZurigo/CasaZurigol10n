@@ -11,14 +11,14 @@
   "description": "",
   "dependencies": {
     "dotenv-cli": "^11.0.0",
-    "stryngz": "^1.1.0"
+    "stryngz": "^1.1.1"
   },
   "devDependencies": {
-    "@types/node": "^22.13.4",
+    "@types/node": "^22.19.15",
     "husky": "^9.1.7",
-    "lint-staged": "^15.4.3",
+    "lint-staged": "^15.5.2",
     "prettier": "3.5.1",
-    "typescript": "^5.7.3",
+    "typescript": "^5.9.3",
     "@types/bun": "latest"
   },
   "lint-staged": {
