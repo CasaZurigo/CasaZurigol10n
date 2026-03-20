@@ -174,11 +174,32 @@ export function translate(key: string, locale?: string): string {
  * Translates a key to the current locale.
  * Falls back to the key itself if no translation is found.
  *
- * @param key - The English text to translate
- * @returns The translated text or the key if no translation exists
+ * Supports placeholders:
+ *   %@        — replaced sequentially by args
+ *   %1$@,%2$@ — replaced by the arg at that position (1-indexed)
+ * Unmatched placeholders are left as-is.
+ *
+ * @param key  - The English text to translate (used as lookup key)
+ * @param args - Values to substitute into placeholders
+ * @returns The translated text with placeholders replaced
  */
-export function tr(key: string): string {
-  return translate(key);
+export function tr(key: string, ...args: string[]): string {
+  const text = translate(key);
+  if (args.length === 0) return text;
+
+  // First: replace numbered placeholders %1$@, %2$@, …
+  let result = text.replace(/%(\d+)\$@/g, (match, n) => {
+    const i = parseInt(n, 10) - 1;
+    return i >= 0 && i < args.length ? args[i] : match;
+  });
+
+  // Then: replace sequential %@ left-to-right
+  let idx = 0;
+  result = result.replace(/%@/g, (match) =>
+    idx < args.length ? args[idx++] : match,
+  );
+
+  return result;
 }
 
 export type TranslationValue =
