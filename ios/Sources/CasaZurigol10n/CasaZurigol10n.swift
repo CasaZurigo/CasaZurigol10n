@@ -25,9 +25,11 @@ extension Foundation.Bundle {
             /* For command-line tools. */
             Bundle.main.bundleURL,
             /* Bundle should be present here when running previews from a different package (this is the path to "…/Debug-iphonesimulator/"). */
-            Bundle(for: BundleFinder.self).resourceURL?.deletingLastPathComponent().deletingLastPathComponent()
+            Bundle(for: BundleFinder.self).resourceURL?.deletingLastPathComponent()
+                .deletingLastPathComponent()
                 .deletingLastPathComponent(),
-            Bundle(for: BundleFinder.self).resourceURL?.deletingLastPathComponent().deletingLastPathComponent(),
+            Bundle(for: BundleFinder.self).resourceURL?.deletingLastPathComponent()
+                .deletingLastPathComponent(),
         ]
 
         for candidate in candidates {
@@ -42,7 +44,7 @@ extension Foundation.Bundle {
 
 public class CasaZurigol10n {}
 
-public extension CasaZurigol10n {
+extension CasaZurigol10n {
     private enum Language {
         case de
         case fr
@@ -51,6 +53,14 @@ public extension CasaZurigol10n {
         case es
         case ptPt
         case tr
+        case he
+        case ko
+        case pl
+        case ru
+        case uk
+        case zh
+        case zhHans
+        case zhHant
 
         init(code: String, region _: String) {
             switch code.lowercased() {
@@ -66,13 +76,29 @@ public extension CasaZurigol10n {
                 self = .ptPt
             case "tr":
                 self = .tr
+            case "he":
+                self = .he
+            case "ko":
+                self = .ko
+            case "pl":
+                self = .pl
+            case "ru":
+                self = .ru
+            case "uk":
+                self = .uk
+            case "zh":
+                self = .zh
+            case "zh-hans":
+                self = .zhHans
+            case "zh-hant":
+                self = .zhHant
             default:
                 self = .en
             }
         }
     }
 
-    enum SupportedLanguage: String {
+    public enum SupportedLanguage: String {
         case de
         case fr
         case en
@@ -80,6 +106,14 @@ public extension CasaZurigol10n {
         case es
         case ptPt
         case tr
+        case he
+        case ko
+        case pl
+        case ru
+        case uk
+        case zh
+        case zhHans
+        case zhHant
 
         public var rawValue: String {
             switch self {
@@ -97,11 +131,27 @@ public extension CasaZurigol10n {
                 return "pt-PT"
             case .tr:
                 return "tr"
+            case .he:
+                return "he"
+            case .ko:
+                return "ko"
+            case .pl:
+                return "pl"
+            case .ru:
+                return "ru"
+            case .uk:
+                return "uk"
+            case .zh:
+                return "zh"
+            case .zhHans:
+                return "zh-Hans"
+            case .zhHant:
+                return "zh-Hant"
             }
         }
     }
 
-    static var appLanguage: SupportedLanguage {
+    public static var appLanguage: SupportedLanguage {
         guard let language = Bundle.main.preferredLocalizations.first else {
             return .en
         }
@@ -124,6 +174,22 @@ public extension CasaZurigol10n {
             return .ptPt
         case .tr:
             return .tr
+        case .he:
+            return .he
+        case .ko:
+            return .ko
+        case .pl:
+            return .pl
+        case .ru:
+            return .ru
+        case .uk:
+            return .uk
+        case .zh:
+            return .zh
+        case .zhHans:
+            return .zhHans
+        case .zhHant:
+            return .zhHant
         }
     }
 }
@@ -146,12 +212,12 @@ public func tr(_ key: StaticString, _ args: CVarArg...) -> LocalizedStringResour
 
 // swiftlint:disable convenience_type
 private final class BundleToken {
-  static let bundle: Bundle = {
-    #if SWIFT_PACKAGE
-    return Bundle.module
-    #else
-    return Bundle(for: BundleToken.self)
-    #endif
-  }()
+    static let bundle: Bundle = {
+        #if SWIFT_PACKAGE
+            return Bundle.module
+        #else
+            return Bundle(for: BundleToken.self)
+        #endif
+    }()
 }
 // swiftlint:enable convenience_type
