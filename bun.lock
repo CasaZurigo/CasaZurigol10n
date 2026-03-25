@@ -6,7 +6,7 @@
       "name": "casazurigol10n",
       "dependencies": {
         "dotenv-cli": "^11.0.0",
-        "stryngz": "^1.1.1",
+        "stryngz": "^1.1.2",
       },
       "devDependencies": {
         "@types/bun": "latest",
