@@ -146,7 +146,9 @@
 "I'd like to suggest the following feature:\n" = "Aşağıdaki özelliği önermek istiyorum:";
 "I'd like to take the chance and thank you for using my app!\nWith this email you are trying to file a bug. Please state your issue below this line:\n" = "Bu fırsatı değerlendirerek uygulamamı kullandığınız için teşekkür etmek istiyorum!\nBu e-posta ile bir hata bildirmeye çalışıyorsunuz. Lütfen sorununuzu aşağıdaki satırın altına yazın:";
 "If you see duplicate locations, you can clear your local cache." = "Yinelenen konumlar görürseniz yerel önbelleğinizi temizleyebilirsiniz.";
+"In addition to all garden waste, you can also dispose of biodegradable kitchen waste and leftovers. By providing organic waste in the appropriate container, you need fewer Zuri bags, which also eases the burden on your wallet. Organic waste is processed into biogas and compost products at the Biogas Zurich AG digestion plant. The biogas is fed into the Energie 360\\u00b0 AG gas network and is available as renewable energy for heating, cooking, or electricity production. This closes a cycle that promotes the quality of life in the city." = "Tüm bahçe atıklarının yanı sıra, biyolojik olarak parçalanabilen mutfak atıklarını ve yemek artıklarını da atabilirsiniz. Organik atıkları uygun kaplara atarak daha az Zuri torbası kullanırsınız, bu da cüzdanınızdaki yükü hafifletir. Organik atıklar, Biogas Zurich AG'nin fermantasyon tesisinde biyogaz ve kompost ürünlerine dönüştürülür. Biyogaz, Energie 360° AG gaz şebekesine verilir ve ısıtma, yemek pişirme veya elektrik üretimi için yenilenebilir enerji olarak kullanılabilir. Bu, şehirdeki yaşam kalitesini artıran bir döngüyü tamamlar.";
 "In addition to all garden waste, you can also dispose of biodegradable kitchen waste and leftovers. By providing organic waste in the appropriate container, you need fewer Zuri bags, which also eases the burden on your wallet. Organic waste is processed into biogas and compost products at the Biogas Zurich AG digestion plant. The biogas is fed into the Energie 360° AG gas network and is available as renewable energy for heating, cooking, or electricity production. This closes a cycle that promotes the quality of life in the city." = "Tüm bahçe atıklarına ek olarak, biyolojik olarak parçalanabilen mutfak atıklarını ve yemek artıklarını da atabilirsiniz. Organik atıkları uygun kaplara vererek daha az Zuri poşeti kullanırsınız, bu da cüzdanınızı rahatlatır. Organik atıklar, Biogas Zurich AG'nin fermantasyon tesisinde biyogaz ve kompost ürünlerine dönüştürülür. Biyogaz, Energie 360° AG'nin gaz şebekesine verilir ve ısıtma, yemek pişirme veya elektrik üretimi için yenilenebilir enerji olarak kullanılır. Böylece şehirdeki yaşam kalitesini artıran bir döngü tamamlanmış olur.";
+"In general, products made of biodegradable materials (EN 13432), such as compostable coffee capsules, disposable tableware made from cornstarch, or products/packaging made of 100% fiber products, should not be disposed of in the organic waste container. This is because they are not visually recognizable during collection. The exception is bio-waste bags with lattice print." = "Genel olarak, kompostlanabilir kahve kapsülleri, mısır nişastasından yapılmış tek kullanımlık sofra takımları veya %100 lifli ürünlerden/ambalajlardan yapılmış ürünler gibi biyolojik olarak parçalanabilen malzemelerden (EN 13432) üretilen ürünler, organik atık kutusuna atılmamalıdır. Bunun nedeni, toplama sırasında görsel olarak tanınamamalarıdır. Bunun istisnası, kafes baskılı biyo-atık torbalarıdır.";
 "In general, products made of biodegradable materials (EN 13432), such as compostable coffee capsules, disposable tableware made from cornstarch, or products/packaging made of 100%% fiber products, should not be disposed of in the organic waste container. This is because they are not visually recognizable during collection. The exception is bio-waste bags with lattice print." = "Genel olarak, kompostlanabilir kahve kapsülleri, mısır nişastasından yapılmış tek kullanımlık sofra takımları veya %100 lifli ürünlerden yapılmış ürünler/ambalajlar gibi biyolojik olarak parçalanabilen malzemelerden (EN 13432) üretilen ürünler, organik atık kutusuna atılmamalıdır. Bunun nedeni, toplama sırasında görsel olarak ayırt edilememeleridir. Bunun istisnası, kafes desenli biyolojik atık torbalarıdır.";
 "Incorrect" = "Yanlış";
 "Infrastructure" = "Altyapı";
@@ -183,6 +185,7 @@
 "Make it yours" = "Senin olsun";
 "Manage push notifications, configure home, or open the map." = "Anlık bildirimleri yönetin, ana ekranı yapılandırın veya haritayı açın.";
 "Map" = "Harita";
+"Maps" = "Haritalar";
 "Market" = "Pazar";
 "Max" = "Maks";
 "Medium" = "Orta";
@@ -234,6 +237,7 @@
 "Not able to determine current location" = "Mevcut konum belirlenemiyor";
 "Not Allowed:" = "İzin Verilmiyor:";
 "Not available" = "Kullanılamıyor";
+"Not found" = "Bulunamadı";
 "Notifications are allowed." = "Bildirimlere izin verildi.";
 "Notifications blocked" = "Bildirimler engellendi";
 "Off" = "Kapalı";
@@ -268,6 +272,7 @@
 "Privacy policy" = "Gizlilik Politikası";
 "Privacy Policy" = "Gizlilik Politikası";
 "PubliBike" = "PubliBike";
+"Purchase failed" = "Satın alma başarısız oldu";
 "Push Notification" = "Anlık Bildirim";
 "Push notifications" = "Anlık bildirimler";
 "Push Notifications Disabled" = "Anlık Bildirimler Devre Dışı";
@@ -313,6 +318,7 @@
 "Single choice" = "Tek seçenek";
 "Small but cute!" = "Küçük ama şirin!";
 "Society" = "Toplum";
+"Something went wrong. Please try again." = "Bir şeyler ters gitti. Lütfen tekrar deneyin.";
 "Sortable Sections" = "Sıralanabilir Bölümler";
 "Spin now!" = "Şimdi çevir!";
 "Spin Now!" = "Şimdi Döndür!";

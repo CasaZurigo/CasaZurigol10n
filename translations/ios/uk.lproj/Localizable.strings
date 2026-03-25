@@ -146,7 +146,9 @@
 "I'd like to suggest the following feature:\n" = "Я хотів би запропонувати таку функцію:";
 "I'd like to take the chance and thank you for using my app!\nWith this email you are trying to file a bug. Please state your issue below this line:\n" = "Я хотів би скористатися нагодою і подякувати вам за використання мого застосунку!\nЦим листом ви намагаєтеся повідомити про помилку. Будь ласка, опишіть свою проблему нижче цього рядка:";
 "If you see duplicate locations, you can clear your local cache." = "Якщо ви бачите дублікати місць, ви можете очистити локальний кеш.";
+"In addition to all garden waste, you can also dispose of biodegradable kitchen waste and leftovers. By providing organic waste in the appropriate container, you need fewer Zuri bags, which also eases the burden on your wallet. Organic waste is processed into biogas and compost products at the Biogas Zurich AG digestion plant. The biogas is fed into the Energie 360\\u00b0 AG gas network and is available as renewable energy for heating, cooking, or electricity production. This closes a cycle that promotes the quality of life in the city." = "Окрім усіх садових відходів, ви також можете утилізувати біорозкладні кухонні відходи та залишки їжі. Надаючи органічні відходи у відповідний контейнер, ви витрачаєте менше пакетів Zuri, що також полегшує навантаження на ваш гаманець. Органічні відходи переробляються на біогаз та компостні продукти на біогазовому заводі Biogas Zurich AG. Біогаз подається до газової мережі Energie 360° AG і доступний як відновлювана енергія для опалення, приготування їжі або виробництва електроенергії. Це замикає цикл, що сприяє підвищенню якості життя в місті.";
 "In addition to all garden waste, you can also dispose of biodegradable kitchen waste and leftovers. By providing organic waste in the appropriate container, you need fewer Zuri bags, which also eases the burden on your wallet. Organic waste is processed into biogas and compost products at the Biogas Zurich AG digestion plant. The biogas is fed into the Energie 360° AG gas network and is available as renewable energy for heating, cooking, or electricity production. This closes a cycle that promotes the quality of life in the city." = "Окрім усіх садових відходів, ви також можете утилізувати біологічно розкладні кухонні відходи та залишки їжі. Надаючи органічні відходи у відповідний контейнер, ви потребуєте менше мішків Zuri, що також полегшує навантаження на ваш гаманець. Органічні відходи переробляються на біогаз та компост на заводі Biogas Zurich AG. Біогаз подається до газової мережі Energie 360° AG і доступний як відновлювана енергія для опалення, приготування їжі або виробництва електроенергії. Це замикає цикл, який сприяє підвищенню якості життя в місті.";
+"In general, products made of biodegradable materials (EN 13432), such as compostable coffee capsules, disposable tableware made from cornstarch, or products/packaging made of 100% fiber products, should not be disposed of in the organic waste container. This is because they are not visually recognizable during collection. The exception is bio-waste bags with lattice print." = "Загалом, вироби з біорозкладних матеріалів (EN 13432), як-от компостовані кавові капсули, одноразовий посуд із кукурудзяного крохмалю або вироби/паковання зі 100% волокнистих матеріалів, не слід викидати в контейнер для органічних відходів. Це тому, що під час збору їх неможливо візуально розпізнати. Виняток становлять мішки для біовідходів із сітчастим принтом.";
 "In general, products made of biodegradable materials (EN 13432), such as compostable coffee capsules, disposable tableware made from cornstarch, or products/packaging made of 100%% fiber products, should not be disposed of in the organic waste container. This is because they are not visually recognizable during collection. The exception is bio-waste bags with lattice print." = "Загалом, вироби з біорозкладних матеріалів (EN 13432), як-от капсули для кави, що компостуються, одноразовий посуд із кукурудзяного крохмалю або вироби/паковання зі 100% волокон, не слід викидати в контейнер для органічних відходів. Це пов'язано з тим, що під час збору їх візуально не розпізнають. Виняток становлять мішки для біовідходів із сітчастим принтом.";
 "Incorrect" = "Неправильно";
 "Infrastructure" = "Інфраструктура";
@@ -183,6 +185,7 @@
 "Make it yours" = "Зробіть його своїм";
 "Manage push notifications, configure home, or open the map." = "Керуйте push-сповіщеннями, налаштуйте головний екран або відкрийте карту.";
 "Map" = "Карта";
+"Maps" = "Карти";
 "Market" = "Ринок";
 "Max" = "Макс";
 "Medium" = "Середній";
@@ -234,6 +237,7 @@
 "Not able to determine current location" = "Не вдається визначити поточне місцезнаходження";
 "Not Allowed:" = "Не дозволено:";
 "Not available" = "Недоступно";
+"Not found" = "Не знайдено";
 "Notifications are allowed." = "Сповіщення дозволено.";
 "Notifications blocked" = "Сповіщення заблоковано";
 "Off" = "Вимкнено";
@@ -268,6 +272,7 @@
 "Privacy policy" = "Політика конфіденційності";
 "Privacy Policy" = "Політика конфіденційності";
 "PubliBike" = "PubliBike";
+"Purchase failed" = "Покупку не вдалося здійснити";
 "Push Notification" = "Push-повідомлення";
 "Push notifications" = "Push-сповіщення";
 "Push Notifications Disabled" = "Push-сповіщення вимкнено";
@@ -313,6 +318,7 @@
 "Single choice" = "Один варіант";
 "Small but cute!" = "Маленький, але милий!";
 "Society" = "Суспільство";
+"Something went wrong. Please try again." = "Сталася помилка. Спробуйте ще раз.";
 "Sortable Sections" = "Розділи з можливістю сортування";
 "Spin now!" = "Крути зараз!";
 "Spin Now!" = "Крути зараз!";

@@ -146,7 +146,9 @@
 "I'd like to suggest the following feature:\n" = "Me gustaría sugerir la siguiente función:";
 "I'd like to take the chance and thank you for using my app!\nWith this email you are trying to file a bug. Please state your issue below this line:\n" = "Me gustaría aprovechar la oportunidad para agradecerle por usar mi aplicación.\nCon este correo electrónico intenta reportar un error. Por favor, describa su problema debajo de esta línea:";
 "If you see duplicate locations, you can clear your local cache." = "Si ves ubicaciones duplicadas, puedes borrar tu caché local.";
+"In addition to all garden waste, you can also dispose of biodegradable kitchen waste and leftovers. By providing organic waste in the appropriate container, you need fewer Zuri bags, which also eases the burden on your wallet. Organic waste is processed into biogas and compost products at the Biogas Zurich AG digestion plant. The biogas is fed into the Energie 360\\u00b0 AG gas network and is available as renewable energy for heating, cooking, or electricity production. This closes a cycle that promotes the quality of life in the city." = "Además de todos los residuos de jardín, también puedes desechar residuos de cocina biodegradables y sobras. Al depositar los residuos orgánicos en el contenedor adecuado, necesitarás menos bolsas Zuri, lo que también alivia tu bolsillo. Los residuos orgánicos se procesan en biogás y productos de compost en la planta de digestión de Biogas Zurich AG. El biogás se inyecta en la red de gas de Energie 360° AG y está disponible como energía renovable para calefacción, cocina o producción de electricidad. Así se cierra un ciclo que promueve la calidad de vida en la ciudad.";
 "In addition to all garden waste, you can also dispose of biodegradable kitchen waste and leftovers. By providing organic waste in the appropriate container, you need fewer Zuri bags, which also eases the burden on your wallet. Organic waste is processed into biogas and compost products at the Biogas Zurich AG digestion plant. The biogas is fed into the Energie 360° AG gas network and is available as renewable energy for heating, cooking, or electricity production. This closes a cycle that promotes the quality of life in the city." = "Además de todos los residuos del jardín, también puede desechar residuos orgánicos de cocina y restos de comida biodegradables. Al depositar los residuos orgánicos en el contenedor adecuado, necesitará menos bolsas Zuri, lo que también alivia su bolsillo. Los residuos orgánicos se procesan en biogás y productos de compost en la planta de digestión de Biogas Zurich AG. El biogás se inyecta en la red de gas de Energie 360° AG y está disponible como energía renovable para calefacción, cocina o producción de electricidad. Así se cierra un ciclo que promueve la calidad de vida en la ciudad.";
+"In general, products made of biodegradable materials (EN 13432), such as compostable coffee capsules, disposable tableware made from cornstarch, or products/packaging made of 100% fiber products, should not be disposed of in the organic waste container. This is because they are not visually recognizable during collection. The exception is bio-waste bags with lattice print." = "En general, los productos fabricados con materiales biodegradables (EN 13432), como las cápsulas de café compostables, la vajilla desechable de almidón de maíz o los productos/embalajes de fibra 100 %, no deben desecharse en el contenedor de residuos orgánicos. Esto se debe a que no son reconocibles visualmente durante la recogida. La excepción son las bolsas de biorresiduos con impresión de cuadrícula.";
 "In general, products made of biodegradable materials (EN 13432), such as compostable coffee capsules, disposable tableware made from cornstarch, or products/packaging made of 100%% fiber products, should not be disposed of in the organic waste container. This is because they are not visually recognizable during collection. The exception is bio-waste bags with lattice print." = "En general, los productos fabricados con materiales biodegradables (EN 13432), como las cápsulas de café compostables, la vajilla desechable de almidón de maíz o los productos/embalajes de fibra 100%, no deben desecharse en el contenedor de residuos orgánicos. Esto se debe a que no son reconocibles visualmente durante la recogida. La excepción son las bolsas de biorresiduos con impresión de rejilla.";
 "Incorrect" = "Incorrecto";
 "Infrastructure" = "Infraestructura";
@@ -183,6 +185,7 @@
 "Make it yours" = "Hazlo tuyo";
 "Manage push notifications, configure home, or open the map." = "Gestiona las notificaciones push, configura la página de inicio o abre el mapa.";
 "Map" = "Mapa";
+"Maps" = "Mapas";
 "Market" = "Mercado";
 "Max" = "Max";
 "Medium" = "Medio";
@@ -234,6 +237,7 @@
 "Not able to determine current location" = "No se puede determinar la ubicación actual";
 "Not Allowed:" = "No permitido:";
 "Not available" = "No disponible";
+"Not found" = "No encontrado";
 "Notifications are allowed." = "Se permiten las notificaciones.";
 "Notifications blocked" = "Notificaciones bloqueadas";
 "Off" = "Apagado";
@@ -268,6 +272,7 @@
 "Privacy policy" = "Política de privacidad";
 "Privacy Policy" = "Política de privacidad";
 "PubliBike" = "PubliBike";
+"Purchase failed" = "Compra fallida";
 "Push Notification" = "Notificación push";
 "Push notifications" = "Notificaciones push";
 "Push Notifications Disabled" = "Notificaciones push desactivadas";
@@ -313,6 +318,7 @@
 "Single choice" = "Opción única";
 "Small but cute!" = "¡Pequeño pero lindo!";
 "Society" = "Sociedad";
+"Something went wrong. Please try again." = "Ha ocurrido un error. Inténtalo de nuevo.";
 "Sortable Sections" = "Secciones ordenables";
 "Spin now!" = "¡Gira ahora!";
 "Spin Now!" = "¡Gira ahora!";

@@ -27,6 +27,7 @@
 "Bench" = "Bench";
 "Bike Pump" = "Bike Pump";
 "Breaking updates for Zurich news." = "Breaking updates for Zurich news.";
+"Bring your recyclables to the Mobile Recycling Center at the scheduled stop. No cars allowed! The Mobile Recycling Center is available if you are traveling on foot, by bike, or by public transport. You can also give away or take well-preserved items for free." = "Bring your recyclables to the Mobile Recycling Center at the scheduled stop. No cars allowed! The Mobile Recycling Center is available if you are traveling on foot, by bike, or by public transport. You can also give away or take well-preserved items for free.";
 "Built for citizens and visitors." = "Built for citizens and visitors.";
 "Bulky waste is flammable waste that is too large and heavy for the Zuri bag. It usually consists of furniture made from various materials such as plastic, wood, composite materials, metal, textiles, or glass. Dispose of bulky waste at the recycling center or in the cargo tram." = "Bulky waste is flammable waste that is too large and heavy for the Zuri bag. It usually consists of furniture made from various materials such as plastic, wood, composite materials, metal, textiles, or glass. Dispose of bulky waste at the recycling center or in the cargo tram.";
 "Buy CasaZurich gear" = "Buy CasaZurich gear";
@@ -38,6 +39,7 @@
 "Cargotram" = "Cargotram";
 "Change system language in settings" = "Change system language in settings";
 "Changing Table" = "Changing Table";
+"Check the schedule and stops to find the nearest Mobile Recycling Center collection point." = "Check the schedule and stops to find the nearest Mobile Recycling Center collection point.";
 "Check the tram schedule and stops to find the nearest collection point." = "Check the tram schedule and stops to find the nearest collection point.";
 "Chess" = "Chess";
 "Choose a zip code" = "Choose a zip code";
@@ -54,6 +56,7 @@
 "Configure your area of interest." = "Configure your area of interest.";
 "Construction" = "Construction";
 "Construction waste, organic waste, hazardous waste, electronic device, household waste, stove, individual item heavier than 40 kg or longer than 2.5 m" = "Construction waste, organic waste, hazardous waste, electronic device, household waste, stove, individual item heavier than 40 kg or longer than 2.5 m";
+"Construction waste, organic waste, hazardous waste, household waste, individual item heavier than 40 kg or longer than 2.5 m" = "Construction waste, organic waste, hazardous waste, household waste, individual item heavier than 40 kg or longer than 2.5 m";
 "Continue" = "Continue";
 "Coordinates" = "Coordinates";
 "Culture, sports, and festivals across the city." = "Culture, sports, and festivals across the city.";
@@ -118,7 +121,9 @@
 "How to Recycle:" = "How to Recycle:";
 "I love the taste of a fancy coffee ❤️" = "I love the taste of a fancy coffee ❤️";
 "If you see duplicate locations, you can clear your local cache." = "If you see duplicate locations, you can clear your local cache.";
+"In addition to all garden waste, you can also dispose of biodegradable kitchen waste and leftovers. By providing organic waste in the appropriate container, you need fewer Zuri bags, which also eases the burden on your wallet. Organic waste is processed into biogas and compost products at the Biogas Zurich AG digestion plant. The biogas is fed into the Energie 360\\u00b0 AG gas network and is available as renewable energy for heating, cooking, or electricity production. This closes a cycle that promotes the quality of life in the city." = "In addition to all garden waste, you can also dispose of biodegradable kitchen waste and leftovers. By providing organic waste in the appropriate container, you need fewer Zuri bags, which also eases the burden on your wallet. Organic waste is processed into biogas and compost products at the Biogas Zurich AG digestion plant. The biogas is fed into the Energie 360\\u00b0 AG gas network and is available as renewable energy for heating, cooking, or electricity production. This closes a cycle that promotes the quality of life in the city.";
 "In addition to all garden waste, you can also dispose of biodegradable kitchen waste and leftovers. By providing organic waste in the appropriate container, you need fewer Zuri bags, which also eases the burden on your wallet. Organic waste is processed into biogas and compost products at the Biogas Zurich AG digestion plant. The biogas is fed into the Energie 360° AG gas network and is available as renewable energy for heating, cooking, or electricity production. This closes a cycle that promotes the quality of life in the city." = "In addition to all garden waste, you can also dispose of biodegradable kitchen waste and leftovers. By providing organic waste in the appropriate container, you need fewer Zuri bags, which also eases the burden on your wallet. Organic waste is processed into biogas and compost products at the Biogas Zurich AG digestion plant. The biogas is fed into the Energie 360° AG gas network and is available as renewable energy for heating, cooking, or electricity production. This closes a cycle that promotes the quality of life in the city.";
+"In general, products made of biodegradable materials (EN 13432), such as compostable coffee capsules, disposable tableware made from cornstarch, or products/packaging made of 100% fiber products, should not be disposed of in the organic waste container. This is because they are not visually recognizable during collection. The exception is bio-waste bags with lattice print." = "In general, products made of biodegradable materials (EN 13432), such as compostable coffee capsules, disposable tableware made from cornstarch, or products/packaging made of 100% fiber products, should not be disposed of in the organic waste container. This is because they are not visually recognizable during collection. The exception is bio-waste bags with lattice print.";
 "In general, products made of biodegradable materials (EN 13432), such as compostable coffee capsules, disposable tableware made from cornstarch, or products/packaging made of 100%% fiber products, should not be disposed of in the organic waste container. This is because they are not visually recognizable during collection. The exception is bio-waste bags with lattice print." = "In general, products made of biodegradable materials (EN 13432), such as compostable coffee capsules, disposable tableware made from cornstarch, or products/packaging made of 100%% fiber products, should not be disposed of in the organic waste container. This is because they are not visually recognizable during collection. The exception is bio-waste bags with lattice print.";
 "Infrastructure" = "Infrastructure";
 "Is Open" = "Is Open";
@@ -152,14 +157,17 @@
 "Make it yours" = "Make it yours";
 "Manage push notifications, configure home, or open the map." = "Manage push notifications, configure home, or open the map.";
 "Map" = "Map";
+"Maps" = "Maps";
 "Market" = "Market";
 "Max" = "Max";
 "Metal" = "Metal";
 "Metal, bulky waste, gravel, beverage cartons, plastic bottles, Styrofoam, textiles, luggage, baskets, mattress, furniture, plastic, skis, carpet, corks, aluminum coffee capsules, sofa/upholstered furniture up to 2m long, individual item up to 40 kg heavy and 2.5m long" = "Metal, bulky waste, gravel, beverage cartons, plastic bottles, Styrofoam, textiles, luggage, baskets, mattress, furniture, plastic, skis, carpet, corks, aluminum coffee capsules, sofa/upholstered furniture up to 2m long, individual item up to 40 kg heavy and 2.5m long";
+"Metal, bulky waste, gravel, beverage cartons, plastic bottles, Styrofoam, textiles, luggage, baskets, mattress, furniture, plastic, skis, carpet, corks, aluminum coffee capsules, sofa/upholstered furniture up to 2m long, individual item up to 40 kg heavy and 2.5m long, electronic devices, office equipment, computers and accessories, household appliances" = "Metal, bulky waste, gravel, beverage cartons, plastic bottles, Styrofoam, textiles, luggage, baskets, mattress, furniture, plastic, skis, carpet, corks, aluminum coffee capsules, sofa/upholstered furniture up to 2m long, individual item up to 40 kg heavy and 2.5m long, electronic devices, office equipment, computers and accessories, household appliances";
 "Min" = "Min";
 "minute ago" = "minute ago";
 "minutes ago" = "minutes ago";
 "Mobile" = "Mobile";
+"Mobile Recycling" = "Mobile Recycling";
 "More filters" = "More filters";
 "Movie" = "Movie";
 "Museum" = "Museum";
@@ -192,6 +200,7 @@
 "Not able to determine current location" = "Not able to determine current location";
 "Not Allowed:" = "Not Allowed:";
 "Not available" = "Not available";
+"Not found" = "Not found";
 "Notifications are allowed." = "Notifications are allowed.";
 "Notifications blocked" = "Notifications blocked";
 "Off" = "Off";
@@ -225,6 +234,7 @@
 "Privacy policy" = "Privacy policy";
 "Privacy Policy" = "Privacy Policy";
 "PubliBike" = "PubliBike";
+"Purchase failed" = "Purchase failed";
 "Push Notification" = "Push Notification";
 "Push notifications" = "Push notifications";
 "Push Notifications Disabled" = "Push Notifications Disabled";
@@ -263,6 +273,7 @@
 "Since January 1, 2023, there has been a container and location requirement for organic waste in the city of Zurich. Properties that do not yet have an organic waste container will be equipped throughout the year 2023. Simply toss the organic waste into the organic waste container and close it again." = "Since January 1, 2023, there has been a container and location requirement for organic waste in the city of Zurich. Properties that do not yet have an organic waste container will be equipped throughout the year 2023. Simply toss the organic waste into the organic waste container and close it again.";
 "Small but cute!" = "Small but cute!";
 "Society" = "Society";
+"Something went wrong. Please try again." = "Something went wrong. Please try again.";
 "Sortable Sections" = "Sortable Sections";
 "Sport" = "Sport";
 "Sport Area" = "Sport Area";
@@ -279,6 +290,7 @@
 "Terms of use" = "Terms of use";
 "Terms of Use" = "Terms of Use";
 "Textilies" = "Textilies";
+"The Mobile Recycling Center (Mobiler Recyclinghof) brings recycling services directly to your neighborhood. You can drop off bulky waste, electronic devices, metals, and other recyclables. It replaces the former Cargo Tram and E-Tram services, offering a convenient and accessible way to recycle materials that don't belong in regular household waste." = "The Mobile Recycling Center (Mobiler Recyclinghof) brings recycling services directly to your neighborhood. You can drop off bulky waste, electronic devices, metals, and other recyclables. It replaces the former Cargo Tram and E-Tram services, offering a convenient and accessible way to recycle materials that don't belong in regular household waste.";
 "The waste must be disposed of in a blue Zuri bag. The blue Zuri bag is available for a fee in retail stores and comes in 10, 17, 35, 60, or 110-liter sizes. Place your Zuri bag container at the designated pickup location before 7 a.m. on the collection day." = "The waste must be disposed of in a blue Zuri bag. The blue Zuri bag is available for a fee in retail stores and comes in 10, 17, 35, 60, or 110-liter sizes. Place your Zuri bag container at the designated pickup location before 7 a.m. on the collection day.";
 "The Zurich Waste Disposal and Recycling brings over 30,000 Zuri bags to the Hagenholz waste-to-energy plant every day, where they are environmentally burned. The heat generated from incineration produces ecological power and climate-friendly Zurich heat, which can heat around 170,000 apartments." = "The Zurich Waste Disposal and Recycling brings over 30,000 Zuri bags to the Hagenholz waste-to-energy plant every day, where they are environmentally burned. The heat generated from incineration produces ecological power and climate-friendly Zurich heat, which can heat around 170,000 apartments.";
 "Theater" = "Theater";

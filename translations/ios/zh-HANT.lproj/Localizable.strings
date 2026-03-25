@@ -146,7 +146,9 @@
 "I'd like to suggest the following feature:\n" = "我建議添加以下功能：";
 "I'd like to take the chance and thank you for using my app!\nWith this email you are trying to file a bug. Please state your issue below this line:\n" = "我想藉此機會感謝您使用我的應用程式！\n您似乎想透過這封電子郵件提交一個錯誤報告。請在下方詳細描述您遇到的問題：";
 "If you see duplicate locations, you can clear your local cache." = "若您發現重複的地點，可清除您的本機快取。";
+"In addition to all garden waste, you can also dispose of biodegradable kitchen waste and leftovers. By providing organic waste in the appropriate container, you need fewer Zuri bags, which also eases the burden on your wallet. Organic waste is processed into biogas and compost products at the Biogas Zurich AG digestion plant. The biogas is fed into the Energie 360\\u00b0 AG gas network and is available as renewable energy for heating, cooking, or electricity production. This closes a cycle that promotes the quality of life in the city." = "除了所有園藝廢棄物外，您也可以處理可生物降解的廚餘和剩菜。將有機廢棄物投入適當的容器中，您所需的 Zuri 垃圾袋數量便會減少，這也能減輕您的經濟負擔。有機廢棄物會在 Biogas Zurich AG 的消化廠中，被加工成生物氣體與堆肥產品。生物氣體會輸送到 Energie 360° AG 的天然氣管網，作為可再生能源用於供暖、烹飪或發電。這形成了一個閉環循環，有助於提升城市的生活品質。";
 "In addition to all garden waste, you can also dispose of biodegradable kitchen waste and leftovers. By providing organic waste in the appropriate container, you need fewer Zuri bags, which also eases the burden on your wallet. Organic waste is processed into biogas and compost products at the Biogas Zurich AG digestion plant. The biogas is fed into the Energie 360° AG gas network and is available as renewable energy for heating, cooking, or electricity production. This closes a cycle that promotes the quality of life in the city." = "除了所有花園垃圾外，您還可以處理可生物降解的廚餘和剩菜。透過將有機廢棄物投入適當的容器，您將減少對蘇黎世垃圾袋的需求，同時減輕荷包負擔。有機廢棄物會在 Biogas Zurich AG 的消化廠處理成沼氣和堆肥產品。沼氣會被輸送到 Energie 360° AG 的燃氣網絡，作為可再生能源用於供暖、烹飪或發電。這形成了一個有助於提升城市生活品質的循環。";
+"In general, products made of biodegradable materials (EN 13432), such as compostable coffee capsules, disposable tableware made from cornstarch, or products/packaging made of 100% fiber products, should not be disposed of in the organic waste container. This is because they are not visually recognizable during collection. The exception is bio-waste bags with lattice print." = "一般而言，由可生物降解材料（EN 13432）製成的產品，例如可堆肥咖啡膠囊、玉米澱粉製的一次性餐具，或由 100% 纖維製品製成的產品／包裝，不應丟棄於有機廢棄物回收桶內。這是因為在收集過程中，這些物品無法被肉眼辨識。唯一例外的是印有網格圖案的生物廢棄物專用袋。";
 "In general, products made of biodegradable materials (EN 13432), such as compostable coffee capsules, disposable tableware made from cornstarch, or products/packaging made of 100%% fiber products, should not be disposed of in the organic waste container. This is because they are not visually recognizable during collection. The exception is bio-waste bags with lattice print." = "一般而言，由可生物降解材料（EN 13432）製成的產品，例如可堆肥咖啡膠囊、玉米澱粉製成的一次性餐具，或由 100% 纖維製成的產品/包裝，不應丟棄於有機廢棄物容器中。這是因為在收集過程中，它們無法透過視覺辨識。唯一的例外是帶有網格印刷的生物廢棄物袋。";
 "Incorrect" = "錯誤";
 "Infrastructure" = "基礎設施";
@@ -183,6 +185,7 @@
 "Make it yours" = "讓它成為你的";
 "Manage push notifications, configure home, or open the map." = "管理推播通知、設定首頁，或開啟地圖。";
 "Map" = "地圖";
+"Maps" = "地圖";
 "Market" = "市場";
 "Max" = "麥克斯";
 "Medium" = "中等";
@@ -234,6 +237,7 @@
 "Not able to determine current location" = "無法確定目前位置";
 "Not Allowed:" = "不允許：";
 "Not available" = "無法提供";
+"Not found" = "未找到";
 "Notifications are allowed." = "已啟用通知。";
 "Notifications blocked" = "通知已封鎖";
 "Off" = "關閉";
@@ -268,6 +272,7 @@
 "Privacy policy" = "隱私權政策";
 "Privacy Policy" = "隱私權政策";
 "PubliBike" = "PubliBike";
+"Purchase failed" = "購買失敗";
 "Push Notification" = "推播通知";
 "Push notifications" = "推播通知";
 "Push Notifications Disabled" = "推播通知已停用";
@@ -313,6 +318,7 @@
 "Single choice" = "單選";
 "Small but cute!" = "小巧可愛！";
 "Society" = "社會";
+"Something went wrong. Please try again." = "發生了錯誤。請再試一次。";
 "Sortable Sections" = "可排序區段";
 "Spin now!" = "立即旋轉！";
 "Spin Now!" = "立即旋轉！";
