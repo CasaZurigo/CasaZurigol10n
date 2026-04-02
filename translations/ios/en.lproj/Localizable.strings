@@ -57,6 +57,8 @@
 "Code" = "Code";
 "Coffee" = "Coffee";
 "Collection Point" = "Collection Point";
+"Come back tomorrow" = "Come back tomorrow";
+"Come back tomorrow for another chance!" = "Come back tomorrow for another chance!";
 "Concert" = "Concert";
 "Configuration" = "Configuration";
 "Configure locations permission." = "Configure locations permission.";
@@ -218,6 +220,7 @@
 "No nearby locations available" = "No nearby locations available";
 "No news available" = "No news available";
 "No News found" = "No News found";
+"No prizes available right now" = "No prizes available right now";
 "No Prizes Yet" = "No Prizes Yet";
 "No recycling available" = "No recycling available";
 "No recycling events available" = "No recycling events available";
@@ -382,6 +385,7 @@
 "Win prizes from local venues" = "Win prizes from local venues";
 "You are insane, thank you so much!" = "You are insane, thank you so much!";
 "You Won!" = "You Won!";
+"You've already spun today" = "You've already spun today";
 "You've turned off some settings. Turn them on to get started!" = "You've turned off some settings. Turn them on to get started!";
 "Your companion for living in Zurich" = "Your companion for living in Zurich";
 "Your privacy matters. Your data won't be collected or stored. What you do is your business, not ours or anyone else's." = "Your privacy matters. Your data won't be collected or stored. What you do is your business, not ours or anyone else's.";
