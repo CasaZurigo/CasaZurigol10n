@@ -195,7 +195,7 @@ extension CasaZurigol10n {
 }
 
 public func tr(_ key: String, _ args: CVarArg...) -> String {
-    let format = Bundle.main.localizedString(forKey: key, value: key, table: "Localizable")
+    let format = Bundle.casaZurigol10n.localizedString(forKey: key, value: key, table: "Localizable")
     return String(format: format, locale: Locale.current, arguments: args)
 }
 
