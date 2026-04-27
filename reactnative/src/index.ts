@@ -15,29 +15,35 @@ import uk from "../../translations/reactnative/uk.json";
 import zhHans from "../../translations/reactnative/zh-HANS.json";
 import zhHant from "../../translations/reactnative/zh-HANT.json";
 
-export type SupportedLanguage =
-  | "de"
-  | "en"
-  | "es"
-  | "fr"
-  | "he"
-  | "it"
-  | "ko"
-  | "pl"
-  | "pt"
-  | "ru"
-  | "tr"
-  | "uk"
-  | "zh";
+export const SUPPORTED_LANGUAGES = [
+  "de",
+  "en",
+  "es",
+  "fr",
+  "he",
+  "it",
+  "ko",
+  "pl",
+  "pt",
+  "ru",
+  "tr",
+  "uk",
+  "zh",
+] as const;
+
+export type SupportedLanguage = (typeof SUPPORTED_LANGUAGES)[number];
 
 const DEFAULT_LOCALE: SupportedLanguage = "en";
 
-type TranslationCatalog = Record<string, Partial<Record<string, string>>>;
+type TranslationCatalog = Record<
+  string,
+  Partial<Record<SupportedLanguage, string>>
+>;
 
 const catalog: TranslationCatalog = {};
-let localeOverride: string | null = null;
+let localeOverride: SupportedLanguage | null = null;
 
-const translationBundles: Record<string, Record<string, string>> = {
+const translationBundles: Record<SupportedLanguage, Record<string, string>> = {
   de,
   en,
   es,
@@ -51,6 +57,9 @@ const translationBundles: Record<string, Record<string, string>> = {
   tr: tr_,
   uk,
   zh: zhHans,
+};
+
+const extraTranslationBundles: Record<string, Record<string, string>> = {
   "zh-hans": zhHans,
   "zh-hant": zhHant,
 };
@@ -64,6 +73,7 @@ function applyTranslationBundles(
 }
 
 applyTranslationBundles(translationBundles);
+applyTranslationBundles(extraTranslationBundles);
 
 export function normalizeLocale(
   locale: string | null | undefined,
@@ -74,26 +84,25 @@ export function normalizeLocale(
 
   const lowerLocale = locale.toLowerCase();
 
-  // Handle special cases for Chinese variants
   if (lowerLocale.startsWith("zh")) {
-    if (lowerLocale.includes("hant") || lowerLocale.includes("tw")) {
-      return "zh";
-    }
     return "zh";
   }
 
-  // Handle Portuguese
   if (lowerLocale.startsWith("pt")) {
     return "pt";
   }
 
   const [language] = lowerLocale.split(/[-_]/);
 
-  if (language && language in translationBundles) {
-    return language as SupportedLanguage;
+  if (language && isSupportedLanguage(language)) {
+    return language;
   }
 
   return DEFAULT_LOCALE;
+}
+
+function isSupportedLanguage(value: string): value is SupportedLanguage {
+  return (SUPPORTED_LANGUAGES as readonly string[]).includes(value);
 }
 
 export function setLocaleOverride(locale: string | null) {
@@ -230,35 +239,6 @@ export function pickTranslation(value: TranslationValue): string {
   const localized = value[locale] ?? value.en ?? Object.values(value)[0];
 
   return localized ?? defaultValue;
-}
-
-/**
- * Get the list of supported languages.
- */
-export function getSupportedLanguages(): SupportedLanguage[] {
-  return [
-    "de",
-    "en",
-    "es",
-    "fr",
-    "he",
-    "it",
-    "ko",
-    "pl",
-    "pt",
-    "ru",
-    "tr",
-    "uk",
-    "zh",
-  ];
-}
-
-/**
- * Check if a locale is supported.
- */
-export function isLocaleSupported(locale: string): boolean {
-  const normalized = normalizeLocale(locale);
-  return normalized in translationBundles;
 }
 
 // For testing purposes
