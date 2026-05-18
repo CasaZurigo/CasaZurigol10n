@@ -80,6 +80,7 @@
 "Culture" = "Культура";
 "Culture, sports, and festivals across the city." = "Культура, спорт та фестивалі по всьому місту.";
 "Customer Center" = "Центр обслуговування клієнтів";
+"Customer Center unavailable" = "Центр підтримки клієнтів недоступний";
 "Customize home" = "Налаштувати головну";
 "Customize Home" = "Налаштувати головну";
 "Daily Summary" = "Щоденний огляд";
@@ -96,6 +97,7 @@
 "Discover Events" = "Відкрий для себе події";
 "Discover locations near you" = "Відкрий для себе місця поруч з тобою";
 "Discover Recycling Events" = "Дізнайся про події з переробки";
+"Dislike" = "Не подобається";
 "Done" = "Готово";
 "Drag to reorder sections and toggle to show or hide them on your home screen." = "Перетягни, щоб змінити порядок розділів, і перемкни, щоб показати або приховати їх на головному екрані.";
 "E-Tram" = "Е-трамвай";
@@ -157,6 +159,7 @@
 "I'd like to suggest the following feature:\n" = "Я хотів би запропонувати таку функцію:";
 "I'd like to take the chance and thank you for using my app!\nWith this email you are trying to file a bug. Please state your issue below this line:\n" = "Я хотів би скористатися нагодою і подякувати тобі за використання мого застосунку!\nЦим листом ти намагаєшся повідомити про помилку. Будь ласка, опиши свою проблему нижче цього рядка:";
 "If you see duplicate locations, you can clear your local cache." = "Якщо ти бачиш дублікати місць, ти можеш очистити локальний кеш.";
+"In addition to all garden waste, you can also dispose of biodegradable kitchen waste and leftovers. By providing organic waste in the appropriate container, you need fewer Zuri bags, which also eases the burden on your wallet. Organic waste is processed into biogas and compost products at the Biogas Zurich AG digestion plant. The biogas is fed into the Energie 360\\u00b0 AG gas network and is available as renewable energy for heating, cooking, or electricity production. This closes a cycle that promotes the quality of life in the city." = "Окрім садових відходів, ви також можете викидати біорозкладні кухонні відходи та залишки їжі. Використовуючи відповідний контейнер для органічних відходів, ви витрачаєте менше мішків Zuri, що також економить ваші гроші. Органічні відходи переробляються на біогаз та компост на заводі Biogas Zurich AG. Біогаз подається в газову мережу Energie 360° AG і використовується як відновлювана енергія для опалення, приготування їжі або виробництва електроенергії. Це замикає цикл, який сприяє покращенню якості життя в місті.";
 "In addition to all garden waste, you can also dispose of biodegradable kitchen waste and leftovers. By providing organic waste in the appropriate container, you need fewer Zuri bags, which also eases the burden on your wallet. Organic waste is processed into biogas and compost products at the Biogas Zurich AG digestion plant. The biogas is fed into the Energie 360° AG gas network and is available as renewable energy for heating, cooking, or electricity production. This closes a cycle that promotes the quality of life in the city." = "Окрім усіх садових відходів, ти також можеш утилізувати біологічно розкладні кухонні відходи та залишки їжі. Надаючи органічні відходи у відповідний контейнер, ти потребуєш менше мішків Zuri, що також полегшує навантаження на твій гаманець. Органічні відходи переробляються на біогаз та компост на заводі Biogas Zurich AG. Біогаз подається до газової мережі Energie 360° AG і доступний як відновлювана енергія для опалення, приготування їжі або виробництва електроенергії. Це замикає цикл, який сприяє підвищенню якості життя в місті.";
 "In general, products made of biodegradable materials (EN 13432), such as compostable coffee capsules, disposable tableware made from cornstarch, or products/packaging made of 100% fiber products, should not be disposed of in the organic waste container. This is because they are not visually recognizable during collection. The exception is bio-waste bags with lattice print." = "Загалом, вироби з біорозкладних матеріалів (EN 13432), як-от компостовані кавові капсули, одноразовий посуд із кукурудзяного крохмалю або вироби/паковання зі 100% волокнистих матеріалів, не слід викидати в контейнер для органічних відходів. Це тому, що під час збору їх неможливо візуально розпізнати. Виняток становлять мішки для біовідходів із сітчастим принтом.";
 "In general, products made of biodegradable materials (EN 13432), such as compostable coffee capsules, disposable tableware made from cornstarch, or products/packaging made of 100%% fiber products, should not be disposed of in the organic waste container. This is because they are not visually recognizable during collection. The exception is bio-waste bags with lattice print." = "Загалом, вироби з біорозкладних матеріалів (EN 13432), як-от капсули для кави, що компостуються, одноразовий посуд із кукурудзяного крохмалю або вироби/паковання зі 100%% волокон, не слід викидати в контейнер для органічних відходів. Це пов'язано з тим, що під час збору їх візуально не розпізнають. Виняток становлять мішки для біовідходів із сітчастим принтом.";
@@ -186,6 +189,7 @@
 "limit" = "ліміт";
 "Listen" = "Слухай";
 "Listen to or read today's summary" = "Послухай або прочитай сьогоднішній підсумок";
+"Listen to or read today's summary." = "Прослухай або прочитай сьогоднішній підсумок.";
 "Local caches have been cleared." = "Локальні кеші очищено.";
 "Local updates that matter to you." = "Місцеві оновлення, які мають значення для тебе.";
 "Location access" = "Доступ до місцезнаходження";
@@ -230,6 +234,8 @@
 "No air quality data available" = "Дані про якість повітря недоступні";
 "No Configuration" = "Немає конфігурації";
 "No construction data available" = "Дані про будівництво відсутні";
+"No daily summary available" = "Щоденний звіт недоступний";
+"No data available" = "Немає даних";
 "No events available" = "Немає доступних подій";
 "No Events found" = "Не знайдено жодних подій";
 "No facility data available" = "Дані про заклад відсутні";
@@ -282,10 +288,12 @@
 "Ping Pong" = "Пінг-понг";
 "Pinned" = "Закріплено";
 "Pinned to the bottom because it is a long list." = "Закріплено внизу, бо це довгий список.";
+"Pinned to the top." = "Закріплено вгорі.";
 "Pissoir" = "Пісуар";
 "Place the bundled cardboard or your cardboard container at the roadside on the collection day before 7 a.m." = "Поклади зв'язаний картон або свій картонний контейнер біля дороги в день збору до 7 ранку.";
 "Place the bundled paper or your paper container at the roadside on the collection day before 7 a.m." = "Поклади зв'язаний папір або свій паперовий контейнер на узбіччя дороги в день збору до 7 ранку.";
 "Playground" = "Дитячий майданчик";
+"Please check your connection and try again." = "Перевірте підключення та спробуйте ще раз.";
 "Please enable calendar access in your device settings." = "Будь ласка, увімкни доступ до календаря в налаштуваннях пристрою.";
 "Pollutants" = "Забруднювачі";
 "Privacy" = "Конфіденційність";

@@ -80,6 +80,7 @@
 "Culture" = "문화";
 "Culture, sports, and festivals across the city." = "도시 전역의 문화, 스포츠, 축제";
 "Customer Center" = "고객센터";
+"Customer Center unavailable" = "고객센터를 이용할 수 없음";
 "Customize home" = "홈 화면 맞춤 설정";
 "Customize Home" = "홈 맞춤 설정";
 "Daily Summary" = "일일 요약";
@@ -96,6 +97,7 @@
 "Discover Events" = "이벤트 둘러보기";
 "Discover locations near you" = "가까운 곳 찾아보기";
 "Discover Recycling Events" = "재활용 이벤트 알아보기";
+"Dislike" = "싫어요";
 "Done" = "완료";
 "Drag to reorder sections and toggle to show or hide them on your home screen." = "섹션을 재정렬하려면 드래그하고 홈 화면에 표시하거나 숨기려면 토글하세요.";
 "E-Tram" = "이 트램";
@@ -157,6 +159,7 @@
 "I'd like to suggest the following feature:\n" = "다음과 같은 기능을 제안하고 싶어요";
 "I'd like to take the chance and thank you for using my app!\nWith this email you are trying to file a bug. Please state your issue below this line:\n" = "제 앱을 이용해 주셔서 진심으로 감사드려요!\n이 이메일은 버그를 신고하려는 내용이에요. 아래 줄에 문제를 자세히 적어주세요:\n";
 "If you see duplicate locations, you can clear your local cache." = "중복된 위치가 보이면 로컬 캐시를 삭제할 수 있어요.";
+"In addition to all garden waste, you can also dispose of biodegradable kitchen waste and leftovers. By providing organic waste in the appropriate container, you need fewer Zuri bags, which also eases the burden on your wallet. Organic waste is processed into biogas and compost products at the Biogas Zurich AG digestion plant. The biogas is fed into the Energie 360\\u00b0 AG gas network and is available as renewable energy for heating, cooking, or electricity production. This closes a cycle that promotes the quality of life in the city." = "정원 쓰레기 외에도 생분해성 주방 쓰레기와 음식물 쓰레기를 버릴 수 있습니다. 유기성 폐기물을 전용 수거함에 배출하면 취리히 쓰레기봉투(Zuri-Sack) 사용량을 줄일 수 있어 비용도 절약됩니다. 수거된 유기성 폐기물은 Biogas Zurich AG의 소화 시설에서 바이오가스와 퇴비로 처리됩니다. 이렇게 생산된 바이오가스는 Energie 360° AG의 가스망에 공급되어 난방, 취사, 전력 생산을 위한 재생 에너지로 활용됩니다. 이처럼 자원 순환을 통해 도시의 삶의 질을 높일 수 있습니다.";
 "In addition to all garden waste, you can also dispose of biodegradable kitchen waste and leftovers. By providing organic waste in the appropriate container, you need fewer Zuri bags, which also eases the burden on your wallet. Organic waste is processed into biogas and compost products at the Biogas Zurich AG digestion plant. The biogas is fed into the Energie 360° AG gas network and is available as renewable energy for heating, cooking, or electricity production. This closes a cycle that promotes the quality of life in the city." = "모든 정원 쓰레기 외에도 생분해성 주방 쓰레기와 남은 음식물도 버릴 수 있어요. 적절한 용기에 유기성 쓰레기를 배출하면 Zuri 봉투 사용량이 줄어들어 지갑 부담도 덜 수 있어요. 유기성 쓰레기는 Biogas Zurich AG 소화 시설에서 바이오가스와 퇴비 제품으로 처리돼요. 바이오가스는 Energie 360° AG 가스망으로 공급되어 난방, 요리 또는 전기 생산을 위한 재생 에너지로 사용돼요. 이를 통해 도시의 삶의 질을 향상시키는 순환이 완성돼요.";
 "In general, products made of biodegradable materials (EN 13432), such as compostable coffee capsules, disposable tableware made from cornstarch, or products/packaging made of 100% fiber products, should not be disposed of in the organic waste container. This is because they are not visually recognizable during collection. The exception is bio-waste bags with lattice print." = "일반적으로 퇴비화 가능한 커피 캡슐, 옥수수 전분으로 만든 일회용 식기, 또는 100% 섬유 제품으로 만들어진 제품 및 포장재와 같이 생분해성 소재(EN 13432)로 제작된 제품은 유기성 쓰레기통에 버리면 안 돼요. 수거 과정에서 육안으로 구분하기 어렵기 때문이에요. 단, 격자 무늬가 인쇄된 생분해성 쓰레기 봉투는 예외예요.";
 "In general, products made of biodegradable materials (EN 13432), such as compostable coffee capsules, disposable tableware made from cornstarch, or products/packaging made of 100%% fiber products, should not be disposed of in the organic waste container. This is because they are not visually recognizable during collection. The exception is bio-waste bags with lattice print." = "일반적으로 퇴비화 가능한 커피 캡슐, 옥수수 전분으로 만든 일회용 식기, 100% 섬유 제품으로 만든 제품/포장 등 생분해성 재료(EN 13432)로 만든 제품은 유기성 쓰레기통에 버려서는 안 돼요. 수거 시 육안으로 식별하기 어렵기 때문이에요. 격자 무늬가 있는 바이오 쓰레기 봉투는 예외예요.";
@@ -186,6 +189,7 @@
 "limit" = "제한";
 "Listen" = "듣기";
 "Listen to or read today's summary" = "오늘의 요약을 듣거나 읽어보세요.";
+"Listen to or read today's summary." = "오늘의 요약을 듣거나 읽어보세요.";
 "Local caches have been cleared." = "로컬 캐시를 삭제했어요.";
 "Local updates that matter to you." = "당신에게 중요한 지역 소식.";
 "Location access" = "위치 액세스";
@@ -230,6 +234,8 @@
 "No air quality data available" = "대기질 데이터를 불러올 수 없어.";
 "No Configuration" = "구성 없음";
 "No construction data available" = "건설 데이터가 없습니다.";
+"No daily summary available" = "일일 요약 없음";
+"No data available" = "데이터 없음";
 "No events available" = "이벤트가 없어요";
 "No Events found" = "이벤트가 없어요";
 "No facility data available" = "시설 데이터가 없습니다.";
@@ -282,10 +288,12 @@
 "Ping Pong" = "탁구";
 "Pinned" = "고정됨";
 "Pinned to the bottom because it is a long list." = "목록이 길어서 맨 아래에 고정했어요.";
+"Pinned to the top." = "맨 위에 고정됨";
 "Pissoir" = "소변기";
 "Place the bundled cardboard or your cardboard container at the roadside on the collection day before 7 a.m." = "수거일 오전 7시 이전까지 묶은 골판지나 골판지 용기를 길가에 내놓아 주세요.";
 "Place the bundled paper or your paper container at the roadside on the collection day before 7 a.m." = "수거일 오전 7시 이전까지 묶은 종이나 종이 용기를 길가에 내놓아 주세요.";
 "Playground" = "놀이터";
+"Please check your connection and try again." = "네트워크 연결을 확인하고 다시 시도해 주세요.";
 "Please enable calendar access in your device settings." = "기기 설정에서 캘린더 접근 권한을 허용해 주세요.";
 "Pollutants" = "오염 물질";
 "Privacy" = "개인정보 보호";

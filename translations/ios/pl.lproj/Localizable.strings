@@ -80,6 +80,7 @@
 "Culture" = "Kultura";
 "Culture, sports, and festivals across the city." = "Kultura, sport i festiwale w całym mieście.";
 "Customer Center" = "Centrum obsługi klienta";
+"Customer Center unavailable" = "Centrum obsługi klienta niedostępne";
 "Customize home" = "Dostosuj ekran główny";
 "Customize Home" = "Dostosuj ekran główny";
 "Daily Summary" = "Podsumowanie dnia";
@@ -96,6 +97,7 @@
 "Discover Events" = "Odkryj wydarzenia";
 "Discover locations near you" = "Odkryj miejsca w pobliżu";
 "Discover Recycling Events" = "Odkryj wydarzenia związane z recyklingiem";
+"Dislike" = "Nie lubię";
 "Done" = "Gotowe";
 "Drag to reorder sections and toggle to show or hide them on your home screen." = "Przeciągnij, aby zmienić kolejność sekcji i przełączaj, aby je pokazać lub ukryć na ekranie głównym.";
 "E-Tram" = "E-Tram";
@@ -157,6 +159,7 @@
 "I'd like to suggest the following feature:\n" = "Chciałbym zasugerować następującą funkcję:\n";
 "I'd like to take the chance and thank you for using my app!\nWith this email you are trying to file a bug. Please state your issue below this line:\n" = "Chciałbym skorzystać z okazji i podziękować za korzystanie z mojej aplikacji!\nTen e-mail jest próbą zgłoszenia błędu. Opisz problem poniżej tej linii:\n";
 "If you see duplicate locations, you can clear your local cache." = "Jeśli widzisz zduplikowane lokalizacje, możesz wyczyścić lokalną pamięć podręczną.";
+"In addition to all garden waste, you can also dispose of biodegradable kitchen waste and leftovers. By providing organic waste in the appropriate container, you need fewer Zuri bags, which also eases the burden on your wallet. Organic waste is processed into biogas and compost products at the Biogas Zurich AG digestion plant. The biogas is fed into the Energie 360\\u00b0 AG gas network and is available as renewable energy for heating, cooking, or electricity production. This closes a cycle that promotes the quality of life in the city." = "Oprócz odpadów ogrodowych możesz również wyrzucać biodegradowalne odpady kuchenne i resztki jedzenia. Wrzucając odpady organiczne do odpowiedniego pojemnika, zużywasz mniej worków Zuri, co jest korzystne dla Twojego portfela. Odpady organiczne są przetwarzane na biogaz i kompost w biogazowni Biogas Zurich AG. Biogaz trafia do sieci gazowej Energie 360° AG i jest wykorzystywany jako energia odnawialna do ogrzewania, gotowania lub produkcji prądu. Zamyka to obieg, który poprawia jakość życia w mieście.";
 "In addition to all garden waste, you can also dispose of biodegradable kitchen waste and leftovers. By providing organic waste in the appropriate container, you need fewer Zuri bags, which also eases the burden on your wallet. Organic waste is processed into biogas and compost products at the Biogas Zurich AG digestion plant. The biogas is fed into the Energie 360° AG gas network and is available as renewable energy for heating, cooking, or electricity production. This closes a cycle that promotes the quality of life in the city." = "Oprócz wszystkich odpadów ogrodowych możesz również wyrzucać biodegradowalne odpady kuchenne i resztki jedzenia. Dostarczając odpady organiczne do odpowiedniego pojemnika, potrzebujesz mniej worków Zuri, co odciąża również twój portfel. Odpady organiczne są przetwarzane na biogaz i produkty kompostowe w zakładzie fermentacyjnym Biogas Zurich AG. Biogaz jest wprowadzany do sieci gazowej Energie 360° AG i jest dostępny jako energia odnawialna do ogrzewania, gotowania lub produkcji energii elektrycznej. Zamyka to cykl, który przyczynia się do poprawy jakości życia w mieście.";
 "In general, products made of biodegradable materials (EN 13432), such as compostable coffee capsules, disposable tableware made from cornstarch, or products/packaging made of 100% fiber products, should not be disposed of in the organic waste container. This is because they are not visually recognizable during collection. The exception is bio-waste bags with lattice print." = "Ogólnie rzecz biorąc, produktów wykonanych z materiałów biodegradowalnych (zgodnie z normą EN 13432), takich jak kompostowalne kapsułki do kawy, jednorazowe naczynia ze skrobi kukurydzianej czy produkty/opakowania w 100% z włókien, nie wyrzucaj do pojemnika na odpady organiczne. Dzieje się tak, ponieważ nie są one rozpoznawalne wizualnie podczas zbiórki. Wyjątkiem są worki na bioodpady z nadrukiem w kratkę.";
 "In general, products made of biodegradable materials (EN 13432), such as compostable coffee capsules, disposable tableware made from cornstarch, or products/packaging made of 100%% fiber products, should not be disposed of in the organic waste container. This is because they are not visually recognizable during collection. The exception is bio-waste bags with lattice print." = "Ogólnie rzecz biorąc, produkty wykonane z materiałów biodegradowalnych (zgodnie z normą EN 13432), takie jak kompostowalne kapsułki do kawy, jednorazowa zastawa stołowa ze skrobi kukurydzianej lub produkty/opakowania w 100% z materiałów włóknistych, nie wyrzucaj do pojemnika na odpady organiczne. Dzieje się tak, ponieważ nie są one wizualnie rozpoznawalne podczas zbiórki. Wyjątkiem są worki na bioodpady z nadrukiem kratowym.";
@@ -186,6 +189,7 @@
 "limit" = "limit";
 "Listen" = "Posłuchaj";
 "Listen to or read today's summary" = "Posłuchaj lub przeczytaj dzisiejsze podsumowanie";
+"Listen to or read today's summary." = "Posłuchaj lub przeczytaj dzisiejsze podsumowanie.";
 "Local caches have been cleared." = "Lokalna pamięć podręczna została wyczyszczona.";
 "Local updates that matter to you." = "Lokalne aktualności, które mają dla ciebie znaczenie.";
 "Location access" = "Dostęp do lokalizacji";
@@ -230,6 +234,8 @@
 "No air quality data available" = "Brak danych o jakości powietrza";
 "No Configuration" = "Brak konfiguracji";
 "No construction data available" = "Brak danych o konstrukcji";
+"No daily summary available" = "Brak podsumowania dziennego";
+"No data available" = "Brak danych";
 "No events available" = "Brak dostępnych wydarzeń";
 "No Events found" = "Nie znaleziono żadnych wydarzeń";
 "No facility data available" = "Brak danych o obiekcie";
@@ -282,10 +288,12 @@
 "Ping Pong" = "Tenis stołowy";
 "Pinned" = "Przypięte";
 "Pinned to the bottom because it is a long list." = "Przypięto na dole, ponieważ lista jest długa.";
+"Pinned to the top." = "Przypięte na górze.";
 "Pissoir" = "Pisuar";
 "Place the bundled cardboard or your cardboard container at the roadside on the collection day before 7 a.m." = "Umieść karton lub pojemnik na karton przy drodze w dniu odbioru przed godziną 7:00.";
 "Place the bundled paper or your paper container at the roadside on the collection day before 7 a.m." = "Wystaw związaną makulaturę lub pojemnik na papier na pobocze drogi w dniu odbioru przed godziną 7:00.";
 "Playground" = "Plac zabaw";
+"Please check your connection and try again." = "Sprawdź połączenie i spróbuj ponownie.";
 "Please enable calendar access in your device settings." = "Włącz dostęp do kalendarza w ustawieniach urządzenia.";
 "Pollutants" = "Zanieczyszczenia";
 "Privacy" = "Prywatność";
