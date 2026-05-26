@@ -230,6 +230,7 @@
 "Need help?" = "Yardım mı lazım?";
 "News" = "Haberler";
 "News alerts" = "Haber uyarıları";
+"No" = "Hayır";
 "No access to location granted" = "Konum erişimine izin verilmedi";
 "No air quality data available" = "Hava kalitesi verisi bulunamadı.";
 "No Configuration" = "Yapılandırma Yok";
@@ -419,6 +420,7 @@
 "When configuration is missing" = "Yapılandırma eksik olduğunda";
 "While uncoated pizza boxes are made of cardboard, only clean ones should be placed in the cardboard collection. Greasy pizza boxes with food residues cannot be recycled and should be placed in household waste." = "Kaplamasız pizza kutuları kartondan yapılmış olsa da, yalnızca temiz olanlar karton geri dönüşümüne atılmalıdır. Yemek artığı bulunan yağlı pizza kutuları geri dönüştürülemez ve evsel atık kutusuna atılmalıdır.";
 "Win prizes from local venues" = "Yerel mekanlardan ödüller kazan";
+"Yes" = "Evet";
 "You are insane, thank you so much!" = "Sen delisin, çok teşekkür ederim!";
 "You Won!" = "Kazandın!";
 "You've already spun today" = "Bugün zaten çevirdin";

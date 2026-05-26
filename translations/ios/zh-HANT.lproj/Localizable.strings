@@ -230,6 +230,7 @@
 "Need help?" = "需要幫忙嗎？";
 "News" = "新聞";
 "News alerts" = "新聞快訊";
+"No" = "取消";
 "No access to location granted" = "未授予位置存取權限";
 "No air quality data available" = "目前沒有空氣品質數據";
 "No Configuration" = "無設定";
@@ -419,6 +420,7 @@
 "When configuration is missing" = "當缺少組態時";
 "While uncoated pizza boxes are made of cardboard, only clean ones should be placed in the cardboard collection. Greasy pizza boxes with food residues cannot be recycled and should be placed in household waste." = "雖然未經塗層的披薩盒由紙板製成，但只有乾淨的披薩盒才能放入紙板回收箱。沾有油漬和食物殘渣的披薩盒無法回收，應丟棄於一般垃圾中。";
 "Win prizes from local venues" = "贏取本地場館的獎品";
+"Yes" = "好";
 "You are insane, thank you so much!" = "你真是太瘋狂了，非常感謝！";
 "You Won!" = "你贏了！";
 "You've already spun today" = "你今天已經轉過了";

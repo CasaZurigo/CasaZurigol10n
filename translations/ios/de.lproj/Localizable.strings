@@ -230,6 +230,7 @@
 "Need help?" = "Brauchst du Hilfe?";
 "News" = "Nachrichten";
 "News alerts" = "Benachrichtigungen";
+"No" = "Nein";
 "No access to location granted" = "Kein Zugriff auf den Standort gewährt";
 "No air quality data available" = "Keine Luftqualitätsdaten verfügbar";
 "No Configuration" = "Keine Konfiguration";
@@ -419,6 +420,7 @@
 "When configuration is missing" = "Wenn die Konfiguration fehlt";
 "While uncoated pizza boxes are made of cardboard, only clean ones should be placed in the cardboard collection. Greasy pizza boxes with food residues cannot be recycled and should be placed in household waste." = "Unbeschichtete Pizzakartons bestehen zwar aus Pappe, doch nur saubere Kartons gehören in die Papiertonne. Fettige Pizzakartons mit Essensresten können nicht recycelt werden und gehören in den Restmüll.";
 "Win prizes from local venues" = "Gewinne Preise bei lokalen Veranstaltungsorten";
+"Yes" = "Ja";
 "You are insane, thank you so much!" = "Du bist verrückt, vielen Dank!";
 "You Won!" = "Du hast gewonnen!";
 "You've already spun today" = "Du hast heute schon gedreht";

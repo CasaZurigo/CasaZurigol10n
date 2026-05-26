@@ -230,6 +230,7 @@
 "Need help?" = "도움이 필요하신가요?";
 "News" = "뉴스";
 "News alerts" = "뉴스 알림";
+"No" = "아니요";
 "No access to location granted" = "위치 액세스 권한이 부여되지 않았어요";
 "No air quality data available" = "대기질 데이터를 불러올 수 없어.";
 "No Configuration" = "구성 없음";
@@ -419,6 +420,7 @@
 "When configuration is missing" = "구성 누락 시";
 "While uncoated pizza boxes are made of cardboard, only clean ones should be placed in the cardboard collection. Greasy pizza boxes with food residues cannot be recycled and should be placed in household waste." = "코팅되지 않은 피자 상자는 골판지로 만들어지지만, 깨끗한 상자만 골판지 수거함에 넣어야 합니다. 음식물 찌꺼기가 묻은 기름진 피자 상자는 재활용할 수 없으므로 일반 쓰레기로 버려야 합니다.";
 "Win prizes from local venues" = "지역 업소에서 경품을 받으세요";
+"Yes" = "네";
 "You are insane, thank you so much!" = "미쳤네요, 정말 감사해요!";
 "You Won!" = "당신이 이겼어요!";
 "You've already spun today" = "오늘 이미 한 번 돌리셨어요";

@@ -230,6 +230,7 @@
 "Need help?" = "Нужна помощь?";
 "News" = "Новости";
 "News alerts" = "Оповещения о новостях";
+"No" = "Нет";
 "No access to location granted" = "Доступ к местоположению не предоставлен";
 "No air quality data available" = "Данные о качестве воздуха недоступны.";
 "No Configuration" = "Нет конфигурации";
@@ -419,6 +420,7 @@
 "When configuration is missing" = "Когда отсутствует конфигурация";
 "While uncoated pizza boxes are made of cardboard, only clean ones should be placed in the cardboard collection. Greasy pizza boxes with food residues cannot be recycled and should be placed in household waste." = "Хотя коробки для пиццы без покрытия изготавливаются из картона, в контейнеры для сбора картона следует выбрасывать только чистые коробки. Жирные коробки из-под пиццы с остатками пищи не подлежат переработке и должны быть отправлены в бытовые отходы.";
 "Win prizes from local venues" = "Выигрывай призы от местных заведений";
+"Yes" = "Да";
 "You are insane, thank you so much!" = "Ты сумасшедший, спасибо тебе огромное!";
 "You Won!" = "Ты победил!";
 "You've already spun today" = "Ты уже сегодня вращал";
