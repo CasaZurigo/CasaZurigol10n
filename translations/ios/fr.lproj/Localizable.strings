@@ -93,6 +93,10 @@
 "Daily Trivia" = "Quiz quotidien";
 "Data from data.stadt-zuerich.ch" = "Données issues de data.stadt-zuerich.ch";
 "Date" = "Date";
+"Date — latest first" = "Date : du plus récent au plus ancien";
+"Date — newest first" = "Date : du plus récent au plus ancien";
+"Date — oldest first" = "Date : de la plus ancienne à la plus récente";
+"Date — soonest first" = "Date — du plus récent au plus ancien";
 "day ago" = "il y a un jour";
 "days ago" = "il y a quelques jours";
 "Delete" = "Supprimer";
@@ -344,6 +348,7 @@
 "Region" = "Région";
 "Regular Bikes" = "Vélos classiques";
 "Relaxing Lawn" = "Pelouse relaxante";
+"Relevance" = "Pertinence";
 "Reminders based on your zip code." = "Rappels basés sur ton code postal.";
 "Reminders for events you care about." = "Des rappels pour les événements qui t'intéressent.";
 "Rename" = "Renommer";
@@ -378,6 +383,7 @@
 "Small but cute!" = "Petit mais mignon !";
 "Society" = "Société";
 "Something went wrong. Please try again." = "Une erreur s'est produite. Réessaie.";
+"Sort by" = "Trier par";
 "Sortable Sections" = "Sections triables";
 "Spin now!" = "Tourne maintenant !";
 "Spin Now!" = "Tourne maintenant !";

@@ -93,6 +93,10 @@
 "Daily Trivia" = "Günlük Bilgi Yarışması";
 "Data from data.stadt-zuerich.ch" = "data.stadt-zuerich.ch adresinden alınan veriler";
 "Date" = "Tarih";
+"Date — latest first" = "Tarih — önce en yeniler";
+"Date — newest first" = "Tarih — önce en yeniler";
+"Date — oldest first" = "Tarih — eskiden yeniye";
+"Date — soonest first" = "Tarih — önce en yakın tarihli";
 "day ago" = "bir gün önce";
 "days ago" = "gün önce";
 "Delete" = "Sil";
@@ -344,6 +348,7 @@
 "Region" = "Bölge";
 "Regular Bikes" = "Standart Bisikletler";
 "Relaxing Lawn" = "Dinlendirici Çim";
+"Relevance" = "Alaka";
 "Reminders based on your zip code." = "Posta koduna göre hatırlatıcılar.";
 "Reminders for events you care about." = "İlgilendiğin etkinlikler için hatırlatıcılar.";
 "Rename" = "Adını değiştir";
@@ -378,6 +383,7 @@
 "Small but cute!" = "Küçük ama şirin!";
 "Society" = "Toplum";
 "Something went wrong. Please try again." = "Bir şeyler ters gitti. Lütfen tekrar dene.";
+"Sort by" = "Sırala";
 "Sortable Sections" = "Sıralanabilir Bölümler";
 "Spin now!" = "Şimdi çevir!";
 "Spin Now!" = "Şimdi Döndür!";

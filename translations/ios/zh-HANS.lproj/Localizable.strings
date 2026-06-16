@@ -93,6 +93,10 @@
 "Daily Trivia" = "每日冷知识";
 "Data from data.stadt-zuerich.ch" = "数据来自 data.stadt-zuerich.ch";
 "Date" = "日期";
+"Date — latest first" = "日期 — 从新到旧";
+"Date — newest first" = "日期 — 从新到旧";
+"Date — oldest first" = "日期 — 从旧到新";
+"Date — soonest first" = "日期——从早到晚";
 "day ago" = "天前";
 "days ago" = "几天前";
 "Delete" = "删除";
@@ -344,6 +348,7 @@
 "Region" = "区域";
 "Regular Bikes" = "普通自行车";
 "Relaxing Lawn" = "休闲草坪";
+"Relevance" = "相关性";
 "Reminders based on your zip code." = "基于你邮政编码的提醒。";
 "Reminders for events you care about." = "你关心的活动提醒。";
 "Rename" = "重命名";
@@ -378,6 +383,7 @@
 "Small but cute!" = "小巧可爱！";
 "Society" = "社会";
 "Something went wrong. Please try again." = "发生错误。请重试。";
+"Sort by" = "排序方式";
 "Sortable Sections" = "可排序分区";
 "Spin now!" = "立即旋转！";
 "Spin Now!" = "立即旋转！";

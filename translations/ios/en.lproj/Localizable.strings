@@ -93,6 +93,10 @@
 "Daily Trivia" = "Daily Trivia";
 "Data from data.stadt-zuerich.ch" = "Data from data.stadt-zuerich.ch";
 "Date" = "Date";
+"Date — latest first" = "Date — latest first";
+"Date — newest first" = "Date — newest first";
+"Date — oldest first" = "Date — oldest first";
+"Date — soonest first" = "Date — soonest first";
 "day ago" = "day ago";
 "days ago" = "days ago";
 "Delete" = "Delete";
@@ -344,6 +348,7 @@
 "Region" = "Region";
 "Regular Bikes" = "Regular Bikes";
 "Relaxing Lawn" = "Relaxing Lawn";
+"Relevance" = "Relevance";
 "Reminders based on your zip code." = "Reminders based on your zip code.";
 "Reminders for events you care about." = "Reminders for events you care about.";
 "Rename" = "Rename";
@@ -378,6 +383,7 @@
 "Small but cute!" = "Small but cute!";
 "Society" = "Society";
 "Something went wrong. Please try again." = "Something went wrong. Please try again.";
+"Sort by" = "Sort by";
 "Sortable Sections" = "Sortable Sections";
 "Spin now!" = "Spin now!";
 "Spin Now!" = "Spin Now!";

@@ -93,6 +93,10 @@
 "Daily Trivia" = "Щоденна вікторина";
 "Data from data.stadt-zuerich.ch" = "Дані з data.stadt-zuerich.ch";
 "Date" = "Дата";
+"Date — latest first" = "Дата — спочатку новіші";
+"Date — newest first" = "Дата — спочатку новіші";
+"Date — oldest first" = "Дата — спочатку старіші";
+"Date — soonest first" = "Дата — спочатку найближчі";
 "day ago" = "день тому";
 "days ago" = "кілька днів тому";
 "Delete" = "Видалити";
@@ -344,6 +348,7 @@
 "Region" = "Регіон";
 "Regular Bikes" = "Звичайні велосипеди";
 "Relaxing Lawn" = "Розслаблюючий газон";
+"Relevance" = "Актуальність";
 "Reminders based on your zip code." = "Нагадування за твоїм поштовим індексом.";
 "Reminders for events you care about." = "Нагадування про події, які тебе цікавлять.";
 "Rename" = "Перейменувати";
@@ -378,6 +383,7 @@
 "Small but cute!" = "Маленький, але милий!";
 "Society" = "Суспільство";
 "Something went wrong. Please try again." = "Сталася помилка. Спробуй ще раз.";
+"Sort by" = "Сортувати за";
 "Sortable Sections" = "Розділи з можливістю сортування";
 "Spin now!" = "Крути зараз!";
 "Spin Now!" = "Крути зараз!";
