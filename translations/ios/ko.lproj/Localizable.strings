@@ -15,6 +15,7 @@
 "Add to calendar" = "캘린더에 추가";
 "Address" = "주소";
 "Adjust filters to see more results." = "더 많은 결과를 보려면 필터를 조정하세요.";
+"AI" = "AI";
 "Air quality" = "공기질";
 "All" = "전체";
 "All Day" = "하루 종일";
@@ -26,7 +27,9 @@
 "Arrange and toggle sections" = "섹션 정렬 및 토글";
 "Art" = "예술";
 "Article not found" = "기사를 찾을 수 없어요";
+"Ask about Zürich…" = "취리히에 관해 물어보기…";
 "ATM" = "ATM";
+"Available Bikes" = "이용 가능한 자전거";
 "Available Prizes" = "이용 가능한 경품";
 "Back" = "뒤로";
 "Bancomat" = "현금 자동 입출금기";
@@ -76,7 +79,10 @@
 "Construction waste, organic waste, hazardous waste, household waste, individual item heavier than 40 kg or longer than 2.5 m" = "건설 폐기물, 유기성 폐기물, 유해 폐기물, 생활 폐기물, 무게 40kg 초과 또는 길이 2.5m 초과 개별 품목";
 "Continue" = "계속하기";
 "Coordinates" = "좌표";
+"Copied" = "복사됨";
+"Copy" = "복사";
 "Correct!" = "정답이에요!";
+"Cost" = "비용";
 "Culture" = "문화";
 "Culture, sports, and festivals across the city." = "도시 전역의 문화, 스포츠, 축제";
 "Customer Center" = "고객센터";
@@ -89,6 +95,7 @@
 "Date" = "날짜";
 "day ago" = "며칠 전";
 "days ago" = "며칠 전";
+"Delete" = "삭제";
 "Deliver bulky waste, large metal items, and gravel to the cargo tram. No cars allowed! The cargo tram is available to you if you are traveling on foot, by bike, or by public transport. You can also give away or take well-preserved items for free. Delivery by car or van is not allowed." = "부피가 큰 폐기물, 대형 금속 물품, 자갈 등은 카고 트램으로 운반해 주세요. 차량 이용은 금지됩니다! 카고 트램은 도보, 자전거 또는 대중교통 이용 시 사용 가능해요. 상태가 좋은 물품은 무료로 가져가거나 기증할 수도 있어요. 승용차나 승합차를 이용한 반입은 허용되지 않아요.";
 "Deliver electronic devices to the E-Tram. No cars allowed! The E-Tram is available to you if you are traveling on foot, by bike, or by public transport. You can also return old electronic devices to the point of sale without any hesitation. A pre-disposal fee is included in the purchase price of electronic and electrical devices. Retailers are therefore obliged to take back devices of the same type that they distribute, even if you don't buy a new one." = "전자 기기는 E-트램으로 운반해 주세요. 자동차는 이용할 수 없어요! E-트램은 도보, 자전거 또는 대중교통 이용 시 이용 가능해요. 오래된 전자 기기는 구매처에 망설임 없이 반납할 수 있어요. 전자 및 전기 기기 구매 가격에는 사전 폐기 수수료가 포함되어 있어요. 따라서 판매점은 새 제품을 구매하지 않더라도 판매하는 것과 동일한 종류의 기기를 회수할 의무가 있어요.";
 "Description:" = "설명:";
@@ -100,6 +107,7 @@
 "Dislike" = "싫어요";
 "Done" = "완료";
 "Drag to reorder sections and toggle to show or hide them on your home screen." = "섹션을 재정렬하려면 드래그하고 홈 화면에 표시하거나 숨기려면 토글하세요.";
+"E-Bikes" = "전기 자전거";
 "E-Tram" = "이 트램";
 "Easy" = "쉬운";
 "Economy" = "경제";
@@ -132,6 +140,7 @@
 "Fitness" = "피트니스";
 "Food" = "음식";
 "Fountain" = "분수";
+"Free" = "무료";
 "Gasoline-powered equipment like chainsaw, large metal, metal tools, battery and battery, waste" = "체인톱, 대형 금속, 금속 공구, 배터리 및 축전지, 폐기물 등 휘발유 동력 장비";
 "Geography" = "지리학";
 "Get involved" = "참여하기";
@@ -139,6 +148,9 @@
 "Get recycling reminders based on your ZIP code." = "우편번호를 기준으로 재활용 알림을 받으세요.";
 "Get reminders about Events in Zurich!" = "취리히에서 열리는 이벤트 알림을 받아보세요!";
 "Glass" = "유리";
+"Good afternoon" = "안녕하세요";
+"Good evening" = "좋은 저녁이에요";
+"Good morning" = "좋은 아침";
 "Good to Know:" = "알아두면 좋은 정보:";
 "Grant Location Access" = "위치 액세스 권한 부여";
 "Great job, you know Zurich well!" = "정말 잘하셨어요! 취리히를 정말 잘 아시네요!";
@@ -154,7 +166,11 @@
 "Home Configuration" = "홈 구성";
 "hour ago" = "1시간 전";
 "hours ago" = "몇 시간 전";
+"How busy is Bahnhofstrasse right now?" = "지금 반호프슈트라세는 얼마나 붐비나요?";
+"How has Zürich's population changed?" = "취리히의 인구는 어떻게 변했나요?";
 "How to Recycle:" = "재활용 방법:";
+"How warm is Lake Zürich?" = "취리히 호수의 수온은 몇 도인가요?";
+"How's the air quality today?" = "오늘 공기 질은 어때?";
 "I love the taste of a fancy coffee ❤️" = "고급스러운 커피 맛이 좋아요 ❤️";
 "I'd like to suggest the following feature:\n" = "다음과 같은 기능을 제안하고 싶어요";
 "I'd like to take the chance and thank you for using my app!\nWith this email you are trying to file a bug. Please state your issue below this line:\n" = "제 앱을 이용해 주셔서 진심으로 감사드려요!\n이 이메일은 버그를 신고하려는 내용이에요. 아래 줄에 문제를 자세히 적어주세요:\n";
@@ -228,11 +244,13 @@
 "Nearby Locations" = "주변 장소";
 "Nearby stays off until location is granted in settings." = "설정에서 위치 정보 접근 권한을 허용해야 '주변' 기능을 사용할 수 있어요.";
 "Need help?" = "도움이 필요하신가요?";
+"New chat" = "새 대화";
 "News" = "뉴스";
 "News alerts" = "뉴스 알림";
 "No" = "아니요";
 "No access to location granted" = "위치 액세스 권한이 부여되지 않았어요";
 "No air quality data available" = "대기질 데이터를 불러올 수 없어.";
+"No chats yet" = "채팅 없음";
 "No Configuration" = "구성 없음";
 "No construction data available" = "건설 데이터가 없습니다.";
 "No daily summary available" = "일일 요약 없음";
@@ -265,6 +283,7 @@
 "Not found" = "찾을 수 없음";
 "Notifications are allowed." = "알림이 허용되었어요.";
 "Notifications blocked" = "알림 차단됨";
+"Occupancy" = "점유율";
 "Off" = "끔";
 "Office equipment, computers and accessories, keyboard, mouse, data storage, printer, fax machine, copier, modem, network device, tablet, phone, household appliances, boiler, iron, hair dryer, dishwasher, coffee machine, air conditioner, stove, refrigerator, lamp, blender, sewing machine, electric shaver, gaming device, sports equipment, floor lamp, vacuum cleaner, freezer, toaster, tumble dryer, washing machine, cable, entertainment devices, screen, CD and CD device, DVD and DVD device, leisure equipment, projector, radio, TV and accessories (remote control), video device/tape" = "사무용품, 컴퓨터 및 액세서리, 키보드, 마우스, 데이터 저장 장치, 프린터, 팩스 기기, 복사기, 모뎀, 네트워크 장치, 태블릿, 휴대폰, 가전제품, 보일러, 다리미, 헤어드라이어, 식기세척기, 커피 머신, 에어컨, 스토브, 냉장고, 램프, 블렌더, 재봉틀, 전기 면도기, 게임기, 스포츠 용품, 플로어 램프, 진공 청소기, 냉동고, 토스터기, 건조기, 세탁기, 케이블, 엔터테인먼트 기기, 스크린, CD 및 CD 기기, DVD 및 DVD 기기, 레저 용품, 프로젝터, 라디오, TV 및 액세서리(리모컨), 비디오 기기/테이프";
 "Oil" = "오일";
@@ -272,6 +291,7 @@
 "open" = "열기";
 "Open" = "열기";
 "Open in Maps" = "지도에서 열기";
+"Opening Hours" = "영업 시간";
 "Organic" = "유기농";
 "Paper" = "종이";
 "Paper carrier bags and cardboard boxes do not belong in paper collection and are not suitable as collection containers. They are specially treated and affect the recycling process, and they fall apart in wet and windy conditions." = "종이 쇼핑백과 골판지 상자는 종이류 수거함에 버리면 안 되며, 수거 용기로도 사용할 수 없어요. 특수 처리가 되어 있어 재활용 과정에 영향을 미치며, 습하거나 바람이 많이 부는 날씨에는 쉽게 부서져요.";
@@ -293,6 +313,7 @@
 "Pissoir" = "소변기";
 "Place the bundled cardboard or your cardboard container at the roadside on the collection day before 7 a.m." = "수거일 오전 7시 이전까지 묶은 골판지나 골판지 용기를 길가에 내놓아 주세요.";
 "Place the bundled paper or your paper container at the roadside on the collection day before 7 a.m." = "수거일 오전 7시 이전까지 묶은 종이나 종이 용기를 길가에 내놓아 주세요.";
+"Plan a relaxed afternoon" = "여유로운 오후를 계획해 보세요";
 "Playground" = "놀이터";
 "Please check your connection and try again." = "네트워크 연결을 확인하고 다시 시도해 주세요.";
 "Please enable calendar access in your device settings." = "기기 설정에서 캘린더 접근 권한을 허용해 주세요.";
@@ -320,11 +341,15 @@
 "Recycling alerts" = "재활용 알림";
 "Recycling cardboard makes sense as it conserves natural resources and is cheaper than incinerating it in the waste-to-energy plant. The collected cardboard is an essential raw material for the production of corrugated cardboard, packaging, and even furniture. Because the technical processing continues to improve, even high-quality cardboard products are made from recycled cardboard." = "골판지를 재활용하는 것은 천연 자원을 보존하고 폐기물 에너지화 공장에서 소각하는 것보다 비용이 저렴하기 때문에 합리적이에요. 수거된 골판지는 골판지, 포장재, 심지어 가구 생산에 필수적인 원료예요. 기술적인 가공이 계속 개선됨에 따라 고품질의 골판지 제품도 재활용 골판지로 만들어지고 있어요.";
 "Region" = "지역";
+"Regular Bikes" = "일반 자전거";
 "Relaxing Lawn" = "편안한 잔디밭";
 "Reminders based on your zip code." = "우편번호 기반 알림";
 "Reminders for events you care about." = "관심 있는 이벤트 알림.";
+"Rename" = "이름 변경";
+"Rename chat" = "채팅 이름 변경";
 "Restaurant" = "레스토랑";
 "Review CasaZurich terms" = "CasaZurich 이용 약관 보기";
+"Save" = "저장";
 "Search" = "검색";
 "Search events" = "이벤트 검색";
 "Search news" = "뉴스 검색";
@@ -335,6 +360,8 @@
 "Select all" = "모두 선택";
 "Select all correct answers" = "정답을 모두 선택하세요";
 "Select one answer" = "하나의 답을 선택하세요";
+"Select Type" = "유형 선택";
+"Select Zip" = "우편번호 선택";
 "Send us a message" = "메시지 보내기";
 "Separately collected paper can be recycled multiple times and is therefore the most important raw material for the Swiss paper industry: newspapers are made of up to 80 percent recycled paper." = "분리수거된 종이는 여러 번 재활용될 수 있어 스위스 제지 산업에서 가장 중요한 원자재예요. 신문은 최대 80%까지 재활용 종이로 만들어져요.";
 "Set end date" = "종료 날짜 설정";
@@ -380,10 +407,12 @@
 "The waste must be disposed of in a blue Zuri bag. The blue Zuri bag is available for a fee in retail stores and comes in 10, 17, 35, 60, or 110-liter sizes. Place your Zuri bag container at the designated pickup location before 7 a.m. on the collection day." = "쓰레기는 파란색 주리 봉투에 버려야 해요. 파란색 주리 봉투는 판매점에서 유료로 구매할 수 있으며, 10리터, 17리터, 35리터, 60리터, 110리터 용량으로 제공돼요. 수거일 오전 7시까지 지정된 수거 장소에 주리 봉투 용기를 놓아주세요.";
 "The Zurich Waste Disposal and Recycling brings over 30,000 Zuri bags to the Hagenholz waste-to-energy plant every day, where they are environmentally burned. The heat generated from incineration produces ecological power and climate-friendly Zurich heat, which can heat around 170,000 apartments." = "취리히 폐기물 처리 및 재활용 센터는 매일 30,000개 이상의 취리히 봉투를 하겐홀츠 폐기물 에너지화 공장으로 운반하여 친환경적으로 소각해요. 소각 과정에서 발생하는 열은 약 170,000가구에 난방을 공급할 수 있는 친환경적인 취리히 난방열과 친환경 전력을 생산해요.";
 "Theater" = "극장";
+"Thinking" = "생각 중";
 "Those who dispose of their household waste in fee-free bags, illegally, or in public trash bins are unfair to those who properly prepare their waste. Illegal dumpers are reported to the police and may face fines of up to several thousand Swiss francs." = "수수료 없는 봉투에 쓰레기를 버리거나 불법적으로 버리거나 공공 쓰레기통에 버리는 행위는 올바르게 쓰레기를 처리하는 사람들에게 불공평한 거예요. 불법 쓰레기 투기자는 경찰에 신고되며 최대 수천 스위스 프랑의 벌금이 부과될 수 있어요.";
 "Time TBD" = "시간 미정";
 "Timeout" = "시간 초과";
 "Tips are currently unavailable" = "지금은 팁을 보낼 수 없어요.";
+"Title" = "제목";
 "Today" = "오늘";
 "Today's briefing" = "오늘의 브리핑";
 "Toggle" = "토글";
@@ -418,8 +447,15 @@
 "Water Temperature" = "수온";
 "Weather" = "날씨";
 "Welcome to CasaZurich" = "카사 취리히에 오신 것을 환영해요";
+"What can I show you in Zürich?" = "취리히에서 무엇을 보여줄까?";
+"What's on today?" = "오늘의 일정은 뭐야?";
+"What's the temperature in Zürich right now?" = "지금 취리히의 기온은 몇 도야?";
 "Wheelchair Support" = "휠체어 지원";
+"When are the school holidays?" = "방학은 언제야?";
 "When configuration is missing" = "구성 누락 시";
+"Where are the playgrounds in Zürich?" = "취리히의 놀이터는 어디에 있나요?";
+"Where can I find free parking right now?" = "지금 바로 무료 주차장을 어디서 찾을 수 있을까?";
+"Which restaurants are recommended in Zürich?" = "취리히에서 추천하는 식당은 어디인가요?";
 "While uncoated pizza boxes are made of cardboard, only clean ones should be placed in the cardboard collection. Greasy pizza boxes with food residues cannot be recycled and should be placed in household waste." = "코팅되지 않은 피자 상자는 골판지로 만들어지지만, 깨끗한 상자만 골판지 수거함에 넣어야 합니다. 음식물 찌꺼기가 묻은 기름진 피자 상자는 재활용할 수 없으므로 일반 쓰레기로 버려야 합니다.";
 "Win prizes from local venues" = "지역 업소에서 경품을 받으세요";
 "Yes" = "네";

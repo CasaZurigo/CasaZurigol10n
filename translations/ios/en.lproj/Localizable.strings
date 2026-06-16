@@ -15,6 +15,7 @@
 "Add to calendar" = "Add to calendar";
 "Address" = "Address";
 "Adjust filters to see more results." = "Adjust filters to see more results.";
+"AI" = "AI";
 "Air quality" = "Air quality";
 "All" = "All";
 "All Day" = "All Day";
@@ -26,7 +27,9 @@
 "Arrange and toggle sections" = "Arrange and toggle sections";
 "Art" = "Art";
 "Article not found" = "Article not found";
+"Ask about Zürich…" = "Ask about Zürich…";
 "ATM" = "ATM";
+"Available Bikes" = "Available Bikes";
 "Available Prizes" = "Available Prizes";
 "Back" = "Back";
 "Bancomat" = "Bancomat";
@@ -76,7 +79,10 @@
 "Construction waste, organic waste, hazardous waste, household waste, individual item heavier than 40 kg or longer than 2.5 m" = "Construction waste, organic waste, hazardous waste, household waste, individual item heavier than 40 kg or longer than 2.5 m";
 "Continue" = "Continue";
 "Coordinates" = "Coordinates";
+"Copied" = "Copied";
+"Copy" = "Copy";
 "Correct!" = "Correct!";
+"Cost" = "Cost";
 "Culture" = "Culture";
 "Culture, sports, and festivals across the city." = "Culture, sports, and festivals across the city.";
 "Customer Center" = "Customer Center";
@@ -89,6 +95,7 @@
 "Date" = "Date";
 "day ago" = "day ago";
 "days ago" = "days ago";
+"Delete" = "Delete";
 "Deliver bulky waste, large metal items, and gravel to the cargo tram. No cars allowed! The cargo tram is available to you if you are traveling on foot, by bike, or by public transport. You can also give away or take well-preserved items for free. Delivery by car or van is not allowed." = "Deliver bulky waste, large metal items, and gravel to the cargo tram. No cars allowed! The cargo tram is available to you if you are traveling on foot, by bike, or by public transport. You can also give away or take well-preserved items for free. Delivery by car or van is not allowed.";
 "Deliver electronic devices to the E-Tram. No cars allowed! The E-Tram is available to you if you are traveling on foot, by bike, or by public transport. You can also return old electronic devices to the point of sale without any hesitation. A pre-disposal fee is included in the purchase price of electronic and electrical devices. Retailers are therefore obliged to take back devices of the same type that they distribute, even if you don't buy a new one." = "Deliver electronic devices to the E-Tram. No cars allowed! The E-Tram is available to you if you are traveling on foot, by bike, or by public transport. You can also return old electronic devices to the point of sale without any hesitation. A pre-disposal fee is included in the purchase price of electronic and electrical devices. Retailers are therefore obliged to take back devices of the same type that they distribute, even if you don't buy a new one.";
 "Description:" = "Description:";
@@ -100,6 +107,7 @@
 "Dislike" = "Dislike";
 "Done" = "Done";
 "Drag to reorder sections and toggle to show or hide them on your home screen." = "Drag to reorder sections and toggle to show or hide them on your home screen.";
+"E-Bikes" = "E-Bikes";
 "E-Tram" = "E-Tram";
 "Easy" = "Easy";
 "Economy" = "Economy";
@@ -132,6 +140,7 @@
 "Fitness" = "Fitness";
 "Food" = "Food";
 "Fountain" = "Fountain";
+"Free" = "Free";
 "Gasoline-powered equipment like chainsaw, large metal, metal tools, battery and battery, waste" = "Gasoline-powered equipment like chainsaw, large metal, metal tools, battery and battery, waste";
 "Geography" = "Geography";
 "Get involved" = "Get involved";
@@ -139,6 +148,9 @@
 "Get recycling reminders based on your ZIP code." = "Get recycling reminders based on your ZIP code.";
 "Get reminders about Events in Zurich!" = "Get reminders about Events in Zurich!";
 "Glass" = "Glass";
+"Good afternoon" = "Good afternoon";
+"Good evening" = "Good evening";
+"Good morning" = "Good morning";
 "Good to Know:" = "Good to Know:";
 "Grant Location Access" = "Grant Location Access";
 "Great job, you know Zurich well!" = "Great job, you know Zurich well!";
@@ -154,7 +166,11 @@
 "Home Configuration" = "Home Configuration";
 "hour ago" = "hour ago";
 "hours ago" = "hours ago";
+"How busy is Bahnhofstrasse right now?" = "How busy is Bahnhofstrasse right now?";
+"How has Zürich's population changed?" = "How has Zürich's population changed?";
 "How to Recycle:" = "How to Recycle:";
+"How warm is Lake Zürich?" = "How warm is Lake Zürich?";
+"How's the air quality today?" = "How's the air quality today?";
 "I love the taste of a fancy coffee ❤️" = "I love the taste of a fancy coffee ❤️";
 "I'd like to suggest the following feature:\n" = "I'd like to suggest the following feature:\n";
 "I'd like to take the chance and thank you for using my app!\nWith this email you are trying to file a bug. Please state your issue below this line:\n" = "I'd like to take the chance and thank you for using my app!\nWith this email you are trying to file a bug. Please state your issue below this line:\n";
@@ -228,11 +244,13 @@
 "Nearby Locations" = "Nearby Locations";
 "Nearby stays off until location is granted in settings." = "Nearby stays off until location is granted in settings.";
 "Need help?" = "Need help?";
+"New chat" = "New chat";
 "News" = "News";
 "News alerts" = "News alerts";
 "No" = "No";
 "No access to location granted" = "No access to location granted";
 "No air quality data available" = "No air quality data available";
+"No chats yet" = "No chats yet";
 "No Configuration" = "No Configuration";
 "No construction data available" = "No construction data available";
 "No daily summary available" = "No daily summary available";
@@ -265,6 +283,7 @@
 "Not found" = "Not found";
 "Notifications are allowed." = "Notifications are allowed.";
 "Notifications blocked" = "Notifications blocked";
+"Occupancy" = "Occupancy";
 "Off" = "Off";
 "Office equipment, computers and accessories, keyboard, mouse, data storage, printer, fax machine, copier, modem, network device, tablet, phone, household appliances, boiler, iron, hair dryer, dishwasher, coffee machine, air conditioner, stove, refrigerator, lamp, blender, sewing machine, electric shaver, gaming device, sports equipment, floor lamp, vacuum cleaner, freezer, toaster, tumble dryer, washing machine, cable, entertainment devices, screen, CD and CD device, DVD and DVD device, leisure equipment, projector, radio, TV and accessories (remote control), video device/tape" = "Office equipment, computers and accessories, keyboard, mouse, data storage, printer, fax machine, copier, modem, network device, tablet, phone, household appliances, boiler, iron, hair dryer, dishwasher, coffee machine, air conditioner, stove, refrigerator, lamp, blender, sewing machine, electric shaver, gaming device, sports equipment, floor lamp, vacuum cleaner, freezer, toaster, tumble dryer, washing machine, cable, entertainment devices, screen, CD and CD device, DVD and DVD device, leisure equipment, projector, radio, TV and accessories (remote control), video device/tape";
 "Oil" = "Oil";
@@ -272,6 +291,7 @@
 "open" = "open";
 "Open" = "Open";
 "Open in Maps" = "Open in Maps";
+"Opening Hours" = "Opening Hours";
 "Organic" = "Organic";
 "Paper" = "Paper";
 "Paper carrier bags and cardboard boxes do not belong in paper collection and are not suitable as collection containers. They are specially treated and affect the recycling process, and they fall apart in wet and windy conditions." = "Paper carrier bags and cardboard boxes do not belong in paper collection and are not suitable as collection containers. They are specially treated and affect the recycling process, and they fall apart in wet and windy conditions.";
@@ -293,6 +313,7 @@
 "Pissoir" = "Pissoir";
 "Place the bundled cardboard or your cardboard container at the roadside on the collection day before 7 a.m." = "Place the bundled cardboard or your cardboard container at the roadside on the collection day before 7 a.m.";
 "Place the bundled paper or your paper container at the roadside on the collection day before 7 a.m." = "Place the bundled paper or your paper container at the roadside on the collection day before 7 a.m.";
+"Plan a relaxed afternoon" = "Plan a relaxed afternoon";
 "Playground" = "Playground";
 "Please check your connection and try again." = "Please check your connection and try again.";
 "Please enable calendar access in your device settings." = "Please enable calendar access in your device settings.";
@@ -320,11 +341,15 @@
 "Recycling alerts" = "Recycling alerts";
 "Recycling cardboard makes sense as it conserves natural resources and is cheaper than incinerating it in the waste-to-energy plant. The collected cardboard is an essential raw material for the production of corrugated cardboard, packaging, and even furniture. Because the technical processing continues to improve, even high-quality cardboard products are made from recycled cardboard." = "Recycling cardboard makes sense as it conserves natural resources and is cheaper than incinerating it in the waste-to-energy plant. The collected cardboard is an essential raw material for the production of corrugated cardboard, packaging, and even furniture. Because the technical processing continues to improve, even high-quality cardboard products are made from recycled cardboard.";
 "Region" = "Region";
+"Regular Bikes" = "Regular Bikes";
 "Relaxing Lawn" = "Relaxing Lawn";
 "Reminders based on your zip code." = "Reminders based on your zip code.";
 "Reminders for events you care about." = "Reminders for events you care about.";
+"Rename" = "Rename";
+"Rename chat" = "Rename chat";
 "Restaurant" = "Restaurant";
 "Review CasaZurich terms" = "Review CasaZurich terms";
+"Save" = "Save";
 "Search" = "Search";
 "Search events" = "Search events";
 "Search news" = "Search news";
@@ -335,6 +360,8 @@
 "Select all" = "Select all";
 "Select all correct answers" = "Select all correct answers";
 "Select one answer" = "Select one answer";
+"Select Type" = "Select Type";
+"Select Zip" = "Select Zip";
 "Send us a message" = "Send us a message";
 "Separately collected paper can be recycled multiple times and is therefore the most important raw material for the Swiss paper industry: newspapers are made of up to 80 percent recycled paper." = "Separately collected paper can be recycled multiple times and is therefore the most important raw material for the Swiss paper industry: newspapers are made of up to 80 percent recycled paper.";
 "Set end date" = "Set end date";
@@ -380,10 +407,12 @@
 "The waste must be disposed of in a blue Zuri bag. The blue Zuri bag is available for a fee in retail stores and comes in 10, 17, 35, 60, or 110-liter sizes. Place your Zuri bag container at the designated pickup location before 7 a.m. on the collection day." = "The waste must be disposed of in a blue Zuri bag. The blue Zuri bag is available for a fee in retail stores and comes in 10, 17, 35, 60, or 110-liter sizes. Place your Zuri bag container at the designated pickup location before 7 a.m. on the collection day.";
 "The Zurich Waste Disposal and Recycling brings over 30,000 Zuri bags to the Hagenholz waste-to-energy plant every day, where they are environmentally burned. The heat generated from incineration produces ecological power and climate-friendly Zurich heat, which can heat around 170,000 apartments." = "The Zurich Waste Disposal and Recycling brings over 30,000 Zuri bags to the Hagenholz waste-to-energy plant every day, where they are environmentally burned. The heat generated from incineration produces ecological power and climate-friendly Zurich heat, which can heat around 170,000 apartments.";
 "Theater" = "Theater";
+"Thinking" = "Thinking";
 "Those who dispose of their household waste in fee-free bags, illegally, or in public trash bins are unfair to those who properly prepare their waste. Illegal dumpers are reported to the police and may face fines of up to several thousand Swiss francs." = "Those who dispose of their household waste in fee-free bags, illegally, or in public trash bins are unfair to those who properly prepare their waste. Illegal dumpers are reported to the police and may face fines of up to several thousand Swiss francs.";
 "Time TBD" = "Time TBD";
 "Timeout" = "Timeout";
 "Tips are currently unavailable" = "Tips are currently unavailable";
+"Title" = "Title";
 "Today" = "Today";
 "Today's briefing" = "Today's briefing";
 "Toggle" = "Toggle";
@@ -418,8 +447,15 @@
 "Water Temperature" = "Water Temperature";
 "Weather" = "Weather";
 "Welcome to CasaZurich" = "Welcome to CasaZurich";
+"What can I show you in Zürich?" = "What can I show you in Zürich?";
+"What's on today?" = "What's on today?";
+"What's the temperature in Zürich right now?" = "What's the temperature in Zürich right now?";
 "Wheelchair Support" = "Wheelchair Support";
+"When are the school holidays?" = "When are the school holidays?";
 "When configuration is missing" = "When configuration is missing";
+"Where are the playgrounds in Zürich?" = "Where are the playgrounds in Zürich?";
+"Where can I find free parking right now?" = "Where can I find free parking right now?";
+"Which restaurants are recommended in Zürich?" = "Which restaurants are recommended in Zürich?";
 "While uncoated pizza boxes are made of cardboard, only clean ones should be placed in the cardboard collection. Greasy pizza boxes with food residues cannot be recycled and should be placed in household waste." = "While uncoated pizza boxes are made of cardboard, only clean ones should be placed in the cardboard collection. Greasy pizza boxes with food residues cannot be recycled and should be placed in household waste.";
 "Win prizes from local venues" = "Win prizes from local venues";
 "Yes" = "Yes";

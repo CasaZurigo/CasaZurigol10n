@@ -15,6 +15,7 @@
 "Add to calendar" = "Zum Kalender hinzufügen";
 "Address" = "Adresse";
 "Adjust filters to see more results." = "Pass die Filter an, um mehr Ergebnisse anzuzeigen.";
+"AI" = "KI";
 "Air quality" = "Luftqualität";
 "All" = "Alle";
 "All Day" = "Ganztägig";
@@ -26,7 +27,9 @@
 "Arrange and toggle sections" = "Abschnitte anordnen und umschalten";
 "Art" = "Kunst";
 "Article not found" = "Artikel nicht gefunden";
+"Ask about Zürich…" = "Frag nach Zürich…";
 "ATM" = "Geldautomat";
+"Available Bikes" = "Verfügbare Fahrräder";
 "Available Prizes" = "Verfügbare Preise";
 "Back" = "Zurück";
 "Bancomat" = "Bankomat";
@@ -76,7 +79,10 @@
 "Construction waste, organic waste, hazardous waste, household waste, individual item heavier than 40 kg or longer than 2.5 m" = "Bauschutt, Bioabfall, Sondermüll, Hausmüll, Einzelgegenstände über 40 kg oder 2,5 m";
 "Continue" = "Weiter";
 "Coordinates" = "Koordinaten";
+"Copied" = "Kopiert";
+"Copy" = "Kopieren";
 "Correct!" = "Richtig!";
+"Cost" = "Kosten";
 "Culture" = "Kultur";
 "Culture, sports, and festivals across the city." = "Kultur, Sport und Festivals in der ganzen Stadt.";
 "Customer Center" = "Kundenservice";
@@ -89,6 +95,7 @@
 "Date" = "Datum";
 "day ago" = "vor einem Tag";
 "days ago" = "vor Tagen";
+"Delete" = "Löschen";
 "Deliver bulky waste, large metal items, and gravel to the cargo tram. No cars allowed! The cargo tram is available to you if you are traveling on foot, by bike, or by public transport. You can also give away or take well-preserved items for free. Delivery by car or van is not allowed." = "Sperrmüll, große Metallteile und Kies zur Güterbahn bringen. Keine Autos erlaubt! Die Güterbahn steht dir zur Verfügung, wenn du zu Fuß, mit dem Fahrrad oder mit öffentlichen Verkehrsmitteln unterwegs bist. Gut erhaltene Gegenstände kannst du auch kostenlos abgeben oder mitnehmen. Die Anlieferung mit dem Auto oder Lieferwagen ist nicht gestattet.";
 "Deliver electronic devices to the E-Tram. No cars allowed! The E-Tram is available to you if you are traveling on foot, by bike, or by public transport. You can also return old electronic devices to the point of sale without any hesitation. A pre-disposal fee is included in the purchase price of electronic and electrical devices. Retailers are therefore obliged to take back devices of the same type that they distribute, even if you don't buy a new one." = "Liefere elektronische Geräte an der E-Tram ab. Autos sind nicht erlaubt! Die E-Tram steht dir zur Verfügung, wenn du zu Fuß, mit dem Fahrrad oder mit öffentlichen Verkehrsmitteln unterwegs bist. Du kannst alte elektronische Geräte auch bedenkenlos in der Verkaufsstelle zurückgeben. Im Kaufpreis von elektronischen und elektrischen Geräten ist eine Vorab-Entsorgungsgebühr enthalten. Die Händler sind daher verpflichtet, Geräte desselben Typs, die sie vertreiben, zurückzunehmen, auch wenn du kein neues Gerät kaufst.";
 "Description:" = "Beschreibung:";
@@ -100,6 +107,7 @@
 "Dislike" = "Gefällt mir nicht";
 "Done" = "Fertig";
 "Drag to reorder sections and toggle to show or hide them on your home screen." = "Ziehe, um Abschnitte neu anzuordnen, und schalte sie um, um sie auf deinem Startbildschirm ein- oder auszublenden.";
+"E-Bikes" = "E-Bikes";
 "E-Tram" = "E-Tram";
 "Easy" = "Einfach";
 "Economy" = "Wirtschaft";
@@ -132,6 +140,7 @@
 "Fitness" = "Fitness";
 "Food" = "Essen";
 "Fountain" = "Brunnen";
+"Free" = "Kostenlos";
 "Gasoline-powered equipment like chainsaw, large metal, metal tools, battery and battery, waste" = "Benzinbetriebene Geräte wie Kettensägen, große Metallteile, Metallwerkzeuge, Batterien und Akkus, Abfall";
 "Geography" = "Geographie";
 "Get involved" = "Mach mit";
@@ -139,6 +148,9 @@
 "Get recycling reminders based on your ZIP code." = "Erhalte Recycling-Erinnerungen basierend auf deiner Postleitzahl.";
 "Get reminders about Events in Zurich!" = "Erhalte Erinnerungen an Veranstaltungen in Zürich!";
 "Glass" = "Glas";
+"Good afternoon" = "Guten Tag";
+"Good evening" = "Guten Abend";
+"Good morning" = "Guten Morgen";
 "Good to Know:" = "Gut zu wissen:";
 "Grant Location Access" = "Standortzugriff gewähren";
 "Great job, you know Zurich well!" = "Tolle Arbeit, du kennst Zürich gut!";
@@ -154,7 +166,11 @@
 "Home Configuration" = "Startseitenkonfiguration";
 "hour ago" = "vor einer Stunde";
 "hours ago" = "vor Stunden";
+"How busy is Bahnhofstrasse right now?" = "Wie viel ist gerade auf der Bahnhofstraße los?";
+"How has Zürich's population changed?" = "Wie hat sich die Bevölkerung von Zürich verändert?";
 "How to Recycle:" = "Anleitung zum Recycling:";
+"How warm is Lake Zürich?" = "Wie warm ist der Zürichsee?";
+"How's the air quality today?" = "Wie ist die Luftqualität heute?";
 "I love the taste of a fancy coffee ❤️" = "Ich liebe den Geschmack eines ausgefallenen Kaffees ❤️";
 "I'd like to suggest the following feature:\n" = "Ich möchte folgende Funktion vorschlagen:";
 "I'd like to take the chance and thank you for using my app!\nWith this email you are trying to file a bug. Please state your issue below this line:\n" = "Ich möchte die Gelegenheit nutzen, dir für die Nutzung meiner App zu danken!\nMit dieser E-Mail versuchst du, einen Fehler zu melden. Bitte beschreibe dein Problem unterhalb dieser Zeile:";
@@ -228,11 +244,13 @@
 "Nearby Locations" = "Orte in der Nähe";
 "Nearby stays off until location is granted in settings." = "„In der Nähe” ist deaktiviert, bis du den Standort in den Einstellungen zulässt.";
 "Need help?" = "Brauchst du Hilfe?";
+"New chat" = "Neuer Chat";
 "News" = "Nachrichten";
 "News alerts" = "Benachrichtigungen";
 "No" = "Nein";
 "No access to location granted" = "Kein Zugriff auf den Standort gewährt";
 "No air quality data available" = "Keine Luftqualitätsdaten verfügbar";
+"No chats yet" = "Noch keine Chats";
 "No Configuration" = "Keine Konfiguration";
 "No construction data available" = "Keine Baudaten verfügbar.";
 "No daily summary available" = "Keine Tageszusammenfassung verfügbar";
@@ -265,6 +283,7 @@
 "Not found" = "Nicht gefunden";
 "Notifications are allowed." = "Benachrichtigungen sind erlaubt.";
 "Notifications blocked" = "Benachrichtigungen blockiert";
+"Occupancy" = "Belegung";
 "Off" = "Aus";
 "Office equipment, computers and accessories, keyboard, mouse, data storage, printer, fax machine, copier, modem, network device, tablet, phone, household appliances, boiler, iron, hair dryer, dishwasher, coffee machine, air conditioner, stove, refrigerator, lamp, blender, sewing machine, electric shaver, gaming device, sports equipment, floor lamp, vacuum cleaner, freezer, toaster, tumble dryer, washing machine, cable, entertainment devices, screen, CD and CD device, DVD and DVD device, leisure equipment, projector, radio, TV and accessories (remote control), video device/tape" = "Bürogeräte, Computer und Zubehör, Tastatur, Maus, Datenspeicher, Drucker, Faxgerät, Kopierer, Modem, Netzwerkgerät, Tablet, Telefon, Haushaltsgeräte, Warmwasserbereiter, Bügeleisen, Haartrockner, Geschirrspüler, Kaffeemaschine, Klimaanlage, Herd, Kühlschrank, Lampe, Mixer, Nähmaschine, Elektrorasierer, Spielkonsole, Sportgeräte, Stehlampe, Staubsauger, Gefrierschrank, Toaster, Wäschetrockner, Waschmaschine, Kabel, Unterhaltungsgeräte, Bildschirm, CD und CD-Player, DVD und DVD-Player, Freizeitgeräte, Projektor, Radio, Fernseher und Zubehör (Fernbedienung), Videogerät/Kassette";
 "Oil" = "Öl";
@@ -272,6 +291,7 @@
 "open" = "öffnen";
 "Open" = "Öffnen";
 "Open in Maps" = "In Karten öffnen";
+"Opening Hours" = "Öffnungszeiten";
 "Organic" = "Bio";
 "Paper" = "Papier";
 "Paper carrier bags and cardboard boxes do not belong in paper collection and are not suitable as collection containers. They are specially treated and affect the recycling process, and they fall apart in wet and windy conditions." = "Papiertragetaschen und Kartonagen gehören nicht in die Papiersammlung und sind als Sammelbehälter ungeeignet. Sie sind speziell behandelt und beeinträchtigen den Recyclingprozess, zudem zerfallen sie bei Nässe und Wind.";
@@ -293,6 +313,7 @@
 "Pissoir" = "Pissoir";
 "Place the bundled cardboard or your cardboard container at the roadside on the collection day before 7 a.m." = "Stelle die gebündelte Pappe oder deinen Pappbehälter am Abholtag bis spätestens 7 Uhr morgens an den Straßenrand.";
 "Place the bundled paper or your paper container at the roadside on the collection day before 7 a.m." = "Stelle das gebündelte Papier oder deinen Papiercontainer am Abfuhrtag vor 7 Uhr morgens an den Straßenrand.";
+"Plan a relaxed afternoon" = "Plane einen entspannten Nachmittag";
 "Playground" = "Spielplatz";
 "Please check your connection and try again." = "Überprüfe bitte deine Verbindung und versuche es erneut.";
 "Please enable calendar access in your device settings." = "Bitte aktiviere den Kalenderzugriff in den Einstellungen deines Geräts.";
@@ -320,11 +341,15 @@
 "Recycling alerts" = "Recycling-Benachrichtigungen";
 "Recycling cardboard makes sense as it conserves natural resources and is cheaper than incinerating it in the waste-to-energy plant. The collected cardboard is an essential raw material for the production of corrugated cardboard, packaging, and even furniture. Because the technical processing continues to improve, even high-quality cardboard products are made from recycled cardboard." = "Das Recycling von Pappe ist sinnvoll, denn es schont die natürlichen Ressourcen und ist günstiger als die Verbrennung im Müllheizkraftwerk. Die gesammelte Pappe ist ein wichtiger Rohstoff für die Herstellung von Wellpappe, Verpackungen und sogar Möbeln. Da die technische Verarbeitung immer besser wird, werden auch hochwertige Kartonprodukte aus recycelter Pappe hergestellt.";
 "Region" = "Region";
+"Regular Bikes" = "Normale Fahrräder";
 "Relaxing Lawn" = "Entspannende Rasenfläche";
 "Reminders based on your zip code." = "Erinnerungen basierend auf deiner Postleitzahl.";
 "Reminders for events you care about." = "Erinnerungen an wichtige Ereignisse.";
+"Rename" = "Umbenennen";
+"Rename chat" = "Chat umbenennen";
 "Restaurant" = "Restaurant";
 "Review CasaZurich terms" = "Geschäftsbedingungen von CasaZurich einsehen";
+"Save" = "Speichern";
 "Search" = "Suchen";
 "Search events" = "Veranstaltungen suchen";
 "Search news" = "Nachrichten suchen";
@@ -335,6 +360,8 @@
 "Select all" = "Alles auswählen";
 "Select all correct answers" = "Wähle alle richtigen Antworten aus";
 "Select one answer" = "Wähle eine Antwort aus";
+"Select Type" = "Typ auswählen";
+"Select Zip" = "PLZ auswählen";
 "Send us a message" = "Schreib uns eine Nachricht";
 "Separately collected paper can be recycled multiple times and is therefore the most important raw material for the Swiss paper industry: newspapers are made of up to 80 percent recycled paper." = "Getrennt gesammeltes Papier kann mehrfach recycelt werden und ist daher der wichtigste Rohstoff für die Schweizer Papierindustrie: Zeitungen bestehen zu bis zu 80 Prozent aus Recyclingpapier.";
 "Set end date" = "Enddatum festlegen";
@@ -380,10 +407,12 @@
 "The waste must be disposed of in a blue Zuri bag. The blue Zuri bag is available for a fee in retail stores and comes in 10, 17, 35, 60, or 110-liter sizes. Place your Zuri bag container at the designated pickup location before 7 a.m. on the collection day." = "Der Abfall muss in einem blauen Zuri-Sack entsorgt werden. Der blaue Zuri-Sack ist gegen eine Gebühr im Einzelhandel erhältlich und wird in Größen von 10, 17, 35, 60 oder 110 Litern angeboten. Stelle deinen Zuri-Sackbehälter am Abholtag vor 7 Uhr morgens an der vorgesehenen Abholstelle ab.";
 "The Zurich Waste Disposal and Recycling brings over 30,000 Zuri bags to the Hagenholz waste-to-energy plant every day, where they are environmentally burned. The heat generated from incineration produces ecological power and climate-friendly Zurich heat, which can heat around 170,000 apartments." = "Die Zürcher Abfallentsorgung und Recycling bringt täglich über 30'000 Zuri-Säcke ins Kehrichtheizkraftwerk Hagenholz, wo sie umweltgerecht verbrannt werden. Die bei der Verbrennung entstehende Wärme produziert ökologischen Strom und klimafreundliche Zürich-Wärme, mit der rund 170'000 Wohnungen beheizt werden können.";
 "Theater" = "Theater";
+"Thinking" = "Nachdenken";
 "Those who dispose of their household waste in fee-free bags, illegally, or in public trash bins are unfair to those who properly prepare their waste. Illegal dumpers are reported to the police and may face fines of up to several thousand Swiss francs." = "Wer seinen Hausmüll in gebührenfreien Säcken, illegal oder in öffentlichen Abfallbehältern entsorgt, ist unfair gegenüber denjenigen, die ihren Abfall ordnungsgemäß vorbereiten. Illegale Müllentsorger werden der Polizei gemeldet und können mit Bussen von bis zu mehreren tausend Schweizer Franken bestraft werden.";
 "Time TBD" = "Zeitpunkt noch offen";
 "Timeout" = "Zeitüberschreitung";
 "Tips are currently unavailable" = "Tipps sind momentan nicht verfügbar";
+"Title" = "Titel";
 "Today" = "Heute";
 "Today's briefing" = "Dein Briefing für heute";
 "Toggle" = "Umschalten";
@@ -418,8 +447,15 @@
 "Water Temperature" = "Wassertemperatur";
 "Weather" = "Wetter";
 "Welcome to CasaZurich" = "Willkommen bei CasaZurich";
+"What can I show you in Zürich?" = "Was kann ich dir in Zürich zeigen?";
+"What's on today?" = "Was steht heute an?";
+"What's the temperature in Zürich right now?" = "Wie warm ist es gerade in Zürich?";
 "Wheelchair Support" = "Rollstuhlsport";
+"When are the school holidays?" = "Wann sind die Schulferien?";
 "When configuration is missing" = "Wenn die Konfiguration fehlt";
+"Where are the playgrounds in Zürich?" = "Wo gibt es Spielplätze in Zürich?";
+"Where can I find free parking right now?" = "Wo finde ich jetzt einen kostenlosen Parkplatz?";
+"Which restaurants are recommended in Zürich?" = "Welche Restaurants in Zürich kannst du empfehlen?";
 "While uncoated pizza boxes are made of cardboard, only clean ones should be placed in the cardboard collection. Greasy pizza boxes with food residues cannot be recycled and should be placed in household waste." = "Unbeschichtete Pizzakartons bestehen zwar aus Pappe, doch nur saubere Kartons gehören in die Papiertonne. Fettige Pizzakartons mit Essensresten können nicht recycelt werden und gehören in den Restmüll.";
 "Win prizes from local venues" = "Gewinne Preise bei lokalen Veranstaltungsorten";
 "Yes" = "Ja";

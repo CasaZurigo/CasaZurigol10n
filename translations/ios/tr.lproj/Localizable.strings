@@ -15,6 +15,7 @@
 "Add to calendar" = "Takvime ekle";
 "Address" = "Adres";
 "Adjust filters to see more results." = "Daha fazla sonuç görmek için filtreleri ayarla.";
+"AI" = "YZ";
 "Air quality" = "Hava kalitesi";
 "All" = "Tümü";
 "All Day" = "Tüm Gün";
@@ -26,7 +27,9 @@
 "Arrange and toggle sections" = "Bölümleri düzenle ve değiştir";
 "Art" = "Sanat";
 "Article not found" = "Makale bulunamadı";
+"Ask about Zürich…" = "Zürih hakkında soru sor…";
 "ATM" = "ATM";
+"Available Bikes" = "Müsait Bisikletler";
 "Available Prizes" = "Mevcut Ödüller";
 "Back" = "Geri";
 "Bancomat" = "Banka kartı";
@@ -76,7 +79,10 @@
 "Construction waste, organic waste, hazardous waste, household waste, individual item heavier than 40 kg or longer than 2.5 m" = "İnşaat atığı, organik atık, tehlikeli atık, evsel atık, 40 kg'dan ağır veya 2,5 m'den uzun tekil eşya";
 "Continue" = "Devam et";
 "Coordinates" = "Koordinatlar";
+"Copied" = "Kopyalandı";
+"Copy" = "Kopyala";
 "Correct!" = "Doğru!";
+"Cost" = "Maliyet";
 "Culture" = "Kültür";
 "Culture, sports, and festivals across the city." = "Şehrin dört bir yanındaki kültür, spor ve festivaller.";
 "Customer Center" = "Müşteri Merkezi";
@@ -89,6 +95,7 @@
 "Date" = "Tarih";
 "day ago" = "bir gün önce";
 "days ago" = "gün önce";
+"Delete" = "Sil";
 "Deliver bulky waste, large metal items, and gravel to the cargo tram. No cars allowed! The cargo tram is available to you if you are traveling on foot, by bike, or by public transport. You can also give away or take well-preserved items for free. Delivery by car or van is not allowed." = "Hacimli atıkları, büyük metal eşyaları ve çakılları kargo tramvayına teslim et. Otomobil kabul edilmez! Yürüyerek, bisikletle veya toplu taşıma araçlarıyla seyahat ediyorsan kargo tramvayından yararlanabilirsin. Ayrıca iyi durumdaki eşyalarını ücretsiz olarak verebilir veya alabilirsin. Otomobil veya kamyonetle teslimat yapılamaz.";
 "Deliver electronic devices to the E-Tram. No cars allowed! The E-Tram is available to you if you are traveling on foot, by bike, or by public transport. You can also return old electronic devices to the point of sale without any hesitation. A pre-disposal fee is included in the purchase price of electronic and electrical devices. Retailers are therefore obliged to take back devices of the same type that they distribute, even if you don't buy a new one." = "Elektronik cihazları E-Tram'a teslim et. Arabayla giriş yasaktır! Yürüyerek, bisikletle veya toplu taşıma araçlarıyla seyahat ediyorsan E-Tram hizmetindedir. Eski elektronik cihazlarını da hiç tereddüt etmeden satış noktasına iade edebilirsin. Elektronik ve elektrikli cihazların satış fiyatına bir ön bertaraf ücreti dahildir. Bu nedenle perakendeciler, yeni bir ürün satın almasan bile, sattıkları aynı türdeki ürünleri geri almakla yükümlüdür.";
 "Description:" = "Açıklama:";
@@ -100,6 +107,7 @@
 "Dislike" = "Beğenme";
 "Done" = "Bitti";
 "Drag to reorder sections and toggle to show or hide them on your home screen." = "Bölümleri yeniden sıralamak için sürükle ve ana ekranında görünürlüklerini değiştirmek için geçiş yap.";
+"E-Bikes" = "E-Bisikletler";
 "E-Tram" = "E-Tramvay";
 "Easy" = "Kolay";
 "Economy" = "Ekonomi";
@@ -132,6 +140,7 @@
 "Fitness" = "Fitness";
 "Food" = "Yiyecek";
 "Fountain" = "Çeşme";
+"Free" = "Ücretsiz";
 "Gasoline-powered equipment like chainsaw, large metal, metal tools, battery and battery, waste" = "Benzinle çalışan zincirli testere, büyük metal eşyalar, metal aletler, akü ve pil, atık gibi ekipmanlar";
 "Geography" = "Coğrafya";
 "Get involved" = "Katıl";
@@ -139,6 +148,9 @@
 "Get recycling reminders based on your ZIP code." = "Posta koduna göre geri dönüşüm hatırlatıcıları al.";
 "Get reminders about Events in Zurich!" = "Zürih'teki Etkinlikler hakkında hatırlatıcılar al!";
 "Glass" = "Cam";
+"Good afternoon" = "İyi günler";
+"Good evening" = "İyi akşamlar";
+"Good morning" = "Günaydın";
 "Good to Know:" = "Bilmekte fayda var:";
 "Grant Location Access" = "Konum Erişimi İste";
 "Great job, you know Zurich well!" = "Harika iş, Zürih'i çok iyi tanıyorsun!";
@@ -154,7 +166,11 @@
 "Home Configuration" = "Ev Yapılandırması";
 "hour ago" = "bir saat önce";
 "hours ago" = "birkaç saat önce";
+"How busy is Bahnhofstrasse right now?" = "Bahnhofstrasse şu anda ne kadar kalabalık?";
+"How has Zürich's population changed?" = "Zürih'in nüfusu nasıl değişti?";
 "How to Recycle:" = "Nasıl Geri Dönüştürülür:";
+"How warm is Lake Zürich?" = "Zürih Gölü'nün suyu kaç derece?";
+"How's the air quality today?" = "Bugün hava kalitesi nasıl?";
 "I love the taste of a fancy coffee ❤️" = "Şık bir kahvenin tadını seviyorum ❤️";
 "I'd like to suggest the following feature:\n" = "Aşağıdaki özelliği önermek istiyorum:";
 "I'd like to take the chance and thank you for using my app!\nWith this email you are trying to file a bug. Please state your issue below this line:\n" = "Bu fırsatı değerlendirerek uygulamamı kullandığın için teşekkür etmek istiyorum!\nBu e-posta ile bir hata bildirmeye çalışıyorsun. Lütfen sorununu aşağıdaki satırın altına yaz:";
@@ -228,11 +244,13 @@
 "Nearby Locations" = "Yakındaki Konumlar";
 "Nearby stays off until location is granted in settings." = "Ayarlar'da konum izni verilene kadar Yakındaki yerler kapalı kalacaktır.";
 "Need help?" = "Yardım mı lazım?";
+"New chat" = "Yeni sohbet";
 "News" = "Haberler";
 "News alerts" = "Haber uyarıları";
 "No" = "Hayır";
 "No access to location granted" = "Konum erişimine izin verilmedi";
 "No air quality data available" = "Hava kalitesi verisi bulunamadı.";
+"No chats yet" = "Henüz sohbet yok";
 "No Configuration" = "Yapılandırma Yok";
 "No construction data available" = "Henüz inşaat verisi yok.";
 "No daily summary available" = "Günlük özet yok";
@@ -265,6 +283,7 @@
 "Not found" = "Bulunamadı";
 "Notifications are allowed." = "Bildirimlere izin verildi.";
 "Notifications blocked" = "Bildirimler engellendi";
+"Occupancy" = "Doluluk";
 "Off" = "Kapalı";
 "Office equipment, computers and accessories, keyboard, mouse, data storage, printer, fax machine, copier, modem, network device, tablet, phone, household appliances, boiler, iron, hair dryer, dishwasher, coffee machine, air conditioner, stove, refrigerator, lamp, blender, sewing machine, electric shaver, gaming device, sports equipment, floor lamp, vacuum cleaner, freezer, toaster, tumble dryer, washing machine, cable, entertainment devices, screen, CD and CD device, DVD and DVD device, leisure equipment, projector, radio, TV and accessories (remote control), video device/tape" = "Ofis ekipmanları, bilgisayarlar ve aksesuarlar, klavye, fare, veri depolama, yazıcı, faks makinesi, fotokopi makinesi, modem, ağ cihazı, tablet, telefon, ev aletleri, kombi, ütü, saç kurutma makinesi, bulaşık makinesi, kahve makinesi, klima, ocak, buzdolabı, lamba, blender, dikiş makinesi, elektrikli tıraş makinesi, oyun cihazı, spor ekipmanları, ayaklı lamba, elektrikli süpürge, derin dondurucu, tost makinesi, kurutma makinesi, çamaşır makinesi, kablo, eğlence cihazları, ekran, CD ve CD oynatıcı, DVD ve DVD oynatıcı, dinlenme ekipmanları, projektör, radyo, TV ve aksesuarları (uzaktan kumanda), video cihazı/kaset";
 "Oil" = "Yağ";
@@ -272,6 +291,7 @@
 "open" = "aç";
 "Open" = "Aç";
 "Open in Maps" = "Haritalar'da aç";
+"Opening Hours" = "Çalışma Saatleri";
 "Organic" = "Organik";
 "Paper" = "Kağıt";
 "Paper carrier bags and cardboard boxes do not belong in paper collection and are not suitable as collection containers. They are specially treated and affect the recycling process, and they fall apart in wet and windy conditions." = "Kağıt taşıma çantaları ve karton kutular kağıt toplama kutusuna atılmaz ve toplama kabı olarak uygun değildir. Özel işlem gördükleri için geri dönüşüm sürecini olumsuz etkilerler ve ıslak ve rüzgarlı havalarda dağılırlar.";
@@ -293,6 +313,7 @@
 "Pissoir" = "Pissoir";
 "Place the bundled cardboard or your cardboard container at the roadside on the collection day before 7 a.m." = "Paketlenmiş kartonunu veya karton kabını toplama günü sabah 7'den önce yol kenarına bırak.";
 "Place the bundled paper or your paper container at the roadside on the collection day before 7 a.m." = "Paketlenmiş kağıtları veya kağıt kabını toplama günü sabah 7'den önce yol kenarına bırak.";
+"Plan a relaxed afternoon" = "Rahat bir öğleden sonra planla";
 "Playground" = "Oyun Alanı";
 "Please check your connection and try again." = "Lütfen bağlantını kontrol et ve tekrar dene.";
 "Please enable calendar access in your device settings." = "Lütfen cihaz ayarlarından takvim erişimini etkinleştir.";
@@ -320,11 +341,15 @@
 "Recycling alerts" = "Geri dönüşüm uyarıları";
 "Recycling cardboard makes sense as it conserves natural resources and is cheaper than incinerating it in the waste-to-energy plant. The collected cardboard is an essential raw material for the production of corrugated cardboard, packaging, and even furniture. Because the technical processing continues to improve, even high-quality cardboard products are made from recycled cardboard." = "Kartonun geri dönüştürülmesi, doğal kaynakları koruduğu ve atıktan enerji üreten tesiste yakılmasından daha ucuza mal olduğu için mantıklıdır. Toplanan karton, oluklu mukavva, ambalaj ve hatta mobilya üretimi için temel bir hammaddedir. Teknik işleme yöntemleri gelişmeye devam ettikçe, yüksek kaliteli karton ürünler bile geri dönüştürülmüş kartondan üretilmektedir.";
 "Region" = "Bölge";
+"Regular Bikes" = "Standart Bisikletler";
 "Relaxing Lawn" = "Dinlendirici Çim";
 "Reminders based on your zip code." = "Posta koduna göre hatırlatıcılar.";
 "Reminders for events you care about." = "İlgilendiğin etkinlikler için hatırlatıcılar.";
+"Rename" = "Adını değiştir";
+"Rename chat" = "Sohbeti yeniden adlandır";
 "Restaurant" = "Restoran";
 "Review CasaZurich terms" = "CasaZurich şartlarını incele";
+"Save" = "Kaydet";
 "Search" = "Ara";
 "Search events" = "Etkinlikleri ara";
 "Search news" = "Haberleri ara";
@@ -335,6 +360,8 @@
 "Select all" = "Tümünü seç";
 "Select all correct answers" = "Tüm doğru cevapları seç";
 "Select one answer" = "Bir cevap seç";
+"Select Type" = "Tür Seç";
+"Select Zip" = "Posta kodu seç";
 "Send us a message" = "Bize bir mesaj gönder";
 "Separately collected paper can be recycled multiple times and is therefore the most important raw material for the Swiss paper industry: newspapers are made of up to 80 percent recycled paper." = "Ayrı olarak toplanan kağıtlar defalarca geri dönüştürülebilir ve bu nedenle İsviçre kağıt endüstrisi için en önemli hammaddedir: gazeteler %80'e kadar geri dönüştürülmüş kağıttan üretilir.";
 "Set end date" = "Bitiş tarihini ayarla";
@@ -380,10 +407,12 @@
 "The waste must be disposed of in a blue Zuri bag. The blue Zuri bag is available for a fee in retail stores and comes in 10, 17, 35, 60, or 110-liter sizes. Place your Zuri bag container at the designated pickup location before 7 a.m. on the collection day." = "Atıklar mavi bir Zuri torbasına atılmalıdır. Mavi Zuri torbası perakende mağazalarında ücret karşılığında satılmaktadır ve 10, 17, 35, 60 veya 110 litrelik boyutlarda mevcuttur. Zuri torba kabını teslimat gününde sabah 7'den önce belirlenen teslimat noktasına bırak.";
 "The Zurich Waste Disposal and Recycling brings over 30,000 Zuri bags to the Hagenholz waste-to-energy plant every day, where they are environmentally burned. The heat generated from incineration produces ecological power and climate-friendly Zurich heat, which can heat around 170,000 apartments." = "Zürih Atık Bertaraf ve Geri Dönüşüm, her gün 30.000'den fazla Zuri çöp torbasını Hagenholz atıktan enerji üretim tesisine getirerek burada çevreye duyarlı bir şekilde yakılmasını sağlıyor. Yakma işleminden elde edilen ısı, yaklaşık 170.000 daireyi ısıtabilecek ekolojik enerji ve iklim dostu Zürih ısısı üretiyor.";
 "Theater" = "Tiyatro";
+"Thinking" = "Düşünüyor";
 "Those who dispose of their household waste in fee-free bags, illegally, or in public trash bins are unfair to those who properly prepare their waste. Illegal dumpers are reported to the police and may face fines of up to several thousand Swiss francs." = "Evsel atıklarını ücretsiz poşetlere, yasa dışı yollara veya kamuya ait çöp kutularına atanlar, atıklarını usulüne uygun hazırlayanlara karşı haksızlık etmektedir. Yasa dışı çöp bırakanlar polise bildirilir ve birkaç bin İsviçre frangına kadar para cezasıyla karşı karşıya kalabilirler.";
 "Time TBD" = "Zaman TBD";
 "Timeout" = "Zaman aşımı";
 "Tips are currently unavailable" = "İpuçları şu anda kullanılamıyor.";
+"Title" = "Başlık";
 "Today" = "Bugün";
 "Today's briefing" = "Bugünün özeti";
 "Toggle" = "Aç/Kapa";
@@ -418,8 +447,15 @@
 "Water Temperature" = "Su Sıcaklığı";
 "Weather" = "Hava Durumu";
 "Welcome to CasaZurich" = "CasaZurich'e Hoş Geldin";
+"What can I show you in Zürich?" = "Zürih'te sana neler gösterebilirim?";
+"What's on today?" = "Bugün neler var?";
+"What's the temperature in Zürich right now?" = "Zürih'te şu an hava kaç derece?";
 "Wheelchair Support" = "Tekerlekli Sandalye Desteği";
+"When are the school holidays?" = "Okul tatilleri ne zaman?";
 "When configuration is missing" = "Yapılandırma eksik olduğunda";
+"Where are the playgrounds in Zürich?" = "Zürih'teki oyun parkları nerede?";
+"Where can I find free parking right now?" = "Şu anda ücretsiz park yerini nerede bulabilirim?";
+"Which restaurants are recommended in Zürich?" = "Zürih'te hangi restoranlar öneriliyor?";
 "While uncoated pizza boxes are made of cardboard, only clean ones should be placed in the cardboard collection. Greasy pizza boxes with food residues cannot be recycled and should be placed in household waste." = "Kaplamasız pizza kutuları kartondan yapılmış olsa da, yalnızca temiz olanlar karton geri dönüşümüne atılmalıdır. Yemek artığı bulunan yağlı pizza kutuları geri dönüştürülemez ve evsel atık kutusuna atılmalıdır.";
 "Win prizes from local venues" = "Yerel mekanlardan ödüller kazan";
 "Yes" = "Evet";
