@@ -324,6 +324,7 @@
 "PubliBike" = "PubliBike";
 "Public facilities" = "公共设施";
 "Purchase failed" = "购买失败";
+"Purchase not allowed" = "无法购买";
 "Push Notification" = "推送通知";
 "Push notifications" = "推送通知";
 "Push Notifications Disabled" = "推送通知已停用";
@@ -367,6 +368,7 @@
 "Set end date" = "设置结束日期";
 "Set start date" = "设置开始日期";
 "Settings" = "设置";
+"Share" = "分享";
 "Share with friends" = "与好友分享";
 "Shop merchandise" = "选购商品";
 "Shop Merchandise" = "选购商品";
@@ -408,6 +410,7 @@
 "The Zurich Waste Disposal and Recycling brings over 30,000 Zuri bags to the Hagenholz waste-to-energy plant every day, where they are environmentally burned. The heat generated from incineration produces ecological power and climate-friendly Zurich heat, which can heat around 170,000 apartments." = "苏黎世废物处理与回收公司（Zürich Entsorgung und Recycling）每日将超过30,000个苏黎世垃圾袋运往哈根霍尔茨垃圾发电厂，并在那里进行环保焚烧。焚烧产生的热量可转化为生态电力和气候友好的苏黎世供暖，为约17万套公寓供暖。";
 "Theater" = "剧院";
 "Thinking" = "正在思考";
+"This device or account isn't allowed to make purchases. Check parental controls or device restrictions and try again." = "此设备或账户不允许进行购买。请检查家长控制或设备限制设置，然后重试。";
 "Those who dispose of their household waste in fee-free bags, illegally, or in public trash bins are unfair to those who properly prepare their waste. Illegal dumpers are reported to the police and may face fines of up to several thousand Swiss francs." = "那些将生活垃圾随意丢弃在免费垃圾袋中、非法倾倒或丢入公共垃圾箱的人，对那些规范处理垃圾的人不公平。非法倾倒者将被举报至警方，可能面临高达数千瑞士法郎的罚款。";
 "Time TBD" = "时间待定";
 "Timeout" = "超时";
@@ -430,6 +433,7 @@
 "Turn on at least one section in settings to start using the app." = "请在设置中开启至少一个部分，即可开始使用此应用。";
 "Unable to load events right now." = "暂时无法加载活动。";
 "Unable to load news right now." = "目前无法加载新闻。";
+"Unable to load recycling events right now." = "暂时无法加载回收活动。";
 "Uncover construction sites and more on your Map" = "在地图上探索建筑工地及更多内容";
 "Unknown" = "未知";
 "Unlike" = "不同于";

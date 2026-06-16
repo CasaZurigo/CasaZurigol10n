@@ -324,6 +324,7 @@
 "PubliBike" = "PubliBike";
 "Public facilities" = "Public facilities";
 "Purchase failed" = "Purchase failed";
+"Purchase not allowed" = "Purchase not allowed";
 "Push Notification" = "Push Notification";
 "Push notifications" = "Push notifications";
 "Push Notifications Disabled" = "Push Notifications Disabled";
@@ -367,6 +368,7 @@
 "Set end date" = "Set end date";
 "Set start date" = "Set start date";
 "Settings" = "Settings";
+"Share" = "Share";
 "Share with friends" = "Share with friends";
 "Shop merchandise" = "Shop merchandise";
 "Shop Merchandise" = "Shop Merchandise";
@@ -408,6 +410,7 @@
 "The Zurich Waste Disposal and Recycling brings over 30,000 Zuri bags to the Hagenholz waste-to-energy plant every day, where they are environmentally burned. The heat generated from incineration produces ecological power and climate-friendly Zurich heat, which can heat around 170,000 apartments." = "The Zurich Waste Disposal and Recycling brings over 30,000 Zuri bags to the Hagenholz waste-to-energy plant every day, where they are environmentally burned. The heat generated from incineration produces ecological power and climate-friendly Zurich heat, which can heat around 170,000 apartments.";
 "Theater" = "Theater";
 "Thinking" = "Thinking";
+"This device or account isn't allowed to make purchases. Check parental controls or device restrictions and try again." = "This device or account isn't allowed to make purchases. Check parental controls or device restrictions and try again.";
 "Those who dispose of their household waste in fee-free bags, illegally, or in public trash bins are unfair to those who properly prepare their waste. Illegal dumpers are reported to the police and may face fines of up to several thousand Swiss francs." = "Those who dispose of their household waste in fee-free bags, illegally, or in public trash bins are unfair to those who properly prepare their waste. Illegal dumpers are reported to the police and may face fines of up to several thousand Swiss francs.";
 "Time TBD" = "Time TBD";
 "Timeout" = "Timeout";
@@ -430,6 +433,7 @@
 "Turn on at least one section in settings to start using the app." = "Turn on at least one section in settings to start using the app.";
 "Unable to load events right now." = "Unable to load events right now.";
 "Unable to load news right now." = "Unable to load news right now.";
+"Unable to load recycling events right now." = "Unable to load recycling events right now.";
 "Uncover construction sites and more on your Map" = "Uncover construction sites and more on your Map";
 "Unknown" = "Unknown";
 "Unlike" = "Unlike";

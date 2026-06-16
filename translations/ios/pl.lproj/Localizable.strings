@@ -324,6 +324,7 @@
 "PubliBike" = "PubliBike";
 "Public facilities" = "Obiekty użyteczności publicznej";
 "Purchase failed" = "Zakup nie powiódł się";
+"Purchase not allowed" = "Zakup niedozwolony";
 "Push Notification" = "Powiadomienie push";
 "Push notifications" = "Powiadomienia push";
 "Push Notifications Disabled" = "Powiadomienia push wyłączone";
@@ -367,6 +368,7 @@
 "Set end date" = "Ustaw datę zakończenia";
 "Set start date" = "Ustaw datę rozpoczęcia";
 "Settings" = "Ustawienia";
+"Share" = "Udostępnij";
 "Share with friends" = "Udostępnij znajomym";
 "Shop merchandise" = "Kupuj produkty";
 "Shop Merchandise" = "Kupuj artykuły";
@@ -408,6 +410,7 @@
 "The Zurich Waste Disposal and Recycling brings over 30,000 Zuri bags to the Hagenholz waste-to-energy plant every day, where they are environmentally burned. The heat generated from incineration produces ecological power and climate-friendly Zurich heat, which can heat around 170,000 apartments." = "Zakład Utylizacji i Recyklingu Odpadów w Zurychu codziennie dostarcza ponad 30 000 worków Zuri do spalarni odpadów Hagenholz, gdzie są one spalane w sposób przyjazny dla środowiska. Ciepło wytworzone ze spalania produkuje ekologiczną energię elektryczną i przyjazne dla klimatu ciepło dla Zurychu, które może ogrzać około 170 000 mieszkań.";
 "Theater" = "Teatr";
 "Thinking" = "Myślenie";
+"This device or account isn't allowed to make purchases. Check parental controls or device restrictions and try again." = "To urządzenie lub konto nie ma uprawnień do dokonywania zakupów. Sprawdź ustawienia kontroli rodzicielskiej lub ograniczenia urządzenia i spróbuj ponownie.";
 "Those who dispose of their household waste in fee-free bags, illegally, or in public trash bins are unfair to those who properly prepare their waste. Illegal dumpers are reported to the police and may face fines of up to several thousand Swiss francs." = "Osoby, które pozbywają się odpadów komunalnych w workach bezpłatnych, w sposób nielegalny lub do publicznych koszy na śmieci, postępują nieuczciwie wobec tych, którzy prawidłowo przygotowują swoje odpady. Nielegalni wysypujący śmieci są zgłaszani policji i mogą zostać ukarani grzywną w wysokości do kilku tysięcy franków szwajcarskich.";
 "Time TBD" = "Godzina do ustalenia";
 "Timeout" = "Przekroczenie limitu czasu";
@@ -430,6 +433,7 @@
 "Turn on at least one section in settings to start using the app." = "Aby zacząć korzystać z aplikacji, włącz co najmniej jedną sekcję w ustawieniach.";
 "Unable to load events right now." = "Nie można teraz załadować wydarzeń.";
 "Unable to load news right now." = "Nie można teraz załadować wiadomości.";
+"Unable to load recycling events right now." = "Nie można teraz załadować wydarzeń związanych z recyklingiem.";
 "Uncover construction sites and more on your Map" = "Odkrywaj place budowy i inne miejsca na swojej mapie";
 "Unknown" = "Nieznany";
 "Unlike" = "W przeciwieństwie do";

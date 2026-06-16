@@ -324,6 +324,7 @@
 "PubliBike" = "PubliBike";
 "Public facilities" = "Громадські об'єкти";
 "Purchase failed" = "Покупку не вдалося здійснити";
+"Purchase not allowed" = "Покупка заборонена";
 "Push Notification" = "Push-повідомлення";
 "Push notifications" = "Push-сповіщення";
 "Push Notifications Disabled" = "Push-сповіщення вимкнено";
@@ -367,6 +368,7 @@
 "Set end date" = "Встановити дату закінчення";
 "Set start date" = "Встановити дату початку";
 "Settings" = "Налаштування";
+"Share" = "Поділитися";
 "Share with friends" = "Поділитися з друзями";
 "Shop merchandise" = "Купуй товари";
 "Shop Merchandise" = "Товари магазину";
@@ -408,6 +410,7 @@
 "The Zurich Waste Disposal and Recycling brings over 30,000 Zuri bags to the Hagenholz waste-to-energy plant every day, where they are environmentally burned. The heat generated from incineration produces ecological power and climate-friendly Zurich heat, which can heat around 170,000 apartments." = "Щодня Цюріхська служба утилізації та переробки відходів доставляє понад 30 000 пакетів Zuri на сміттєспалювальний завод у Хагенхольці, де їх екологічно спалюють. Тепло, що утворюється під час спалювання, виробляє екологічно чисту електроенергію та кліматично нейтральне цюріхське тепло, яким можна обігріти близько 170 000 квартир.";
 "Theater" = "Театр";
 "Thinking" = "Думаю";
+"This device or account isn't allowed to make purchases. Check parental controls or device restrictions and try again." = "Цей пристрій або обліковий запис не має дозволу на здійснення покупок. Перевірте налаштування батьківського контролю або обмеження пристрою та спробуйте ще раз.";
 "Those who dispose of their household waste in fee-free bags, illegally, or in public trash bins are unfair to those who properly prepare their waste. Illegal dumpers are reported to the police and may face fines of up to several thousand Swiss francs." = "Ті, хто викидає побутові відходи у безкоштовні пакети, незаконно або у громадські сміттєві баки, чинять несправедливо щодо тих, хто належним чином готує свої відходи. Про незаконних сміттярів повідомляють поліції, і їм загрожують штрафи до кількох тисяч швейцарських франків.";
 "Time TBD" = "Час буде визначено пізніше";
 "Timeout" = "Тайм-аут";
@@ -430,6 +433,7 @@
 "Turn on at least one section in settings to start using the app." = "Увімкни хоча б один розділ у налаштуваннях, щоб почати користуватися додатком.";
 "Unable to load events right now." = "Наразі не вдається завантажити події.";
 "Unable to load news right now." = "Наразі не вдається завантажити новини.";
+"Unable to load recycling events right now." = "Не вдалося завантажити події з переробки відходів.";
 "Uncover construction sites and more on your Map" = "Відкривай будівельні майданчики та багато іншого на своїй мапі";
 "Unknown" = "Невідомо";
 "Unlike" = "На відміну від";

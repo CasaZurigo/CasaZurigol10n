@@ -324,6 +324,7 @@
 "PubliBike" = "PubliBike";
 "Public facilities" = "מתקנים ציבוריים";
 "Purchase failed" = "הרכישה נכשלה";
+"Purchase not allowed" = "הרכישה אינה מותרת";
 "Push Notification" = "הודעת דחיפה";
 "Push notifications" = "התראות בדחיפה";
 "Push Notifications Disabled" = "התראות דחיפה מושבתות";
@@ -367,6 +368,7 @@
 "Set end date" = "קבע תאריך סיום";
 "Set start date" = "קבע תאריך התחלה";
 "Settings" = "הגדרות";
+"Share" = "שיתוף";
 "Share with friends" = "שתף עם חברים";
 "Shop merchandise" = "קנה מוצרים";
 "Shop Merchandise" = "חנות מוצרים";
@@ -408,6 +410,7 @@
 "The Zurich Waste Disposal and Recycling brings over 30,000 Zuri bags to the Hagenholz waste-to-energy plant every day, where they are environmentally burned. The heat generated from incineration produces ecological power and climate-friendly Zurich heat, which can heat around 170,000 apartments." = "חברת Zurich Waste Disposal and Recycling מביאה מדי יום למעלה מ-30,000 שקיות Zuri למתקן ה-Hagenholz להפקת אנרגיה מפסולת, שם הן נשרפות באופן ידידותי לסביבה. החום הנוצר מהשריפה מייצר חשמל אקולוגי וחום ידידותי לאקלים עבור ציריך, המספיק לחימום של כ-170,000 דירות.";
 "Theater" = "תיאטרון";
 "Thinking" = "חשיבה";
+"This device or account isn't allowed to make purchases. Check parental controls or device restrictions and try again." = "המכשיר או החשבון הזה אינם מורשים לבצע רכישות. בדוק את בקרת ההורים או את הגבלות המכשיר ונסה שוב.";
 "Those who dispose of their household waste in fee-free bags, illegally, or in public trash bins are unfair to those who properly prepare their waste. Illegal dumpers are reported to the police and may face fines of up to several thousand Swiss francs." = "האנשים שמשליכים את הפסולת הביתית שלהם בשקיות ללא תשלום, באופן לא חוקי, או בפחי אשפה ציבוריים, אינם הוגנים כלפי אלה שמכינים את הפסולת שלהם כראוי. משליכי פסולת בלתי חוקיים מדווחים למשטרה ועלולים לעמוד בפני קנסות של עד אלפי פרנקים שוויצריים.";
 "Time TBD" = "השעה תפורסם בהמשך";
 "Timeout" = "פסק זמן";
@@ -430,6 +433,7 @@
 "Turn on at least one section in settings to start using the app." = "הפעל לפחות קטע אחד בהגדרות כדי להתחיל להשתמש באפליקציה.";
 "Unable to load events right now." = "לא ניתן לטעון אירועים כרגע.";
 "Unable to load news right now." = "לא ניתן לטעון חדשות כרגע.";
+"Unable to load recycling events right now." = "לא ניתן לטעון את אירועי המיחזור כרגע.";
 "Uncover construction sites and more on your Map" = "גלה אתרי בנייה ועוד במפה שלך";
 "Unknown" = "לא ידוע";
 "Unlike" = "בניגוד ל";

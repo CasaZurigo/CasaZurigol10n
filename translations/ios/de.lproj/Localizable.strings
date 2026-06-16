@@ -324,6 +324,7 @@
 "PubliBike" = "PubliBike";
 "Public facilities" = "Öffentliche Einrichtungen";
 "Purchase failed" = "Kauf fehlgeschlagen";
+"Purchase not allowed" = "Kauf nicht erlaubt";
 "Push Notification" = "Push-Benachrichtigung";
 "Push notifications" = "Push-Benachrichtigungen";
 "Push Notifications Disabled" = "Push-Benachrichtigungen deaktiviert";
@@ -367,6 +368,7 @@
 "Set end date" = "Enddatum festlegen";
 "Set start date" = "Startdatum festlegen";
 "Settings" = "Einstellungen";
+"Share" = "Teilen";
 "Share with friends" = "Mit Freunden teilen";
 "Shop merchandise" = "Fanartikel kaufen";
 "Shop Merchandise" = "Merchandise kaufen";
@@ -408,6 +410,7 @@
 "The Zurich Waste Disposal and Recycling brings over 30,000 Zuri bags to the Hagenholz waste-to-energy plant every day, where they are environmentally burned. The heat generated from incineration produces ecological power and climate-friendly Zurich heat, which can heat around 170,000 apartments." = "Die Zürcher Abfallentsorgung und Recycling bringt täglich über 30'000 Zuri-Säcke ins Kehrichtheizkraftwerk Hagenholz, wo sie umweltgerecht verbrannt werden. Die bei der Verbrennung entstehende Wärme produziert ökologischen Strom und klimafreundliche Zürich-Wärme, mit der rund 170'000 Wohnungen beheizt werden können.";
 "Theater" = "Theater";
 "Thinking" = "Nachdenken";
+"This device or account isn't allowed to make purchases. Check parental controls or device restrictions and try again." = "Dieses Gerät oder dieser Account ist nicht für Käufe berechtigt. Überprüfe die Kindersicherung oder die Geräteeinschränkungen und versuche es erneut.";
 "Those who dispose of their household waste in fee-free bags, illegally, or in public trash bins are unfair to those who properly prepare their waste. Illegal dumpers are reported to the police and may face fines of up to several thousand Swiss francs." = "Wer seinen Hausmüll in gebührenfreien Säcken, illegal oder in öffentlichen Abfallbehältern entsorgt, ist unfair gegenüber denjenigen, die ihren Abfall ordnungsgemäß vorbereiten. Illegale Müllentsorger werden der Polizei gemeldet und können mit Bussen von bis zu mehreren tausend Schweizer Franken bestraft werden.";
 "Time TBD" = "Zeitpunkt noch offen";
 "Timeout" = "Zeitüberschreitung";
@@ -430,6 +433,7 @@
 "Turn on at least one section in settings to start using the app." = "Aktiviere mindestens einen Bereich in den Einstellungen, um die App nutzen zu können.";
 "Unable to load events right now." = "Ereignisse können derzeit nicht geladen werden.";
 "Unable to load news right now." = "Die Nachrichten können derzeit nicht geladen werden.";
+"Unable to load recycling events right now." = "Recycling-Events können momentan nicht geladen werden.";
 "Uncover construction sites and more on your Map" = "Entdecke Baustellen und mehr auf deiner Karte";
 "Unknown" = "Unbekannt";
 "Unlike" = "Im Gegensatz zu";

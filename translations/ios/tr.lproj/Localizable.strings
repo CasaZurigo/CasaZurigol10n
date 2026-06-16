@@ -324,6 +324,7 @@
 "PubliBike" = "PubliBike";
 "Public facilities" = "Halka açık tesisler";
 "Purchase failed" = "Satın alma başarısız oldu";
+"Purchase not allowed" = "Satın alma yapılamaz";
 "Push Notification" = "Anlık Bildirim";
 "Push notifications" = "Anlık bildirimler";
 "Push Notifications Disabled" = "Anlık Bildirimler Devre Dışı";
@@ -367,6 +368,7 @@
 "Set end date" = "Bitiş tarihini ayarla";
 "Set start date" = "Başlangıç tarihini ayarla";
 "Settings" = "Ayarlar";
+"Share" = "Paylaş";
 "Share with friends" = "Arkadaşlarınla paylaş";
 "Shop merchandise" = "Mağazadan ürünler";
 "Shop Merchandise" = "Mağaza Ürünleri";
@@ -408,6 +410,7 @@
 "The Zurich Waste Disposal and Recycling brings over 30,000 Zuri bags to the Hagenholz waste-to-energy plant every day, where they are environmentally burned. The heat generated from incineration produces ecological power and climate-friendly Zurich heat, which can heat around 170,000 apartments." = "Zürih Atık Bertaraf ve Geri Dönüşüm, her gün 30.000'den fazla Zuri çöp torbasını Hagenholz atıktan enerji üretim tesisine getirerek burada çevreye duyarlı bir şekilde yakılmasını sağlıyor. Yakma işleminden elde edilen ısı, yaklaşık 170.000 daireyi ısıtabilecek ekolojik enerji ve iklim dostu Zürih ısısı üretiyor.";
 "Theater" = "Tiyatro";
 "Thinking" = "Düşünüyor";
+"This device or account isn't allowed to make purchases. Check parental controls or device restrictions and try again." = "Bu cihaz veya hesapla alışveriş yapılmasına izin verilmiyor. Ebeveyn denetimlerini veya cihaz kısıtlamalarını kontrol edip tekrar dene.";
 "Those who dispose of their household waste in fee-free bags, illegally, or in public trash bins are unfair to those who properly prepare their waste. Illegal dumpers are reported to the police and may face fines of up to several thousand Swiss francs." = "Evsel atıklarını ücretsiz poşetlere, yasa dışı yollara veya kamuya ait çöp kutularına atanlar, atıklarını usulüne uygun hazırlayanlara karşı haksızlık etmektedir. Yasa dışı çöp bırakanlar polise bildirilir ve birkaç bin İsviçre frangına kadar para cezasıyla karşı karşıya kalabilirler.";
 "Time TBD" = "Zaman TBD";
 "Timeout" = "Zaman aşımı";
@@ -430,6 +433,7 @@
 "Turn on at least one section in settings to start using the app." = "Uygulamayı kullanmaya başlamak için ayarlardan en az bir bölümü etkinleştir.";
 "Unable to load events right now." = "Şu anda etkinlikler yüklenemiyor.";
 "Unable to load news right now." = "Şu anda haber yüklenemiyor.";
+"Unable to load recycling events right now." = "Geri dönüşüm etkinlikleri şu anda yüklenemiyor.";
 "Uncover construction sites and more on your Map" = "Haritanda inşaat alanlarını ve daha fazlasını keşfet";
 "Unknown" = "Bilinmiyor";
 "Unlike" = "aksine";
