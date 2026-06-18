@@ -237,6 +237,7 @@
 "Mobile" = "Мобільний";
 "Mobile Recycling" = "Мобільна переробка";
 "More filters" = "Більше фільтрів";
+"Most relevant first" = "Спочатку найрелевантніші";
 "Movie" = "Фільм";
 "Multiple choice" = "Множинний вибір";
 "Museum" = "Музей";
@@ -249,6 +250,7 @@
 "Nearby stays off until location is granted in settings." = "Функція «Поруч» залишається вимкненою, доки ти не надаси дозвіл на доступ до місцезнаходження в налаштуваннях.";
 "Need help?" = "Потрібна допомога?";
 "New chat" = "Новий чат";
+"Newest first" = "Спочатку новіші";
 "News" = "Новини";
 "News alerts" = "Сповіщення про новини";
 "No" = "Ні";
@@ -291,6 +293,7 @@
 "Off" = "Вимкнено";
 "Office equipment, computers and accessories, keyboard, mouse, data storage, printer, fax machine, copier, modem, network device, tablet, phone, household appliances, boiler, iron, hair dryer, dishwasher, coffee machine, air conditioner, stove, refrigerator, lamp, blender, sewing machine, electric shaver, gaming device, sports equipment, floor lamp, vacuum cleaner, freezer, toaster, tumble dryer, washing machine, cable, entertainment devices, screen, CD and CD device, DVD and DVD device, leisure equipment, projector, radio, TV and accessories (remote control), video device/tape" = "Офісне обладнання, комп'ютери та аксесуари, клавіатура, миша, пристрої зберігання даних, принтер, факс, копіювальний апарат, модем, мережевий пристрій, планшет, телефон, побутова техніка, бойлер, праска, фен, посудомийна машина, кавоварка, кондиціонер, плита, холодильник, лампа, блендер, швейна машина, електробритва, ігровий пристрій, спортивне обладнання, торшер, пилосос, морозильна камера, тостер, сушильна машина, пральна машина, кабель, розважальні пристрої, екран, CD та CD-пристрій, DVD та DVD-пристрій, обладнання для дозвілля, проєктор, радіо, телевізор та аксесуари (пульт дистанційного керування), відеопристрій/касета";
 "Oil" = "Олія";
+"Oldest first" = "Спочатку старіші";
 "On" = "Увімкнено";
 "open" = "відкрити";
 "Open" = "Відкрити";

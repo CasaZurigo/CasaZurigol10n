@@ -237,6 +237,7 @@
 "Mobile" = "Мобильный";
 "Mobile Recycling" = "Мобильная переработка";
 "More filters" = "Дополнительные фильтры";
+"Most relevant first" = "Сначала релевантные";
 "Movie" = "Фильм";
 "Multiple choice" = "Множественный выбор";
 "Museum" = "Музей";
@@ -249,6 +250,7 @@
 "Nearby stays off until location is granted in settings." = "Функция «Рядом» будет отключена, пока ты не разрешишь доступ к геолокации в настройках.";
 "Need help?" = "Нужна помощь?";
 "New chat" = "Новый чат";
+"Newest first" = "Сначала новые";
 "News" = "Новости";
 "News alerts" = "Оповещения о новостях";
 "No" = "Нет";
@@ -291,6 +293,7 @@
 "Off" = "Выкл";
 "Office equipment, computers and accessories, keyboard, mouse, data storage, printer, fax machine, copier, modem, network device, tablet, phone, household appliances, boiler, iron, hair dryer, dishwasher, coffee machine, air conditioner, stove, refrigerator, lamp, blender, sewing machine, electric shaver, gaming device, sports equipment, floor lamp, vacuum cleaner, freezer, toaster, tumble dryer, washing machine, cable, entertainment devices, screen, CD and CD device, DVD and DVD device, leisure equipment, projector, radio, TV and accessories (remote control), video device/tape" = "Оргтехника, компьютеры и аксессуары, клавиатура, мышь, устройства хранения данных, принтер, факс, копировальный аппарат, модем, сетевое устройство, планшет, телефон, бытовая техника, водонагреватель, утюг, фен, посудомоечная машина, кофемашина, кондиционер, плита, холодильник, лампа, блендер, швейная машина, электробритва, игровое устройство, спортивное оборудование, торшер, пылесос, морозильная камера, тостер, сушильная машина, стиральная машина, кабель, развлекательные устройства, экран, CD и CD-плеер, DVD и DVD-плеер, оборудование для досуга, проектор, радио, телевизор и аксессуары (пульт ДУ), видеомагнитофон/видеокассета";
 "Oil" = "Нефть";
+"Oldest first" = "Сначала старые";
 "On" = "На";
 "open" = "открыть";
 "Open" = "Открыть";

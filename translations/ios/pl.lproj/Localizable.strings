@@ -237,6 +237,7 @@
 "Mobile" = "Mobilny";
 "Mobile Recycling" = "Mobilny recykling";
 "More filters" = "Więcej filtrów";
+"Most relevant first" = "Najpierw najbardziej trafne";
 "Movie" = "Film";
 "Multiple choice" = "Wielokrotnego wyboru";
 "Museum" = "Muzeum";
@@ -249,6 +250,7 @@
 "Nearby stays off until location is granted in settings." = "Funkcja „W pobliżu” jest wyłączona, dopóki nie zezwolisz na dostęp do lokalizacji w ustawieniach.";
 "Need help?" = "Potrzebujesz pomocy?";
 "New chat" = "Nowy czat";
+"Newest first" = "Najnowsze najpierw";
 "News" = "Aktualności";
 "News alerts" = "Powiadomienia o nowościach";
 "No" = "Nie";
@@ -291,6 +293,7 @@
 "Off" = "Wyłączony";
 "Office equipment, computers and accessories, keyboard, mouse, data storage, printer, fax machine, copier, modem, network device, tablet, phone, household appliances, boiler, iron, hair dryer, dishwasher, coffee machine, air conditioner, stove, refrigerator, lamp, blender, sewing machine, electric shaver, gaming device, sports equipment, floor lamp, vacuum cleaner, freezer, toaster, tumble dryer, washing machine, cable, entertainment devices, screen, CD and CD device, DVD and DVD device, leisure equipment, projector, radio, TV and accessories (remote control), video device/tape" = "Sprzęt biurowy, komputery i akcesoria, klawiatura, mysz, pamięć masowa, drukarka, faks, kopiarka, modem, urządzenie sieciowe, tablet, telefon, sprzęt AGD, bojler, żelazko, suszarka do włosów, zmywarka, ekspres do kawy, klimatyzator, kuchenka, lodówka, lampa, blender, maszyna do szycia, golarka elektryczna, konsola do gier, sprzęt sportowy, lampa podłogowa, odkurzacz, zamrażarka, toster, suszarka bębnowa, pralka, kabel, urządzenia rozrywkowe, ekran, odtwarzacz CD i płyty CD, odtwarzacz DVD i płyty DVD, sprzęt rekreacyjny, projektor, radio, telewizor i akcesoria (pilot), urządzenie wideo/taśma";
 "Oil" = "Olej";
+"Oldest first" = "Najstarsze najpierw";
 "On" = "Włączony";
 "open" = "Otwórz";
 "Open" = "Otwórz";

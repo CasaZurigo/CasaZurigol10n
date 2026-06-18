@@ -237,6 +237,7 @@
 "Mobile" = "Móvil";
 "Mobile Recycling" = "Reciclaje móvil";
 "More filters" = "Más filtros";
+"Most relevant first" = "Más relevantes primero";
 "Movie" = "Película";
 "Multiple choice" = "Opción múltiple";
 "Museum" = "Museo";
@@ -249,6 +250,7 @@
 "Nearby stays off until location is granted in settings." = "La opción \"Cerca\" permanecerá desactivada hasta que se conceda acceso a la ubicación en los ajustes.";
 "Need help?" = "¿Necesitas ayuda?";
 "New chat" = "Nuevo chat";
+"Newest first" = "Más recientes primero";
 "News" = "Noticias";
 "News alerts" = "Alertas de noticias";
 "No" = "No";
@@ -291,6 +293,7 @@
 "Off" = "Apagado";
 "Office equipment, computers and accessories, keyboard, mouse, data storage, printer, fax machine, copier, modem, network device, tablet, phone, household appliances, boiler, iron, hair dryer, dishwasher, coffee machine, air conditioner, stove, refrigerator, lamp, blender, sewing machine, electric shaver, gaming device, sports equipment, floor lamp, vacuum cleaner, freezer, toaster, tumble dryer, washing machine, cable, entertainment devices, screen, CD and CD device, DVD and DVD device, leisure equipment, projector, radio, TV and accessories (remote control), video device/tape" = "Equipos de oficina, ordenadores y accesorios, teclado, ratón, almacenamiento de datos, impresora, fax, fotocopiadora, módem, dispositivo de red, tableta, teléfono, electrodomésticos, caldera, plancha, secador de pelo, lavavajillas, cafetera, aire acondicionado, cocina, frigorífico, lámpara, batidora, máquina de coser, afeitadora eléctrica, consola de videojuegos, equipamiento deportivo, lámpara de pie, aspiradora, congelador, tostadora, secadora de ropa, lavadora, cable, dispositivos de entretenimiento, pantalla, CD y reproductor de CD, DVD y reproductor de DVD, equipamiento de ocio, proyector, radio, TV y accesorios (mando a distancia), dispositivo/cinta de vídeo";
 "Oil" = "Aceite";
+"Oldest first" = "Más antiguos primero";
 "On" = "Activado";
 "open" = "abrir";
 "Open" = "Abrir";

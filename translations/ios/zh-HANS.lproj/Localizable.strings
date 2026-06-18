@@ -237,6 +237,7 @@
 "Mobile" = "移动";
 "Mobile Recycling" = "移动回收";
 "More filters" = "更多筛选条件";
+"Most relevant first" = "相关性优先";
 "Movie" = "电影";
 "Multiple choice" = "多项选择";
 "Museum" = "博物馆";
@@ -249,6 +250,7 @@
 "Nearby stays off until location is granted in settings." = "在设置中授予位置权限前，“附近”功能将保持关闭。";
 "Need help?" = "需要帮助吗？";
 "New chat" = "新建聊天";
+"Newest first" = "最新优先";
 "News" = "新闻";
 "News alerts" = "新闻快讯";
 "No" = "取消";
@@ -291,6 +293,7 @@
 "Off" = "关";
 "Office equipment, computers and accessories, keyboard, mouse, data storage, printer, fax machine, copier, modem, network device, tablet, phone, household appliances, boiler, iron, hair dryer, dishwasher, coffee machine, air conditioner, stove, refrigerator, lamp, blender, sewing machine, electric shaver, gaming device, sports equipment, floor lamp, vacuum cleaner, freezer, toaster, tumble dryer, washing machine, cable, entertainment devices, screen, CD and CD device, DVD and DVD device, leisure equipment, projector, radio, TV and accessories (remote control), video device/tape" = "办公设备、电脑及配件、键盘、鼠标、数据存储、打印机、传真机、复印机、调制解调器、网络设备、平板电脑、手机、家用电器、锅炉、熨斗、吹风机、洗碗机、咖啡机、空调、炉灶、冰箱、灯具、搅拌机、缝纫机、电动剃须刀、游戏设备、运动器材、落地灯、吸尘器、冰柜、烤面包机、烘干机、洗衣机、线缆、娱乐设备、屏幕、CD及CD播放器、DVD及DVD播放器、休闲设备、投影仪、收音机、电视及配件（遥控器）、视频设备/录像带";
 "Oil" = "石油";
+"Oldest first" = "从旧到新";
 "On" = "在";
 "open" = "打开";
 "Open" = "打开";

@@ -237,6 +237,7 @@
 "Mobile" = "Mobil";
 "Mobile Recycling" = "Mobil Geri Dönüşüm";
 "More filters" = "Daha fazla filtre";
+"Most relevant first" = "Önce en alakalılar";
 "Movie" = "Film";
 "Multiple choice" = "Çoktan seçmeli";
 "Museum" = "Müze";
@@ -249,6 +250,7 @@
 "Nearby stays off until location is granted in settings." = "Ayarlar'da konum izni verilene kadar Yakındaki yerler kapalı kalacaktır.";
 "Need help?" = "Yardım mı lazım?";
 "New chat" = "Yeni sohbet";
+"Newest first" = "En yeniler önce";
 "News" = "Haberler";
 "News alerts" = "Haber uyarıları";
 "No" = "Hayır";
@@ -291,6 +293,7 @@
 "Off" = "Kapalı";
 "Office equipment, computers and accessories, keyboard, mouse, data storage, printer, fax machine, copier, modem, network device, tablet, phone, household appliances, boiler, iron, hair dryer, dishwasher, coffee machine, air conditioner, stove, refrigerator, lamp, blender, sewing machine, electric shaver, gaming device, sports equipment, floor lamp, vacuum cleaner, freezer, toaster, tumble dryer, washing machine, cable, entertainment devices, screen, CD and CD device, DVD and DVD device, leisure equipment, projector, radio, TV and accessories (remote control), video device/tape" = "Ofis ekipmanları, bilgisayarlar ve aksesuarlar, klavye, fare, veri depolama, yazıcı, faks makinesi, fotokopi makinesi, modem, ağ cihazı, tablet, telefon, ev aletleri, kombi, ütü, saç kurutma makinesi, bulaşık makinesi, kahve makinesi, klima, ocak, buzdolabı, lamba, blender, dikiş makinesi, elektrikli tıraş makinesi, oyun cihazı, spor ekipmanları, ayaklı lamba, elektrikli süpürge, derin dondurucu, tost makinesi, kurutma makinesi, çamaşır makinesi, kablo, eğlence cihazları, ekran, CD ve CD oynatıcı, DVD ve DVD oynatıcı, dinlenme ekipmanları, projektör, radyo, TV ve aksesuarları (uzaktan kumanda), video cihazı/kaset";
 "Oil" = "Yağ";
+"Oldest first" = "Eskiden yeniye";
 "On" = "Açık";
 "open" = "aç";
 "Open" = "Aç";

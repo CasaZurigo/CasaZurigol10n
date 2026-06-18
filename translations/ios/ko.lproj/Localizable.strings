@@ -237,6 +237,7 @@
 "Mobile" = "모바일";
 "Mobile Recycling" = "모바일 재활용";
 "More filters" = "더 많은 필터";
+"Most relevant first" = "관련성순";
 "Movie" = "영화";
 "Multiple choice" = "객관식";
 "Museum" = "박물관";
@@ -249,6 +250,7 @@
 "Nearby stays off until location is granted in settings." = "설정에서 위치 정보 접근 권한을 허용해야 '주변' 기능을 사용할 수 있어요.";
 "Need help?" = "도움이 필요하신가요?";
 "New chat" = "새 대화";
+"Newest first" = "최신순";
 "News" = "뉴스";
 "News alerts" = "뉴스 알림";
 "No" = "아니요";
@@ -291,6 +293,7 @@
 "Off" = "끔";
 "Office equipment, computers and accessories, keyboard, mouse, data storage, printer, fax machine, copier, modem, network device, tablet, phone, household appliances, boiler, iron, hair dryer, dishwasher, coffee machine, air conditioner, stove, refrigerator, lamp, blender, sewing machine, electric shaver, gaming device, sports equipment, floor lamp, vacuum cleaner, freezer, toaster, tumble dryer, washing machine, cable, entertainment devices, screen, CD and CD device, DVD and DVD device, leisure equipment, projector, radio, TV and accessories (remote control), video device/tape" = "사무용품, 컴퓨터 및 액세서리, 키보드, 마우스, 데이터 저장 장치, 프린터, 팩스 기기, 복사기, 모뎀, 네트워크 장치, 태블릿, 휴대폰, 가전제품, 보일러, 다리미, 헤어드라이어, 식기세척기, 커피 머신, 에어컨, 스토브, 냉장고, 램프, 블렌더, 재봉틀, 전기 면도기, 게임기, 스포츠 용품, 플로어 램프, 진공 청소기, 냉동고, 토스터기, 건조기, 세탁기, 케이블, 엔터테인먼트 기기, 스크린, CD 및 CD 기기, DVD 및 DVD 기기, 레저 용품, 프로젝터, 라디오, TV 및 액세서리(리모컨), 비디오 기기/테이프";
 "Oil" = "오일";
+"Oldest first" = "오래된 순";
 "On" = "켬";
 "open" = "열기";
 "Open" = "열기";

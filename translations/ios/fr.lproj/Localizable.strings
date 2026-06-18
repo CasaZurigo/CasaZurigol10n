@@ -237,6 +237,7 @@
 "Mobile" = "Mobile";
 "Mobile Recycling" = "Recyclage mobile";
 "More filters" = "Plus de filtres";
+"Most relevant first" = "Pertinence d'abord";
 "Movie" = "Film";
 "Multiple choice" = "Choix multiple";
 "Museum" = "Musée";
@@ -249,6 +250,7 @@
 "Nearby stays off until location is granted in settings." = "L'option « À proximité » reste désactivée tant que l'accès à ta position n'est pas autorisé dans les réglages.";
 "Need help?" = "Besoin d'aide ?";
 "New chat" = "Nouvelle discussion";
+"Newest first" = "Plus récents d'abord";
 "News" = "Actualités";
 "News alerts" = "Alertes d'actualités";
 "No" = "Non";
@@ -291,6 +293,7 @@
 "Off" = "Arrêt";
 "Office equipment, computers and accessories, keyboard, mouse, data storage, printer, fax machine, copier, modem, network device, tablet, phone, household appliances, boiler, iron, hair dryer, dishwasher, coffee machine, air conditioner, stove, refrigerator, lamp, blender, sewing machine, electric shaver, gaming device, sports equipment, floor lamp, vacuum cleaner, freezer, toaster, tumble dryer, washing machine, cable, entertainment devices, screen, CD and CD device, DVD and DVD device, leisure equipment, projector, radio, TV and accessories (remote control), video device/tape" = "Matériel de bureau, ordinateurs et accessoires, clavier, souris, périphériques de stockage, imprimante, télécopieur, photocopieur, modem, appareil réseau, tablette, téléphone, appareils électroménagers, chaudière, fer à repasser, sèche-cheveux, lave-vaisselle, machine à café, climatiseur, cuisinière, réfrigérateur, lampe, mixeur, machine à coudre, rasoir électrique, console de jeu, équipement de sport, lampadaire, aspirateur, congélateur, grille-pain, sèche-linge, lave-linge, câble, appareils de divertissement, écran, lecteur et disques CD, lecteur et disques DVD, équipement de loisirs, projecteur, radio, téléviseur et accessoires (télécommande), appareil/magnétoscope vidéo";
 "Oil" = "Huile";
+"Oldest first" = "Les plus anciens d'abord";
 "On" = "Sur";
 "open" = "ouvrir";
 "Open" = "Ouvrir";
