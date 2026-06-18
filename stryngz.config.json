@@ -26,7 +26,7 @@
     },
     {
       "type": "strings",
-      "path": "../ios/Casazurigo/{lang}.lproj/Localizable.strings"
+      "path": "../ios/CasaZurigo/{lang}.lproj/Localizable.strings"
     },
     {
       "type": "json",
