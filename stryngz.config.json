@@ -1,0 +1,54 @@
+{
+  "sourceLanguage": "en",
+  "targetLanguages": [
+    "de",
+    "fr",
+    "es",
+    "it",
+    "pt-PT",
+    "he",
+    "zh-HANS",
+    "zh-HANT",
+    "tr",
+    "ru",
+    "uk",
+    "ko",
+    "pl"
+  ],
+  "source": {
+    "path": "./translations/reactnative/en.json",
+    "type": "json"
+  },
+  "outputs": [
+    {
+      "type": "strings",
+      "path": "./translations/ios/{lang}.lproj/Localizable.strings"
+    },
+    {
+      "type": "strings",
+      "path": "../ios/Casazurigo/{lang}.lproj/Localizable.strings"
+    },
+    {
+      "type": "json",
+      "path": "./translations/reactnative/{lang}.json"
+    }
+  ],
+  "include": ["../android/**/*.{ts,tsx,js,jsx}", "../ios/**/*.swift"],
+  "extractPattern": "tr\\(\\s*(?:\"([^\"]*)\"|'([^']*)'|`([^`]*)`)\\s*\\)",
+  "exclude": [
+    "../android/node_modules/**",
+    "../android/.expo/**",
+    "../android/assets/**",
+    "../ios/CasaZurigo.xcodeproj/**",
+    "../ios/CasaZurigo/Assets.xcassets/**"
+  ],
+  "translations": [
+    { "provider": "deepl", "formality": "default" },
+    { "provider": "google-translate" }
+  ],
+  "refiner": {
+    "provider": "google-ai",
+    "model": "gemini-2.5-flash-lite",
+    "systemPrompt": "You are a professional translator and localization expert. Refine the following translations to ensure they are accurate, natural, and culturally appropriate for the mobile app audience. Use a direct, personal, and informal tone — address the user as 'you' in the familiar/informal form (e.g., 'du' in German, 'tu' in French/Spanish/Italian/Portuguese, etc.), never the formal form (e.g., 'Sie' in German, 'vous' in French, 'usted' in Spanish, 'Lei' in Italian). Pay special attention to idiomatic expressions, context, and tone. Provide the refined translations in the same format as the input. Preserve any placeholders exactly as they appear (e.g., {name}, %s, %@, %d, {{variable}}). Preserve any escape sequences. Use same trailing punctuation as the source text. Return ONLY the translated text, nothing else - no explanations, no quotes, just the translation."
+  }
+}

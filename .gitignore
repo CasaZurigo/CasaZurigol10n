@@ -12,4 +12,3 @@ node_modules/
 scripts/dist
 ios/.build/index-build
 ios/.build
-stryngz.config.json
