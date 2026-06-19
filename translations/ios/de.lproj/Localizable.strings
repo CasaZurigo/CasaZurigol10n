@@ -100,6 +100,7 @@
 "day ago" = "vor einem Tag";
 "days ago" = "vor Tagen";
 "Delete" = "Löschen";
+"Delete chat" = "Chat löschen";
 "Deliver bulky waste, large metal items, and gravel to the cargo tram. No cars allowed! The cargo tram is available to you if you are traveling on foot, by bike, or by public transport. You can also give away or take well-preserved items for free. Delivery by car or van is not allowed." = "Sperrmüll, große Metallteile und Kies zur Güterbahn bringen. Keine Autos erlaubt! Die Güterbahn steht dir zur Verfügung, wenn du zu Fuß, mit dem Fahrrad oder mit öffentlichen Verkehrsmitteln unterwegs bist. Gut erhaltene Gegenstände kannst du auch kostenlos abgeben oder mitnehmen. Die Anlieferung mit dem Auto oder Lieferwagen ist nicht gestattet.";
 "Deliver electronic devices to the E-Tram. No cars allowed! The E-Tram is available to you if you are traveling on foot, by bike, or by public transport. You can also return old electronic devices to the point of sale without any hesitation. A pre-disposal fee is included in the purchase price of electronic and electrical devices. Retailers are therefore obliged to take back devices of the same type that they distribute, even if you don't buy a new one." = "Liefere elektronische Geräte an der E-Tram ab. Autos sind nicht erlaubt! Die E-Tram steht dir zur Verfügung, wenn du zu Fuß, mit dem Fahrrad oder mit öffentlichen Verkehrsmitteln unterwegs bist. Du kannst alte elektronische Geräte auch bedenkenlos in der Verkaufsstelle zurückgeben. Im Kaufpreis von elektronischen und elektrischen Geräten ist eine Vorab-Entsorgungsgebühr enthalten. Die Händler sind daher verpflichtet, Geräte desselben Typs, die sie vertreiben, zurückzunehmen, auch wenn du kein neues Gerät kaufst.";
 "Description:" = "Beschreibung:";
@@ -324,6 +325,7 @@
 "Playground" = "Spielplatz";
 "Please check your connection and try again." = "Überprüfe bitte deine Verbindung und versuche es erneut.";
 "Please enable calendar access in your device settings." = "Bitte aktiviere den Kalenderzugriff in den Einstellungen deines Geräts.";
+"Please update CasaZurich to continue using the app." = "Bitte aktualisiere CasaZurich, um die App weiter nutzen zu können.";
 "Pollutants" = "Schadstoffe";
 "Privacy" = "Datenschutz";
 "Privacy policy" = "Datenschutzerklärung";
@@ -446,6 +448,8 @@
 "Uncover construction sites and more on your Map" = "Entdecke Baustellen und mehr auf deiner Karte";
 "Unknown" = "Unbekannt";
 "Unlike" = "Im Gegensatz zu";
+"Update now" = "Jetzt aktualisieren";
+"Update required" = "Update erforderlich";
 "Use of CasaZurich is governed by Apple's Standard EULA for apps. Subscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. Auto-renewal may be turned off by the user, by going to the user's Account Settings after purchase. The duration and price of each subscription is displayed on the purchase screen, and updated at the time of purchase. If you have any questions about CasaZurich Terms of Use, please reach out to me at support@casazurigo.ch" = "Die Nutzung von CasaZurich unterliegt den Standard-EULA von Apple für Apps. Abonnements verlängern sich automatisch, sofern sie nicht innerhalb von 24 Stunden vor Ende des aktuellen Zeitraums gekündigt werden. Du kannst jederzeit über deine iTunes-Account-Einstellungen kündigen. Jeder ungenutzte Teil einer kostenlosen Testphase verfällt, wenn du ein Abonnement erwirbst. Die automatische Verlängerung kann vom Nutzer deaktiviert werden, indem er nach dem Kauf zu den Kontoeinstellungen geht. Die Dauer und der Preis jedes Abonnements werden auf dem Kaufbildschirm angezeigt und zum Zeitpunkt des Kaufs aktualisiert. Wenn du Fragen zu den Nutzungsbedingungen von CasaZurich hast, wende dich bitte an mich unter support@casazurigo.ch";
 "Use of CasaZurich is governed by Google Play's Standard EULA for apps. CasaZurich is free to use. Optional donations to support development are available in the app settings. If you have any questions about CasaZurich Terms of Use, please reach out to me at support@casazurigo.ch" = "Die Nutzung von CasaZurich unterliegt den Standard-Lizenzbedingungen von Google Play für Apps. CasaZurich ist kostenlos nutzbar. Optionale Spenden zur Unterstützung der Entwicklung sind in den App-Einstellungen verfügbar. Wenn du Fragen zu den Nutzungsbedingungen von CasaZurich hast, kontaktiere mich bitte unter support@casazurigo.ch.";
 "Used" = "Gebraucht";

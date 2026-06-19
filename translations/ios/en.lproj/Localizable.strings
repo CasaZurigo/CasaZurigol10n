@@ -100,6 +100,7 @@
 "day ago" = "day ago";
 "days ago" = "days ago";
 "Delete" = "Delete";
+"Delete chat" = "Delete chat";
 "Deliver bulky waste, large metal items, and gravel to the cargo tram. No cars allowed! The cargo tram is available to you if you are traveling on foot, by bike, or by public transport. You can also give away or take well-preserved items for free. Delivery by car or van is not allowed." = "Deliver bulky waste, large metal items, and gravel to the cargo tram. No cars allowed! The cargo tram is available to you if you are traveling on foot, by bike, or by public transport. You can also give away or take well-preserved items for free. Delivery by car or van is not allowed.";
 "Deliver electronic devices to the E-Tram. No cars allowed! The E-Tram is available to you if you are traveling on foot, by bike, or by public transport. You can also return old electronic devices to the point of sale without any hesitation. A pre-disposal fee is included in the purchase price of electronic and electrical devices. Retailers are therefore obliged to take back devices of the same type that they distribute, even if you don't buy a new one." = "Deliver electronic devices to the E-Tram. No cars allowed! The E-Tram is available to you if you are traveling on foot, by bike, or by public transport. You can also return old electronic devices to the point of sale without any hesitation. A pre-disposal fee is included in the purchase price of electronic and electrical devices. Retailers are therefore obliged to take back devices of the same type that they distribute, even if you don't buy a new one.";
 "Description:" = "Description:";
@@ -324,6 +325,7 @@
 "Playground" = "Playground";
 "Please check your connection and try again." = "Please check your connection and try again.";
 "Please enable calendar access in your device settings." = "Please enable calendar access in your device settings.";
+"Please update CasaZurich to continue using the app." = "Please update CasaZurich to continue using the app.";
 "Pollutants" = "Pollutants";
 "Privacy" = "Privacy";
 "Privacy policy" = "Privacy policy";
@@ -446,6 +448,8 @@
 "Uncover construction sites and more on your Map" = "Uncover construction sites and more on your Map";
 "Unknown" = "Unknown";
 "Unlike" = "Unlike";
+"Update now" = "Update now";
+"Update required" = "Update required";
 "Use of CasaZurich is governed by Apple's Standard EULA for apps. Subscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. Auto-renewal may be turned off by the user, by going to the user's Account Settings after purchase. The duration and price of each subscription is displayed on the purchase screen, and updated at the time of purchase. If you have any questions about CasaZurich Terms of Use, please reach out to me at support@casazurigo.ch" = "Use of CasaZurich is governed by Apple's Standard EULA for apps. Subscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. Auto-renewal may be turned off by the user, by going to the user's Account Settings after purchase. The duration and price of each subscription is displayed on the purchase screen, and updated at the time of purchase. If you have any questions about CasaZurich Terms of Use, please reach out to me at support@casazurigo.ch";
 "Use of CasaZurich is governed by Google Play's Standard EULA for apps. CasaZurich is free to use. Optional donations to support development are available in the app settings. If you have any questions about CasaZurich Terms of Use, please reach out to me at support@casazurigo.ch" = "Use of CasaZurich is governed by Google Play's Standard EULA for apps. CasaZurich is free to use. Optional donations to support development are available in the app settings. If you have any questions about CasaZurich Terms of Use, please reach out to me at support@casazurigo.ch";
 "Used" = "Used";

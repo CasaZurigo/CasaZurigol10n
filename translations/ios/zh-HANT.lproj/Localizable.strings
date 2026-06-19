@@ -100,6 +100,7 @@
 "day ago" = "一天前";
 "days ago" = "幾天前";
 "Delete" = "刪除";
+"Delete chat" = "刪除對話";
 "Deliver bulky waste, large metal items, and gravel to the cargo tram. No cars allowed! The cargo tram is available to you if you are traveling on foot, by bike, or by public transport. You can also give away or take well-preserved items for free. Delivery by car or van is not allowed." = "請將大型廢棄物、大型金屬物品及礫石運送至貨運電車。禁止車輛進入！若你步行、騎自行車或搭乘大眾運輸工具前來，即可使用貨運電車服務。你亦可免費贈送或領取保存完好的物品。禁止以汽車或貨車運送。";
 "Deliver electronic devices to the E-Tram. No cars allowed! The E-Tram is available to you if you are traveling on foot, by bike, or by public transport. You can also return old electronic devices to the point of sale without any hesitation. A pre-disposal fee is included in the purchase price of electronic and electrical devices. Retailers are therefore obliged to take back devices of the same type that they distribute, even if you don't buy a new one." = "請將電子設備送至 E-Tram。禁止汽車進入！如果你是步行、騎自行車或搭乘公共交通工具，E-Tram 可供你使用。你也可以毫不猶豫地將舊電子設備退還給銷售點。預處理費已包含在電子和電器設備的購買價格中。因此，零售商有義務回收他們銷售的同類設備，即使你沒有購買新設備。";
 "Description:" = "描述：";
@@ -324,6 +325,7 @@
 "Playground" = "遊樂場";
 "Please check your connection and try again." = "請檢查你的網路連線，然後再試一次。";
 "Please enable calendar access in your device settings." = "請在裝置設定中啟用日曆存取權限。";
+"Please update CasaZurich to continue using the app." = "請更新 CasaZurich 以繼續使用此應用程式。";
 "Pollutants" = "污染物";
 "Privacy" = "隱私權";
 "Privacy policy" = "隱私權政策";
@@ -446,6 +448,8 @@
 "Uncover construction sites and more on your Map" = "在你的地圖上探索建築工地及更多內容";
 "Unknown" = "未知";
 "Unlike" = "與……不同";
+"Update now" = "立即更新";
+"Update required" = "需要更新";
 "Use of CasaZurich is governed by Apple's Standard EULA for apps. Subscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. Auto-renewal may be turned off by the user, by going to the user's Account Settings after purchase. The duration and price of each subscription is displayed on the purchase screen, and updated at the time of purchase. If you have any questions about CasaZurich Terms of Use, please reach out to me at support@casazurigo.ch" = "使用 CasaZurich 受 Apple 的應用程式標準最終用戶授權協議 (EULA) 管轄。訂閱服務將於當前週期結束前 24 小時內未取消時自動續訂。你可隨時透過你的 iTunes 帳戶設定取消訂閱。若你購買訂閱服務，免費試用期內任何未使用的部分將被沒收。購買後，使用者可前往其帳戶設定關閉自動續訂功能。各訂閱方案的持續時間和價格均顯示於購買畫面，並於購買時更新。如果你對 CasaZurich 的使用條款有任何疑問，請透過 support@casazurigo.ch 與我聯繫。";
 "Use of CasaZurich is governed by Google Play's Standard EULA for apps. CasaZurich is free to use. Optional donations to support development are available in the app settings. If you have any questions about CasaZurich Terms of Use, please reach out to me at support@casazurigo.ch" = "CasaZurich 的使用受 Google Play 應用程式標準最終使用者授權協議（EULA）規範。CasaZurich 可免費使用。你可在應用程式設定中選擇性捐款以支持開發。若你對 CasaZurich 使用條款有任何疑問，請透過 support@casazurigo.ch 與我聯繫。";
 "Used" = "已使用";

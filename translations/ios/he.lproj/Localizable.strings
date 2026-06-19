@@ -100,6 +100,7 @@
 "day ago" = "לפני יום";
 "days ago" = "לפני ימים";
 "Delete" = "מחיקה";
+"Delete chat" = "מחק צ'אט";
 "Deliver bulky waste, large metal items, and gravel to the cargo tram. No cars allowed! The cargo tram is available to you if you are traveling on foot, by bike, or by public transport. You can also give away or take well-preserved items for free. Delivery by car or van is not allowed." = "הביאו פסולת מגושמת, פריטי מתכת גדולים וחצץ לרכבת המשא. אין כניסה למכוניות! רכבת המשא זמינה עבורכם אם אתם מגיעים ברגל, באופניים או בתחבורה ציבורית. ניתן גם למסור או לקחת פריטים במצב טוב ללא תשלום. אסור להביא פריטים ברכב פרטי או מסחרי.";
 "Deliver electronic devices to the E-Tram. No cars allowed! The E-Tram is available to you if you are traveling on foot, by bike, or by public transport. You can also return old electronic devices to the point of sale without any hesitation. A pre-disposal fee is included in the purchase price of electronic and electrical devices. Retailers are therefore obliged to take back devices of the same type that they distribute, even if you don't buy a new one." = "הביאו מכשירים אלקטרוניים ל-E-Tram. אין כניסה למכוניות! ה-E-Tram זמין עבורכם אם אתם מגיעים ברגל, באופניים או בתחבורה ציבורית. אתם יכולים גם להחזיר מכשירים אלקטרוניים ישנים לנקודת המכירה ללא היסוס. דמי סילוק מראש כלולים במחיר הרכישה של מכשירים אלקטרוניים וחשמליים. לכן, קמעונאים מחויבים לקחת בחזרה מכשירים מאותו הסוג שהם משווקים, גם אם אינכם רוכשים מכשיר חדש.";
 "Description:" = "תיאור:";
@@ -324,6 +325,7 @@
 "Playground" = "גן שעשועים";
 "Please check your connection and try again." = "בדוק את החיבור ונסה שוב.";
 "Please enable calendar access in your device settings." = "אנא אפשר גישה ללוח השנה בהגדרות המכשיר שלך.";
+"Please update CasaZurich to continue using the app." = "אנא עדכן את CasaZurich כדי להמשיך להשתמש באפליקציה.";
 "Pollutants" = "מזהמים";
 "Privacy" = "פרטיות";
 "Privacy policy" = "מדיניות פרטיות";
@@ -446,6 +448,8 @@
 "Uncover construction sites and more on your Map" = "גלה אתרי בנייה ועוד במפה שלך";
 "Unknown" = "לא ידוע";
 "Unlike" = "בניגוד ל";
+"Update now" = "עדכן עכשיו";
+"Update required" = "נדרש עדכון";
 "Use of CasaZurich is governed by Apple's Standard EULA for apps. Subscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. Auto-renewal may be turned off by the user, by going to the user's Account Settings after purchase. The duration and price of each subscription is displayed on the purchase screen, and updated at the time of purchase. If you have any questions about CasaZurich Terms of Use, please reach out to me at support@casazurigo.ch" = "השימוש ב-CasaZurich כפוף להסכם הרישיון הסטנדרטי של Apple לאפליקציות. מנויים יחודשו אוטומטית אלא אם יבוטלו 24 שעות לפני תום התקופה הנוכחית. ניתן לבטל בכל עת דרך הגדרות חשבון ה-iTunes שלכם. כל חלק שלא נוצל מתקופת ניסיון חינמית יאבד אם תרכשו מנוי. חידוש אוטומטי ניתן לביטול על ידי המשתמש, דרך הגדרות החשבון שלו לאחר הרכישה. משך כל מנוי ומחירו מוצגים במסך הרכישה, ומתעדכנים בעת הרכישה. אם יש לכם שאלות בנוגע לתנאי השימוש של CasaZurich, אנא פנו אליי בכתובת support@casazurigo.ch";
 "Use of CasaZurich is governed by Google Play's Standard EULA for apps. CasaZurich is free to use. Optional donations to support development are available in the app settings. If you have any questions about CasaZurich Terms of Use, please reach out to me at support@casazurigo.ch" = "השימוש ב-CasaZurich כפוף להסכם הרישיון הסטנדרטי של Google Play לאפליקציות. השימוש ב-CasaZurich הוא חינם. ניתן לתרום באופן וולונטרי כדי לתמוך בפיתוח דרך הגדרות האפליקציה. אם יש לכם שאלות בנוגע לתנאי השימוש ב-CasaZurich, אנא פנו אליי בכתובת support@casazurigo.ch";
 "Used" = "מְשׁוּמָשׁ";
