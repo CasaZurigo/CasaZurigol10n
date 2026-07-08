@@ -1,5 +1,7 @@
+"%@ bikes" = "%@ Fahrräder";
 "%@ day ago" = "vor %@ Tagen";
 "%@ days ago" = "vor %@ Tagen";
+"%@ free" = "%@ gratis";
 "%@ hour ago" = "vor %@ Stunden";
 "%@ hours ago" = "vor %@ Stunden";
 "%@ min listen" = "%@ Min. hören";
@@ -21,9 +23,11 @@
 "All Day" = "Ganztägig";
 "Allow" = "Erlauben";
 "Allow location to enable nearby locations." = "Standortzugriff zulassen, um Orte in der Nähe zu finden.";
+"Allowed" = "Zugelassen";
 "Allowed:" = "Erlaubt:";
 "Analytics" = "Statistiken";
 "Architecture" = "Architektur";
+"Around you" = "Um dich herum";
 "Arrange and toggle sections" = "Abschnitte anordnen und umschalten";
 "Art" = "Kunst";
 "Article not found" = "Artikel nicht gefunden";
@@ -60,6 +64,7 @@
 "Choose which alerts to receive" = "Wähle aus, welche Benachrichtigungen du erhalten möchtest";
 "Choose your layout" = "Wähle dein Layout";
 "Christmas tree, light bulb, halogen lamp, hygiene items, cat litter, plastic material, plastic packaging, nylon stocking, paper scraps, razor blade (well-packaged), vacuum cleaner bag, frozen food packaging, drinking glass (small quantities), bicycle tire (small quantities), cleaning waste, cigarette butts, dog waste bags" = "Weihnachtsbaum, Glühbirne, Halogenlampe, Hygieneartikel, Katzenstreu, Kunststoff, Kunststoffverpackungen, Nylonstrumpf, Papierfetzen, Rasierklinge (gut verpackt), Staubsaugerbeutel, Verpackung von Tiefkühlkost, Trinkglas (kleine Mengen), Fahrradreifen (kleine Mengen), Reinigungsabfälle, Zigarettenstummel, Hundekotbeutel";
+"City right now" = "Gerade jetzt in der Stadt";
 "Claim" = "Anspruch";
 "Clear cache" = "Cache leeren";
 "Close" = "Schließen";
@@ -103,6 +108,7 @@
 "Delete chat" = "Chat löschen";
 "Deliver bulky waste, large metal items, and gravel to the cargo tram. No cars allowed! The cargo tram is available to you if you are traveling on foot, by bike, or by public transport. You can also give away or take well-preserved items for free. Delivery by car or van is not allowed." = "Sperrmüll, große Metallteile und Kies zur Güterbahn bringen. Keine Autos erlaubt! Die Güterbahn steht dir zur Verfügung, wenn du zu Fuß, mit dem Fahrrad oder mit öffentlichen Verkehrsmitteln unterwegs bist. Gut erhaltene Gegenstände kannst du auch kostenlos abgeben oder mitnehmen. Die Anlieferung mit dem Auto oder Lieferwagen ist nicht gestattet.";
 "Deliver electronic devices to the E-Tram. No cars allowed! The E-Tram is available to you if you are traveling on foot, by bike, or by public transport. You can also return old electronic devices to the point of sale without any hesitation. A pre-disposal fee is included in the purchase price of electronic and electrical devices. Retailers are therefore obliged to take back devices of the same type that they distribute, even if you don't buy a new one." = "Liefere elektronische Geräte an der E-Tram ab. Autos sind nicht erlaubt! Die E-Tram steht dir zur Verfügung, wenn du zu Fuß, mit dem Fahrrad oder mit öffentlichen Verkehrsmitteln unterwegs bist. Du kannst alte elektronische Geräte auch bedenkenlos in der Verkaufsstelle zurückgeben. Im Kaufpreis von elektronischen und elektrischen Geräten ist eine Vorab-Entsorgungsgebühr enthalten. Die Händler sind daher verpflichtet, Geräte desselben Typs, die sie vertreiben, zurückzunehmen, auch wenn du kein neues Gerät kaufst.";
+"Description" = "Beschreibung";
 "Description:" = "Beschreibung:";
 "Deselect all" = "Alle abwählen";
 "Directions" = "Wegbeschreibung";
@@ -127,6 +133,7 @@
 "Event alerts" = "Event-Benachrichtigungen";
 "Event not found" = "Ereignis nicht gefunden";
 "Events" = "Veranstaltungen";
+"Events listed" = "Aufgeführte Veranstaltungen";
 "Expires" = "Abgelaufen";
 "Explanation" = "Erläuterung";
 "Explore local events to stay informed about whats happening in Zurich." = "Entdecke lokale Veranstaltungen, um auf dem Laufenden zu bleiben, was in Zürich passiert.";
@@ -145,7 +152,9 @@
 "Fitness" = "Fitness";
 "Food" = "Essen";
 "Fountain" = "Brunnen";
+"free" = "kostenlos";
 "Free" = "Kostenlos";
+"Full" = "Voll";
 "Gasoline-powered equipment like chainsaw, large metal, metal tools, battery and battery, waste" = "Benzinbetriebene Geräte wie Kettensägen, große Metallteile, Metallwerkzeuge, Batterien und Akkus, Abfall";
 "Geography" = "Geographie";
 "Get involved" = "Mach mit";
@@ -156,6 +165,7 @@
 "Good afternoon" = "Guten Tag";
 "Good evening" = "Guten Abend";
 "Good morning" = "Guten Morgen";
+"Good to know" = "Gut zu wissen";
 "Good to Know:" = "Gut zu wissen:";
 "Grant Location Access" = "Standortzugriff gewähren";
 "Great job, you know Zurich well!" = "Tolle Arbeit, du kennst Zürich gut!";
@@ -173,6 +183,7 @@
 "hours ago" = "vor Stunden";
 "How busy is Bahnhofstrasse right now?" = "Wie viel ist gerade auf der Bahnhofstraße los?";
 "How has Zürich's population changed?" = "Wie hat sich die Bevölkerung von Zürich verändert?";
+"How to recycle" = "So recycelst du";
 "How to Recycle:" = "Anleitung zum Recycling:";
 "How warm is Lake Zürich?" = "Wie warm ist der Zürichsee?";
 "How's the air quality today?" = "Wie ist die Luftqualität heute?";
@@ -266,6 +277,7 @@
 "No Events found" = "Keine Veranstaltungen gefunden";
 "No facility data available" = "Keine Anlagendaten verfügbar.";
 "No location permission" = "Keine Standortberechtigung";
+"No locations here" = "Hier gibt es keine Orte";
 "No nearby location found" = "Kein Ort in der Nähe gefunden";
 "No nearby locations available" = "Keine Standorte in der Nähe verfügbar";
 "No news available" = "Keine Neuigkeiten verfügbar";
@@ -278,6 +290,7 @@
 "No results available" = "Keine Ergebnisse verfügbar";
 "No sections enabled" = "Keine Abschnitte aktiviert";
 "No subscription available" = "Kein Abonnement verfügbar";
+"No summary available" = "Keine Zusammenfassung verfügbar";
 "No trivia available today" = "Heute sind keine Trivia verfügbar";
 "No wheel available today" = "Heute ist kein Rad verfügbar";
 "No ZIP code provided" = "Keine Postleitzahl angegeben";
@@ -285,6 +298,7 @@
 "Non-recyclable paper such as book covers and back covers, insulated packaging* from recycled paper (e.g., Paperfloc), cardboard, paper clippings, paper carrier bag, plastic-coated or soiled paper, Tetra Pak, frozen food packaging" = "Nicht recycelbares Papier wie Bucheinbände und Rückseiten, isolierte Verpackungen* aus Recyclingpapier (z. B. Paperfloc), Karton, Papierschnipsel, Papiertragetaschen, kunststoffbeschichtetes oder verschmutztes Papier, Tetra Pak, Tiefkühlverpackungen";
 "Non-Sortable Sections" = "Nicht sortierbare Abschnitte";
 "Not able to determine current location" = "Aktueller Standort konnte nicht ermittelt werden";
+"Not allowed" = "Nicht erlaubt";
 "Not Allowed:" = "Nicht erlaubt:";
 "Not available" = "Nicht verfügbar";
 "Not found" = "Nicht gefunden";
@@ -298,9 +312,11 @@
 "On" = "An";
 "open" = "öffnen";
 "Open" = "Öffnen";
+"Open construction sites" = "Offene Baustellen";
 "Open in Maps" = "In Karten öffnen";
 "Opening Hours" = "Öffnungszeiten";
 "Organic" = "Bio";
+"Pan or zoom the map to discover locations" = "Verschiebe oder zoome die Karte, um Orte zu entdecken";
 "Paper" = "Papier";
 "Paper carrier bags and cardboard boxes do not belong in paper collection and are not suitable as collection containers. They are specially treated and affect the recycling process, and they fall apart in wet and windy conditions." = "Papiertragetaschen und Kartonagen gehören nicht in die Papiersammlung und sind als Sammelbehälter ungeeignet. Sie sind speziell behandelt und beeinträchtigen den Recyclingprozess, zudem zerfallen sie bei Nässe und Wind.";
 "Park" = "Park";
@@ -363,6 +379,7 @@
 "Save" = "Speichern";
 "Search" = "Suchen";
 "Search events" = "Veranstaltungen suchen";
+"Search locations" = "Orte suchen";
 "Search news" = "Nachrichten suchen";
 "See festivals, sports, and culture." = "Erlebe Festivals, Sport und Kultur.";
 "See more information on your Map" = "Weitere Informationen auf deiner Karte anzeigen";
@@ -403,6 +420,7 @@
 "Stay informed" = "Informiert bleiben";
 "Submit Answer" = "Antwort absenden";
 "Suggest a new feature" = "Schlage eine neue Funktion vor";
+"Summary" = "Zusammenfassung";
 "Sun or Rain?" = "Sonne oder Regen?";
 "Support CasaZurich" = "CasaZurich unterstützen";
 "Swimming Pool" = "Schwimmbad";
@@ -434,6 +452,7 @@
 "Toggle to show or hide them on your home screen." = "Ein-/ausblenden, um sie auf deinem Startbildschirm anzuzeigen oder zu verbergen.";
 "Toilet" = "Toilette";
 "Tomorrow" = "Morgen";
+"Tonight" = "Heute Abend";
 "Total" = "Gesamt";
 "Transport" = "Transport";
 "Trivia not found" = "Keine Trivia gefunden";
