@@ -98,6 +98,7 @@
 "Daily Summary" = "Podsumowanie dnia";
 "Daily Trivia" = "Codzienne ciekawostki";
 "Data from data.stadt-zuerich.ch" = "Dane z data.stadt-zuerich.ch";
+"Data Sources" = "Źródła danych";
 "Date" = "Data";
 "Date — latest first" = "Data — najnowsze na początku";
 "Date — newest first" = "Data — najnowsze na początku";
@@ -119,6 +120,7 @@
 "Dislike" = "Nie lubię";
 "Done" = "Gotowe";
 "Drag to reorder sections and toggle to show or hide them on your home screen." = "Przeciągnij, aby zmienić kolejność sekcji i przełączaj, aby je pokazać lub ukryć na ekranie głównym.";
+"Drag to reorder. Toggle to show or hide sections." = "Przeciągnij, aby zmienić kolejność. Przełącz, aby pokazać lub ukryć sekcje.";
 "E-Bikes" = "E-rowery";
 "E-Tram" = "E-Tram";
 "Easy" = "Łatwy";
@@ -175,6 +177,7 @@
 "Help keep CasaZurich free for everyone" = "Pomóż nam utrzymać CasaZurich bezpłatne dla wszystkich";
 "Hey! I'm Luca Archidiacono, and I'm passionate about creating things. CasaZurich is a project I'm particularly proud of. If you're enjoying CasaZurich, I'd really appreciate a small tip. Not only would it brighten my day, but it'll also contribute to keeping the app running smoothly for you and support the development of new features. Thanks a bunch!" = "Cześć! Jestem Luca Archidiacono i pasjonuje mnie tworzenie. CasaZurich to projekt, z którego jestem szczególnie dumny. Jeśli CasaZurich ci się podoba, będę bardzo wdzięczny za drobny napiwek. Nie tylko sprawi mi to radość, ale także pomoże utrzymać płynne działanie aplikacji i wesprze rozwój nowych funkcji. Wielkie dzięki!";
 "Hi, I'm Luca Archidiacono, a developer passionate about building apps. CasaZurich is one of my favorite projects. If you're enjoying the app, a small tip would mean a lot. It helps keep things running and funds new features. Thanks!" = "Cześć, jestem Luca Archidiacono, deweloper z pasją do tworzenia aplikacji. CasaZurich to jeden z moich ulubionych projektów. Jeśli podoba Ci się aplikacja, mały napiwek znaczyłby dla mnie bardzo wiele. Pomaga mi to utrzymać ją i finansować nowe funkcje. Dzięki!";
+"Hidden" = "Ukryte";
 "High" = "Wysoki";
 "History" = "Historia";
 "Hmmm.. it looks empty here" = "Hmmm... wygląda na puste";
@@ -311,6 +314,7 @@
 "Oil" = "Olej";
 "Oldest first" = "Najstarsze najpierw";
 "On" = "Włączony";
+"On your home" = "W Twoim domu";
 "open" = "Otwórz";
 "Open" = "Otwórz";
 "Open construction sites" = "Otwarte place budowy";
@@ -492,6 +496,7 @@
 "When configuration is missing" = "Gdy brakuje konfiguracji";
 "Where are the playgrounds in Zürich?" = "Gdzie w Zurychu są place zabaw?";
 "Where can I find free parking right now?" = "Gdzie teraz znajdę darmowy parking?";
+"Where our data comes from" = "Skąd pochodzą Twoje dane";
 "Which restaurants are recommended in Zürich?" = "Jakie restauracje w Zurychu są polecane?";
 "While uncoated pizza boxes are made of cardboard, only clean ones should be placed in the cardboard collection. Greasy pizza boxes with food residues cannot be recycled and should be placed in household waste." = "Chociaż niepowlekane pudełka na pizzę są wykonane z tektury, tylko czyste powinny trafiać do pojemników na tekturę. Tłuste pudełka po pizzy z resztkami jedzenia nie nadają się do recyklingu i wyrzuć je do odpadów zmieszanych.";
 "Win prizes from local venues" = "Wygrywaj nagrody w lokalnych lokalach";

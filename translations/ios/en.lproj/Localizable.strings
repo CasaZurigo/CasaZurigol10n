@@ -97,6 +97,7 @@
 "Customize Home" = "Customize Home";
 "Daily Trivia" = "Daily Trivia";
 "Data from data.stadt-zuerich.ch" = "Data from data.stadt-zuerich.ch";
+"Data Sources" = "Data Sources";
 "Date" = "Date";
 "Date — latest first" = "Date — latest first";
 "Date — newest first" = "Date — newest first";
@@ -118,6 +119,7 @@
 "Dislike" = "Dislike";
 "Done" = "Done";
 "Drag to reorder sections and toggle to show or hide them on your home screen." = "Drag to reorder sections and toggle to show or hide them on your home screen.";
+"Drag to reorder. Toggle to show or hide sections." = "Drag to reorder. Toggle to show or hide sections.";
 "E-Bikes" = "E-Bikes";
 "E-Tram" = "E-Tram";
 "Easy" = "Easy";
@@ -174,6 +176,7 @@
 "Help keep CasaZurich free for everyone" = "Help keep CasaZurich free for everyone";
 "Hey! I'm Luca Archidiacono, and I'm passionate about creating things. CasaZurich is a project I'm particularly proud of. If you're enjoying CasaZurich, I'd really appreciate a small tip. Not only would it brighten my day, but it'll also contribute to keeping the app running smoothly for you and support the development of new features. Thanks a bunch!" = "Hey! I'm Luca Archidiacono, and I'm passionate about creating things. CasaZurich is a project I'm particularly proud of. If you're enjoying CasaZurich, I'd really appreciate a small tip. Not only would it brighten my day, but it'll also contribute to keeping the app running smoothly for you and support the development of new features. Thanks a bunch!";
 "Hi, I'm Luca Archidiacono, a developer passionate about building apps. CasaZurich is one of my favorite projects. If you're enjoying the app, a small tip would mean a lot. It helps keep things running and funds new features. Thanks!" = "Hi, I'm Luca Archidiacono, a developer passionate about building apps. CasaZurich is one of my favorite projects. If you're enjoying the app, a small tip would mean a lot. It helps keep things running and funds new features. Thanks!";
+"Hidden" = "Hidden";
 "High" = "High";
 "History" = "History";
 "Hmmm.. it looks empty here" = "Hmmm.. it looks empty here";
@@ -309,6 +312,7 @@
 "Oil" = "Oil";
 "Oldest first" = "Oldest first";
 "On" = "On";
+"On your home" = "On your home";
 "open" = "open";
 "Open" = "Open";
 "Open construction sites" = "Open construction sites";
@@ -490,6 +494,7 @@
 "When configuration is missing" = "When configuration is missing";
 "Where are the playgrounds in Zürich?" = "Where are the playgrounds in Zürich?";
 "Where can I find free parking right now?" = "Where can I find free parking right now?";
+"Where our data comes from" = "Where our data comes from";
 "Which restaurants are recommended in Zürich?" = "Which restaurants are recommended in Zürich?";
 "While uncoated pizza boxes are made of cardboard, only clean ones should be placed in the cardboard collection. Greasy pizza boxes with food residues cannot be recycled and should be placed in household waste." = "While uncoated pizza boxes are made of cardboard, only clean ones should be placed in the cardboard collection. Greasy pizza boxes with food residues cannot be recycled and should be placed in household waste.";
 "Win prizes from local venues" = "Win prizes from local venues";

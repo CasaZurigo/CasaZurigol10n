@@ -98,6 +98,7 @@
 "Daily Summary" = "סיכום יומי";
 "Daily Trivia" = "טריוויה יומית";
 "Data from data.stadt-zuerich.ch" = "נתונים מתוך data.stadt-zuerich.ch";
+"Data Sources" = "מקורות נתונים";
 "Date" = "תאריך";
 "Date — latest first" = "תאריך — מהחדש לישן";
 "Date — newest first" = "תאריך — מהחדש לישן";
@@ -119,6 +120,7 @@
 "Dislike" = "לא אהבתי";
 "Done" = "בוצע";
 "Drag to reorder sections and toggle to show or hide them on your home screen." = "גרור כדי לסדר מחדש את הסעיפים והחלף כדי להציג או להסתיר אותם במסך הבית שלך.";
+"Drag to reorder. Toggle to show or hide sections." = "גרור כדי לסדר מחדש. החלק כדי להציג או להסתיר קטעים.";
 "E-Bikes" = "אופניים חשמליים";
 "E-Tram" = "אי-טראם";
 "Easy" = "קַל";
@@ -175,6 +177,7 @@
 "Help keep CasaZurich free for everyone" = "עזרו לנו לשמור על CasaZurich פתוח לכולם";
 "Hey! I'm Luca Archidiacono, and I'm passionate about creating things. CasaZurich is a project I'm particularly proud of. If you're enjoying CasaZurich, I'd really appreciate a small tip. Not only would it brighten my day, but it'll also contribute to keeping the app running smoothly for you and support the development of new features. Thanks a bunch!" = "היי! אני לוקה ארכידיאקנו, ואני נלהב מיצירת דברים. CasaZurich הוא פרויקט שאני גאה בו במיוחד. אם אתם נהנים מ-CasaZurich, אודה לכם מאוד על טיפ קטן. זה לא רק ישמח אותי, אלא גם יסייע בהמשך הפעלת האפליקציה בצורה חלקה עבורכם ויתמוך בפיתוח תכונות חדשות. תודה רבה!";
 "Hi, I'm Luca Archidiacono, a developer passionate about building apps. CasaZurich is one of my favorite projects. If you're enjoying the app, a small tip would mean a lot. It helps keep things running and funds new features. Thanks!" = "היי, אני לוקה ארכידיאקנו, מפתח שאוהב לבנות אפליקציות. CasaZurich הוא אחד הפרויקטים האהובים עליי. אם אתה נהנה מהאפליקציה, תרומה קטנה תעזור לי מאוד. זה עוזר לשמור על הכל פועל ולממן פיצ'רים חדשים. תודה!";
+"Hidden" = "מוסתר";
 "High" = "גבוה";
 "History" = "הִיסטוֹרְיָה";
 "Hmmm.. it looks empty here" = "המממ.. נראה שריק כאן";
@@ -311,6 +314,7 @@
 "Oil" = "שמן";
 "Oldest first" = "הישנים תחילה";
 "On" = "על";
+"On your home" = "בבית שלך";
 "open" = "פתח";
 "Open" = "פתיחה";
 "Open construction sites" = "אתרי בנייה פתוחים";
@@ -492,6 +496,7 @@
 "When configuration is missing" = "כאשר התצורה חסרה";
 "Where are the playgrounds in Zürich?" = "איפה יש גני שעשועים בציריך?";
 "Where can I find free parking right now?" = "איפה אפשר למצוא חניה בחינם עכשיו?";
+"Where our data comes from" = "מאיפה מגיעים הנתונים שלנו";
 "Which restaurants are recommended in Zürich?" = "אילו מסעדות מומלצות בציריך?";
 "While uncoated pizza boxes are made of cardboard, only clean ones should be placed in the cardboard collection. Greasy pizza boxes with food residues cannot be recycled and should be placed in household waste." = "בעוד שקופסאות פיצה ללא ציפוי עשויות מקרטון, רק קופסאות נקיות יש להכניס לאיסוף הקרטון. קופסאות פיצה שמנוניות עם שאריות מזון אינן ניתנות למיחזור ויש להשליך אותן לפסולת הביתית.";
 "Win prizes from local venues" = "זכו בפרסים מבתי עסק מקומיים";
