@@ -80,11 +80,11 @@ function registerTranslations(
   localeEntries: Record<string, string>,
 ) {
   const lang = resolveLanguage(locale);
-  Object.entries(localeEntries).forEach(([englishText, localizedText]) => {
-    if (!catalog[englishText]) {
-      catalog[englishText] = {};
+  Object.entries(localeEntries).forEach(([sourceText, localizedText]) => {
+    if (!catalog[sourceText]) {
+      catalog[sourceText] = {};
     }
-    catalog[englishText][lang] = localizedText;
+    catalog[sourceText][lang] = localizedText;
   });
 }
 
@@ -94,9 +94,6 @@ Object.entries(bundles).forEach(([locale, entries]) =>
 
 function translate(key: string): string {
   const lang = currentLanguage();
-  if (lang === DEFAULT_LOCALE) {
-    return key;
-  }
   return catalog[key]?.[lang] ?? key;
 }
 

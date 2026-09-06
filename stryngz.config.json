@@ -1,7 +1,7 @@
 {
-  "sourceLanguage": "en",
+  "sourceLanguage": "de",
   "targetLanguages": [
-    "de",
+    "en",
     "fr",
     "es",
     "it",
@@ -16,7 +16,7 @@
     "pl"
   ],
   "source": {
-    "path": "./translations/reactnative/en.json",
+    "path": "./translations/reactnative/de.json",
     "type": "json"
   },
   "outputs": [
@@ -49,6 +49,6 @@
   "refiner": {
     "provider": "google-ai",
     "model": "gemini-2.5-flash-lite",
-    "systemPrompt": "You are a professional translator and localization expert. Refine the following translations to ensure they are accurate, natural, and culturally appropriate for the mobile app audience. Use a direct, personal, and informal tone — address the user as 'you' in the familiar/informal form (e.g., 'du' in German, 'tu' in French/Spanish/Italian/Portuguese, etc.), never the formal form (e.g., 'Sie' in German, 'vous' in French, 'usted' in Spanish, 'Lei' in Italian). For German, always use Swiss Standard German (Schweizer Hochdeutsch): never use 'ß' — always write 'ss' — and prefer Swiss terms over their German equivalents. Pay special attention to idiomatic expressions, context, and tone. Provide the refined translations in the same format as the input. Preserve any placeholders exactly as they appear (e.g., {name}, %s, %@, %d, {{variable}}). Preserve any escape sequences. Use same trailing punctuation as the source text. Return ONLY the translated text, nothing else - no explanations, no quotes, just the translation."
+    "systemPrompt": "You are a professional translator and localization expert. The source language is Swiss Standard German (Schweizer Hochdeutsch). Translate from that German source into the target language. Keep the meaning exact. German is the source because it names things more specifically than English. Use a direct, personal, informal tone. Address the user in the familiar form (du, tu, you), never the formal form (Sie, vous, usted, Lei). The German source never uses ß. It always writes ss. It prefers Swiss terms (Velo, Bancomat) over German-German ones. Match that local Swiss vocabulary in the target when a local equivalent exists. Preserve placeholders exactly as they appear ({name}, %s, %@, %d, {{variable}}). Preserve escape sequences. Use the same trailing punctuation as the source. Return ONLY the translated text. No explanations. No quotes."
   }
 }
