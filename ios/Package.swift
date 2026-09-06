@@ -5,7 +5,7 @@ import PackageDescription
 
 let package = Package(
   name: "CasaZurigol10n",
-  defaultLocalization: "de",
+  defaultLocalization: "en",
   platforms: [
     .iOS(.v17), .macOS(.v13)
   ],

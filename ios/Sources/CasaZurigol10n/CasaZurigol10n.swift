@@ -93,7 +93,7 @@ extension CasaZurigol10n {
             case "zh-hant":
                 self = .zhHant
             default:
-                self = .de
+                self = .en
             }
         }
     }
@@ -153,7 +153,7 @@ extension CasaZurigol10n {
 
     public static var appLanguage: SupportedLanguage {
         guard let language = Bundle.main.preferredLocalizations.first else {
-            return .de
+            return .en
         }
 
         let code = language.prefix(2).lowercased()

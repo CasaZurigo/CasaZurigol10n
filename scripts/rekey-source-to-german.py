@@ -341,11 +341,6 @@ def apply_catalogs(
             rekeyed = {key: key for key in rekeyed}
         dump_json(JSON_DIR / f"{lang}.json", rekeyed)
 
-    dump_json(
-        JSON_DIR / "english-to-german.json",
-        dict(sorted(english_to_german.items(), key=lambda kv: kv[0].casefold())),
-    )
-
     for strings_root in strings_dirs():
         for lproj in sorted(strings_root.glob("*.lproj")):
             strings_path = lproj / "Localizable.strings"
@@ -412,22 +407,22 @@ def check(english_to_german: dict[str, str], german_to_english: dict[str, str]) 
         errors.append("systemPrompt does not treat Swiss German as the source")
 
     pkg = (ROOT / "ios" / "Package.swift").read_text(encoding="utf-8")
-    if 'defaultLocalization: "de"' not in pkg:
-        errors.append("Package.swift defaultLocalization is not de")
+    if 'defaultLocalization: "en"' not in pkg:
+        errors.append("Package.swift defaultLocalization is not en")
 
     rn = (ROOT / "reactnative" / "src" / "index.ts").read_text(encoding="utf-8")
-    if 'const DEFAULT_LOCALE: SupportedLanguage = "de"' not in rn:
-        errors.append("RN DEFAULT_LOCALE is not de")
-    if "english-to-german.json" not in rn:
-        errors.append("RN tr() does not load english-to-german.json")
+    if 'const DEFAULT_LOCALE: SupportedLanguage = "en"' not in rn:
+        errors.append("RN DEFAULT_LOCALE is not en")
+    if "english-to-german" in rn or "englishToGerman" in rn:
+        errors.append("RN tr() still loads english-to-german")
 
     ios_tr = (ROOT / "ios" / "Sources" / "CasaZurigol10n" / "CasaZurigol10n.swift").read_text(
         encoding="utf-8"
     )
-    if "self = .de" not in ios_tr.split("default:")[-1][:80]:
-        errors.append("iOS Language default is not de")
-    if "return .de" not in ios_tr:
-        errors.append("iOS appLanguage fallback is not de")
+    if "self = .en" not in ios_tr.split("default:")[-1][:80]:
+        errors.append("iOS Language default is not en")
+    if "return .en" not in ios_tr:
+        errors.append("iOS appLanguage fallback is not en")
 
     recycling = (
         MOBILE
@@ -443,6 +438,8 @@ def check(english_to_german: dict[str, str], german_to_english: dict[str, str]) 
         errors.append("en.json time plural is wrong")
     if de.get("Startseite") != "Startseite":
         errors.append("de.json Startseite is not identity")
+    if (JSON_DIR / "english-to-german.json").exists():
+        errors.append("english-to-german.json should not be shipped")
 
     if errors:
         print("CHECK FAIL")
@@ -476,17 +473,12 @@ def report(
     print(f"catalog keys with no tr() literal {len(unused)}")
 
 
-def load_saved_mapping() -> tuple[dict[str, str], dict[str, str]] | None:
-    path = JSON_DIR / "english-to-german.json"
-    if not path.exists():
-        return None
-    english_to_german = load_json(path)
-    german_to_english: dict[str, str] = {}
+def mapping_from_en() -> tuple[dict[str, str], dict[str, str]]:
     en = load_json(JSON_DIR / "en.json")
-    for english, german in english_to_german.items():
-        current = german_to_english.get(german)
-        if current is None or en.get(german) == english or english == german:
-            german_to_english[german] = english
+    german_to_english = dict(en)
+    english_to_german = {english: german for german, english in en.items()}
+    for german in en:
+        english_to_german.setdefault(german, german)
     return english_to_german, german_to_english
 
 
@@ -500,13 +492,11 @@ def main() -> int:
     files = iter_source_files()
     used_map = collect_tr_literals(files)
     used_keys = set(used_map)
-    saved = load_saved_mapping() if (args.check or args.rewrite_sources) and not args.apply else None
-    if saved:
-        english_to_german, german_to_english = saved
+    de = load_json(JSON_DIR / "de.json")
+    if (args.check or args.rewrite_sources) and not args.apply:
+        english_to_german, german_to_english = mapping_from_en()
         notes: list[str] = []
-        de = load_json(JSON_DIR / "de.json")
     else:
-        de = load_json(JSON_DIR / "de.json")
         english_to_german, german_to_english, notes = build_mapping(de, used_keys)
 
     if args.check and not args.apply and not args.rewrite_sources:
