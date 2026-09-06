@@ -2,6 +2,7 @@ import { getLocales } from "expo-localization";
 
 import de from "../../translations/reactnative/de.json";
 import en from "../../translations/reactnative/en.json";
+import englishToGerman from "../../translations/reactnative/english-to-german.json";
 import es from "../../translations/reactnative/es.json";
 import fr from "../../translations/reactnative/fr.json";
 import he from "../../translations/reactnative/he.json";
@@ -34,7 +35,7 @@ const SUPPORTED_LANGUAGES = [
 
 type SupportedLanguage = (typeof SUPPORTED_LANGUAGES)[number];
 
-const DEFAULT_LOCALE: SupportedLanguage = "en";
+const DEFAULT_LOCALE: SupportedLanguage = "de";
 
 const bundles: Record<SupportedLanguage, Record<string, string>> = {
   de,
@@ -80,11 +81,11 @@ function registerTranslations(
   localeEntries: Record<string, string>,
 ) {
   const lang = resolveLanguage(locale);
-  Object.entries(localeEntries).forEach(([englishText, localizedText]) => {
-    if (!catalog[englishText]) {
-      catalog[englishText] = {};
+  Object.entries(localeEntries).forEach(([sourceText, localizedText]) => {
+    if (!catalog[sourceText]) {
+      catalog[sourceText] = {};
     }
-    catalog[englishText][lang] = localizedText;
+    catalog[sourceText][lang] = localizedText;
   });
 }
 
@@ -92,12 +93,19 @@ Object.entries(bundles).forEach(([locale, entries]) =>
   registerTranslations(locale, entries),
 );
 
+function resolveSourceKey(key: string): string {
+  if (catalog[key]) return key;
+  const mapped = (englishToGerman as Record<string, string>)[key];
+  return mapped ?? key;
+}
+
 function translate(key: string): string {
+  const sourceKey = resolveSourceKey(key);
   const lang = currentLanguage();
   if (lang === DEFAULT_LOCALE) {
-    return key;
+    return sourceKey;
   }
-  return catalog[key]?.[lang] ?? key;
+  return catalog[sourceKey]?.[lang] ?? sourceKey;
 }
 
 // Placeholders: %@ filled sequentially, %1$@/%2$@ by 1-indexed position.
