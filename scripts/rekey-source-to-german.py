@@ -354,6 +354,111 @@ def apply_catalogs(
             dump_strings(strings_path, rekeyed)
 
 
+IDENT = re.compile(r"[A-Za-z_][A-Za-z0-9_]*")
+TR_OPEN = re.compile(r"\btr\s*\(")
+TR_DEF_PREFIX = re.compile(r"(?:export\s+)?(?:public\s+)?(?:func|function)\s+$")
+
+
+def skip_ws(text: str, i: int) -> int:
+    n = len(text)
+    while i < n and text[i] in " \t\r\n":
+        i += 1
+    return i
+
+
+def skip_quoted(text: str, i: int) -> int | None:
+    quote = text[i]
+    i += 1
+    n = len(text)
+    while i < n:
+        if text[i] == "\\":
+            i += 2
+            continue
+        if quote == "`" and text.startswith("${", i):
+            return None
+        if text[i] == quote:
+            return i + 1
+        i += 1
+    return None
+
+
+def tr_first_arg_kind(text: str, i: int) -> str:
+    i = skip_ws(text, i)
+    if i >= len(text):
+        return "api"
+    if text.startswith("String", i) and (i + 6 >= len(text) or not IDENT.match(text, i + 6)):
+        j = skip_ws(text, i + 6)
+        if j < len(text) and text[j] == "(":
+            return tr_first_arg_kind(text, j + 1)
+        return "api"
+    if text[i] in "\"'`":
+        end = skip_quoted(text, i)
+        return "literal" if end is not None else "api"
+    ident = IDENT.match(text, i)
+    if not ident:
+        return "api"
+    j = skip_ws(text, ident.end())
+    if j < len(text) and text[j] == "[":
+        return "local_table"
+    if j < len(text) and text[j] == ".":
+        k = skip_ws(text, j + 1)
+        member = IDENT.match(text, k)
+        if not member:
+            return "api"
+        after = skip_ws(text, member.end())
+        if after < len(text) and text[after] in ",)":
+            return "local_table"
+        return "api"
+    if j < len(text) and text[j] in ",)":
+        return "api"
+    return "api"
+
+
+def snippet_at(text: str, i: int, width: int = 80) -> str:
+    end = text.find("\n", i)
+    if end < 0 or end - i > width:
+        end = min(len(text), i + width)
+    return text[i:end].rstrip()
+
+
+def api_tr_calls(files: list[Path]) -> list[tuple[str, str]]:
+    hits: list[tuple[str, str]] = []
+    for path in files:
+        text = path.read_text(encoding="utf-8")
+        if not L10N_IMPORT.search(text):
+            continue
+        for match in TR_OPEN.finditer(text):
+            before = text[max(0, match.start() - 32) : match.start()]
+            if TR_DEF_PREFIX.search(before):
+                continue
+            kind = tr_first_arg_kind(text, match.end())
+            if kind == "api":
+                rel = str(path.relative_to(MOBILE))
+                hits.append((rel, snippet_at(text, match.start())))
+    return hits
+
+
+def self_check_tr_arg_kinds() -> list[str]:
+    samples = [
+        ('tr("Konzert")', "literal"),
+        ("tr('Markt')", "literal"),
+        ("tr(String(\"Minimum version: %@\"), v)", "literal"),
+        ("tr(LABEL[type])", "local_table"),
+        ("tr(ALLOWED[type])", "local_table"),
+        ("tr(layer.label)", "local_table"),
+        ("tr(capitalize(category))", "api"),
+        ("tr(item)", "api"),
+        ("tr(category.charAt(0).toUpperCase() + category.slice(1))", "api"),
+    ]
+    errors: list[str] = []
+    for source, expected in samples:
+        open_at = source.index("(")
+        got = tr_first_arg_kind(source, open_at + 1)
+        if got != expected:
+            errors.append(f"tr arg kind {source!r} expected {expected} got {got}")
+    return errors
+
+
 def remaining_english_tr(files: list[Path], english_to_german: dict[str, str]) -> list[tuple[str, str]]:
     leftover: list[tuple[str, str]] = []
     for path in files:
@@ -391,6 +496,10 @@ def check(english_to_german: dict[str, str], german_to_english: dict[str, str]) 
     leftover = remaining_english_tr(files, english_to_german)
     for rel, key in leftover:
         errors.append(f"tr() still uses English key {key!r} in {rel}")
+
+    errors.extend(self_check_tr_arg_kinds())
+    for rel, snippet in api_tr_calls(files):
+        errors.append(f"tr() first arg is not a local catalog key in {rel}: {snippet}")
 
     config = json.loads((ROOT / "stryngz.config.json").read_text(encoding="utf-8"))
     if config.get("sourceLanguage") != "de":
