@@ -127,6 +127,7 @@
 "Erlaubt:" = "Erlaubt:";
 "Erläuterung" = "Erläuterung";
 "Erlebe Festivals, Sport und Kultur." = "Erlebe Festivals, Sport und Kultur.";
+"Erneut versuchen" = "Erneut versuchen";
 "Es ist ein Fehler aufgetreten. Bitte versuche es erneut." = "Es ist ein Fehler aufgetreten. Bitte versuche es erneut.";
 "Essen" = "Essen";
 "Falsch" = "Falsch";
@@ -186,6 +187,7 @@
 "Informiere dich über lokale Recyclingtermine, um auf dem Laufenden zu bleiben, was du recyceln kannst und welche Regeln du befolgen musst." = "Informiere dich über lokale Recyclingtermine, um auf dem Laufenden zu bleiben, was du recyceln kannst und welche Regeln du befolgen musst.";
 "Informiert bleiben" = "Informiert bleiben";
 "Infrastruktur" = "Infrastruktur";
+"Inhalt konnte nicht geladen werden" = "Inhalt konnte nicht geladen werden";
 "Ja" = "Ja";
 "Jetzt aktualisieren" = "Jetzt aktualisieren";
 "Jetzt drehen!" = "Jetzt drehen!";
@@ -326,7 +328,6 @@
 "Recycling" = "Recycling";
 "Recycling-Benachrichtigungen" = "Recycling-Benachrichtigungen";
 "Recycling-Events können momentan nicht geladen werden." = "Recycling-Events können momentan nicht geladen werden.";
-"Recyclingdetails konnten nicht geladen werden" = "Recyclingdetails konnten nicht geladen werden";
 "Region" = "Region";
 "Relevanz" = "Relevanz";
 "Restaurant" = "Restaurant";

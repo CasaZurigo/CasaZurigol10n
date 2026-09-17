@@ -127,6 +127,7 @@
 "Erlaubt:" = "허용됨:";
 "Erläuterung" = "설명";
 "Erlebe Festivals, Sport und Kultur." = "축제, 스포츠, 문화를 만나보세요.";
+"Erneut versuchen" = "다시 시도하기";
 "Es ist ein Fehler aufgetreten. Bitte versuche es erneut." = "문제가 발생했어요. 다시 시도해 주세요.";
 "Essen" = "음식";
 "Falsch" = "잘못된";
@@ -186,6 +187,7 @@
 "Informiere dich über lokale Recyclingtermine, um auf dem Laufenden zu bleiben, was du recyceln kannst und welche Regeln du befolgen musst." = "지역 재활용 행사를 통해 재활용 가능한 품목과 따라야 할 규칙에 대한 정보를 얻으세요.";
 "Informiert bleiben" = "최신 정보를 받아보세요";
 "Infrastruktur" = "인프라";
+"Inhalt konnte nicht geladen werden" = "콘텐츠를 불러올 수 없습니다";
 "Ja" = "네";
 "Jetzt aktualisieren" = "지금 업데이트하세요";
 "Jetzt drehen!" = "지금 돌려보세요!";
@@ -326,7 +328,6 @@
 "Recycling" = "재활용";
 "Recycling-Benachrichtigungen" = "재활용 알림";
 "Recycling-Events können momentan nicht geladen werden." = "현재 재활용 이벤트를 불러올 수 없습니다.";
-"Recyclingdetails konnten nicht geladen werden" = "재활용 세부 정보를 불러올 수 없었습니다";
 "Region" = "지역";
 "Relevanz" = "관련성";
 "Restaurant" = "레스토랑";

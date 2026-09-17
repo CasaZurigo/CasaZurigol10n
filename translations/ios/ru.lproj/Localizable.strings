@@ -127,6 +127,7 @@
 "Erlaubt:" = "Разрешено:";
 "Erläuterung" = "Объяснение";
 "Erlebe Festivals, Sport und Kultur." = "Смотри фестивали, спорт и культуру.";
+"Erneut versuchen" = "Повторить попытку";
 "Es ist ein Fehler aufgetreten. Bitte versuche es erneut." = "Произошла ошибка. Попробуй ещё раз.";
 "Essen" = "Еда";
 "Falsch" = "Неверно";
@@ -186,6 +187,7 @@
 "Informiere dich über lokale Recyclingtermine, um auf dem Laufenden zu bleiben, was du recyceln kannst und welche Regeln du befolgen musst." = "Изучи местные мероприятия по переработке, чтобы быть в курсе того, что можно перерабатывать и какие правила следует соблюдать.";
 "Informiert bleiben" = "Оставайся в курсе";
 "Infrastruktur" = "Инфраструктура";
+"Inhalt konnte nicht geladen werden" = "Не удалось загрузить содержимое";
 "Ja" = "Да";
 "Jetzt aktualisieren" = "Обновить сейчас";
 "Jetzt drehen!" = "Крутись сейчас!";
@@ -326,7 +328,6 @@
 "Recycling" = "Переработка";
 "Recycling-Benachrichtigungen" = "Уведомления о переработке";
 "Recycling-Events können momentan nicht geladen werden." = "Не удалось загрузить события по переработке.";
-"Recyclingdetails konnten nicht geladen werden" = "Не удалось загрузить сведения о переработке";
 "Region" = "Регион";
 "Relevanz" = "Актуальность";
 "Restaurant" = "Ресторан";

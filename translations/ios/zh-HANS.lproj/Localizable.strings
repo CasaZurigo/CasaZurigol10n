@@ -127,6 +127,7 @@
 "Erlaubt:" = "允许：";
 "Erläuterung" = "解释";
 "Erlebe Festivals, Sport und Kultur." = "了解节日、体育和文化。";
+"Erneut versuchen" = "再次尝试";
 "Es ist ein Fehler aufgetreten. Bitte versuche es erneut." = "发生错误。请重试。";
 "Essen" = "食物";
 "Falsch" = "错误";
@@ -186,6 +187,7 @@
 "Informiere dich über lokale Recyclingtermine, um auf dem Laufenden zu bleiben, was du recyceln kannst und welche Regeln du befolgen musst." = "探索当地的回收活动，及时了解可回收物品的种类和需要遵守的规定。";
 "Informiert bleiben" = "保持知情";
 "Infrastruktur" = "基础设施";
+"Inhalt konnte nicht geladen werden" = "无法加载内容";
 "Ja" = "好";
 "Jetzt aktualisieren" = "立即更新";
 "Jetzt drehen!" = "立即旋转！";
@@ -326,7 +328,6 @@
 "Recycling" = "回收利用";
 "Recycling-Benachrichtigungen" = "回收提醒";
 "Recycling-Events können momentan nicht geladen werden." = "暂时无法加载回收活动。";
-"Recyclingdetails konnten nicht geladen werden" = "无法加载回收详情";
 "Region" = "区域";
 "Relevanz" = "相关性";
 "Restaurant" = "餐厅";
