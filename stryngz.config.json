@@ -25,10 +25,6 @@
       "path": "./translations/ios/{lang}.lproj/Localizable.strings"
     },
     {
-      "type": "strings",
-      "path": "../ios/CasaZurigo/{lang}.lproj/Localizable.strings"
-    },
-    {
       "type": "json",
       "path": "./translations/reactnative/{lang}.json"
     }
