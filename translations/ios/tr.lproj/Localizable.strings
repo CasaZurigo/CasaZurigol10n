@@ -44,8 +44,6 @@
 "Ausserhalb des Radars" = "Radarın ötesinde";
 "Bancomat" = "ATM";
 "Barrierefrei" = "Erişilebilir";
-"Batterie, Aluminium, elektronisches Gerät, Farbe, Geschirr, Glasflasche, Keramik, Medizin, Metall, Spiegel, Energiesparlampe, LED, Leuchtstoffröhre" = "Pil, alüminyum, elektronik cihaz, boya, tabak, cam şişe, seramik, ilaç, metal, ayna, enerji tasarruflu lamba, LED, floresan lamba";
-"Bauschutt, Bioabfall, Sonderabfall, Hauskehricht, Einzelgegenstände über 40 kg oder 2,5 m" = "İnşaat atığı, organik atık, tehlikeli atık, evsel atık, 40 kg'dan ağır veya 2,5 m'den uzun tekil eşya";
 "Bauschutt, organische Abfälle, gefährliche Abfälle, Elektrogeräte, Hauskehricht, Herd, Einzelstücke, die schwerer als 40 kg oder länger als 2,5 m sind" = "İnşaat atığı, organik atık, tehlikeli atık, elektronik cihaz, evsel atık, soba, 40 kg'dan ağır veya 2,5 m'den uzun tekil eşya";
 "Baustellen" = "Şantiyeler";
 "Beachvolleyball" = "Plaj Voleybolu";
@@ -54,7 +52,6 @@
 "Benachrichtigungen" = "Haber uyarıları";
 "Benachrichtigungen blockiert" = "Bildirimler engellendi";
 "Benachrichtigungen sind erlaubt." = "Bildirimlere izin verildi.";
-"Benzinbetriebene Geräte wie Kettensägen, grosse Metallteile, Metallwerkzeuge, Batterien und Akkus, Abfall" = "Benzinle çalışan zincirli testere, büyük metal eşyalar, metal aletler, akü ve pil, atık gibi ekipmanlar";
 "Berechtigungen werden nur bei Bedarf angefordert." = "İzinler yalnızca gerektiğinde istenir.";
 "Bereit" = "Hazır";
 "Beschreibung" = "Açıklama";
@@ -67,7 +64,6 @@
 "Bitte aktualisiere CasaZurich, um die App weiter nutzen zu können." = "Uygulamayı kullanmaya devam etmek için lütfen CasaZurich'i güncelleyin.";
 "Brauchst du Hilfe?" = "Yardım mı lazım?";
 "Briefkasten" = "Posta Kutusu";
-"Bring deine Wertstoffe zur mobilen Wertstoffsammelstelle an der angegebenen Haltestelle. Autos sind nicht erlaubt! Die mobile Wertstoffsammelstelle ist für Fussgänger, Velofahrer oder Nutzer öffentlicher Verkehrsmittel gedacht. Gut erhaltene Gegenstände kannst du kostenlos abgeben oder mitnehmen." = "Geri dönüştürülebilir malzemelerini, belirlenen duraktaki Mobil Geri Dönüşüm Merkezi'ne getir. Araç kabul edilmemektedir! Mobil Geri Dönüşüm Merkezi, yürüyerek, bisikletle veya toplu taşıma ile seyahat edenler için hizmet vermektedir. Ayrıca, iyi durumdaki eşyalarını ücretsiz olarak bırakabilir veya alabilirsin.";
 "Brunnen" = "Çeşme";
 "Bürogeräte, Computer und Zubehör, Tastatur, Maus, Datenspeicher, Drucker, Faxgerät, Kopierer, Modem, Netzwerkgerät, Tablet, Telefon, Haushaltsgeräte, Boiler, Bügeleisen, Haartrockner, Geschirrspüler, Kaffeemaschine, Klimaanlage, Herd, Kühlschrank, Lampe, Mixer, Nähmaschine, Elektrorasierer, Spielkonsole, Sportgeräte, Stehlampe, Staubsauger, Gefrierschrank, Toaster, Tumbler, Waschmaschine, Kabel, Unterhaltungsgeräte, Bildschirm, CD und CD-Player, DVD und DVD-Player, Freizeitgeräte, Projektor, Radio, Fernseher und Zubehör (Fernbedienung), Videogerät/Kassette" = "Ofis ekipmanları, bilgisayarlar ve aksesuarlar, klavye, fare, veri depolama, yazıcı, faks makinesi, fotokopi makinesi, modem, ağ cihazı, tablet, telefon, ev aletleri, kombi, ütü, saç kurutma makinesi, bulaşık makinesi, kahve makinesi, klima, ocak, buzdolabı, lamba, blender, dikiş makinesi, elektrikli tıraş makinesi, oyun cihazı, spor ekipmanları, ayaklı lamba, elektrikli süpürge, derin dondurucu, tost makinesi, kurutma makinesi, çamaşır makinesi, kablo, eğlence cihazları, ekran, CD ve CD oynatıcı, DVD ve DVD oynatıcı, dinlenme ekipmanları, projektör, radyo, TV ve aksesuarları (uzaktan kumanda), video cihazı/kaset";
 "Cache geleert" = "Önbellek temizlendi";
@@ -80,7 +76,6 @@
 "Chat löschen" = "Sohbeti sil";
 "Chat umbenennen" = "Sohbeti yeniden adlandır";
 "Code" = "Kod";
-"Das Recycling von Karton ist sinnvoll, denn es schont die natürlichen Ressourcen und ist günstiger als die Verbrennung im Kehrichtheizkraftwerk. Der gesammelte Karton ist ein wichtiger Rohstoff für die Herstellung von Wellkarton, Verpackungen und sogar Möbeln. Da die technische Verarbeitung immer besser wird, werden auch hochwertige Kartonprodukte aus recyceltem Karton hergestellt." = "Kartonun geri dönüştürülmesi, doğal kaynakları koruduğu ve atıktan enerji üreten tesiste yakılmasından daha ucuza mal olduğu için mantıklıdır. Toplanan karton, oluklu mukavva, ambalaj ve hatta mobilya üretimi için temel bir hammaddedir. Teknik işleme yöntemleri gelişmeye devam ettikçe, yüksek kaliteli karton ürünler bile geri dönüştürülmüş kartondan üretilmektedir.";
 "Das wird viel dazu beitragen, dass CasaZurich weiterläuft!" = "CasaZurich'in devamlılığı için büyük fayda sağlayacaktır!";
 "Daten von data.stadt-zuerich.ch" = "data.stadt-zuerich.ch adresinden alınan veriler";
 "Datenquellen" = "Veri Kaynakları";
@@ -95,13 +90,10 @@
 "Dein Überblick für heute" = "Bugünün özeti";
 "Deine Privatsphäre ist uns wichtig. Deine Daten werden weder erhoben noch gespeichert. Was du tust, ist deine Angelegenheit – nicht unsere oder die von jemand anderem." = "Gizliliğin bizim için önemlidir. Verilerin toplanmayacak veya saklanmayacaktır. Ne yaptığın seni ilgilendirir, bizi veya başkasını değil.";
 "Denkt nach…" = "Düşünüyor";
-"Der Abfall muss in einem blauen Zuri-Sack entsorgt werden. Der blaue Zuri-Sack ist gegen eine Gebühr im Detailhandel erhältlich und wird in Grössen von 10, 17, 35, 60 oder 110 Litern angeboten. Stelle deinen Zuri-Sackbehälter am Abfuhrtag vor 7 Uhr morgens an der vorgesehenen Abholstelle ab." = "Atıklar mavi bir Zuri torbasına atılmalıdır. Mavi Zuri torbası perakende mağazalarında ücret karşılığında satılmaktadır ve 10, 17, 35, 60 veya 110 litrelik boyutlarda mevcuttur. Zuri torba kabını teslimat gününde sabah 7'den önce belirlenen teslimat noktasına bırak.";
-"Der Mobile Recyclinghof bringt Recyclingdienste direkt in deine Nachbarschaft. Du kannst Sperrgut, Elektronikgeräte, Metalle und andere Wertstoffe abgeben. Er ersetzt die ehemaligen Cargo Tram und E-Tram und bietet eine bequeme und zugängliche Möglichkeit, Materialien zu recyceln, die nicht in den normalen Hauskehricht gehören." = "Mobil Geri Dönüşüm Merkezi (Mobiler Recyclinghof), geri dönüşüm hizmetlerini doğrudan mahallene getiriyor. Büyük hacimli atıkları, elektronik cihazları, metalleri ve diğer geri dönüştürülebilir malzemeleri bırakabilirsin. Eski Kargo Tramvayı ve E-Tramvayı hizmetlerinin yerini alan bu merkez, normal evsel atıklara ait olmayan malzemelerin geri dönüşümü için uygun ve erişilebilir bir yol sunuyor.";
 "Die lokalen Caches wurden geleert." = "Yerel önbellekler temizlendi.";
 "Die Nachrichten können derzeit nicht geladen werden." = "Şu anda haber yüklenemiyor.";
 "Die Nutzung von CasaZurich unterliegt den Standard-EULA von Apple für Apps. Abonnements verlängern sich automatisch, sofern sie nicht innerhalb von 24 Stunden vor Ende des aktuellen Zeitraums gekündigt werden. Du kannst jederzeit über deine iTunes-Account-Einstellungen kündigen. Jeder ungenutzte Teil einer kostenlosen Testphase verfällt, wenn du ein Abonnement erwirbst. Die automatische Verlängerung kann vom Nutzer deaktiviert werden, indem er nach dem Kauf zu den Kontoeinstellungen geht. Die Dauer und der Preis jedes Abonnements werden auf dem Kaufbildschirm angezeigt und zum Zeitpunkt des Kaufs aktualisiert. Wenn du Fragen zu den Nutzungsbedingungen von CasaZurich hast, wende dich bitte an mich unter support@casazurigo.ch" = "CasaZurich'in kullanımı, uygulamalar için Apple'ın Standart EULA'sına tabidir. Abonelikler, mevcut dönemin bitiminden 24 saat önce iptal edilmediği sürece otomatik olarak yenilenir. İstediğin zaman iTunes hesap ayarlarından iptal edebilirsin. Ücretsiz deneme süresinin kullanılmayan herhangi bir kısmı, abonelik satın alman durumunda kaybedilecektir. Otomatik yenileme, satın alma işleminden sonra kullanıcının Hesap Ayarları'na gidilerek kullanıcı tarafından kapatılabilir. Her aboneliğin süresi ve fiyatı satın alma ekranında görüntülenir ve satın alma sırasında güncellenir. CasaZurich Kullanım Koşulları hakkında herhangi bir sorun varsa, lütfen support@casazurigo.ch adresinden bana ulaş";
 "Die Nutzung von CasaZurich unterliegt den Standard-Lizenzbedingungen von Google Play für Apps. CasaZurich ist kostenlos nutzbar. Optionale Spenden zur Unterstützung der Entwicklung sind in den App-Einstellungen verfügbar. Wenn du Fragen zu den Nutzungsbedingungen von CasaZurich hast, kontaktiere mich bitte unter support@casazurigo.ch." = "CasaZurich'in kullanımı, Google Play'in uygulamalar için standart Son Kullanıcı Lisans Sözleşmesi'ne tabidir. CasaZurich'i kullanmak ücretsizdir. Geliştirme desteği için isteğe bağlı bağışlar uygulama ayarlarından yapılabilir. CasaZurich Kullanım Koşulları hakkında herhangi bir sorun varsa, lütfen support@casazurigo.ch adresinden bana ulaş.";
-"Die Zürcher Abfallentsorgung und Recycling bringt täglich über 30'000 Zuri-Säcke ins Kehrichtheizkraftwerk Hagenholz, wo sie umweltgerecht verbrannt werden. Die bei der Verbrennung entstehende Wärme produziert ökologischen Strom und klimafreundliche Zürich-Wärme, mit der rund 170'000 Wohnungen beheizt werden können." = "Zürih Atık Bertaraf ve Geri Dönüşüm, her gün 30.000'den fazla Zuri çöp torbasını Hagenholz atıktan enerji üretim tesisine getirerek burada çevreye duyarlı bir şekilde yakılmasını sağlıyor. Yakma işleminden elde edilen ısı, yaklaşık 170.000 daireyi ısıtabilecek ekolojik enerji ve iklim dostu Zürih ısısı üretiyor.";
 "Dieses Gerät oder dieses Konto ist nicht für Käufe berechtigt. Überprüfe die Kindersicherung oder die Geräteeinschränkungen und versuche es erneut." = "Bu cihaz veya hesapla alışveriş yapılmasına izin verilmiyor. Ebeveyn denetimlerini veya cihaz kısıtlamalarını kontrol edip tekrar dene.";
 "Drehe das Rad" = "Çarkı Çevir";
 "Drehe das Rad und gewinne Preise!" = "Ödüller kazanmak için çarkı çevir!";
@@ -156,14 +148,12 @@
 "Gefällt mir" = "Beğen";
 "Gefällt mir nicht" = "Beğenme";
 "Generell sollten Produkte aus biologisch abbaubaren Materialien (EN 13432), wie kompostierbare Kaffeekapseln, Einweggeschirr aus Maisstärke oder Produkte/Verpackungen aus 100 % Fasermaterialien, nicht in den Bioabfallbehälter gegeben werden. Der Grund dafür ist, dass sie bei der Sammlung nicht visuell erkennbar sind. Eine Ausnahme bilden Bioabfallsäcke mit Gitterdruck." = "Genel olarak, kompostlanabilir kahve kapsülleri, mısır nişastasından yapılmış tek kullanımlık sofra takımları veya %100 lifli ürünlerden/ambalajlardan yapılmış ürünler gibi biyolojik olarak parçalanabilen malzemelerden (EN 13432) üretilen ürünler, organik atık kutusuna atılmamalıdır. Bunun nedeni, toplama sırasında görsel olarak tanınamamalarıdır. Bunun istisnası, kafes baskılı biyo-atık torbalarıdır.";
-"Generell sollten Produkte aus biologisch abbaubaren Materialien (EN 13432), wie z. B. kompostierbare Kaffeekapseln, Einweggeschirr aus Maisstärke oder Produkte/Verpackungen aus 100 % Fasermaterialien, nicht über den Bioabfallbehälter entsorgt werden. Dies liegt daran, dass sie bei der Sammlung optisch nicht erkennbar sind. Eine Ausnahme bilden Bioabfallsäcke mit Gitteraufdruck." = "Genel olarak, kompostlanabilir kahve kapsülleri, mısır nişastasından yapılmış tek kullanımlık sofra takımları veya %100 lifli ürünlerden yapılmış ürünler/ambalajlar gibi biyolojik olarak parçalanabilen malzemelerden (EN 13432) üretilen ürünler, organik atık kutusuna atılmamalıdır. Bunun nedeni, toplama sırasında görsel olarak ayırt edilememeleridir. Bunun istisnası, kafes desenli biyolojik atık torbalarıdır.";
 "Geographie" = "Coğrafya";
 "Gerade eben" = "Az önce";
 "Gerade jetzt in der Stadt" = "Şu anki şehir";
 "Gesamt" = "Toplam";
 "Geschäftsbedingungen von CasaZurich einsehen" = "CasaZurich şartlarını incele";
 "Geselligkeit" = "Toplum";
-"Getrennt gesammeltes Papier kann mehrfach recycelt werden und ist daher der wichtigste Rohstoff für die Schweizer Papierindustrie: Zeitungen bestehen zu bis zu 80 Prozent aus Recyclingpapier." = "Ayrı olarak toplanan kağıtlar defalarca geri dönüştürülebilir ve bu nedenle İsviçre kağıt endüstrisi için en önemli hammaddedir: gazeteler %80'e kadar geri dönüştürülmüş kağıttan üretilir.";
 "Gewinne Preise bei lokalen Veranstaltungsorten" = "Yerel mekanlardan ödüller kazan";
 "Gib eine Postleitzahl ein, um Benachrichtigungen zum Recycling zu aktivieren." = "Geri dönüşüm uyarılarını etkinleştirmek için posta kodu ekle.";
 "Glas" = "Cam";
@@ -260,7 +250,6 @@
 "Lokale Neuigkeiten, die für dich wichtig sind." = "Senin için önemli yerel güncellemeler.";
 "Los geht's" = "Hadi gidelim";
 "Löschen" = "Sil";
-"Lose pflanzliche Gartenabfälle, Balkon- und Kübelpflanzen (ohne Behälter), Erde (ohne Steine oder Hydrokugeln), Laub, Unkraut und Fallobst, Rasen- und Wiesenschnitt, Schnittblumen, Stauden aus Blumen und Gemüse, Strauch- und Baumschnitt bis 10 cm Durchmesser, Küchenabfälle, Eierschalen, Eierkartons, Obstkerne, Kaffeepads ohne Verpackung (z.B. von CoffeeB), Kaffeesatz, Kräutertee, Kleintierstreu (inkl. Federn), Stroh, Heu und Sägemehl, Palmblattteller, Obst- und Gemüsereste, Bioabfallsäcke mit Gitteraufdruck, Haushaltsreste, Brot, Gebäck und Süssspeisen, Fleisch und Fisch (inkl. Gräten und Karkassen), Getreideprodukte, Reis, Hülsenfrüchte, Speisefett, Saucen, Milchprodukte, Käse, Eier" = "Gevşek bitki ve bahçe atıkları, balkon ve saksı bitkileri (kapları hariç), toprak (taş veya hidrokültsüz), yapraklar, otlar ve dökülmüş meyveler, çim ve çayır biçme artıkları, kesme çiçekler, çiçek ve sebzelerden çok yıllık bitkiler, çapı 10 cm'ye kadar olan çalı ve ağaç budama artıkları, mutfak atıkları, yumurta kabuğu, yumurta kartonu, meyve çekirdeği, ambalajsız kahve kapsülleri (örn. CoffeeB'den), kahve telvesi, çay otu, tüy, saman, ot ve talaş dahil küçük hayvan gübresi, palmiye yaprağı tabakları, meyve ve sebze artıkları, kafes desenli biyo-atık torbaları, ev artıkları, ekmek, hamur işleri ve tatlılar, et ve balık (kemik ve kılçıklar dahil), tahıl ürünleri, pirinç, baklagiller, yemeklik yağ, sos, süt ürünleri, peynir, yumurta";
 "Luftqualität" = "Hava kalitesi";
 "Mach es zu deinem" = "Senin olsun";
 "Mach mit" = "Katıl";
@@ -270,7 +259,6 @@
 "Mein Reisepass" = "Pasaportum";
 "Metall" = "Metal";
 "Metall, Sperrgut, Kies, Getränkekartons, Plastikflaschen, Styropor, Textilien, Gepäck, Körbe, Matratzen, Möbel, Kunststoffe, Skier, Teppiche, Korken, Aluminium-Kaffeekapseln, Sofas/Polstermöbel bis 2 m Länge, Einzelstücke bis 40 kg Gewicht und 2,5 m Länge" = "Metal, hacimli atık, çakıl, içecek kartonları, plastik şişeler, strafor, tekstil, valiz, sepet, yatak, mobilya, plastik, kayak, halı, mantar, alüminyum kahve kapsülleri, 2 metreye kadar kanepe/döşemeli mobilya, tek parça halinde 40 kg'a kadar ağırlık ve 2,5 metreye kadar uzunluk";
-"Metall, Sperrgut, Kies, Getränkekartons, Plastikflaschen, Styropor, Textilien, Gepäck, Körbe, Matratzen, Möbel, Kunststoffe, Skier, Teppiche, Korken, Aluminium-Kaffeekapseln, Sofas/Polstermöbel bis 2 m Länge, Einzelstücke bis 40 kg Gewicht und 2,5 m Länge, Elektrogeräte, Büroausstattung, Computer und Zubehör, Haushaltsgeräte" = "Metal, hacimli atıklar, çakıl, içecek kartonları, plastik şişeler, strafor, tekstil ürünleri, bavullar, sepetler, yatak, mobilya, plastik, kayaklar, halı, mantar, alüminyum kahve kapsülleri, 2 metreye kadar uzunlukta kanepe/döşemeli mobilya, 40 kg'a kadar ağırlıkta ve 2,5 metre uzunluğa kadar tekil eşya, elektronik cihazlar, ofis ekipmanları, bilgisayarlar ve aksesuarları, ev aletleri";
 "Min" = "Min";
 "Mindestversion: %@" = "Mindestversion: %@";
 "Mit Freunden teilen" = "Arkadaşlarınla paylaş";
@@ -286,7 +274,6 @@
 "Natur" = "Doğa";
 "Navigiere mit kuratierten Ebenen durch Zürich." = "Özenle seçilmiş katmanlarla Zürih'te gezin.";
 "Neben Gartenabfällen kannst du auch biologisch abbaubare Küchenabfälle und Essensreste entsorgen. Wenn du Bioabfälle im entsprechenden Behälter entsorgst, brauchst du weniger Züri-Säcke, was auch dein Portemonnaie schont. Die Bioabfälle werden in der Biogasanlage der Biogas Zürich AG zu Biogas und Kompost verarbeitet. Das Biogas wird in das Gasnetz der Energie 360° AG eingespeist und steht als erneuerbare Energie zum Heizen, Kochen oder zur Stromerzeugung zur Verfügung. So schliesst sich ein Kreislauf, der die Lebensqualität in der Stadt fördert." = "Bahçe atıklarının yanı sıra, biyolojik olarak parçalanabilen mutfak atıklarını ve yemek artıklarını da atabilirsin. Organik atıkları uygun konteynere atarak daha az Zuri poşetine ihtiyaç duyarsın, bu da bütçeni rahatlatır. Organik atıklar, Biogas Zurich AG tesisinde biyogaz ve kompost ürünlerine dönüştürülür. Biyogaz, Energie 360° AG gaz şebekesine verilir ve ısıtma, yemek pişirme veya elektrik üretimi için yenilenebilir enerji olarak kullanılır. Bu, şehirdeki yaşam kalitesini artıran bir döngüyü tamamlar.";
-"Neben sämtlichen Gartenabfällen kannst du auch biologisch abbaubare Küchenabfälle und Essensreste entsorgen. Wenn du organische Abfälle im entsprechenden Behälter bereitstellst, benötigst du weniger Zuri-Säcke, was auch dein Portemonnaie schont. Die organischen Abfälle werden in der Vergärungsanlage der Biogas Zürich AG zu Biogas und Kompostprodukten verarbeitet. Das Biogas wird in das Gasnetz der Energie 360° AG eingespeist und steht als erneuerbare Energie zum Heizen, Kochen oder zur Stromproduktion zur Verfügung. Damit schliesst sich ein Kreislauf, der die Lebensqualität in der Stadt fördert." = "Tüm bahçe atıklarına ek olarak, biyolojik olarak parçalanabilen mutfak atıklarını ve yemek artıklarını da atabilirsin. Organik atıkları uygun kaplara vererek daha az Zuri poşeti kullanırsın, bu da cüzdanını rahatlatır. Organik atıklar, Biogas Zurich AG'nin fermantasyon tesisinde biyogaz ve kompost ürünlerine dönüştürülür. Biyogaz, Energie 360° AG'nin gaz şebekesine verilir ve ısıtma, yemek pişirme veya elektrik üretimi için yenilenebilir enerji olarak kullanılır. Böylece şehirdeki yaşam kalitesini artıran bir döngü tamamlanmış olur.";
 "Nein" = "Hayır";
 "Neuer Chat" = "Yeni sohbet";
 "Neueste Nachrichten" = "Son Haberler";
@@ -296,8 +283,6 @@
 "Nicht erlaubt" = "İzin yok";
 "Nicht erlaubt:" = "İzin Verilmiyor:";
 "Nicht gefunden" = "Bulunamadı";
-"Nicht organische oder nicht biogene Abfälle, behandeltes und unbehandeltes Altholz, Asche und Zigarettenstummel, Blähton, Blumentöpfe und Schaumstoff, Buchsbaum (befallen von Buchsbaummotten), Weihnachtsbaum, Einweggeschirr, Hundekot, Hygieneartikel, Binden, Tampons, Windeln, Katzenstreu, kompostierbare Kleidung, Medikamente, Muschelschalen, Neophyten, Plastik, recycelte Plastiksäcke, Staubsaugersäcke, Steine, Kies, Sand, Tee-/Kaffeekapseln und -beutel, Verpackungsmaterialien, Glas, Metall, Papier, Karton, PET-Getränkeflaschen, Zuri-Säcke und Abfallsäcke" = "Organik olmayan veya biyojenik olmayan atıklar, işlenmiş ve işlenmemiş eski ahşap, kül ve sigara izmaritleri, genleştirilmiş kil, çiçek saksısı ve köpük, şimşir (şimşir güvesi tarafından istila edilmiş), Noel ağacı, tek kullanımlık tabaklar, köpek dışkısı, hijyen ürünleri, pedler, tamponlar, bebek bezleri, bandajlar, kedi kumu, kompostlanabilir giysiler, ilaçlar, midye kabukları, istilacı bitkiler, plastik, geri dönüştürülmüş plastik poşetler, elektrikli süpürge torbaları, taşlar, çakıl, kum, çay/kahve kapsülleri ve poşetleri, ambalaj malzemeleri, cam, metal, kağıt, karton, PET içecek şişesi, Zuri torbası ve çöp torbası";
-"Nicht recycelbares Papier wie Bucheinbände und Rückseiten, isolierte Verpackungen* aus Recyclingpapier (z. B. Paperfloc), Karton, Papierschnipsel, Papiertragetaschen, kunststoffbeschichtetes oder verschmutztes Papier, Tetra Pak, Tiefkühlverpackungen" = "Kitap kapakları ve arka kapakları gibi geri dönüştürülemeyen kağıtlar, geri dönüştürülmüş kağıttan yalıtımlı ambalajlar* (örneğin Paperfloc), karton, kağıt kırpıntıları, kağıt taşıma çantası, plastik kaplı veya kirli kağıt, Tetra Pak, dondurulmuş gıda ambalajları";
 "Nicht sortierbare Abschnitte" = "Sıralanamayan Bölümler";
 "Nicht verfügbar" = "Kullanılamıyor";
 "Niedrig" = "Düşük";
@@ -320,7 +305,6 @@
 "Orte in der Nähe sind nur in %@ verfügbar" = "Orte in der Nähe sind nur in %@ verfügbar";
 "Orte suchen" = "Konumları ara";
 "Papier" = "Kağıt";
-"Papiertragetaschen und Kartonschachteln gehören nicht in die Papiersammlung und sind als Sammelbehälter ungeeignet. Sie sind speziell behandelt und beeinträchtigen den Recyclingprozess, zudem zerfallen sie bei Nässe und Wind." = "Kağıt taşıma çantaları ve karton kutular kağıt toplama kutusuna atılmaz ve toplama kabı olarak uygun değildir. Özel işlem gördükleri için geri dönüşüm sürecini olumsuz etkilerler ve ıslak ve rüzgarlı havalarda dağılırlar.";
 "Park" = "Park";
 "Parkplatz" = "Otopark";
 "Parks, Parkplätze und Sammelstellen in deiner Nähe." = "Yakınındaki parklar, otoparklar ve teslimat noktaları.";
@@ -339,8 +323,6 @@
 "Push-Benachrichtigungen deaktiviert" = "Anlık Bildirimler Devre Dışı";
 "Push-Benachrichtigungen verwalten, die Startseite konfigurieren oder die Karte öffnen." = "Anlık bildirimleri yönet, ana ekranı yapılandır veya haritayı aç.";
 "Rechtliches" = "Yasal";
-"Recycelbarer Karton wie Obstkartons, Gemüsekartons, gefaltete Papiertragetaschen, Pakete, Schachteln, Verpackungen, Wabenkarton (nur reiner Karton), Waschmittelkartons (ohne Kunststoffgriff)" = "Meyve kartonları, sebze kartonları, katlanmış kağıt taşıma çantaları, koliler, kutular, ambalajlar, petek karton (yalnızca saf karton), deterjan kutusu (plastik sapı olmayan) gibi geri dönüştürülebilir kartonlar";
-"Recycelbares Papier wie Bücher ohne Vorder- und Rückdeckel, Briefumschläge, Broschüren (nicht beschichtet), Taschenbücher, Zeitschriften, Zeitungen" = "Ön ve arka kapakları olmayan kitaplar, zarflar, broşürler (kaplamasız), ciltsiz kitaplar, dergiler, gazeteler gibi geri dönüştürülebilir kağıtlar";
 "Recycling" = "Geri Dönüşüm";
 "Recycling-Benachrichtigungen" = "Geri dönüşüm uyarıları";
 "Recycling-Events können momentan nicht geladen werden." = "Geri dönüşüm etkinlikleri şu anda yüklenemiyor.";
@@ -362,7 +344,6 @@
 "Sehenswürdigkeiten" = "Yer İşaretleri";
 "Sehr hoch" = "Çok yüksek";
 "Sehr niedrig" = "Çok düşük";
-"Seit dem 1. Januar 2023 besteht in der Stadt Zürich eine Behälter- und Standortpflicht für organische Abfälle. Liegenschaften, die noch keinen Behälter für organische Abfälle haben, werden im Laufe des Jahres 2023 damit ausgestattet. Wirf die organischen Abfälle einfach in den Behälter und schliess ihn wieder." = "1 Ocak 2023 tarihinden itibaren Zürih şehrinde organik atıklar için kap ve yer zorunluluğu bulunmaktadır. Henüz bir organik atık kabı olmayan mülkler 2023 yılı boyunca bu konuda donatılacaktır. Organik atıkları organik atık kabına at ve kapağını tekrar kapat.";
 "Sieh die Übersetzung" = "Çeviriyi gör";
 "Sieh, was in Zürich los ist" = "Zürih'te neler olup bittiğini gör";
 "Sitzbank" = "Bank";
@@ -396,8 +377,6 @@
 "Startseitenkonfiguration" = "Ev Yapılandırması";
 "Statistiken" = "İstatistikler";
 "Status" = "Durum";
-"Stelle das gebündelte Papier oder deinen Papiercontainer am Abfuhrtag vor 7 Uhr morgens an den Strassenrand." = "Paketlenmiş kağıtları veya kağıt kabını toplama günü sabah 7'den önce yol kenarına bırak.";
-"Stelle den gebündelten Karton oder deinen Kartonbehälter am Abfuhrtag bis spätestens 7 Uhr morgens an den Strassenrand." = "Paketlenmiş kartonunu veya karton kabını toplama günü sabah 7'den önce yol kenarına bırak.";
 "Suchen" = "Ara";
 "Systemsprache in den Einstellungen ändern" = "Ayarlar'dan sistem dilini değiştir";
 "Tägliche Trivia" = "Günlük Bilgi Yarışması";
@@ -421,12 +400,10 @@
 "Typ auswählen" = "Tür Seç";
 "Überprüfe bitte deine Verbindung und versuche es erneut." = "Lütfen bağlantını kontrol et ve tekrar dene.";
 "Überprüfe den Fahrplan und die Haltestellen des Trams, um die nächstgelegene Sammelstelle zu finden." = "Tramvay tarifesini ve duraklarını kontrol ederek en yakın toplama noktasını bul.";
-"Überprüfe den Fahrplan und die Haltestellen, um die nächstgelegene Sammelstelle des mobilen Recyclinghofs zu finden." = "En yakın Mobil Geri Dönüşüm Merkezi toplama noktasını bulmak için programı ve durakları kontrol et.";
 "Um dich herum" = "Etrafında";
 "Umbenennen" = "Adını değiştir";
 "Umschalten" = "Aç/Kapa";
 "Unbekannt" = "Bilinmiyor";
-"Unbeschichtete Pizzakartons bestehen zwar aus Karton, doch nur saubere Kartons gehören in die Kartonsammlung. Fettige Pizzakartons mit Essensresten können nicht recycelt werden und gehören in den Kehricht." = "Kaplamasız pizza kutuları kartondan yapılmış olsa da, yalnızca temiz olanlar karton geri dönüşümüne atılmalıdır. Yemek artığı bulunan yağlı pizza kutuları geri dönüştürülemez ve evsel atık kutusuna atılmalıdır.";
 "Unten angeheftet, da es sich um eine lange Liste handelt." = "Liste uzun olduğu için alta sabitlendi.";
 "Velopumpe" = "Bisiklet Pompası";
 "Veranstaltung" = "Etkinlik";
@@ -472,7 +449,6 @@
 "Was steht heute an?" = "Bugün neler var?";
 "Wassertemperatur" = "Su Sıcaklığı";
 "Wegbeschreibung" = "Yol tarifi";
-"Weihnachtsbaum, Glühbirne, Halogenlampe, Hygieneartikel, Katzenstreu, Kunststoff, Kunststoffverpackungen, Nylonstrumpf, Papierfetzen, Rasierklinge (gut verpackt), Staubsaugersack, Verpackung von Tiefkühlkost, Trinkglas (kleine Mengen), Veloreifen (kleine Mengen), Reinigungsabfälle, Zigarettenstummel, Hundekotsäcke" = "Yılbaşı ağacı, ampul, halojen lamba, hijyen malzemeleri, kedi kumu, plastik malzeme, plastik ambalaj, naylon çorap, kağıt artıkları, jilet (iyi paketlenmiş), elektrikli süpürge torbası, dondurulmuş gıda ambalajı, içme bardağı (az miktarda), bisiklet lastiği (az miktarda), temizlik atıkları, sigara izmaritleri, köpek dışkı torbası";
 "Weiter" = "Devam et";
 "Weitere Informationen auf deiner Karte anzeigen" = "Haritanda daha fazla bilgi görüntüle";
 "Welche Restaurants in Zürich kannst du empfehlen?" = "Zürih'te hangi restoranlar öneriliyor?";
@@ -480,7 +456,6 @@
 "Wenn die Konfiguration fehlt" = "Yapılandırma eksik olduğunda";
 "Wenn du doppelte Orte siehst, kannst du deinen lokalen Cache leeren." = "Yinelenen konumlar görürsen yerel önbelleğini temizleyebilirsin.";
 "Wenn du eine Funktion aktivierst, wird eine Berechtigung angefordert." = "Bir seçeneği etkinleştirdiğinde izin istenecek.";
-"Wer seinen Hauskehricht in gebührenfreien Säcken, illegal oder in öffentlichen Abfallbehältern entsorgt, ist unfair gegenüber denjenigen, die ihren Abfall ordnungsgemäss vorbereiten. Illegale Entsorger werden der Polizei gemeldet und können mit Bussen von bis zu mehreren tausend Schweizer Franken bestraft werden." = "Evsel atıklarını ücretsiz poşetlere, yasa dışı yollara veya kamuya ait çöp kutularına atanlar, atıklarını usulüne uygun hazırlayanlara karşı haksızlık etmektedir. Yasa dışı çöp bırakanlar polise bildirilir ve birkaç bin İsviçre frangına kadar para cezasıyla karşı karşıya kalabilirler.";
 "Wetter" = "Hava Durumu";
 "Wickeltisch" = "Alt değiştirme masası";
 "Wie hat sich die Bevölkerung von Zürich verändert?" = "Zürih'in nüfusu nasıl değişti?";

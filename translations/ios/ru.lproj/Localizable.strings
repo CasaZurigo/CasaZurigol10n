@@ -44,8 +44,6 @@
 "Ausserhalb des Radars" = "Вне зоны действия радара";
 "Bancomat" = "Банкомат";
 "Barrierefrei" = "Доступный";
-"Batterie, Aluminium, elektronisches Gerät, Farbe, Geschirr, Glasflasche, Keramik, Medizin, Metall, Spiegel, Energiesparlampe, LED, Leuchtstoffröhre" = "Аккумулятор, алюминий, электронное устройство, краска, посуда, стеклянная бутылка, керамика, лекарство, металл, зеркало, энергосберегающая лампа, светодиод, люминесцентная лампа";
-"Bauschutt, Bioabfall, Sonderabfall, Hauskehricht, Einzelgegenstände über 40 kg oder 2,5 m" = "Строительные отходы, органические отходы, опасные отходы, бытовые отходы, отдельные предметы весом более 40 кг или длиной более 2,5 м";
 "Bauschutt, organische Abfälle, gefährliche Abfälle, Elektrogeräte, Hauskehricht, Herd, Einzelstücke, die schwerer als 40 kg oder länger als 2,5 m sind" = "Строительный мусор, органические отходы, опасные отходы, электронные устройства, бытовые отходы, плита, отдельные предметы весом более 40 кг или длиной более 2,5 м";
 "Baustellen" = "Стройплощадки";
 "Beachvolleyball" = "Пляжный волейбол";
@@ -54,7 +52,6 @@
 "Benachrichtigungen" = "Оповещения о новостях";
 "Benachrichtigungen blockiert" = "Уведомления заблокированы";
 "Benachrichtigungen sind erlaubt." = "Уведомления разрешены.";
-"Benzinbetriebene Geräte wie Kettensägen, grosse Metallteile, Metallwerkzeuge, Batterien und Akkus, Abfall" = "Бензиновое оборудование, такое как бензопила, крупный металлолом, металлические инструменты, аккумуляторы и батареи, отходы";
 "Berechtigungen werden nur bei Bedarf angefordert." = "Разрешения запрашиваются только по мере необходимости.";
 "Bereit" = "Готов";
 "Beschreibung" = "Описание";
@@ -67,7 +64,6 @@
 "Bitte aktualisiere CasaZurich, um die App weiter nutzen zu können." = "Пожалуйста, обнови CasaZurich, чтобы продолжить пользоваться приложением.";
 "Brauchst du Hilfe?" = "Нужна помощь?";
 "Briefkasten" = "Почтовый ящик";
-"Bring deine Wertstoffe zur mobilen Wertstoffsammelstelle an der angegebenen Haltestelle. Autos sind nicht erlaubt! Die mobile Wertstoffsammelstelle ist für Fussgänger, Velofahrer oder Nutzer öffentlicher Verkehrsmittel gedacht. Gut erhaltene Gegenstände kannst du kostenlos abgeben oder mitnehmen." = "Привози вторсырье в мобильный пункт приема на запланированной остановке. Въезд на автомобилях запрещен! Мобильный пункт приема доступен для тех, кто прибывает пешком, на велосипеде или общественном транспорте. Ты также можешь бесплатно отдать или забрать хорошо сохранившиеся вещи.";
 "Brunnen" = "Фонтан";
 "Bürogeräte, Computer und Zubehör, Tastatur, Maus, Datenspeicher, Drucker, Faxgerät, Kopierer, Modem, Netzwerkgerät, Tablet, Telefon, Haushaltsgeräte, Boiler, Bügeleisen, Haartrockner, Geschirrspüler, Kaffeemaschine, Klimaanlage, Herd, Kühlschrank, Lampe, Mixer, Nähmaschine, Elektrorasierer, Spielkonsole, Sportgeräte, Stehlampe, Staubsauger, Gefrierschrank, Toaster, Tumbler, Waschmaschine, Kabel, Unterhaltungsgeräte, Bildschirm, CD und CD-Player, DVD und DVD-Player, Freizeitgeräte, Projektor, Radio, Fernseher und Zubehör (Fernbedienung), Videogerät/Kassette" = "Оргтехника, компьютеры и аксессуары, клавиатура, мышь, устройства хранения данных, принтер, факс, копировальный аппарат, модем, сетевое устройство, планшет, телефон, бытовая техника, водонагреватель, утюг, фен, посудомоечная машина, кофемашина, кондиционер, плита, холодильник, лампа, блендер, швейная машина, электробритва, игровое устройство, спортивное оборудование, торшер, пылесос, морозильная камера, тостер, сушильная машина, стиральная машина, кабель, развлекательные устройства, экран, CD и CD-плеер, DVD и DVD-плеер, оборудование для досуга, проектор, радио, телевизор и аксессуары (пульт ДУ), видеомагнитофон/видеокассета";
 "Cache geleert" = "Кэш очищен";
@@ -80,7 +76,6 @@
 "Chat löschen" = "Удалить чат";
 "Chat umbenennen" = "Переименовать чат";
 "Code" = "Код";
-"Das Recycling von Karton ist sinnvoll, denn es schont die natürlichen Ressourcen und ist günstiger als die Verbrennung im Kehrichtheizkraftwerk. Der gesammelte Karton ist ein wichtiger Rohstoff für die Herstellung von Wellkarton, Verpackungen und sogar Möbeln. Da die technische Verarbeitung immer besser wird, werden auch hochwertige Kartonprodukte aus recyceltem Karton hergestellt." = "Переработка картона имеет смысл, поскольку позволяет сохранить природные ресурсы и обходится дешевле, чем его сжигание на мусоросжигательных заводах. Собранный картон является незаменимым сырьем для производства гофрокартона, упаковки и даже мебели. Поскольку технические процессы продолжают совершенствоваться, из переработанного картона изготавливают даже высококачественные картонные изделия.";
 "Das wird viel dazu beitragen, dass CasaZurich weiterläuft!" = "Это очень поможет в поддержании работы CasaZurich!";
 "Daten von data.stadt-zuerich.ch" = "Данные с сайта data.stadt-zuerich.ch";
 "Datenquellen" = "Источники данных";
@@ -95,13 +90,10 @@
 "Dein Überblick für heute" = "Твой брифинг на сегодня";
 "Deine Privatsphäre ist uns wichtig. Deine Daten werden weder erhoben noch gespeichert. Was du tust, ist deine Angelegenheit – nicht unsere oder die von jemand anderem." = "Твоя конфиденциальность важна. Твои данные не будут собираться или храниться. То, что ты делаешь, — это твоё дело, а не наше или чьё-либо ещё.";
 "Denkt nach…" = "Думаю";
-"Der Abfall muss in einem blauen Zuri-Sack entsorgt werden. Der blaue Zuri-Sack ist gegen eine Gebühr im Detailhandel erhältlich und wird in Grössen von 10, 17, 35, 60 oder 110 Litern angeboten. Stelle deinen Zuri-Sackbehälter am Abfuhrtag vor 7 Uhr morgens an der vorgesehenen Abholstelle ab." = "Отходы необходимо утилизировать в синем пакете Zuri. Синий пакет Zuri можно приобрести за отдельную плату в розничных магазинах. Пакеты доступны в размерах 10, 17, 35, 60 или 110 литров. Помести свой контейнер с пакетом Zuri в назначенное место сбора до 7 утра в день вывоза.";
-"Der Mobile Recyclinghof bringt Recyclingdienste direkt in deine Nachbarschaft. Du kannst Sperrgut, Elektronikgeräte, Metalle und andere Wertstoffe abgeben. Er ersetzt die ehemaligen Cargo Tram und E-Tram und bietet eine bequeme und zugängliche Möglichkeit, Materialien zu recyceln, die nicht in den normalen Hauskehricht gehören." = "Мобильный центр переработки отходов (Mobiler Recyclinghof) предоставляет услуги по переработке отходов прямо в твоём районе. Ты можешь сдать крупногабаритный мусор, электронные устройства, металлы и другие материалы, подлежащие переработке. Он заменяет прежние услуги грузового трамвая и электротрамвая, предлагая удобный и доступный способ переработки материалов, которые не относятся к обычным бытовым отходам.";
 "Die lokalen Caches wurden geleert." = "Локальные кэши очищены.";
 "Die Nachrichten können derzeit nicht geladen werden." = "Не удалось загрузить новости.";
 "Die Nutzung von CasaZurich unterliegt den Standard-EULA von Apple für Apps. Abonnements verlängern sich automatisch, sofern sie nicht innerhalb von 24 Stunden vor Ende des aktuellen Zeitraums gekündigt werden. Du kannst jederzeit über deine iTunes-Account-Einstellungen kündigen. Jeder ungenutzte Teil einer kostenlosen Testphase verfällt, wenn du ein Abonnement erwirbst. Die automatische Verlängerung kann vom Nutzer deaktiviert werden, indem er nach dem Kauf zu den Kontoeinstellungen geht. Die Dauer und der Preis jedes Abonnements werden auf dem Kaufbildschirm angezeigt und zum Zeitpunkt des Kaufs aktualisiert. Wenn du Fragen zu den Nutzungsbedingungen von CasaZurich hast, wende dich bitte an mich unter support@casazurigo.ch" = "Использование CasaZurich регулируется стандартным лицензионным соглашением Apple для приложений. Подписки автоматически продлеваются, если они не отменены в течение 24 часов до окончания текущего периода. Ты можешь отменить подписку в любое время в настройках своей учётной записи iTunes. Любая неиспользованная часть бесплатного пробного периода будет аннулирована, если ты приобретёшь подписку. Автоматическое продление может быть отключено пользователем в настройках учётной записи после покупки. Продолжительность и цена каждой подписки отображаются на экране покупки и обновляются в момент покупки. Если у тебя есть вопросы по Условиям использования CasaZurich, пожалуйста, свяжись со мной по адресу support@casazurigo.ch";
 "Die Nutzung von CasaZurich unterliegt den Standard-Lizenzbedingungen von Google Play für Apps. CasaZurich ist kostenlos nutzbar. Optionale Spenden zur Unterstützung der Entwicklung sind in den App-Einstellungen verfügbar. Wenn du Fragen zu den Nutzungsbedingungen von CasaZurich hast, kontaktiere mich bitte unter support@casazurigo.ch." = "Использование CasaZurich регулируется стандартным лицензионным соглашением Google Play для приложений. CasaZurich можно использовать бесплатно. В настройках приложения доступны добровольные пожертвования для поддержки разработки. Если у тебя возникнут вопросы относительно Условий использования CasaZurich, пожалуйста, свяжись со мной по адресу support@casazurigo.ch.";
-"Die Zürcher Abfallentsorgung und Recycling bringt täglich über 30'000 Zuri-Säcke ins Kehrichtheizkraftwerk Hagenholz, wo sie umweltgerecht verbrannt werden. Die bei der Verbrennung entstehende Wärme produziert ökologischen Strom und klimafreundliche Zürich-Wärme, mit der rund 170'000 Wohnungen beheizt werden können." = "Компания Zurich Waste Disposal and Recycling ежедневно доставляет более 30 000 мешков Zuri на мусоросжигательный завод в Хагенхольце, где они экологически безопасно сжигаются. Тепло, выделяющееся при сжигании, используется для производства экологически чистой электроэнергии и климатически нейтрального цюрихского тепла, которым можно отапливать около 170 000 квартир.";
 "Dieses Gerät oder dieses Konto ist nicht für Käufe berechtigt. Überprüfe die Kindersicherung oder die Geräteeinschränkungen und versuche es erneut." = "На этом устройстве или для этой учетной записи покупки запрещены. Проверьте настройки «Родительского контроля» или ограничения устройства и попробуйте еще раз.";
 "Drehe das Rad" = "Крути колесо";
 "Drehe das Rad und gewinne Preise!" = "Крути колесо, чтобы выиграть призы!";
@@ -156,14 +148,12 @@
 "Gefällt mir" = "Нравится";
 "Gefällt mir nicht" = "Не нравится";
 "Generell sollten Produkte aus biologisch abbaubaren Materialien (EN 13432), wie kompostierbare Kaffeekapseln, Einweggeschirr aus Maisstärke oder Produkte/Verpackungen aus 100 % Fasermaterialien, nicht in den Bioabfallbehälter gegeben werden. Der Grund dafür ist, dass sie bei der Sammlung nicht visuell erkennbar sind. Eine Ausnahme bilden Bioabfallsäcke mit Gitterdruck." = "В целом, изделия из биоразлагаемых материалов (EN 13432), такие как компостируемые кофейные капсулы, одноразовая посуда из кукурузного крахмала или изделия/упаковка из 100% волокнистых материалов, не следует выбрасывать в контейнер для органических отходов. Это связано с тем, что при сборе они не распознаются визуально. Исключение составляют биоразлагаемые пакеты с сетчатым принтом.";
-"Generell sollten Produkte aus biologisch abbaubaren Materialien (EN 13432), wie z. B. kompostierbare Kaffeekapseln, Einweggeschirr aus Maisstärke oder Produkte/Verpackungen aus 100 % Fasermaterialien, nicht über den Bioabfallbehälter entsorgt werden. Dies liegt daran, dass sie bei der Sammlung optisch nicht erkennbar sind. Eine Ausnahme bilden Bioabfallsäcke mit Gitteraufdruck." = "В общем случае, изделия из биоразлагаемых материалов (EN 13432), такие как компостируемые кофейные капсулы, одноразовая посуда из кукурузного крахмала или изделия/упаковка из 100%-ных волокнистых материалов, не следует выбрасывать в контейнер для органических отходов. Это связано с тем, что они не распознаются визуально во время сбора. Исключение составляют биоразлагаемые пакеты с сетчатым принтом.";
 "Geographie" = "География";
 "Gerade eben" = "Только что";
 "Gerade jetzt in der Stadt" = "Город сейчас";
 "Gesamt" = "Итого";
 "Geschäftsbedingungen von CasaZurich einsehen" = "Ознакомься с условиями CasaZurich";
 "Geselligkeit" = "Общество";
-"Getrennt gesammeltes Papier kann mehrfach recycelt werden und ist daher der wichtigste Rohstoff für die Schweizer Papierindustrie: Zeitungen bestehen zu bis zu 80 Prozent aus Recyclingpapier." = "Отдельно собранная бумага может быть переработана многократно и поэтому является важнейшим сырьем для швейцарской бумажной промышленности: газеты состоят из переработанной бумаги на 80 %.";
 "Gewinne Preise bei lokalen Veranstaltungsorten" = "Выигрывай призы от местных заведений";
 "Gib eine Postleitzahl ein, um Benachrichtigungen zum Recycling zu aktivieren." = "Добавь почтовый индекс, чтобы получать уведомления о переработке.";
 "Glas" = "Стекло";
@@ -260,7 +250,6 @@
 "Lokale Neuigkeiten, die für dich wichtig sind." = "Местные обновления, которые важны для тебя.";
 "Los geht's" = "Пошли";
 "Löschen" = "Удалить";
-"Lose pflanzliche Gartenabfälle, Balkon- und Kübelpflanzen (ohne Behälter), Erde (ohne Steine oder Hydrokugeln), Laub, Unkraut und Fallobst, Rasen- und Wiesenschnitt, Schnittblumen, Stauden aus Blumen und Gemüse, Strauch- und Baumschnitt bis 10 cm Durchmesser, Küchenabfälle, Eierschalen, Eierkartons, Obstkerne, Kaffeepads ohne Verpackung (z.B. von CoffeeB), Kaffeesatz, Kräutertee, Kleintierstreu (inkl. Federn), Stroh, Heu und Sägemehl, Palmblattteller, Obst- und Gemüsereste, Bioabfallsäcke mit Gitteraufdruck, Haushaltsreste, Brot, Gebäck und Süssspeisen, Fleisch und Fisch (inkl. Gräten und Karkassen), Getreideprodukte, Reis, Hülsenfrüchte, Speisefett, Saucen, Milchprodukte, Käse, Eier" = "Садовые отходы растительного происхождения (россыпью), балконные и горшечные растения (без горшка), почва (без камней и керамзита), листья, сорняки и опавшие плоды, скошенная трава с газонов и лугов, срезанные цветы, многолетние растения из цветов и овощей, обрезки кустарников и деревьев диаметром до 10 см, пищевые отходы, яичная скорлупа, яичные лотки, косточки от фруктов, кофейные капсулы без упаковки (например, от CoffeeB), кофейная гуща, чайная заварка, навоз мелких животных (включая перья), солома, сено и опилки, посуда из пальмовых листьев, обрезки фруктов и овощей, биоразлагаемые пакеты с сетчатым принтом, остатки домашней еды, хлеб, выпечка и десерты, мясо и рыба (включая кости и хрящи), злаковые продукты, рис, бобовые, пищевые жиры, соусы, молочные продукты, сыр, яйца";
 "Luftqualität" = "Качество воздуха";
 "Mach es zu deinem" = "Сделай его своим";
 "Mach mit" = "Присоединяйся";
@@ -270,7 +259,6 @@
 "Mein Reisepass" = "Мой паспорт";
 "Metall" = "Металл";
 "Metall, Sperrgut, Kies, Getränkekartons, Plastikflaschen, Styropor, Textilien, Gepäck, Körbe, Matratzen, Möbel, Kunststoffe, Skier, Teppiche, Korken, Aluminium-Kaffeekapseln, Sofas/Polstermöbel bis 2 m Länge, Einzelstücke bis 40 kg Gewicht und 2,5 m Länge" = "Металл, крупногабаритный мусор, гравий, картонные упаковки от напитков, пластиковые бутылки, пенопласт, текстиль, багаж, корзины, матрасы, мебель, пластик, лыжи, ковры, пробки, алюминиевые кофейные капсулы, диван/мягкая мебель длиной до 2 м, отдельные предметы весом до 40 кг и длиной до 2,5 м";
-"Metall, Sperrgut, Kies, Getränkekartons, Plastikflaschen, Styropor, Textilien, Gepäck, Körbe, Matratzen, Möbel, Kunststoffe, Skier, Teppiche, Korken, Aluminium-Kaffeekapseln, Sofas/Polstermöbel bis 2 m Länge, Einzelstücke bis 40 kg Gewicht und 2,5 m Länge, Elektrogeräte, Büroausstattung, Computer und Zubehör, Haushaltsgeräte" = "Металл, крупногабаритные отходы, гравий, картонные упаковки от напитков, пластиковые бутылки, пенопласт, текстиль, багаж, корзины, матрасы, мебель, пластик, лыжи, ковры, пробки, алюминиевые кофейные капсулы, диваны/мягкая мебель длиной до 2 м, отдельные предметы весом до 40 кг и длиной до 2,5 м, электронные устройства, офисное оборудование, компьютеры и аксессуары, бытовая техника";
 "Min" = "Мин";
 "Mindestversion: %@" = "Mindestversion: %@";
 "Mit Freunden teilen" = "Поделиться с друзьями";
@@ -286,7 +274,6 @@
 "Natur" = "Природа";
 "Navigiere mit kuratierten Ebenen durch Zürich." = "Исследуй Цюрих с помощью специально подобранных слоёв.";
 "Neben Gartenabfällen kannst du auch biologisch abbaubare Küchenabfälle und Essensreste entsorgen. Wenn du Bioabfälle im entsprechenden Behälter entsorgst, brauchst du weniger Züri-Säcke, was auch dein Portemonnaie schont. Die Bioabfälle werden in der Biogasanlage der Biogas Zürich AG zu Biogas und Kompost verarbeitet. Das Biogas wird in das Gasnetz der Energie 360° AG eingespeist und steht als erneuerbare Energie zum Heizen, Kochen oder zur Stromerzeugung zur Verfügung. So schliesst sich ein Kreislauf, der die Lebensqualität in der Stadt fördert." = "Помимо садовых отходов, ты также можешь выбрасывать биоразлагаемые кухонные отходы и остатки пищи. Складывая органические отходы в специальный контейнер, ты используешь меньше пакетов Zuri, что бережет твой бюджет. Органические отходы перерабатываются в биогаз и компост на установке Biogas Zurich AG. Биогаз поступает в газовую сеть Energie 360° AG и используется как возобновляемый источник энергии для отопления, приготовления пищи или производства электричества. Так замыкается цикл, который повышает качество жизни в городе.";
-"Neben sämtlichen Gartenabfällen kannst du auch biologisch abbaubare Küchenabfälle und Essensreste entsorgen. Wenn du organische Abfälle im entsprechenden Behälter bereitstellst, benötigst du weniger Zuri-Säcke, was auch dein Portemonnaie schont. Die organischen Abfälle werden in der Vergärungsanlage der Biogas Zürich AG zu Biogas und Kompostprodukten verarbeitet. Das Biogas wird in das Gasnetz der Energie 360° AG eingespeist und steht als erneuerbare Energie zum Heizen, Kochen oder zur Stromproduktion zur Verfügung. Damit schliesst sich ein Kreislauf, der die Lebensqualität in der Stadt fördert." = "Помимо всех садовых отходов, ты также можешь утилизировать биоразлагаемые кухонные отходы и остатки пищи. Сдавая органические отходы в соответствующий контейнер, ты будешь использовать меньше мешков Zuri, что также облегчит нагрузку на твой кошелёк. Органические отходы перерабатываются в биогаз и компост на заводе по переработке Biogas Zurich AG. Биогаз поступает в газовую сеть Energie 360° AG и используется в качестве возобновляемой энергии для отопления, приготовления пищи или производства электроэнергии. Таким образом замыкается цикл, способствующий повышению качества жизни в городе.";
 "Nein" = "Нет";
 "Neuer Chat" = "Новый чат";
 "Neueste Nachrichten" = "Последние новости";
@@ -296,8 +283,6 @@
 "Nicht erlaubt" = "Нельзя";
 "Nicht erlaubt:" = "Не разрешено:";
 "Nicht gefunden" = "Не найдено";
-"Nicht organische oder nicht biogene Abfälle, behandeltes und unbehandeltes Altholz, Asche und Zigarettenstummel, Blähton, Blumentöpfe und Schaumstoff, Buchsbaum (befallen von Buchsbaummotten), Weihnachtsbaum, Einweggeschirr, Hundekot, Hygieneartikel, Binden, Tampons, Windeln, Katzenstreu, kompostierbare Kleidung, Medikamente, Muschelschalen, Neophyten, Plastik, recycelte Plastiksäcke, Staubsaugersäcke, Steine, Kies, Sand, Tee-/Kaffeekapseln und -beutel, Verpackungsmaterialien, Glas, Metall, Papier, Karton, PET-Getränkeflaschen, Zuri-Säcke und Abfallsäcke" = "Неорганические или небиогенные отходы, обработанная и необработанная старая древесина, зола и окурки, керамзит, цветочные горшки и пенопласт, самшит (зараженный самшитовой огнёвкой), рождественская елка, одноразовая посуда, собачьи экскременты, предметы гигиены, прокладки, тампоны, подгузники, бинты, кошачий наполнитель, компостируемая одежда, лекарства, раковины мидий, неофиты, пластик, переработанные пластиковые пакеты, мешки для пылесоса, камни, гравий, песок, чайные/кофейные капсулы и пакетики, упаковочные материалы, стекло, металл, бумага, картон, ПЭТ-бутылка для напитков, пакет Zuri и мусорный мешок";
-"Nicht recycelbares Papier wie Bucheinbände und Rückseiten, isolierte Verpackungen* aus Recyclingpapier (z. B. Paperfloc), Karton, Papierschnipsel, Papiertragetaschen, kunststoffbeschichtetes oder verschmutztes Papier, Tetra Pak, Tiefkühlverpackungen" = "Бумага, не подлежащая вторичной переработке, такая как обложки и задние обложки книг, термоизоляционная упаковка* из переработанной бумаги (например, Paperfloc), картон, бумажная стружка, бумажный пакет, бумага с пластиковым покрытием или загрязненная бумага, Tetra Pak, упаковка для замороженных продуктов";
 "Nicht sortierbare Abschnitte" = "Несортируемые разделы";
 "Nicht verfügbar" = "Нет в наличии";
 "Niedrig" = "Низкий";
@@ -320,7 +305,6 @@
 "Orte in der Nähe sind nur in %@ verfügbar" = "Orte in der Nähe sind nur in %@ verfügbar";
 "Orte suchen" = "Поиск мест";
 "Papier" = "Бумага";
-"Papiertragetaschen und Kartonschachteln gehören nicht in die Papiersammlung und sind als Sammelbehälter ungeeignet. Sie sind speziell behandelt und beeinträchtigen den Recyclingprozess, zudem zerfallen sie bei Nässe und Wind." = "Бумажные пакеты и картонные коробки не относятся к макулатуре и не подходят в качестве сборных емкостей. Они подвергаются специальной обработке, что влияет на процесс переработки, а также размокают и разваливаются во влажных и ветреных условиях.";
 "Park" = "Парк";
 "Parkplatz" = "Парковка";
 "Parks, Parkplätze und Sammelstellen in deiner Nähe." = "Парки, парковки и пункты выдачи рядом с тобой.";
@@ -339,8 +323,6 @@
 "Push-Benachrichtigungen deaktiviert" = "Push-уведомления отключены";
 "Push-Benachrichtigungen verwalten, die Startseite konfigurieren oder die Karte öffnen." = "Управляй push-уведомлениями, настрой главный экран или открой карту.";
 "Rechtliches" = "Юридическая";
-"Recycelbarer Karton wie Obstkartons, Gemüsekartons, gefaltete Papiertragetaschen, Pakete, Schachteln, Verpackungen, Wabenkarton (nur reiner Karton), Waschmittelkartons (ohne Kunststoffgriff)" = "Перерабатываемый картон, например, коробки для фруктов, коробки для овощей, бумажные пакеты, посылки, коробки, упаковка, сотовый картон (только чистый картон), коробки из-под моющих средств (без пластиковой ручки)";
-"Recycelbares Papier wie Bücher ohne Vorder- und Rückdeckel, Briefumschläge, Broschüren (nicht beschichtet), Taschenbücher, Zeitschriften, Zeitungen" = "Макулатура, такая как книги без передней и задней обложек, конверты, брошюры (немелованные), книги в мягкой обложке, журналы, газеты";
 "Recycling" = "Переработка";
 "Recycling-Benachrichtigungen" = "Уведомления о переработке";
 "Recycling-Events können momentan nicht geladen werden." = "Не удалось загрузить события по переработке.";
@@ -362,7 +344,6 @@
 "Sehenswürdigkeiten" = "Достопримечательности";
 "Sehr hoch" = "Очень высокий";
 "Sehr niedrig" = "Очень низкий";
-"Seit dem 1. Januar 2023 besteht in der Stadt Zürich eine Behälter- und Standortpflicht für organische Abfälle. Liegenschaften, die noch keinen Behälter für organische Abfälle haben, werden im Laufe des Jahres 2023 damit ausgestattet. Wirf die organischen Abfälle einfach in den Behälter und schliess ihn wieder." = "С 1 января 2023 года в Цюрихе действует требование к наличию контейнеров для органических отходов и месту их размещения. Объекты недвижимости, в которых еще нет контейнеров для органических отходов, будут оборудованы ими в течение 2023 года. Просто выбрасывай органические отходы в контейнер для органических отходов и закрывай его.";
 "Sieh die Übersetzung" = "Смотри перевод";
 "Sieh, was in Zürich los ist" = "Узнай, что происходит в Цюрихе";
 "Sitzbank" = "Скамейка";
@@ -396,8 +377,6 @@
 "Startseitenkonfiguration" = "Настройки дома";
 "Statistiken" = "Статистика";
 "Status" = "Статус";
-"Stelle das gebündelte Papier oder deinen Papiercontainer am Abfuhrtag vor 7 Uhr morgens an den Strassenrand." = "Положи стопку бумаги или твой бумажный контейнер у обочины дороги в день сбора до 7 утра.";
-"Stelle den gebündelten Karton oder deinen Kartonbehälter am Abfuhrtag bis spätestens 7 Uhr morgens an den Strassenrand." = "Положи связанный картон или твой картонный контейнер у обочины в день сбора до 7 утра.";
 "Suchen" = "Поиск";
 "Systemsprache in den Einstellungen ändern" = "Изменить язык системы в настройках";
 "Tägliche Trivia" = "Ежедневная викторина";
@@ -421,12 +400,10 @@
 "Typ auswählen" = "Выберите тип";
 "Überprüfe bitte deine Verbindung und versuche es erneut." = "Проверь подключение и попробуй еще раз.";
 "Überprüfe den Fahrplan und die Haltestellen des Trams, um die nächstgelegene Sammelstelle zu finden." = "Проверь расписание трамваев и остановки, чтобы найти ближайший пункт сбора.";
-"Überprüfe den Fahrplan und die Haltestellen, um die nächstgelegene Sammelstelle des mobilen Recyclinghofs zu finden." = "Проверь расписание и остановки, чтобы найти ближайший пункт сбора в мобильном центре переработки.";
 "Um dich herum" = "Вокруг тебя";
 "Umbenennen" = "Переименовать";
 "Umschalten" = "Переключить";
 "Unbekannt" = "Неизвестно";
-"Unbeschichtete Pizzakartons bestehen zwar aus Karton, doch nur saubere Kartons gehören in die Kartonsammlung. Fettige Pizzakartons mit Essensresten können nicht recycelt werden und gehören in den Kehricht." = "Хотя коробки для пиццы без покрытия изготавливаются из картона, в контейнеры для сбора картона следует выбрасывать только чистые коробки. Жирные коробки из-под пиццы с остатками пищи не подлежат переработке и должны быть отправлены в бытовые отходы.";
 "Unten angeheftet, da es sich um eine lange Liste handelt." = "Закреплено внизу, так как список длинный.";
 "Velopumpe" = "Велосипедный насос";
 "Veranstaltung" = "Мероприятие";
@@ -472,7 +449,6 @@
 "Was steht heute an?" = "Что сегодня в планах?";
 "Wassertemperatur" = "Температура воды";
 "Wegbeschreibung" = "Маршрут";
-"Weihnachtsbaum, Glühbirne, Halogenlampe, Hygieneartikel, Katzenstreu, Kunststoff, Kunststoffverpackungen, Nylonstrumpf, Papierfetzen, Rasierklinge (gut verpackt), Staubsaugersack, Verpackung von Tiefkühlkost, Trinkglas (kleine Mengen), Veloreifen (kleine Mengen), Reinigungsabfälle, Zigarettenstummel, Hundekotsäcke" = "Ёлка, лампочка, галогенная лампа, предметы гигиены, наполнитель для кошачьего туалета, пластик, пластиковая упаковка, нейлоновый чулок, бумажные обрезки, лезвие бритвы (хорошо упакованное), мешок для пылесоса, упаковка от замороженных продуктов, стакан (небольшое количество), велосипедная шина (небольшое количество), отходы от уборки, окурки, пакеты для собачьих отходов";
 "Weiter" = "Продолжить";
 "Weitere Informationen auf deiner Karte anzeigen" = "Подробнее на твоей карте";
 "Welche Restaurants in Zürich kannst du empfehlen?" = "Какие рестораны в Цюрихе ты посоветуешь?";
@@ -480,7 +456,6 @@
 "Wenn die Konfiguration fehlt" = "Когда отсутствует конфигурация";
 "Wenn du doppelte Orte siehst, kannst du deinen lokalen Cache leeren." = "Если ты видишь дублирующиеся местоположения, ты можешь очистить локальный кэш.";
 "Wenn du eine Funktion aktivierst, wird eine Berechtigung angefordert." = "При включении переключателя будет запрошено разрешение.";
-"Wer seinen Hauskehricht in gebührenfreien Säcken, illegal oder in öffentlichen Abfallbehältern entsorgt, ist unfair gegenüber denjenigen, die ihren Abfall ordnungsgemäss vorbereiten. Illegale Entsorger werden der Polizei gemeldet und können mit Bussen von bis zu mehreren tausend Schweizer Franken bestraft werden." = "Те, кто избавляется от бытовых отходов в бесплатных пакетах, незаконно или в общественные мусорные баки, поступают несправедливо по отношению к тем, кто правильно подготавливает свои отходы. О незаконных свалках сообщается в полицию, и нарушителям грозят штрафы в размере до нескольких тысяч швейцарских франков.";
 "Wetter" = "Погода";
 "Wickeltisch" = "Пеленальный столик";
 "Wie hat sich die Bevölkerung von Zürich verändert?" = "Как изменилось население Цюриха?";

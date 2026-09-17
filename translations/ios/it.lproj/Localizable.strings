@@ -44,8 +44,6 @@
 "Ausserhalb des Radars" = "Al di là del radar";
 "Bancomat" = "Bancomat";
 "Barrierefrei" = "Accessibile";
-"Batterie, Aluminium, elektronisches Gerät, Farbe, Geschirr, Glasflasche, Keramik, Medizin, Metall, Spiegel, Energiesparlampe, LED, Leuchtstoffröhre" = "Batteria, alluminio, dispositivo elettronico, vernice, stoviglie, bottiglia di vetro, ceramica, medicinale, metallo, specchio, lampada a risparmio energetico, LED, tubo fluorescente";
-"Bauschutt, Bioabfall, Sonderabfall, Hauskehricht, Einzelgegenstände über 40 kg oder 2,5 m" = "Rifiuti edili, rifiuti organici, rifiuti pericolosi, rifiuti domestici, singoli articoli più pesanti di 40 kg o più lunghi di 2,5 m";
 "Bauschutt, organische Abfälle, gefährliche Abfälle, Elektrogeräte, Hauskehricht, Herd, Einzelstücke, die schwerer als 40 kg oder länger als 2,5 m sind" = "Rifiuti edili, rifiuti organici, rifiuti pericolosi, dispositivi elettronici, rifiuti domestici, stufe, singoli articoli più pesanti di 40 kg o più lunghi di 2,5 m";
 "Baustellen" = "Cantieri";
 "Beachvolleyball" = "Pallavolo da spiaggia";
@@ -54,7 +52,6 @@
 "Benachrichtigungen" = "Avvisi di notizie";
 "Benachrichtigungen blockiert" = "Notifiche bloccate";
 "Benachrichtigungen sind erlaubt." = "Le notifiche sono attive.";
-"Benzinbetriebene Geräte wie Kettensägen, grosse Metallteile, Metallwerkzeuge, Batterien und Akkus, Abfall" = "Attrezzature a benzina come motoseghe, metallo di grandi dimensioni, utensili in metallo, batterie e pile, rifiuti";
 "Berechtigungen werden nur bei Bedarf angefordert." = "Autorizzazioni richieste solo quando necessario.";
 "Bereit" = "Pronto";
 "Beschreibung" = "Descrizione";
@@ -67,7 +64,6 @@
 "Bitte aktualisiere CasaZurich, um die App weiter nutzen zu können." = "Aggiorna CasaZurich per continuare a usare l'app.";
 "Brauchst du Hilfe?" = "Hai bisogno di aiuto?";
 "Briefkasten" = "Cassetta delle lettere";
-"Bring deine Wertstoffe zur mobilen Wertstoffsammelstelle an der angegebenen Haltestelle. Autos sind nicht erlaubt! Die mobile Wertstoffsammelstelle ist für Fussgänger, Velofahrer oder Nutzer öffentlicher Verkehrsmittel gedacht. Gut erhaltene Gegenstände kannst du kostenlos abgeben oder mitnehmen." = "Porta i tuoi materiali riciclabili al Centro di Riciclo Mobile alla fermata programmata. Vietato l'accesso alle auto! Il Centro di Riciclo Mobile è disponibile per chi viaggia a piedi, in bicicletta o con i mezzi pubblici. Puoi anche donare o ritirare gratuitamente oggetti in buono stato.";
 "Brunnen" = "Fontana";
 "Bürogeräte, Computer und Zubehör, Tastatur, Maus, Datenspeicher, Drucker, Faxgerät, Kopierer, Modem, Netzwerkgerät, Tablet, Telefon, Haushaltsgeräte, Boiler, Bügeleisen, Haartrockner, Geschirrspüler, Kaffeemaschine, Klimaanlage, Herd, Kühlschrank, Lampe, Mixer, Nähmaschine, Elektrorasierer, Spielkonsole, Sportgeräte, Stehlampe, Staubsauger, Gefrierschrank, Toaster, Tumbler, Waschmaschine, Kabel, Unterhaltungsgeräte, Bildschirm, CD und CD-Player, DVD und DVD-Player, Freizeitgeräte, Projektor, Radio, Fernseher und Zubehör (Fernbedienung), Videogerät/Kassette" = "Apparecchiature per ufficio, computer e accessori, tastiera, mouse, unità di archiviazione dati, stampante, fax, fotocopiatrice, modem, dispositivo di rete, tablet, telefono, elettrodomestici, caldaia, ferro da stiro, asciugacapelli, lavastoviglie, macchina da caffè, condizionatore d'aria, fornello, frigorifero, lampada, frullatore, macchina da cucire, rasoio elettrico, console di gioco, attrezzatura sportiva, lampada da terra, aspirapolvere, congelatore, tostapane, asciugatrice, lavatrice, cavo, dispositivi di intrattenimento, schermo, lettore CD e CD, lettore DVD e DVD, attrezzatura per il tempo libero, proiettore, radio, TV e accessori (telecomando), dispositivo/registratore video";
 "Cache geleert" = "Cache svuotata";
@@ -80,7 +76,6 @@
 "Chat löschen" = "Elimina chat";
 "Chat umbenennen" = "Rinomina chat";
 "Code" = "Codice";
-"Das Recycling von Karton ist sinnvoll, denn es schont die natürlichen Ressourcen und ist günstiger als die Verbrennung im Kehrichtheizkraftwerk. Der gesammelte Karton ist ein wichtiger Rohstoff für die Herstellung von Wellkarton, Verpackungen und sogar Möbeln. Da die technische Verarbeitung immer besser wird, werden auch hochwertige Kartonprodukte aus recyceltem Karton hergestellt." = "Riciclare il cartone è sensato perché conserva le risorse naturali ed è più economico dell'incenerimento nell'impianto di termovalorizzazione. Il cartone raccolto è una materia prima essenziale per la produzione di cartone ondulato, imballaggi e persino mobili. Poiché l'elaborazione tecnica continua a migliorare, anche prodotti in cartone di alta qualità vengono realizzati con cartone riciclato.";
 "Das wird viel dazu beitragen, dass CasaZurich weiterläuft!" = "Sarà di grande aiuto per mantenere CasaZurich operativa!";
 "Daten von data.stadt-zuerich.ch" = "Dati da data.stadt-zuerich.ch";
 "Datenquellen" = "Fonti dati";
@@ -95,13 +90,10 @@
 "Dein Überblick für heute" = "Il briefing di oggi";
 "Deine Privatsphäre ist uns wichtig. Deine Daten werden weder erhoben noch gespeichert. Was du tust, ist deine Angelegenheit – nicht unsere oder die von jemand anderem." = "La tua privacy è importante. I tuoi dati non verranno raccolti né archiviati. Ciò che fai sono affari tuoi, non nostri né di altri.";
 "Denkt nach…" = "In elaborazione";
-"Der Abfall muss in einem blauen Zuri-Sack entsorgt werden. Der blaue Zuri-Sack ist gegen eine Gebühr im Detailhandel erhältlich und wird in Grössen von 10, 17, 35, 60 oder 110 Litern angeboten. Stelle deinen Zuri-Sackbehälter am Abfuhrtag vor 7 Uhr morgens an der vorgesehenen Abholstelle ab." = "I rifiuti devono essere smaltiti in un sacco blu Zuri. Il sacco blu Zuri è disponibile a pagamento nei negozi al dettaglio e si presenta nei formati da 10, 17, 35, 60 o 110 litri. Posiziona il tuo contenitore Zuri nel punto di raccolta designato prima delle 7:00 del giorno di ritiro.";
-"Der Mobile Recyclinghof bringt Recyclingdienste direkt in deine Nachbarschaft. Du kannst Sperrgut, Elektronikgeräte, Metalle und andere Wertstoffe abgeben. Er ersetzt die ehemaligen Cargo Tram und E-Tram und bietet eine bequeme und zugängliche Möglichkeit, Materialien zu recyceln, die nicht in den normalen Hauskehricht gehören." = "Il Centro di Riciclo Mobile (Mobiler Recyclinghof) porta i servizi di riciclo direttamente nel tuo quartiere. Puoi conferire rifiuti ingombranti, dispositivi elettronici, metalli e altri materiali riciclabili. Sostituisce i precedenti servizi Cargo Tram ed E-Tram, offrendo un modo comodo e accessibile per riciclare materiali che non rientrano nei normali rifiuti domestici.";
 "Die lokalen Caches wurden geleert." = "La cache locale è stata svuotata.";
 "Die Nachrichten können derzeit nicht geladen werden." = "Impossibile caricare le notizie al momento.";
 "Die Nutzung von CasaZurich unterliegt den Standard-EULA von Apple für Apps. Abonnements verlängern sich automatisch, sofern sie nicht innerhalb von 24 Stunden vor Ende des aktuellen Zeitraums gekündigt werden. Du kannst jederzeit über deine iTunes-Account-Einstellungen kündigen. Jeder ungenutzte Teil einer kostenlosen Testphase verfällt, wenn du ein Abonnement erwirbst. Die automatische Verlängerung kann vom Nutzer deaktiviert werden, indem er nach dem Kauf zu den Kontoeinstellungen geht. Die Dauer und der Preis jedes Abonnements werden auf dem Kaufbildschirm angezeigt und zum Zeitpunkt des Kaufs aktualisiert. Wenn du Fragen zu den Nutzungsbedingungen von CasaZurich hast, wende dich bitte an mich unter support@casazurigo.ch" = "L'utilizzo di CasaZurich è regolato dall'EULA standard di Apple per le app. Gli abbonamenti si rinnoveranno automaticamente a meno che non vengano annullati entro 24 ore dalla fine del periodo corrente. Puoi annullare in qualsiasi momento tramite le impostazioni del tuo account iTunes. Qualsiasi porzione non utilizzata di una prova gratuita verrà persa se acquisti un abbonamento. Il rinnovo automatico può essere disattivato dall'utente accedendo alle Impostazioni dell'account dopo l'acquisto. La durata e il prezzo di ciascun abbonamento sono visualizzati nella schermata di acquisto e aggiornati al momento dell'acquisto. Per qualsiasi domanda sui Termini di utilizzo di CasaZurich, ti preghiamo di contattarmi all'indirizzo support@casazurigo.ch";
 "Die Nutzung von CasaZurich unterliegt den Standard-Lizenzbedingungen von Google Play für Apps. CasaZurich ist kostenlos nutzbar. Optionale Spenden zur Unterstützung der Entwicklung sind in den App-Einstellungen verfügbar. Wenn du Fragen zu den Nutzungsbedingungen von CasaZurich hast, kontaktiere mich bitte unter support@casazurigo.ch." = "L'utilizzo di CasaZurich è regolato dal Contratto di licenza standard per le app di Google Play. CasaZurich è gratuita. Sono disponibili donazioni facoltative per supportare lo sviluppo nelle impostazioni dell'app. Per qualsiasi domanda relativa ai Termini di utilizzo di CasaZurich, contattami all'indirizzo support@casazurigo.ch";
-"Die Zürcher Abfallentsorgung und Recycling bringt täglich über 30'000 Zuri-Säcke ins Kehrichtheizkraftwerk Hagenholz, wo sie umweltgerecht verbrannt werden. Die bei der Verbrennung entstehende Wärme produziert ökologischen Strom und klimafreundliche Zürich-Wärme, mit der rund 170'000 Wohnungen beheizt werden können." = "Lo Smaltimento e Riciclaggio dei Rifiuti di Zurigo trasporta ogni giorno oltre 30.000 sacchi Zuri all'impianto di termovalorizzazione di Hagenholz, dove vengono inceneriti in modo ecologico. Il calore generato dall'incenerimento produce energia ecologica e calore zurighese rispettoso del clima, in grado di riscaldare circa 170.000 appartamenti.";
 "Dieses Gerät oder dieses Konto ist nicht für Käufe berechtigt. Überprüfe die Kindersicherung oder die Geräteeinschränkungen und versuche es erneut." = "Questo dispositivo o account non è autorizzato a effettuare acquisti. Controlla le restrizioni o il controllo genitori e riprova.";
 "Drehe das Rad" = "Gira la ruota";
 "Drehe das Rad und gewinne Preise!" = "Gira la ruota per vincere premi!";
@@ -156,14 +148,12 @@
 "Gefällt mir" = "Mi piace";
 "Gefällt mir nicht" = "Non mi piace";
 "Generell sollten Produkte aus biologisch abbaubaren Materialien (EN 13432), wie kompostierbare Kaffeekapseln, Einweggeschirr aus Maisstärke oder Produkte/Verpackungen aus 100 % Fasermaterialien, nicht in den Bioabfallbehälter gegeben werden. Der Grund dafür ist, dass sie bei der Sammlung nicht visuell erkennbar sind. Eine Ausnahme bilden Bioabfallsäcke mit Gitterdruck." = "In generale, i prodotti realizzati con materiali biodegradabili (EN 13432), come capsule da caffè compostabili, stoviglie monouso in amido di mais o prodotti/imballaggi in fibra 100%, non vanno conferiti nel contenitore dell'umido. Questo perché non sono visivamente riconoscibili durante la raccolta. Fanno eccezione i sacchetti per l'umido con stampa a griglia.";
-"Generell sollten Produkte aus biologisch abbaubaren Materialien (EN 13432), wie z. B. kompostierbare Kaffeekapseln, Einweggeschirr aus Maisstärke oder Produkte/Verpackungen aus 100 % Fasermaterialien, nicht über den Bioabfallbehälter entsorgt werden. Dies liegt daran, dass sie bei der Sammlung optisch nicht erkennbar sind. Eine Ausnahme bilden Bioabfallsäcke mit Gitteraufdruck." = "In generale, i prodotti realizzati con materiali biodegradabili (EN 13432), come le capsule di caffè compostabili, le stoviglie monouso in amido di mais o i prodotti/imballaggi realizzati con fibre al 100%, non devono essere smaltiti nel contenitore dell'umido. Questo perché non sono visivamente riconoscibili durante la raccolta. Fanno eccezione i sacchetti per l'umido con stampa a reticolo.";
 "Geographie" = "Geografia";
 "Gerade eben" = "Proprio ora";
 "Gerade jetzt in der Stadt" = "Città adesso";
 "Gesamt" = "Totale";
 "Geschäftsbedingungen von CasaZurich einsehen" = "Leggi i termini di CasaZurich";
 "Geselligkeit" = "Società";
-"Getrennt gesammeltes Papier kann mehrfach recycelt werden und ist daher der wichtigste Rohstoff für die Schweizer Papierindustrie: Zeitungen bestehen zu bis zu 80 Prozent aus Recyclingpapier." = "La carta raccolta separatamente può essere riciclata più volte ed è quindi la materia prima più importante per l'industria cartaria svizzera: i giornali sono composti fino all'80% da carta riciclata.";
 "Gewinne Preise bei lokalen Veranstaltungsorten" = "Vinci premi nei locali";
 "Gib eine Postleitzahl ein, um Benachrichtigungen zum Recycling zu aktivieren." = "Inserisci un CAP per attivare gli avvisi sul riciclaggio.";
 "Glas" = "Vetro";
@@ -260,7 +250,6 @@
 "Lokale Neuigkeiten, die für dich wichtig sind." = "Aggiornamenti locali che contano per te.";
 "Los geht's" = "Andiamo";
 "Löschen" = "Elimina";
-"Lose pflanzliche Gartenabfälle, Balkon- und Kübelpflanzen (ohne Behälter), Erde (ohne Steine oder Hydrokugeln), Laub, Unkraut und Fallobst, Rasen- und Wiesenschnitt, Schnittblumen, Stauden aus Blumen und Gemüse, Strauch- und Baumschnitt bis 10 cm Durchmesser, Küchenabfälle, Eierschalen, Eierkartons, Obstkerne, Kaffeepads ohne Verpackung (z.B. von CoffeeB), Kaffeesatz, Kräutertee, Kleintierstreu (inkl. Federn), Stroh, Heu und Sägemehl, Palmblattteller, Obst- und Gemüsereste, Bioabfallsäcke mit Gitteraufdruck, Haushaltsreste, Brot, Gebäck und Süssspeisen, Fleisch und Fisch (inkl. Gräten und Karkassen), Getreideprodukte, Reis, Hülsenfrüchte, Speisefett, Saucen, Milchprodukte, Käse, Eier" = "Rifiuti vegetali sfusi da giardino, piante da balcone e da vaso (senza contenitore), terra (senza sassi o argilla espansa), foglie, erbacce e frutti caduti, sfalci di prato e prato, fiori recisi, piante perenni da fiori e ortaggi, potature di arbusti e alberi fino a 10 cm di diametro, scarti di cucina, gusci d'uovo, cartoni per uova, noccioli di frutta, cialde di caffè senza imballaggio (es. da CoffeeB), fondi di caffè, erbe per tè, letame di piccoli animali comprensivo di piume, paglia, fieno e segatura, piatti in foglia di palma, scarti di frutta e verdura, sacchi per umido con stampa a griglia, avanzi domestici, pane, prodotti da forno e dessert, carne e pesce (incluse ossa e lische), prodotti a base di cereali, riso, legumi, grassi da cucina, salse, latticini, formaggio, uova";
 "Luftqualität" = "Qualità dell'aria";
 "Mach es zu deinem" = "Rendilo tuo";
 "Mach mit" = "Partecipa";
@@ -270,7 +259,6 @@
 "Mein Reisepass" = "Il mio passaporto";
 "Metall" = "Metallo";
 "Metall, Sperrgut, Kies, Getränkekartons, Plastikflaschen, Styropor, Textilien, Gepäck, Körbe, Matratzen, Möbel, Kunststoffe, Skier, Teppiche, Korken, Aluminium-Kaffeekapseln, Sofas/Polstermöbel bis 2 m Länge, Einzelstücke bis 40 kg Gewicht und 2,5 m Länge" = "Metallo, rifiuti ingombranti, ghiaia, cartoni per bevande, bottiglie di plastica, polistirolo, tessuti, bagagli, cesti, materassi, mobili, plastica, sci, tappeti, tappi di sughero, capsule di caffè in alluminio, divani/mobili imbottiti fino a 2 m di lunghezza, singoli articoli fino a 40 kg di peso e 2,5 m di lunghezza";
-"Metall, Sperrgut, Kies, Getränkekartons, Plastikflaschen, Styropor, Textilien, Gepäck, Körbe, Matratzen, Möbel, Kunststoffe, Skier, Teppiche, Korken, Aluminium-Kaffeekapseln, Sofas/Polstermöbel bis 2 m Länge, Einzelstücke bis 40 kg Gewicht und 2,5 m Länge, Elektrogeräte, Büroausstattung, Computer und Zubehör, Haushaltsgeräte" = "Metallo, rifiuti ingombranti, ghiaia, cartoni per bevande, bottiglie di plastica, polistirolo, tessuti, bagagli, cesti, materassi, mobili, plastica, sci, tappeti, tappi di sughero, capsule di caffè in alluminio, divani/mobili imbottiti fino a 2 m di lunghezza, singolo articolo fino a 40 kg di peso e 2,5 m di lunghezza, dispositivi elettronici, attrezzature per ufficio, computer e accessori, elettrodomestici";
 "Min" = "Min";
 "Mindestversion: %@" = "Mindestversion: %@";
 "Mit Freunden teilen" = "Condividi con gli amici";
@@ -286,7 +274,6 @@
 "Natur" = "Natura";
 "Navigiere mit kuratierten Ebenen durch Zürich." = "Naviga Zurigo con livelli curati.";
 "Neben Gartenabfällen kannst du auch biologisch abbaubare Küchenabfälle und Essensreste entsorgen. Wenn du Bioabfälle im entsprechenden Behälter entsorgst, brauchst du weniger Züri-Säcke, was auch dein Portemonnaie schont. Die Bioabfälle werden in der Biogasanlage der Biogas Zürich AG zu Biogas und Kompost verarbeitet. Das Biogas wird in das Gasnetz der Energie 360° AG eingespeist und steht als erneuerbare Energie zum Heizen, Kochen oder zur Stromerzeugung zur Verfügung. So schliesst sich ein Kreislauf, der die Lebensqualität in der Stadt fördert." = "Oltre a tutti i rifiuti da giardino, puoi smaltire anche i rifiuti organici biodegradabili della cucina e gli avanzi di cibo. Smaltendo i rifiuti organici nell'apposito contenitore, avrai bisogno di meno sacchi Zuri, con un conseguente risparmio per il tuo portafoglio. I rifiuti organici vengono trasformati in biogas e compost presso l'impianto di digestione di Biogas Zurich AG. Il biogas viene immesso nella rete del gas di Energie 360° AG ed è disponibile come energia rinnovabile per il riscaldamento, la cottura o la produzione di elettricità. In questo modo si chiude un ciclo che contribuisce a migliorare la qualità della vita in città.";
-"Neben sämtlichen Gartenabfällen kannst du auch biologisch abbaubare Küchenabfälle und Essensreste entsorgen. Wenn du organische Abfälle im entsprechenden Behälter bereitstellst, benötigst du weniger Zuri-Säcke, was auch dein Portemonnaie schont. Die organischen Abfälle werden in der Vergärungsanlage der Biogas Zürich AG zu Biogas und Kompostprodukten verarbeitet. Das Biogas wird in das Gasnetz der Energie 360° AG eingespeist und steht als erneuerbare Energie zum Heizen, Kochen oder zur Stromproduktion zur Verfügung. Damit schliesst sich ein Kreislauf, der die Lebensqualität in der Stadt fördert." = "Oltre a tutti i rifiuti del giardino, puoi smaltire anche gli scarti e gli avanzi di cucina biodegradabili. Conferendo i rifiuti organici nell'apposito contenitore, utilizzerai meno sacchi Zuri, alleggerendo così anche il tuo portafoglio. I rifiuti organici vengono trasformati in biogas e prodotti di compost presso l'impianto di digestione di Biogas Zurich AG. Il biogas viene immesso nella rete del gas di Energie 360° AG ed è disponibile come energia rinnovabile per il riscaldamento, la cucina o la produzione di elettricità. In questo modo si chiude un ciclo che promuove la qualità della vita in città.";
 "Nein" = "No";
 "Neuer Chat" = "Nuova chat";
 "Neueste Nachrichten" = "Ultime notizie";
@@ -296,8 +283,6 @@
 "Nicht erlaubt" = "Non consentito";
 "Nicht erlaubt:" = "Non consentito:";
 "Nicht gefunden" = "Non trovato";
-"Nicht organische oder nicht biogene Abfälle, behandeltes und unbehandeltes Altholz, Asche und Zigarettenstummel, Blähton, Blumentöpfe und Schaumstoff, Buchsbaum (befallen von Buchsbaummotten), Weihnachtsbaum, Einweggeschirr, Hundekot, Hygieneartikel, Binden, Tampons, Windeln, Katzenstreu, kompostierbare Kleidung, Medikamente, Muschelschalen, Neophyten, Plastik, recycelte Plastiksäcke, Staubsaugersäcke, Steine, Kies, Sand, Tee-/Kaffeekapseln und -beutel, Verpackungsmaterialien, Glas, Metall, Papier, Karton, PET-Getränkeflaschen, Zuri-Säcke und Abfallsäcke" = "Rifiuti non organici o non biogenici, legno vecchio trattato e non trattato, cenere e mozziconi di sigaretta, argilla espansa, vasi di fiori e schiuma, bosso (infestato dalla piralide del bosso), albero di Natale, stoviglie monouso, deiezioni canine, articoli per l'igiene, assorbenti, tamponi, pannolini, bende, lettiera per gatti, indumenti compostabili, medicinali, gusci di cozze, neofite, plastica, sacchetti di plastica riciclata, sacchetti dell'aspirapolvere, pietre, ghiaia, sabbia, capsule e bustine di tè/caffè, materiali da imballaggio, vetro, metallo, carta, cartone, bottiglia di plastica per bevande, sacchetto Zuri e sacchetto per rifiuti";
-"Nicht recycelbares Papier wie Bucheinbände und Rückseiten, isolierte Verpackungen* aus Recyclingpapier (z. B. Paperfloc), Karton, Papierschnipsel, Papiertragetaschen, kunststoffbeschichtetes oder verschmutztes Papier, Tetra Pak, Tiefkühlverpackungen" = "Carta non riciclabile come copertine e retro di libri, imballaggi isolati* in carta riciclata (es. Paperfloc), cartone, ritagli di carta, sacchetti di carta, carta plastificata o sporca, Tetra Pak, imballaggi per alimenti surgelati";
 "Nicht sortierbare Abschnitte" = "Sezioni non ordinabili";
 "Nicht verfügbar" = "Non disponibile";
 "Niedrig" = "Basso";
@@ -320,7 +305,6 @@
 "Orte in der Nähe sind nur in %@ verfügbar" = "Orte in der Nähe sind nur in %@ verfügbar";
 "Orte suchen" = "Cerca luoghi";
 "Papier" = "Carta";
-"Papiertragetaschen und Kartonschachteln gehören nicht in die Papiersammlung und sind als Sammelbehälter ungeeignet. Sie sind speziell behandelt und beeinträchtigen den Recyclingprozess, zudem zerfallen sie bei Nässe und Wind." = "I sacchetti di carta e le scatole di cartone non vanno conferiti nella raccolta della carta e non sono adatti come contenitori per la raccolta. Sono trattati in modo particolare e compromettono il processo di riciclaggio, inoltre si sfaldano in condizioni di umidità e vento.";
 "Park" = "Parco";
 "Parkplatz" = "Parcheggio";
 "Parks, Parkplätze und Sammelstellen in deiner Nähe." = "Parchi, parcheggi e punti di raccolta nelle tue vicinanze.";
@@ -339,8 +323,6 @@
 "Push-Benachrichtigungen deaktiviert" = "Notifiche push disabilitate";
 "Push-Benachrichtigungen verwalten, die Startseite konfigurieren oder die Karte öffnen." = "Gestisci le notifiche push, configura la schermata principale o apri la mappa.";
 "Rechtliches" = "Legale";
-"Recycelbarer Karton wie Obstkartons, Gemüsekartons, gefaltete Papiertragetaschen, Pakete, Schachteln, Verpackungen, Wabenkarton (nur reiner Karton), Waschmittelkartons (ohne Kunststoffgriff)" = "Cartone riciclabile come cartoni per frutta, cartoni per verdura, sacchetti di carta piegati, pacchi, scatole, imballaggi, cartone a nido d'ape (solo cartone puro), scatole di detersivi (senza manico in plastica)";
-"Recycelbares Papier wie Bücher ohne Vorder- und Rückdeckel, Briefumschläge, Broschüren (nicht beschichtet), Taschenbücher, Zeitschriften, Zeitungen" = "Carta riciclabile come libri senza copertine, buste, brochure (non patinate), libri con copertina morbida, riviste, giornali";
 "Recycling" = "Riciclaggio";
 "Recycling-Benachrichtigungen" = "Avvisi sul riciclo";
 "Recycling-Events können momentan nicht geladen werden." = "Al momento non è possibile caricare gli eventi di riciclo.";
@@ -362,7 +344,6 @@
 "Sehenswürdigkeiten" = "Punti di riferimento";
 "Sehr hoch" = "Molto alto";
 "Sehr niedrig" = "Molto basso";
-"Seit dem 1. Januar 2023 besteht in der Stadt Zürich eine Behälter- und Standortpflicht für organische Abfälle. Liegenschaften, die noch keinen Behälter für organische Abfälle haben, werden im Laufe des Jahres 2023 damit ausgestattet. Wirf die organischen Abfälle einfach in den Behälter und schliess ihn wieder." = "Dal 1° gennaio 2023, nella città di Zurigo è entrato in vigore l'obbligo di avere un contenitore e una postazione per i rifiuti organici. Gli immobili che non dispongono ancora di un contenitore per i rifiuti organici ne saranno dotati nel corso del 2023. È sufficiente gettare i rifiuti organici nel contenitore apposito e richiuderlo.";
 "Sieh die Übersetzung" = "Vedi traduzione";
 "Sieh, was in Zürich los ist" = "Scopri cosa succede a Zurigo";
 "Sitzbank" = "Panchina";
@@ -396,8 +377,6 @@
 "Startseitenkonfiguration" = "Configurazione della home";
 "Statistiken" = "Statistiche";
 "Status" = "Stato";
-"Stelle das gebündelte Papier oder deinen Papiercontainer am Abfuhrtag vor 7 Uhr morgens an den Strassenrand." = "Posiziona la carta in pacchi o il tuo contenitore per la carta sul ciglio della strada il giorno della raccolta, prima delle 7 del mattino.";
-"Stelle den gebündelten Karton oder deinen Kartonbehälter am Abfuhrtag bis spätestens 7 Uhr morgens an den Strassenrand." = "Posiziona il cartone in fascine o il tuo contenitore di cartone sul ciglio della strada il giorno della raccolta, prima delle ore 7.";
 "Suchen" = "Ricerca";
 "Systemsprache in den Einstellungen ändern" = "Modifica la lingua di sistema nelle impostazioni";
 "Tägliche Trivia" = "Curiosità del giorno";
@@ -421,12 +400,10 @@
 "Typ auswählen" = "Seleziona tipo";
 "Überprüfe bitte deine Verbindung und versuche es erneut." = "Controlla la tua connessione e riprova.";
 "Überprüfe den Fahrplan und die Haltestellen des Trams, um die nächstgelegene Sammelstelle zu finden." = "Controlla gli orari e le fermate del tram per trovare il punto di raccolta più vicino.";
-"Überprüfe den Fahrplan und die Haltestellen, um die nächstgelegene Sammelstelle des mobilen Recyclinghofs zu finden." = "Controlla orari e fermate per trovare il punto di raccolta più vicino del Centro di Riciclaggio Mobile.";
 "Um dich herum" = "Intorno a te";
 "Umbenennen" = "Rinomina";
 "Umschalten" = "Attiva/Disattiva";
 "Unbekannt" = "Sconosciuto";
-"Unbeschichtete Pizzakartons bestehen zwar aus Karton, doch nur saubere Kartons gehören in die Kartonsammlung. Fettige Pizzakartons mit Essensresten können nicht recycelt werden und gehören in den Kehricht." = "Sebbene i cartoni della pizza non rivestiti siano fatti di cartone, solo quelli puliti devono essere conferiti nella raccolta della carta. I cartoni della pizza unti e con residui di cibo non possono essere riciclati e vanno gettati nell'indifferenziato.";
 "Unten angeheftet, da es sich um eine lange Liste handelt." = "Fissato in basso perché è un elenco lungo.";
 "Velopumpe" = "Pompa per bicicletta";
 "Veranstaltung" = "Evento";
@@ -472,7 +449,6 @@
 "Was steht heute an?" = "Cosa c'è in programma oggi?";
 "Wassertemperatur" = "Temperatura dell'acqua";
 "Wegbeschreibung" = "Indicazioni";
-"Weihnachtsbaum, Glühbirne, Halogenlampe, Hygieneartikel, Katzenstreu, Kunststoff, Kunststoffverpackungen, Nylonstrumpf, Papierfetzen, Rasierklinge (gut verpackt), Staubsaugersack, Verpackung von Tiefkühlkost, Trinkglas (kleine Mengen), Veloreifen (kleine Mengen), Reinigungsabfälle, Zigarettenstummel, Hundekotsäcke" = "Albero di Natale, lampadina, lampada alogena, articoli per l'igiene, lettiera per gatti, materiale plastico, imballaggi in plastica, calza di nylon, scarti di carta, lametta da barba (ben confezionata), sacchetto per aspirapolvere, imballaggi per surgelati, bicchiere (piccole quantità), copertone di bicicletta (piccole quantità), rifiuti di pulizia, mozziconi di sigaretta, sacchetti per deiezioni canine";
 "Weiter" = "Continua";
 "Weitere Informationen auf deiner Karte anzeigen" = "Vedi maggiori informazioni sulla tua mappa";
 "Welche Restaurants in Zürich kannst du empfehlen?" = "Quali ristoranti consigli a Zurigo?";
@@ -480,7 +456,6 @@
 "Wenn die Konfiguration fehlt" = "Quando manca la configurazione";
 "Wenn du doppelte Orte siehst, kannst du deinen lokalen Cache leeren." = "Se vedi posizioni duplicate, puoi svuotare la cache locale.";
 "Wenn du eine Funktion aktivierst, wird eine Berechtigung angefordert." = "Ti verrà richiesta l'autorizzazione quando attiverai un'opzione.";
-"Wer seinen Hauskehricht in gebührenfreien Säcken, illegal oder in öffentlichen Abfallbehältern entsorgt, ist unfair gegenüber denjenigen, die ihren Abfall ordnungsgemäss vorbereiten. Illegale Entsorger werden der Polizei gemeldet und können mit Bussen von bis zu mehreren tausend Schweizer Franken bestraft werden." = "Chi smaltisce i propri rifiuti domestici in sacchi non a pagamento, illegalmente o nei cestini pubblici, è sleale nei confronti di chi prepara correttamente i propri rifiuti. Gli scaricatori abusivi vengono denunciati alla polizia e rischiano multe fino a diverse migliaia di franchi svizzeri.";
 "Wetter" = "Meteo";
 "Wickeltisch" = "Fasciatoio";
 "Wie hat sich die Bevölkerung von Zürich verändert?" = "Come è cambiata la popolazione di Zurigo?";
