@@ -30,7 +30,7 @@
     }
   ],
   "include": ["../android/**/*.{ts,tsx,js,jsx}", "../ios/**/*.swift"],
-  "extractPattern": "tr\\(\\s*(?:\"([^\"]*)\"|'([^']*)'|`([^`]*)`)\\s*\\)",
+  "extractPattern": "tr\\(\\s*(?:\"([^\"]*)\"|'([^']*)'|`([^`]*)`)\\s*[,)]",
   "exclude": [
     "../android/node_modules/**",
     "../android/.expo/**",
