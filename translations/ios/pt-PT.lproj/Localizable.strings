@@ -15,7 +15,6 @@
 "Abschnitte ein- und ausblenden und neu anordnen." = "Expande ou recolhe as secções e reordena-as.";
 "Adresse" = "Morada";
 "Aktiviere Benachrichtigungen in den Systemeinstellungen, um sie hier zu verwalten." = "Ativa as notificações nas definições do sistema para gerir os alertas aqui.";
-"Aktiviere den Standort in den Systemeinstellungen, um diese Funktion weiterhin nutzen zu können." = "Ativa a localização nas definições do sistema para continuar a usar esta funcionalidade.";
 "Aktiviere mindestens einen Bereich in den Einstellungen, um die App nutzen zu können." = "Ativa pelo menos uma secção nas definições para começar a usar a aplicação.";
 "Aktiviere Push-Benachrichtigungen in deinen Einstellungen, um deine Präferenzen anzupassen." = "Ativa as notificações push nas tuas definições para personalizar as tuas preferências.";
 "Aktualisierung erforderlich" = "Atualização necessária";
@@ -364,7 +363,6 @@
 "Sportarten" = "Desportos";
 "Sportbereich" = "Área desportiva";
 "Sprache" = "Língua";
-"Standort blockiert" = "Localização bloqueada";
 "Standortberechtigung" = "Permissão de localização";
 "Standortberechtigung konfigurieren." = "Configurar permissão de localização.";
 "Standortberechtigung noch nicht angefordert" = "Permissão de localização ainda não solicitada";

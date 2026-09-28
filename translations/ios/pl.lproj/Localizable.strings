@@ -15,7 +15,6 @@
 "Abschnitte ein- und ausblenden und neu anordnen." = "Przełączaj sekcje i zmieniaj ich kolejność.";
 "Adresse" = "Adres";
 "Aktiviere Benachrichtigungen in den Systemeinstellungen, um sie hier zu verwalten." = "Włącz powiadomienia w ustawieniach systemowych, aby zarządzać alertami tutaj.";
-"Aktiviere den Standort in den Systemeinstellungen, um diese Funktion weiterhin nutzen zu können." = "Aby nadal korzystać z tej funkcji, włącz lokalizację w ustawieniach systemowych.";
 "Aktiviere mindestens einen Bereich in den Einstellungen, um die App nutzen zu können." = "Aby zacząć korzystać z aplikacji, włącz co najmniej jedną sekcję w ustawieniach.";
 "Aktiviere Push-Benachrichtigungen in deinen Einstellungen, um deine Präferenzen anzupassen." = "Włącz powiadomienia push w ustawieniach, aby dostosować swoje preferencje.";
 "Aktualisierung erforderlich" = "Wymagana aktualizacja";
@@ -364,7 +363,6 @@
 "Sportarten" = "Sport";
 "Sportbereich" = "Teren sportowy";
 "Sprache" = "Język";
-"Standort blockiert" = "Lokalizacja zablokowana";
 "Standortberechtigung" = "Zezwolenie na lokalizację";
 "Standortberechtigung konfigurieren." = "Skonfiguruj uprawnienia do lokalizacji.";
 "Standortberechtigung noch nicht angefordert" = "Nie poproszono jeszcze o uprawnienia do lokalizacji";

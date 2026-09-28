@@ -15,7 +15,6 @@
 "Abschnitte ein- und ausblenden und neu anordnen." = "החלף בין קטעים וסדר אותם מחדש.";
 "Adresse" = "כתובת";
 "Aktiviere Benachrichtigungen in den Systemeinstellungen, um sie hier zu verwalten." = "אפשר התראות בהגדרות המערכת כדי לנהל התראות כאן.";
-"Aktiviere den Standort in den Systemeinstellungen, um diese Funktion weiterhin nutzen zu können." = "אפשר מיקום בהגדרות המערכת כדי להמשיך להשתמש בזה.";
 "Aktiviere mindestens einen Bereich in den Einstellungen, um die App nutzen zu können." = "הפעל לפחות קטע אחד בהגדרות כדי להתחיל להשתמש באפליקציה.";
 "Aktiviere Push-Benachrichtigungen in deinen Einstellungen, um deine Präferenzen anzupassen." = "אפשר התראות דחיפה בהגדרות כדי להתאים אישית את ההעדפות שלך.";
 "Aktualisierung erforderlich" = "נדרש עדכון";
@@ -364,7 +363,6 @@
 "Sportarten" = "ספורט";
 "Sportbereich" = "אזור ספורט";
 "Sprache" = "שפה";
-"Standort blockiert" = "המיקום חסום";
 "Standortberechtigung" = "הרשאת מיקום";
 "Standortberechtigung konfigurieren." = "הגדר הרשאות למיקום.";
 "Standortberechtigung noch nicht angefordert" = "טרם התבקשה הרשאת מיקום";

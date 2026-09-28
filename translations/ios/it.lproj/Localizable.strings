@@ -15,7 +15,6 @@
 "Abschnitte ein- und ausblenden und neu anordnen." = "Attiva/disattiva le sezioni e riordinane la posizione.";
 "Adresse" = "Indirizzo";
 "Aktiviere Benachrichtigungen in den Systemeinstellungen, um sie hier zu verwalten." = "Attiva le notifiche nelle impostazioni di sistema per gestire gli avvisi da qui.";
-"Aktiviere den Standort in den Systemeinstellungen, um diese Funktion weiterhin nutzen zu können." = "Abilita la localizzazione nelle impostazioni di sistema per continuare a usare questa funzione.";
 "Aktiviere mindestens einen Bereich in den Einstellungen, um die App nutzen zu können." = "Attiva almeno una sezione nelle impostazioni per iniziare a usare l'app.";
 "Aktiviere Push-Benachrichtigungen in deinen Einstellungen, um deine Präferenzen anzupassen." = "Attiva le notifiche push nelle impostazioni per personalizzare le tue preferenze.";
 "Aktualisierung erforderlich" = "Aggiornamento necessario";
@@ -364,7 +363,6 @@
 "Sportarten" = "Sport";
 "Sportbereich" = "Area sportiva";
 "Sprache" = "Lingua";
-"Standort blockiert" = "Posizione bloccata";
 "Standortberechtigung" = "Permesso di localizzazione";
 "Standortberechtigung konfigurieren." = "Configura l'autorizzazione per le posizioni.";
 "Standortberechtigung noch nicht angefordert" = "Autorizzazione alla posizione non ancora richiesta";

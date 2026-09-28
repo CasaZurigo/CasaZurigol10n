@@ -15,7 +15,6 @@
 "Abschnitte ein- und ausblenden und neu anordnen." = "Переключай разделы и меняй их порядок.";
 "Adresse" = "Адрес";
 "Aktiviere Benachrichtigungen in den Systemeinstellungen, um sie hier zu verwalten." = "Включи уведомления в настройках системы, чтобы управлять оповещениями здесь.";
-"Aktiviere den Standort in den Systemeinstellungen, um diese Funktion weiterhin nutzen zu können." = "Включи геолокацию в настройках системы, чтобы продолжить пользоваться этой функцией.";
 "Aktiviere mindestens einen Bereich in den Einstellungen, um die App nutzen zu können." = "Включи хотя бы один раздел в настройках, чтобы начать пользоваться приложением.";
 "Aktiviere Push-Benachrichtigungen in deinen Einstellungen, um deine Präferenzen anzupassen." = "Включи push-уведомления в настройках, чтобы настроить предпочтения.";
 "Aktualisierung erforderlich" = "Обновление";
@@ -364,7 +363,6 @@
 "Sportarten" = "Спорт";
 "Sportbereich" = "Спортивная зона";
 "Sprache" = "Язык";
-"Standort blockiert" = "Местоположение заблокировано";
 "Standortberechtigung" = "Разрешение на доступ к местоположению";
 "Standortberechtigung konfigurieren." = "Настроить разрешения для местоположений.";
 "Standortberechtigung noch nicht angefordert" = "Разрешение на доступ к местоположению еще не запрашивалось";

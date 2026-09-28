@@ -15,7 +15,6 @@
 "Abschnitte ein- und ausblenden und neu anordnen." = "切換區段並重新排序。";
 "Adresse" = "地址";
 "Aktiviere Benachrichtigungen in den Systemeinstellungen, um sie hier zu verwalten." = "請在系統設定中啟用通知，以便在此處管理提醒。";
-"Aktiviere den Standort in den Systemeinstellungen, um diese Funktion weiterhin nutzen zu können." = "請在系統設定中啟用定位服務，以便繼續使用此功能。";
 "Aktiviere mindestens einen Bereich in den Einstellungen, um die App nutzen zu können." = "請在設定中啟用至少一個區段，即可開始使用此應用程式。";
 "Aktiviere Push-Benachrichtigungen in deinen Einstellungen, um deine Präferenzen anzupassen." = "在設定中啟用推播通知，即可自訂你的偏好設定。";
 "Aktualisierung erforderlich" = "需要更新";
@@ -364,7 +363,6 @@
 "Sportarten" = "體育";
 "Sportbereich" = "運動區";
 "Sprache" = "語言";
-"Standort blockiert" = "位置已封鎖";
 "Standortberechtigung" = "位置權限";
 "Standortberechtigung konfigurieren." = "設定位置權限。";
 "Standortberechtigung noch nicht angefordert" = "尚未請求位置權限";

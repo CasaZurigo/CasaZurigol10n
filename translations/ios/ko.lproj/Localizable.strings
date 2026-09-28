@@ -15,7 +15,6 @@
 "Abschnitte ein- und ausblenden und neu anordnen." = "섹션을 전환하고 순서를 재배열하세요.";
 "Adresse" = "주소";
 "Aktiviere Benachrichtigungen in den Systemeinstellungen, um sie hier zu verwalten." = "시스템 설정에서 알림을 활성화하여 여기서 알림을 관리하세요.";
-"Aktiviere den Standort in den Systemeinstellungen, um diese Funktion weiterhin nutzen zu können." = "계속 사용하려면 시스템 설정에서 위치 정보 사용을 허용해 주세요.";
 "Aktiviere mindestens einen Bereich in den Einstellungen, um die App nutzen zu können." = "앱을 사용하려면 설정에서 최소한 하나의 섹션을 켜세요.";
 "Aktiviere Push-Benachrichtigungen in deinen Einstellungen, um deine Präferenzen anzupassen." = "설정에서 푸시 알림을 활성화하여 환경설정을 맞춤 설정하세요.";
 "Aktualisierung erforderlich" = "업데이트 필요";
@@ -364,7 +363,6 @@
 "Sportarten" = "스포츠";
 "Sportbereich" = "스포츠 구역";
 "Sprache" = "언어";
-"Standort blockiert" = "위치 차단됨";
 "Standortberechtigung" = "위치 권한";
 "Standortberechtigung konfigurieren." = "위치 권한 설정";
 "Standortberechtigung noch nicht angefordert" = "위치 권한이 아직 요청되지 않았어요";
