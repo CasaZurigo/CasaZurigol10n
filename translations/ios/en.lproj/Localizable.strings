@@ -59,6 +59,7 @@
 "Bewerte CasaZurich im Store" = "Rate CasaZurich on the store";
 "Bewertung abgeben" = "Leave a Review";
 "Bio" = "Organic";
+"Bis %@" = "Until %@";
 "Bitte aktiviere den Kalenderzugriff in den Einstellungen deines Geräts." = "Please enable calendar access in your device settings.";
 "Bitte aktualisiere CasaZurich, um die App weiter nutzen zu können." = "Please update CasaZurich to continue using the app.";
 "Brauchst du Hilfe?" = "Need help?";
@@ -189,6 +190,7 @@
 "Infrastruktur" = "Infrastructure";
 "Inhalt konnte nicht geladen werden" = "Content could not be loaded";
 "Ja" = "Yes";
+"Jetzt" = "Now";
 "Jetzt aktualisieren" = "Update now";
 "Jetzt drehen!" = "Spin Now!";
 "Kalender der Recyclingtermine anzeigen" = "View recycling calendar events";
