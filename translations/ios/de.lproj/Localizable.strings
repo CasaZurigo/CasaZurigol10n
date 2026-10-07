@@ -2,10 +2,10 @@
 "%@ gratis" = "%@ gratis";
 "%@ Min. hören" = "%@ Min. hören";
 "%@ Velos" = "%@ Velos";
-"☕️ Tipp für einen Kaffee" = "☕️ Tipp für einen Kaffee";
-"🍭 Kleiner Tipp" = "🍭 Kleiner Tipp";
-"🎟️ Tipp für ein Kinoticket" = "🎟️ Tipp für ein Kinoticket";
-"🚃 Tipp für ein ZVV-Ticket" = "🚃 Tipp für ein ZVV-Ticket";
+"☕️ Trinkgeld für einen Kaffee" = "☕️ Trinkgeld für einen Kaffee";
+"🍭 Kleines Trinkgeld" = "🍭 Kleines Trinkgeld";
+"🎟️ Trinkgeld für ein Kinoticket" = "🎟️ Trinkgeld für ein Kinoticket";
+"🚃 Trinkgeld für ein ZVV-Ticket" = "🚃 Trinkgeld für ein ZVV-Ticket";
 "7-Tage-Schnitt" = "7-Tage-Schnitt";
 "Abbrechen" = "Abbrechen";
 "Abgelaufen" = "Abgelaufen";
@@ -124,6 +124,7 @@
 "Erinnerungen an wichtige Veranstaltungen." = "Erinnerungen an wichtige Veranstaltungen.";
 "Erinnerungen basierend auf deiner Postleitzahl." = "Erinnerungen basierend auf deiner Postleitzahl.";
 "Erlauben" = "Erlauben";
+"Erlaubt" = "Erlaubt";
 "Erlaubt:" = "Erlaubt:";
 "Erläuterung" = "Erläuterung";
 "Erlebe Festivals, Sport und Kultur." = "Erlebe Festivals, Sport und Kultur.";
@@ -357,7 +358,7 @@
 "Spielplatz" = "Spielplatz";
 "Sport" = "Sport";
 "Sportarten" = "Sportarten";
-"Sportbereich" = "Sportbereich";
+"Sportplatz" = "Sportplatz";
 "Sprache" = "Sprache";
 "Standortberechtigung" = "Standortberechtigung";
 "Standortberechtigung konfigurieren." = "Standortberechtigung konfigurieren.";
@@ -373,7 +374,6 @@
 "Startdatum festlegen" = "Startdatum festlegen";
 "Startseite" = "Startseite";
 "Startseite anpassen" = "Startseite anpassen";
-"Startseitenkonfiguration" = "Startseitenkonfiguration";
 "Statistiken" = "Statistiken";
 "Status" = "Status";
 "Suchen" = "Suchen";
@@ -389,13 +389,13 @@
 "Tippe, um die aktuellste Vorhersage zu erhalten" = "Tippe, um die aktuellste Vorhersage zu erhalten";
 "Tippe, um die App nach deinen Wünschen anzupassen" = "Tippe, um die App nach deinen Wünschen anzupassen";
 "Tippe, um zu filtern und nur die Inhalte anzuzeigen, die dich interessieren" = "Tippe, um zu filtern und nur die Inhalte anzuzeigen, die dich interessieren";
-"Tipps sind momentan nicht verfügbar" = "Tipps sind momentan nicht verfügbar";
 "Tischtennis" = "Tischtennis";
 "Titel" = "Titel";
 "Toilette" = "Toilette";
 "Tolle Arbeit, du kennst Zürich gut!" = "Tolle Arbeit, du kennst Zürich gut!";
 "Transport" = "Transport";
 "Trinkgeld geben" = "Trinkgeld geben";
+"Trinkgeld ist momentan nicht verfügbar" = "Trinkgeld ist momentan nicht verfügbar";
 "Typ auswählen" = "Typ auswählen";
 "Überprüfe bitte deine Verbindung und versuche es erneut." = "Überprüfe bitte deine Verbindung und versuche es erneut.";
 "Überprüfe den Fahrplan und die Haltestellen des Trams, um die nächstgelegene Sammelstelle zu finden." = "Überprüfe den Fahrplan und die Haltestellen des Trams, um die nächstgelegene Sammelstelle zu finden.";
@@ -469,7 +469,6 @@
 "Zeitpunkt noch offen" = "Zeitpunkt noch offen";
 "Zeitüberschreitung" = "Zeitüberschreitung";
 "Ziehe, um Abschnitte neu anzuordnen, und schalte sie um, um sie auf deinem Startbildschirm ein- oder auszublenden." = "Ziehe, um Abschnitte neu anzuordnen, und schalte sie um, um sie auf deinem Startbildschirm ein- oder auszublenden.";
-"Zugelassen" = "Zugelassen";
 "Zum Abspielen tippen" = "Zum Abspielen tippen";
 "Zum Kalender hinzufügen" = "Zum Kalender hinzufügen";
 "Zum Umsortieren ziehen. Abschnitte ein- oder ausblenden." = "Zum Umsortieren ziehen. Abschnitte ein- oder ausblenden.";
