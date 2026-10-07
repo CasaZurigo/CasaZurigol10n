@@ -18,8 +18,8 @@
 "Aktiviere mindestens einen Bereich in den Einstellungen, um die App nutzen zu können." = "앱을 사용하려면 설정에서 최소한 하나의 섹션을 켜세요.";
 "Aktiviere Push-Benachrichtigungen in deinen Einstellungen, um deine Präferenzen anzupassen." = "설정에서 푸시 알림을 활성화하여 환경설정을 맞춤 설정하세요.";
 "Aktualisierung erforderlich" = "업데이트 필요";
-"Aktuelle Nachrichten aus Zürich." = "취리히 최신 속보예요.";
-"Aktuelle Zürich-Updates mit Quellenfiltern." = "소스 필터 최신 취리히 업데이트.";
+"Aktuelle Nachrichten aus Zürich." = "취리히의 최신 소식.";
+"Aktuelle Zürich-Updates mit Quellenfiltern." = "출처 필터가 적용된 취리히 최신 소식.";
 "Aktueller Standort konnte nicht ermittelt werden" = "현재 위치를 확인할 수 없어요";
 "Alle" = "전체";
 "Alle abwählen" = "모두 선택 해제";
@@ -86,7 +86,7 @@
 "Datum – nächste zuerst" = "날짜 — 최신순";
 "Datum – neueste zuerst" = "날짜 — 최신순";
 "Datum – späteste zuerst" = "날짜 — 최신순";
-"Dein Begleiter für das Leben in Zürich" = "취리히 생활의 동반자";
+"Dein Begleiter für das Leben in Zürich" = "취리히 생활을 함께하는 동반자";
 "Dein Überblick für heute" = "오늘의 브리핑";
 "Deine Privatsphäre ist uns wichtig. Deine Daten werden weder erhoben noch gespeichert. Was du tust, ist deine Angelegenheit – nicht unsere oder die von jemand anderem." = "개인정보는 소중해요. 데이터를 수집하거나 저장하지 않아요. 여러분이 하는 일은 여러분만의 일이지, 저희나 다른 누구의 일이 아니에요.";
 "Denkt nach…" = "생각 중";
@@ -114,13 +114,13 @@
 "Enddatum" = "종료일";
 "Enddatum festlegen" = "종료 날짜 설정";
 "Entdecke Baustellen und mehr auf deiner Karte" = "지도에서 건설 현장 등을 찾아보세요";
-"Entdecke lokale Veranstaltungen, um auf dem Laufenden zu bleiben, was in Zürich passiert." = "취리히에서 무슨 일이 일어나고 있는지 알아보려면 지역 행사를 둘러보세요.";
+"Entdecke lokale Veranstaltungen, um auf dem Laufenden zu bleiben, was in Zürich passiert." = "취리히에서 무슨 일이 일어나고 있는지 최신 소식을 확인하려면 지역 행사를 찾아보세요.";
 "Entdecke Orte in deiner Nähe" = "가까운 곳 찾아보기";
 "Entdecke Recyclingtermine" = "재활용 이벤트 알아보기";
 "Entdecken" = "발견하기";
 "Erfahre, wie wir Daten verarbeiten" = "데이터 처리 방식 알아보기";
 "Erhalte Benachrichtigungen über die neuesten Nachrichten in Zürich!" = "취리히의 최신 뉴스 알림을 받아보세요!";
-"Erhalte Erinnerungen an Veranstaltungen in Zürich!" = "취리히에서 열리는 이벤트 알림을 받아보세요!";
+"Erhalte Erinnerungen an Veranstaltungen in Zürich!" = "취리히에서 열리는 행사 알림을 받아보세요!";
 "Erhalte Recycling-Erinnerungen basierend auf deiner Postleitzahl." = "우편번호를 기준으로 재활용 알림을 받으세요.";
 "Erinnerungen an wichtige Veranstaltungen." = "관심 있는 이벤트 알림.";
 "Erinnerungen basierend auf deiner Postleitzahl." = "우편번호 기반 알림";
@@ -277,11 +277,11 @@
 "Nachrichten suchen" = "뉴스 검색";
 "Name" = "이름";
 "Natur" = "자연";
-"Navigiere mit kuratierten Ebenen durch Zürich." = "엄선된 레이어로 취리히를 탐색하세요.";
+"Navigiere mit kuratierten Ebenen durch Zürich." = "엄선된 레이어로 취리히를 탐색해 봐.";
 "Neben Gartenabfällen kannst du auch biologisch abbaubare Küchenabfälle und Essensreste entsorgen. Wenn du Bioabfälle im entsprechenden Behälter entsorgst, brauchst du weniger Züri-Säcke, was auch dein Portemonnaie schont. Die Bioabfälle werden in der Biogasanlage der Biogas Zürich AG zu Biogas und Kompost verarbeitet. Das Biogas wird in das Gasnetz der Energie 360° AG eingespeist und steht als erneuerbare Energie zum Heizen, Kochen oder zur Stromerzeugung zur Verfügung. So schliesst sich ein Kreislauf, der die Lebensqualität in der Stadt fördert." = "정원 쓰레기 외에도 생분해성 주방 쓰레기와 음식물 쓰레기를 버릴 수 있습니다. 유기성 폐기물을 전용 수거함에 배출하면 취리히 쓰레기봉투(Zuri-Sack) 사용량을 줄일 수 있어 비용도 절약됩니다. 수거된 유기성 폐기물은 Biogas Zurich AG의 소화 시설에서 바이오가스와 퇴비로 처리됩니다. 이렇게 생산된 바이오가스는 Energie 360° AG의 가스망에 공급되어 난방, 취사, 전력 생산을 위한 재생 에너지로 활용됩니다. 이처럼 자원 순환을 통해 도시의 삶의 질을 높일 수 있습니다.";
 "Nein" = "아니요";
 "Neu generieren" = "새로 생성";
-"Neue Seiten rund um Zürich entdecken" = "취리히 주변의 새로운 페이지를 발견하세요";
+"Neue Seiten rund um Zürich entdecken" = "취리히 주변의 새로운 모습 발견하기";
 "Neuer Chat" = "새 대화";
 "Neueste Nachrichten" = "최신 뉴스";
 "Neueste Nachrichten lesen" = "최신 뉴스 읽기";
@@ -351,7 +351,7 @@
 "Sehr hoch" = "매우 높음";
 "Sehr niedrig" = "매우 낮음";
 "Sieh die Übersetzung" = "번역 보기";
-"Sieh, was in Zürich los ist" = "취리히에서 무슨 일이 일어나고 있는지 확인하세요";
+"Sieh, was in Zürich los ist" = "취리히에서 무슨 일이 일어나고 있는지 확인해 봐";
 "Sitzbank" = "벤치";
 "So recycelst du" = "재활용 방법";
 "Sonne oder Regen?" = "햇살이냐 비냐?";
@@ -387,7 +387,7 @@
 "Tägliche Trivia" = "일일 퀴즈";
 "Tägliche Zusammenfassung" = "일일 요약";
 "Teilen" = "공유";
-"Teste dein Zürich-Wissen" = "취리히 지식 테스트";
+"Teste dein Zürich-Wissen" = "취리히 지식을 테스트해 봐";
 "Textilien" = "텍스타일";
 "Theater" = "극장";
 "Tippe hier, um die heutige Zusammenfassung zu lesen." = "탭해서 오늘의 요약 읽기";
@@ -399,7 +399,7 @@
 "Tischtennis" = "탁구";
 "Titel" = "제목";
 "Toilette" = "화장실";
-"Tolle Arbeit, du kennst Zürich gut!" = "정말 잘하셨어요! 취리히를 정말 잘 아시네요!";
+"Tolle Arbeit, du kennst Zürich gut!" = "정말 잘했어, 취리히를 잘 아네!";
 "Transport" = "운송";
 "Trinkgeld geben" = "팁 남기기";
 "Typ auswählen" = "유형 선택";

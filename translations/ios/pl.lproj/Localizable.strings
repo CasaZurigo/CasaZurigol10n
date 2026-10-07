@@ -18,8 +18,8 @@
 "Aktiviere mindestens einen Bereich in den Einstellungen, um die App nutzen zu können." = "Aby zacząć korzystać z aplikacji, włącz co najmniej jedną sekcję w ustawieniach.";
 "Aktiviere Push-Benachrichtigungen in deinen Einstellungen, um deine Präferenzen anzupassen." = "Włącz powiadomienia push w ustawieniach, aby dostosować swoje preferencje.";
 "Aktualisierung erforderlich" = "Wymagana aktualizacja";
-"Aktuelle Nachrichten aus Zürich." = "Najświeższe aktualności z Zurychu.";
-"Aktuelle Zürich-Updates mit Quellenfiltern." = "Najnowsze aktualizacje z Zurychu z filtrami źródeł.";
+"Aktuelle Nachrichten aus Zürich." = "Najnowsze wiadomości z Zurychu.";
+"Aktuelle Zürich-Updates mit Quellenfiltern." = "Najnowsze wiadomości z Zurychu z filtrami źródeł.";
 "Aktueller Standort konnte nicht ermittelt werden" = "Nie można określić bieżącej lokalizacji";
 "Alle" = "Wszystkie";
 "Alle abwählen" = "Odznacz wszystko";
@@ -86,7 +86,7 @@
 "Datum – nächste zuerst" = "Data — najpierw najnowsze";
 "Datum – neueste zuerst" = "Data — najnowsze na początku";
 "Datum – späteste zuerst" = "Data — najnowsze na początku";
-"Dein Begleiter für das Leben in Zürich" = "Twój towarzysz życia w Zurychu";
+"Dein Begleiter für das Leben in Zürich" = "Twój przewodnik po życiu w Zurychu";
 "Dein Überblick für heute" = "Dzisiejsza odprawa";
 "Deine Privatsphäre ist uns wichtig. Deine Daten werden weder erhoben noch gespeichert. Was du tust, ist deine Angelegenheit – nicht unsere oder die von jemand anderem." = "Twoja prywatność jest dla nas ważna. Twoje dane nie będą gromadzone ani przechowywane. To, co robisz, jest twoją sprawą, a nie naszą ani nikogo innego.";
 "Denkt nach…" = "Myślenie";
@@ -114,7 +114,7 @@
 "Enddatum" = "Data zakończenia";
 "Enddatum festlegen" = "Ustaw datę zakończenia";
 "Entdecke Baustellen und mehr auf deiner Karte" = "Odkrywaj place budowy i inne miejsca na swojej mapie";
-"Entdecke lokale Veranstaltungen, um auf dem Laufenden zu bleiben, was in Zürich passiert." = "Odkrywaj lokalne wydarzenia, aby być na bieżąco z tym, co dzieje się w Zurychu.";
+"Entdecke lokale Veranstaltungen, um auf dem Laufenden zu bleiben, was in Zürich passiert." = "Odkryj lokalne wydarzenia, żeby być na bieżąco z tym, co się dzieje w Zurychu.";
 "Entdecke Orte in deiner Nähe" = "Odkryj miejsca w pobliżu";
 "Entdecke Recyclingtermine" = "Odkryj wydarzenia związane z recyklingiem";
 "Entdecken" = "Odkryj";
@@ -277,11 +277,11 @@
 "Nachrichten suchen" = "Szukaj wiadomości";
 "Name" = "Nazwa";
 "Natur" = "Natura";
-"Navigiere mit kuratierten Ebenen durch Zürich." = "Zwiedzaj Zurych dzięki specjalnie przygotowanym warstwom.";
+"Navigiere mit kuratierten Ebenen durch Zürich." = "Nawiguj po Zurychu dzięki wyselekcjonowanym warstwom.";
 "Neben Gartenabfällen kannst du auch biologisch abbaubare Küchenabfälle und Essensreste entsorgen. Wenn du Bioabfälle im entsprechenden Behälter entsorgst, brauchst du weniger Züri-Säcke, was auch dein Portemonnaie schont. Die Bioabfälle werden in der Biogasanlage der Biogas Zürich AG zu Biogas und Kompost verarbeitet. Das Biogas wird in das Gasnetz der Energie 360° AG eingespeist und steht als erneuerbare Energie zum Heizen, Kochen oder zur Stromerzeugung zur Verfügung. So schliesst sich ein Kreislauf, der die Lebensqualität in der Stadt fördert." = "Oprócz odpadów ogrodowych możesz również wyrzucać biodegradowalne odpady kuchenne i resztki jedzenia. Wrzucając odpady organiczne do odpowiedniego pojemnika, zużywasz mniej worków Zuri, co jest korzystne dla Twojego portfela. Odpady organiczne są przetwarzane na biogaz i kompost w biogazowni Biogas Zurich AG. Biogaz trafia do sieci gazowej Energie 360° AG i jest wykorzystywany jako energia odnawialna do ogrzewania, gotowania lub produkcji prądu. Zamyka to obieg, który poprawia jakość życia w mieście.";
 "Nein" = "Nie";
 "Neu generieren" = "Wygeneruj ponownie";
-"Neue Seiten rund um Zürich entdecken" = "Odkryj nowe strony w okolicach Zurychu";
+"Neue Seiten rund um Zürich entdecken" = "Odkryj nowe miejsca w okolicach Zurychu";
 "Neuer Chat" = "Nowy czat";
 "Neueste Nachrichten" = "Najnowsze wiadomości";
 "Neueste Nachrichten lesen" = "Przeczytaj najnowsze wiadomości";
@@ -351,7 +351,7 @@
 "Sehr hoch" = "Bardzo wysoki";
 "Sehr niedrig" = "Bardzo niski";
 "Sieh die Übersetzung" = "Zobacz tłumaczenie";
-"Sieh, was in Zürich los ist" = "Zobacz, co dzieje się w Zurychu";
+"Sieh, was in Zürich los ist" = "Zobacz, co się dzieje w Zurychu";
 "Sitzbank" = "Ławka";
 "So recycelst du" = "Jak segregować odpady";
 "Sonne oder Regen?" = "Słońce czy deszcz?";

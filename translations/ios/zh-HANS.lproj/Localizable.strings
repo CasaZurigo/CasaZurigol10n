@@ -18,8 +18,8 @@
 "Aktiviere mindestens einen Bereich in den Einstellungen, um die App nutzen zu können." = "请在设置中开启至少一个部分，即可开始使用此应用。";
 "Aktiviere Push-Benachrichtigungen in deinen Einstellungen, um deine Präferenzen anzupassen." = "在你的设置中启用推送通知，以自定义你的偏好。";
 "Aktualisierung erforderlich" = "需要更新";
-"Aktuelle Nachrichten aus Zürich." = "苏黎世突发新闻。";
-"Aktuelle Zürich-Updates mit Quellenfiltern." = "苏黎世最新动态，支持来源筛选。";
+"Aktuelle Nachrichten aus Zürich." = "来自苏黎世的最新消息。";
+"Aktuelle Zürich-Updates mit Quellenfiltern." = "带有来源筛选功能的苏黎世最新动态。";
 "Aktueller Standort konnte nicht ermittelt werden" = "无法确定当前位置";
 "Alle" = "全部";
 "Alle abwählen" = "取消全选";
@@ -86,7 +86,7 @@
 "Datum – nächste zuerst" = "日期——从早到晚";
 "Datum – neueste zuerst" = "日期 — 从新到旧";
 "Datum – späteste zuerst" = "日期 — 从新到旧";
-"Dein Begleiter für das Leben in Zürich" = "你在苏黎世生活的贴心伴侣";
+"Dein Begleiter für das Leben in Zürich" = "你在苏黎世生活的伙伴";
 "Dein Überblick für heute" = "今日简报";
 "Deine Privatsphäre ist uns wichtig. Deine Daten werden weder erhoben noch gespeichert. Was du tust, ist deine Angelegenheit – nicht unsere oder die von jemand anderem." = "你的隐私至关重要。我们不会收集或存储你的数据。你的行为是你自己的事，与我们或任何其他人无关。";
 "Denkt nach…" = "正在思考";
@@ -114,12 +114,12 @@
 "Enddatum" = "结束日期";
 "Enddatum festlegen" = "设置结束日期";
 "Entdecke Baustellen und mehr auf deiner Karte" = "在地图上探索建筑工地及更多内容";
-"Entdecke lokale Veranstaltungen, um auf dem Laufenden zu bleiben, was in Zürich passiert." = "探索本地活动，随时了解苏黎世的最新动态。";
+"Entdecke lokale Veranstaltungen, um auf dem Laufenden zu bleiben, was in Zürich passiert." = "探索当地活动，随时掌握苏黎世的最新动态。";
 "Entdecke Orte in deiner Nähe" = "发现你附近的位置";
 "Entdecke Recyclingtermine" = "发现回收活动";
 "Entdecken" = "探索";
 "Erfahre, wie wir Daten verarbeiten" = "了解我们如何处理数据";
-"Erhalte Benachrichtigungen über die neuesten Nachrichten in Zürich!" = "获取苏黎世最新新闻的通知！";
+"Erhalte Benachrichtigungen über die neuesten Nachrichten in Zürich!" = "接收苏黎世最新新闻的通知！";
 "Erhalte Erinnerungen an Veranstaltungen in Zürich!" = "获取苏黎世活动提醒！";
 "Erhalte Recycling-Erinnerungen basierend auf deiner Postleitzahl." = "根据你的邮政编码获取回收提醒。";
 "Erinnerungen an wichtige Veranstaltungen." = "你关心的活动提醒。";
@@ -277,11 +277,11 @@
 "Nachrichten suchen" = "搜索新闻";
 "Name" = "名称";
 "Natur" = "自然";
-"Navigiere mit kuratierten Ebenen durch Zürich." = "通过精心策划的图层探索苏黎世。";
+"Navigiere mit kuratierten Ebenen durch Zürich." = "通过精选图层在苏黎世导航。";
 "Neben Gartenabfällen kannst du auch biologisch abbaubare Küchenabfälle und Essensreste entsorgen. Wenn du Bioabfälle im entsprechenden Behälter entsorgst, brauchst du weniger Züri-Säcke, was auch dein Portemonnaie schont. Die Bioabfälle werden in der Biogasanlage der Biogas Zürich AG zu Biogas und Kompost verarbeitet. Das Biogas wird in das Gasnetz der Energie 360° AG eingespeist und steht als erneuerbare Energie zum Heizen, Kochen oder zur Stromerzeugung zur Verfügung. So schliesst sich ein Kreislauf, der die Lebensqualität in der Stadt fördert." = "除了所有园艺垃圾外，你还可以处理可生物降解的厨余垃圾和剩菜剩饭。将有机垃圾放入指定的容器中，可以减少 Zuri 垃圾袋的使用量，从而减轻你的经济负担。有机垃圾会在苏黎世沼气股份公司 (Biogas Zurich AG) 的厌氧消化厂被加工成沼气和堆肥产品。沼气会被输送到 Energie 360 AG 的燃气管网，作为可再生能源用于供暖、烹饪或发电。这形成了一个循环，有助于提升城市的生活质量。";
 "Nein" = "取消";
 "Neu generieren" = "重新生成";
-"Neue Seiten rund um Zürich entdecken" = "探索苏黎世周边的新去处";
+"Neue Seiten rund um Zürich entdecken" = "探索苏黎世周边的新一面";
 "Neuer Chat" = "新建聊天";
 "Neueste Nachrichten" = "最新消息";
 "Neueste Nachrichten lesen" = "阅读最新新闻";
@@ -351,7 +351,7 @@
 "Sehr hoch" = "非常高";
 "Sehr niedrig" = "极低";
 "Sieh die Übersetzung" = "查看翻译";
-"Sieh, was in Zürich los ist" = "看看苏黎世正在发生什么";
+"Sieh, was in Zürich los ist" = "看看苏黎世有什么活动";
 "Sitzbank" = "长凳";
 "So recycelst du" = "如何回收";
 "Sonne oder Regen?" = "晴天还是雨天？";
@@ -387,7 +387,7 @@
 "Tägliche Trivia" = "每日冷知识";
 "Tägliche Zusammenfassung" = "每日摘要";
 "Teilen" = "分享";
-"Teste dein Zürich-Wissen" = "测试你对苏黎世的了解";
+"Teste dein Zürich-Wissen" = "测试一下你对苏黎世的了解";
 "Textilien" = "纺织品";
 "Theater" = "剧院";
 "Tippe hier, um die heutige Zusammenfassung zu lesen." = "轻点阅读今日摘要";
@@ -399,7 +399,7 @@
 "Tischtennis" = "乒乓球";
 "Titel" = "标题";
 "Toilette" = "厕所";
-"Tolle Arbeit, du kennst Zürich gut!" = "干得好，你对苏黎世很熟悉！";
+"Tolle Arbeit, du kennst Zürich gut!" = "干得真棒，你对苏黎世很熟悉啊！";
 "Transport" = "运输";
 "Trinkgeld geben" = "留下小费";
 "Typ auswählen" = "选择类型";

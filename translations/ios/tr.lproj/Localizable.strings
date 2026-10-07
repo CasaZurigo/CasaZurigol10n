@@ -18,8 +18,8 @@
 "Aktiviere mindestens einen Bereich in den Einstellungen, um die App nutzen zu können." = "Uygulamayı kullanmaya başlamak için ayarlardan en az bir bölümü etkinleştir.";
 "Aktiviere Push-Benachrichtigungen in deinen Einstellungen, um deine Präferenzen anzupassen." = "Ayarlarından anlık bildirimleri etkinleştirerek tercihlerini özelleştir.";
 "Aktualisierung erforderlich" = "Güncelleme gerekli";
-"Aktuelle Nachrichten aus Zürich." = "Zürih'ten son dakika haberleri.";
-"Aktuelle Zürich-Updates mit Quellenfiltern." = "Kaynak filtreleriyle en son Zürih güncellemeleri.";
+"Aktuelle Nachrichten aus Zürich." = "Zürih'ten güncel haberler.";
+"Aktuelle Zürich-Updates mit Quellenfiltern." = "Kaynak filtreli güncel Zürih haberleri.";
 "Aktueller Standort konnte nicht ermittelt werden" = "Mevcut konum belirlenemiyor";
 "Alle" = "Tümü";
 "Alle abwählen" = "Tümünü kaldır";
@@ -86,7 +86,7 @@
 "Datum – nächste zuerst" = "Tarih — önce en yakın tarihli";
 "Datum – neueste zuerst" = "Tarih — önce en yeniler";
 "Datum – späteste zuerst" = "Tarih — önce en yeniler";
-"Dein Begleiter für das Leben in Zürich" = "Zürih'te yaşam için yol arkadaşın";
+"Dein Begleiter für das Leben in Zürich" = "Zürih’te yaşam için rehberin";
 "Dein Überblick für heute" = "Bugünün özeti";
 "Deine Privatsphäre ist uns wichtig. Deine Daten werden weder erhoben noch gespeichert. Was du tust, ist deine Angelegenheit – nicht unsere oder die von jemand anderem." = "Gizliliğin bizim için önemlidir. Verilerin toplanmayacak veya saklanmayacaktır. Ne yaptığın seni ilgilendirir, bizi veya başkasını değil.";
 "Denkt nach…" = "Düşünüyor";
@@ -119,8 +119,8 @@
 "Entdecke Recyclingtermine" = "Geri Dönüşüm Etkinliklerini Keşfet";
 "Entdecken" = "Keşfet";
 "Erfahre, wie wir Daten verarbeiten" = "Verileri nasıl işlediğimizi öğren";
-"Erhalte Benachrichtigungen über die neuesten Nachrichten in Zürich!" = "Zürih'teki en son haberlerden haberdar ol!";
-"Erhalte Erinnerungen an Veranstaltungen in Zürich!" = "Zürih'teki Etkinlikler hakkında hatırlatıcılar al!";
+"Erhalte Benachrichtigungen über die neuesten Nachrichten in Zürich!" = "Zürih'teki en son haberler hakkında bildirimler al!";
+"Erhalte Erinnerungen an Veranstaltungen in Zürich!" = "Zürih'teki etkinlikler için hatırlatmalar al!";
 "Erhalte Recycling-Erinnerungen basierend auf deiner Postleitzahl." = "Posta koduna göre geri dönüşüm hatırlatıcıları al.";
 "Erinnerungen an wichtige Veranstaltungen." = "İlgilendiğin etkinlikler için hatırlatıcılar.";
 "Erinnerungen basierend auf deiner Postleitzahl." = "Posta koduna göre hatırlatıcılar.";
@@ -281,7 +281,7 @@
 "Neben Gartenabfällen kannst du auch biologisch abbaubare Küchenabfälle und Essensreste entsorgen. Wenn du Bioabfälle im entsprechenden Behälter entsorgst, brauchst du weniger Züri-Säcke, was auch dein Portemonnaie schont. Die Bioabfälle werden in der Biogasanlage der Biogas Zürich AG zu Biogas und Kompost verarbeitet. Das Biogas wird in das Gasnetz der Energie 360° AG eingespeist und steht als erneuerbare Energie zum Heizen, Kochen oder zur Stromerzeugung zur Verfügung. So schliesst sich ein Kreislauf, der die Lebensqualität in der Stadt fördert." = "Bahçe atıklarının yanı sıra, biyolojik olarak parçalanabilen mutfak atıklarını ve yemek artıklarını da atabilirsin. Organik atıkları uygun konteynere atarak daha az Zuri poşetine ihtiyaç duyarsın, bu da bütçeni rahatlatır. Organik atıklar, Biogas Zurich AG tesisinde biyogaz ve kompost ürünlerine dönüştürülür. Biyogaz, Energie 360° AG gaz şebekesine verilir ve ısıtma, yemek pişirme veya elektrik üretimi için yenilenebilir enerji olarak kullanılır. Bu, şehirdeki yaşam kalitesini artıran bir döngüyü tamamlar.";
 "Nein" = "Hayır";
 "Neu generieren" = "Yeniden oluştur";
-"Neue Seiten rund um Zürich entdecken" = "Zürih çevresinde yeni yerler keşfet";
+"Neue Seiten rund um Zürich entdecken" = "Zürih çevresinde yeni yerler keşfetmek";
 "Neuer Chat" = "Yeni sohbet";
 "Neueste Nachrichten" = "Son Haberler";
 "Neueste Nachrichten lesen" = "Son haberleri oku";
@@ -399,7 +399,7 @@
 "Tischtennis" = "Masa Tenisi";
 "Titel" = "Başlık";
 "Toilette" = "Tuvalet";
-"Tolle Arbeit, du kennst Zürich gut!" = "Harika iş, Zürih'i çok iyi tanıyorsun!";
+"Tolle Arbeit, du kennst Zürich gut!" = "Harika iş, Zürih'i iyi tanıyorsun!";
 "Transport" = "Ulaşım";
 "Trinkgeld geben" = "Bahşiş bırak";
 "Typ auswählen" = "Tür Seç";
