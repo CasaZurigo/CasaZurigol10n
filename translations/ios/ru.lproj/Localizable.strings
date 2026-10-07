@@ -9,8 +9,8 @@
 "7-Tage-Schnitt" = "в среднем за 7 дн.";
 "Abbrechen" = "Отмена";
 "Abgelaufen" = "Истекает";
-"Abholerinnerungen für deine ausgewählte Postleitzahl." = "Напоминания о самовывозе для твоего почтового индекса.";
-"Abholplan für deine Postleitzahl." = "Расписание вывоза для твоего почтового индекса.";
+"Abholerinnerungen für deine ausgewählte Postleitzahl." = "Напоминания о вывозе мусора для выбранного тобой почтового индекса.";
+"Abholplan für deine Postleitzahl." = "График вывоза мусора для твоего почтового индекса.";
 "Abschnitte anordnen und umschalten" = "Упорядочивай и переключай разделы";
 "Abschnitte ein- und ausblenden und neu anordnen." = "Переключай разделы и меняй их порядок.";
 "Adresse" = "Адрес";
@@ -19,7 +19,6 @@
 "Aktiviere Push-Benachrichtigungen in deinen Einstellungen, um deine Präferenzen anzupassen." = "Включи push-уведомления в настройках, чтобы настроить предпочтения.";
 "Aktualisierung erforderlich" = "Обновление";
 "Aktuelle Nachrichten aus Zürich." = "Последние новости из Цюриха.";
-"Aktuelle Zürich-Updates mit Quellenfiltern." = "Последние новости из Цюриха с фильтрами источников.";
 "Aktueller Standort konnte nicht ermittelt werden" = "Не удается определить текущее местоположение";
 "Alle" = "Всё";
 "Alle abwählen" = "Снять выделение со всех";
@@ -76,6 +75,7 @@
 "Chat löschen" = "Удалить чат";
 "Chat umbenennen" = "Переименовать чат";
 "Code" = "Код";
+"Das Wichtigste von heute zum Hören oder Lesen." = "Самое важное за сегодня — слушай или читай.";
 "Das wird viel dazu beitragen, dass CasaZurich weiterläuft!" = "Это очень поможет в поддержании работы CasaZurich!";
 "Daten von data.stadt-zuerich.ch" = "Данные с сайта data.stadt-zuerich.ch";
 "Datenquellen" = "Источники данных";
@@ -115,7 +115,6 @@
 "Enddatum festlegen" = "Установить дату окончания";
 "Entdecke Baustellen und mehr auf deiner Karte" = "Открой для себя строительные площадки и многое другое на своей карте";
 "Entdecke lokale Veranstaltungen, um auf dem Laufenden zu bleiben, was in Zürich passiert." = "Узнавай о местных мероприятиях, чтобы быть в курсе того, что происходит в Цюрихе.";
-"Entdecke Orte in deiner Nähe" = "Найди места поблизости";
 "Entdecke Recyclingtermine" = "Узнай о мероприятиях по переработке";
 "Entdecken" = "Откройте для себя";
 "Erfahre, wie wir Daten verarbeiten" = "Узнай, как мы обрабатываем данные.";
@@ -176,8 +175,6 @@
 "Hilf mit, CasaZurich für alle kostenlos zu halten." = "Помоги сохранить CasaZurich бесплатным для всех";
 "Hmmm... hier sieht es leer aus" = "Хммм... здесь, похоже, пусто";
 "Hoch" = "Высокий";
-"Hör dir die heutige Zusammenfassung an oder lies sie durch." = "Послушай или прочитай сегодняшнюю сводку";
-"Höre oder lies die heutige Zusammenfassung." = "Послушай или прочитай сегодняшнюю сводку.";
 "Ich liebe den Geschmack eines ausgefallenen Kaffees ❤️" = "Я люблю вкус изысканного кофе ❤️";
 "Ich möchte die Gelegenheit nutzen, dir für die Nutzung meiner App zu danken!\nMit dieser E-Mail versuchst du, einen Fehler zu melden. Bitte beschreibe dein Problem unterhalb dieser Zeile:" = "Я хотел бы воспользоваться возможностью и поблагодарить тебя за использование моего приложения!\nЭтим письмом ты пытаешься сообщить об ошибке. Пожалуйста, опиши свою проблему ниже этой строки:\n\"";
 "Ich möchte folgende Funktion vorschlagen:" = "Я хотел бы предложить следующую функцию:";
@@ -193,7 +190,6 @@
 "Jetzt" = "Сейчас";
 "Jetzt aktualisieren" = "Обновить сейчас";
 "Jetzt drehen!" = "Крутись сейчас!";
-"Kalender der Recyclingtermine anzeigen" = "Просмотр событий календаря переработки";
 "Kalenderzugriff" = "Доступ к календарю";
 "Karte" = "Карта";
 "Karten" = "Карты";
@@ -230,8 +226,6 @@
 "Klein aber fein!" = "Маленький, но милый!";
 "Komm morgen wieder" = "Приходи завтра";
 "Komm morgen wieder für eine weitere Chance!" = "Приходи завтра за ещё одним шансом!";
-"Kommende Funktionen rund um Zürich vorab ausprobieren" = "Попробуй заранее новые функции в Цюрихе и окрестностях";
-"Kommende Veranstaltungen anzeigen" = "Смотри предстоящие события";
 "Konfiguriere deinen Interessensbereich" = "Настрой интересующую тебя область";
 "Konfiguriere deinen Interessensbereich." = "Настрой интересующую тебя область.";
 "Konzert" = "Концерт";
@@ -282,9 +276,9 @@
 "Neben Gartenabfällen kannst du auch biologisch abbaubare Küchenabfälle und Essensreste entsorgen. Wenn du Bioabfälle im entsprechenden Behälter entsorgst, brauchst du weniger Züri-Säcke, was auch dein Portemonnaie schont. Die Bioabfälle werden in der Biogasanlage der Biogas Zürich AG zu Biogas und Kompost verarbeitet. Das Biogas wird in das Gasnetz der Energie 360° AG eingespeist und steht als erneuerbare Energie zum Heizen, Kochen oder zur Stromerzeugung zur Verfügung. So schliesst sich ein Kreislauf, der die Lebensqualität in der Stadt fördert." = "Помимо садовых отходов, ты также можешь выбрасывать биоразлагаемые кухонные отходы и остатки пищи. Складывая органические отходы в специальный контейнер, ты используешь меньше пакетов Zuri, что бережет твой бюджет. Органические отходы перерабатываются в биогаз и компост на установке Biogas Zurich AG. Биогаз поступает в газовую сеть Energie 360° AG и используется как возобновляемый источник энергии для отопления, приготовления пищи или производства электричества. Так замыкается цикл, который повышает качество жизни в городе.";
 "Nein" = "Нет";
 "Neu generieren" = "Перегенерировать";
+"Neue Funktionen vorab ausprobieren." = "Попробуй новые функции заранее.";
 "Neuer Chat" = "Новый чат";
 "Neueste Nachrichten" = "Последние новости";
-"Neueste Nachrichten lesen" = "Читать последние новости";
 "Neueste Veranstaltungen" = "Последние события";
 "Neueste zuerst" = "Сначала новые";
 "Nicht erlaubt" = "Нельзя";
@@ -314,7 +308,7 @@
 "Papier" = "Бумага";
 "Park" = "Парк";
 "Parkplatz" = "Парковка";
-"Parks, Parkplätze und Sammelstellen in deiner Nähe." = "Парки, парковки и пункты выдачи рядом с тобой.";
+"Parks, Toiletten, Brunnen und mehr." = "Парки, туалеты, фонтаны и многое другое.";
 "Parkzonen" = "Парковочные зоны";
 "Party" = "Вечеринка";
 "Pass die Filter an, um mehr Ergebnisse anzuzeigen." = "Настрой фильтры, чтобы увидеть больше результатов.";

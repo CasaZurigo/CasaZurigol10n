@@ -9,8 +9,8 @@
 "7-Tage-Schnitt" = "media 7 gg";
 "Abbrechen" = "Annulla";
 "Abgelaufen" = "Scade";
-"Abholerinnerungen für deine ausgewählte Postleitzahl." = "Promemoria per il ritiro nel tuo CAP.";
-"Abholplan für deine Postleitzahl." = "Orario dei ritiri per il CAP selezionato.";
+"Abholerinnerungen für deine ausgewählte Postleitzahl." = "Promemoria dei ritiri per il tuo codice postale selezionato.";
+"Abholplan für deine Postleitzahl." = "Calendario della raccolta per il tuo codice postale.";
 "Abschnitte anordnen und umschalten" = "Organizza e attiva/disattiva le sezioni";
 "Abschnitte ein- und ausblenden und neu anordnen." = "Attiva/disattiva le sezioni e riordinane la posizione.";
 "Adresse" = "Indirizzo";
@@ -19,7 +19,6 @@
 "Aktiviere Push-Benachrichtigungen in deinen Einstellungen, um deine Präferenzen anzupassen." = "Attiva le notifiche push nelle impostazioni per personalizzare le tue preferenze.";
 "Aktualisierung erforderlich" = "Aggiornamento necessario";
 "Aktuelle Nachrichten aus Zürich." = "Ultime notizie da Zurigo.";
-"Aktuelle Zürich-Updates mit Quellenfiltern." = "Ultime notizie su Zurigo con filtri per le fonti.";
 "Aktueller Standort konnte nicht ermittelt werden" = "Impossibile determinare la posizione attuale";
 "Alle" = "Tutto";
 "Alle abwählen" = "Deseleziona tutto";
@@ -76,6 +75,7 @@
 "Chat löschen" = "Elimina chat";
 "Chat umbenennen" = "Rinomina chat";
 "Code" = "Codice";
+"Das Wichtigste von heute zum Hören oder Lesen." = "Le notizie più importanti di oggi da ascoltare o leggere.";
 "Das wird viel dazu beitragen, dass CasaZurich weiterläuft!" = "Sarà di grande aiuto per mantenere CasaZurich operativa!";
 "Daten von data.stadt-zuerich.ch" = "Dati da data.stadt-zuerich.ch";
 "Datenquellen" = "Fonti dati";
@@ -115,7 +115,6 @@
 "Enddatum festlegen" = "Imposta data di fine";
 "Entdecke Baustellen und mehr auf deiner Karte" = "Scopri i cantieri e molto altro sulla tua mappa";
 "Entdecke lokale Veranstaltungen, um auf dem Laufenden zu bleiben, was in Zürich passiert." = "Scopri gli eventi locali per restare aggiornato su cosa succede a Zurigo.";
-"Entdecke Orte in deiner Nähe" = "Scopri le località vicine a te";
 "Entdecke Recyclingtermine" = "Scopri gli eventi di riciclaggio";
 "Entdecken" = "Scopri";
 "Erfahre, wie wir Daten verarbeiten" = "Scopri come gestiamo i dati";
@@ -176,8 +175,6 @@
 "Hilf mit, CasaZurich für alle kostenlos zu halten." = "Aiutaci a mantenere CasaZurich gratuita per tutti.";
 "Hmmm... hier sieht es leer aus" = "Hmmm... sembra vuoto qui";
 "Hoch" = "Alto";
-"Hör dir die heutige Zusammenfassung an oder lies sie durch." = "Ascolta o leggi il riassunto di oggi.";
-"Höre oder lies die heutige Zusammenfassung." = "Ascolta o leggi il riassunto di oggi.";
 "Ich liebe den Geschmack eines ausgefallenen Kaffees ❤️" = "Adoro il gusto di un caffè ricercato ❤️";
 "Ich möchte die Gelegenheit nutzen, dir für die Nutzung meiner App zu danken!\nMit dieser E-Mail versuchst du, einen Fehler zu melden. Bitte beschreibe dein Problem unterhalb dieser Zeile:" = "Vorrei cogliere l'occasione per ringraziarti dell'utilizzo della mia app!\nCon questa email stai cercando di segnalare un bug. Descrivi il tuo problema qui sotto:";
 "Ich möchte folgende Funktion vorschlagen:" = "Vorrei suggerire la seguente funzionalità:";
@@ -193,7 +190,6 @@
 "Jetzt" = "Adesso";
 "Jetzt aktualisieren" = "Aggiorna ora";
 "Jetzt drehen!" = "Gira ora!";
-"Kalender der Recyclingtermine anzeigen" = "Visualizza gli eventi del calendario di riciclaggio";
 "Kalenderzugriff" = "Accesso al calendario";
 "Karte" = "Mappa";
 "Karten" = "Mappe";
@@ -230,8 +226,6 @@
 "Klein aber fein!" = "Piccolo ma carino!";
 "Komm morgen wieder" = "Torna domani";
 "Komm morgen wieder für eine weitere Chance!" = "Torna domani per un'altra possibilità!";
-"Kommende Funktionen rund um Zürich vorab ausprobieren" = "Prova in anteprima le nuove funzionalità in arrivo nella zona di Zurigo";
-"Kommende Veranstaltungen anzeigen" = "Vedi i prossimi eventi";
 "Konfiguriere deinen Interessensbereich" = "Configura la tua area di interesse";
 "Konfiguriere deinen Interessensbereich." = "Configura la tua area di interesse.";
 "Konzert" = "Concerto";
@@ -282,9 +276,9 @@
 "Neben Gartenabfällen kannst du auch biologisch abbaubare Küchenabfälle und Essensreste entsorgen. Wenn du Bioabfälle im entsprechenden Behälter entsorgst, brauchst du weniger Züri-Säcke, was auch dein Portemonnaie schont. Die Bioabfälle werden in der Biogasanlage der Biogas Zürich AG zu Biogas und Kompost verarbeitet. Das Biogas wird in das Gasnetz der Energie 360° AG eingespeist und steht als erneuerbare Energie zum Heizen, Kochen oder zur Stromerzeugung zur Verfügung. So schliesst sich ein Kreislauf, der die Lebensqualität in der Stadt fördert." = "Oltre a tutti i rifiuti da giardino, puoi smaltire anche i rifiuti organici biodegradabili della cucina e gli avanzi di cibo. Smaltendo i rifiuti organici nell'apposito contenitore, avrai bisogno di meno sacchi Zuri, con un conseguente risparmio per il tuo portafoglio. I rifiuti organici vengono trasformati in biogas e compost presso l'impianto di digestione di Biogas Zurich AG. Il biogas viene immesso nella rete del gas di Energie 360° AG ed è disponibile come energia rinnovabile per il riscaldamento, la cottura o la produzione di elettricità. In questo modo si chiude un ciclo che contribuisce a migliorare la qualità della vita in città.";
 "Nein" = "No";
 "Neu generieren" = "Rigenera";
+"Neue Funktionen vorab ausprobieren." = "Prova in anteprima le nuove funzioni.";
 "Neuer Chat" = "Nuova chat";
 "Neueste Nachrichten" = "Ultime notizie";
-"Neueste Nachrichten lesen" = "Leggi le ultime notizie";
 "Neueste Veranstaltungen" = "Ultimi eventi";
 "Neueste zuerst" = "Più recenti";
 "Nicht erlaubt" = "Non consentito";
@@ -314,7 +308,7 @@
 "Papier" = "Carta";
 "Park" = "Parco";
 "Parkplatz" = "Parcheggio";
-"Parks, Parkplätze und Sammelstellen in deiner Nähe." = "Parchi, parcheggi e punti di raccolta nelle tue vicinanze.";
+"Parks, Toiletten, Brunnen und mehr." = "Parchi, bagni, fontane e altro ancora.";
 "Parkzonen" = "Zone di parcheggio";
 "Party" = "Festa";
 "Pass die Filter an, um mehr Ergebnisse anzuzeigen." = "Regola i filtri per vedere più risultati.";

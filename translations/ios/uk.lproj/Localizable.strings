@@ -9,8 +9,8 @@
 "7-Tage-Schnitt" = "7-денне середнє";
 "Abbrechen" = "Скасувати";
 "Abgelaufen" = "Термін дії закінчується";
-"Abholerinnerungen für deine ausgewählte Postleitzahl." = "Нагадування про отримання для твого поштового індексу.";
-"Abholplan für deine Postleitzahl." = "Розклад вивезення для твого поштового індексу.";
+"Abholerinnerungen für deine ausgewählte Postleitzahl." = "Нагадування про вивезення сміття для обраного тобою поштового індексу.";
+"Abholplan für deine Postleitzahl." = "Графік вивезення відходів за твоїм поштовим індексом.";
 "Abschnitte anordnen und umschalten" = "Упорядкуй та перемикай розділи";
 "Abschnitte ein- und ausblenden und neu anordnen." = "Перемикай розділи та змінюй їх порядок.";
 "Adresse" = "Адреса";
@@ -19,7 +19,6 @@
 "Aktiviere Push-Benachrichtigungen in deinen Einstellungen, um deine Präferenzen anzupassen." = "Увімкни push-сповіщення у своїх налаштуваннях, щоб персоналізувати їх.";
 "Aktualisierung erforderlich" = "Потрібне оновлення";
 "Aktuelle Nachrichten aus Zürich." = "Останні новини з Цюриха.";
-"Aktuelle Zürich-Updates mit Quellenfiltern." = "Останні новини про Цюрих із фільтрами джерел.";
 "Aktueller Standort konnte nicht ermittelt werden" = "Не вдається визначити поточне місцезнаходження";
 "Alle" = "Усі";
 "Alle abwählen" = "Скасувати вибір усіх";
@@ -76,6 +75,7 @@
 "Chat löschen" = "Видалити чат";
 "Chat umbenennen" = "Перейменувати чат";
 "Code" = "Код";
+"Das Wichtigste von heute zum Hören oder Lesen." = "Найважливіше за сьогодні — для прослуховування або читання.";
 "Das wird viel dazu beitragen, dass CasaZurich weiterläuft!" = "Це допоможе забезпечити безперебійну роботу CasaZurich!";
 "Daten von data.stadt-zuerich.ch" = "Дані з data.stadt-zuerich.ch";
 "Datenquellen" = "Джерела даних";
@@ -115,7 +115,6 @@
 "Enddatum festlegen" = "Встановити дату закінчення";
 "Entdecke Baustellen und mehr auf deiner Karte" = "Відкривай будівельні майданчики та багато іншого на своїй мапі";
 "Entdecke lokale Veranstaltungen, um auf dem Laufenden zu bleiben, was in Zürich passiert." = "Дізнавайся про місцеві події, щоб бути в курсі того, що відбувається в Цюриху.";
-"Entdecke Orte in deiner Nähe" = "Відкрий для себе місця поруч з тобою";
 "Entdecke Recyclingtermine" = "Дізнайся про події з переробки";
 "Entdecken" = "Відкрийте";
 "Erfahre, wie wir Daten verarbeiten" = "Дізнайся, як ми обробляємо дані";
@@ -176,8 +175,6 @@
 "Hilf mit, CasaZurich für alle kostenlos zu halten." = "Допоможи зберегти CasaZurich безкоштовним для всіх";
 "Hmmm... hier sieht es leer aus" = "Хм... тут порожньо";
 "Hoch" = "Високий";
-"Hör dir die heutige Zusammenfassung an oder lies sie durch." = "Послухай або прочитай сьогоднішній підсумок";
-"Höre oder lies die heutige Zusammenfassung." = "Прослухай або прочитай сьогоднішній підсумок.";
 "Ich liebe den Geschmack eines ausgefallenen Kaffees ❤️" = "Я люблю смак вишуканої кави ❤️";
 "Ich möchte die Gelegenheit nutzen, dir für die Nutzung meiner App zu danken!\nMit dieser E-Mail versuchst du, einen Fehler zu melden. Bitte beschreibe dein Problem unterhalb dieser Zeile:" = "Я хотів би скористатися нагодою і подякувати тобі за використання мого застосунку!\nЦим листом ти намагаєшся повідомити про помилку. Будь ласка, опиши свою проблему нижче цього рядка:";
 "Ich möchte folgende Funktion vorschlagen:" = "Я хотів би запропонувати таку функцію:";
@@ -193,7 +190,6 @@
 "Jetzt" = "Зараз";
 "Jetzt aktualisieren" = "Оновити зараз";
 "Jetzt drehen!" = "Крути зараз!";
-"Kalender der Recyclingtermine anzeigen" = "Переглянути події календаря переробки";
 "Kalenderzugriff" = "Доступ до календаря";
 "Karte" = "Карта";
 "Karten" = "Карти";
@@ -230,8 +226,6 @@
 "Klein aber fein!" = "Маленький, але милий!";
 "Komm morgen wieder" = "Повертайся завтра";
 "Komm morgen wieder für eine weitere Chance!" = "Приходь завтра за ще одним шансом!";
-"Kommende Funktionen rund um Zürich vorab ausprobieren" = "Заздалегідь випробувати майбутні функції навколо Цюриха";
-"Kommende Veranstaltungen anzeigen" = "Дивись найближчі події";
 "Konfiguriere deinen Interessensbereich" = "Налаштуй свою сферу інтересів";
 "Konfiguriere deinen Interessensbereich." = "Налаштуй свою область інтересів.";
 "Konzert" = "Концерт";
@@ -282,9 +276,9 @@
 "Neben Gartenabfällen kannst du auch biologisch abbaubare Küchenabfälle und Essensreste entsorgen. Wenn du Bioabfälle im entsprechenden Behälter entsorgst, brauchst du weniger Züri-Säcke, was auch dein Portemonnaie schont. Die Bioabfälle werden in der Biogasanlage der Biogas Zürich AG zu Biogas und Kompost verarbeitet. Das Biogas wird in das Gasnetz der Energie 360° AG eingespeist und steht als erneuerbare Energie zum Heizen, Kochen oder zur Stromerzeugung zur Verfügung. So schliesst sich ein Kreislauf, der die Lebensqualität in der Stadt fördert." = "Окрім садових відходів, ви також можете викидати біорозкладні кухонні відходи та залишки їжі. Використовуючи відповідний контейнер для органічних відходів, ви витрачаєте менше мішків Zuri, що також економить ваші гроші. Органічні відходи переробляються на біогаз та компост на заводі Biogas Zurich AG. Біогаз подається в газову мережу Energie 360° AG і використовується як відновлювана енергія для опалення, приготування їжі або виробництва електроенергії. Це замикає цикл, який сприяє покращенню якості життя в місті.";
 "Nein" = "Ні";
 "Neu generieren" = "Перегенерувати";
+"Neue Funktionen vorab ausprobieren." = "Спробуй нові функції заздалегідь.";
 "Neuer Chat" = "Новий чат";
 "Neueste Nachrichten" = "Останні новини";
-"Neueste Nachrichten lesen" = "Читай останні новини";
 "Neueste Veranstaltungen" = "Останні події";
 "Neueste zuerst" = "Спочатку новіші";
 "Nicht erlaubt" = "Не дозволено";
@@ -314,7 +308,7 @@
 "Papier" = "Папір";
 "Park" = "Парк";
 "Parkplatz" = "Паркування";
-"Parks, Parkplätze und Sammelstellen in deiner Nähe." = "Парки, парковки та пункти збору поруч.";
+"Parks, Toiletten, Brunnen und mehr." = "Парки, туалети, фонтани та інше.";
 "Parkzonen" = "Зони паркування";
 "Party" = "Вечірка";
 "Pass die Filter an, um mehr Ergebnisse anzuzeigen." = "Налаштуй фільтри, щоб побачити більше результатів.";

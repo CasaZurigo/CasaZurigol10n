@@ -9,8 +9,8 @@
 "7-Tage-Schnitt" = "7天均值";
 "Abbrechen" = "取消";
 "Abgelaufen" = "过期";
-"Abholerinnerungen für deine ausgewählte Postleitzahl." = "你所选邮政编码的取件提醒。";
-"Abholplan für deine Postleitzahl." = "你所选邮政编码的取件时间。";
+"Abholerinnerungen für deine ausgewählte Postleitzahl." = "针对你所选邮政编码的垃圾清运提醒。";
+"Abholplan für deine Postleitzahl." = "你所在邮政编码的垃圾清运计划。";
 "Abschnitte anordnen und umschalten" = "排列和切换部分";
 "Abschnitte ein- und ausblenden und neu anordnen." = "切换分区并重新排序。";
 "Adresse" = "地址";
@@ -19,7 +19,6 @@
 "Aktiviere Push-Benachrichtigungen in deinen Einstellungen, um deine Präferenzen anzupassen." = "在你的设置中启用推送通知，以自定义你的偏好。";
 "Aktualisierung erforderlich" = "需要更新";
 "Aktuelle Nachrichten aus Zürich." = "来自苏黎世的最新消息。";
-"Aktuelle Zürich-Updates mit Quellenfiltern." = "带有来源筛选功能的苏黎世最新动态。";
 "Aktueller Standort konnte nicht ermittelt werden" = "无法确定当前位置";
 "Alle" = "全部";
 "Alle abwählen" = "取消全选";
@@ -76,6 +75,7 @@
 "Chat löschen" = "删除聊天记录";
 "Chat umbenennen" = "重命名聊天";
 "Code" = "代码";
+"Das Wichtigste von heute zum Hören oder Lesen." = "今天最重要的资讯，供你收听或阅读。";
 "Das wird viel dazu beitragen, dass CasaZurich weiterläuft!" = "这将极大地帮助CasaZurich的持续运营！";
 "Daten von data.stadt-zuerich.ch" = "数据来自 data.stadt-zuerich.ch";
 "Datenquellen" = "数据来源";
@@ -115,7 +115,6 @@
 "Enddatum festlegen" = "设置结束日期";
 "Entdecke Baustellen und mehr auf deiner Karte" = "在地图上探索建筑工地及更多内容";
 "Entdecke lokale Veranstaltungen, um auf dem Laufenden zu bleiben, was in Zürich passiert." = "探索当地活动，随时掌握苏黎世的最新动态。";
-"Entdecke Orte in deiner Nähe" = "发现你附近的位置";
 "Entdecke Recyclingtermine" = "发现回收活动";
 "Entdecken" = "探索";
 "Erfahre, wie wir Daten verarbeiten" = "了解我们如何处理数据";
@@ -176,8 +175,6 @@
 "Hilf mit, CasaZurich für alle kostenlos zu halten." = "请帮助我们让CasaZurich继续免费开放给所有人";
 "Hmmm... hier sieht es leer aus" = "嗯……这里看起来空空的";
 "Hoch" = "高";
-"Hör dir die heutige Zusammenfassung an oder lies sie durch." = "收听或阅读今日摘要";
-"Höre oder lies die heutige Zusammenfassung." = "收听或阅读今日摘要。";
 "Ich liebe den Geschmack eines ausgefallenen Kaffees ❤️" = "我喜欢精致咖啡的味道❤️";
 "Ich möchte die Gelegenheit nutzen, dir für die Nutzung meiner App zu danken!\nMit dieser E-Mail versuchst du, einen Fehler zu melden. Bitte beschreibe dein Problem unterhalb dieser Zeile:" = "我想借此机会感谢你使用我的应用！\n你似乎想通过这封邮件提交一个错误报告。请在下方详细描述你遇到的问题：";
 "Ich möchte folgende Funktion vorschlagen:" = "我建议添加以下功能：";
@@ -193,7 +190,6 @@
 "Jetzt" = "现在";
 "Jetzt aktualisieren" = "立即更新";
 "Jetzt drehen!" = "立即旋转！";
-"Kalender der Recyclingtermine anzeigen" = "查看回收日历事件";
 "Kalenderzugriff" = "日历访问权限";
 "Karte" = "地图";
 "Karten" = "地图";
@@ -230,8 +226,6 @@
 "Klein aber fein!" = "小巧可爱！";
 "Komm morgen wieder" = "明天再来";
 "Komm morgen wieder für eine weitere Chance!" = "明天再来一次吧！";
-"Kommende Funktionen rund um Zürich vorab ausprobieren" = "抢先体验苏黎世周边即将推出的功能";
-"Kommende Veranstaltungen anzeigen" = "查看即将举行的活动";
 "Konfiguriere deinen Interessensbereich" = "配置你的感兴趣区域";
 "Konfiguriere deinen Interessensbereich." = "配置你的关注区域。";
 "Konzert" = "音乐会";
@@ -242,7 +236,7 @@
 "kostenlos" = "免费";
 "Kostenlos" = "免费";
 "Kultur" = "文化";
-"Kultur, Sport und Festivals in der ganzen Stadt." = "全市的文化、体育和节日。";
+"Kultur, Sport und Festivals in der ganzen Stadt." = "遍布全市的文化、体育和节日活动。";
 "Kundenservice" = "客户中心";
 "Kundenservice nicht verfügbar" = "客服中心不可用";
 "Kunst" = "艺术";
@@ -282,9 +276,9 @@
 "Neben Gartenabfällen kannst du auch biologisch abbaubare Küchenabfälle und Essensreste entsorgen. Wenn du Bioabfälle im entsprechenden Behälter entsorgst, brauchst du weniger Züri-Säcke, was auch dein Portemonnaie schont. Die Bioabfälle werden in der Biogasanlage der Biogas Zürich AG zu Biogas und Kompost verarbeitet. Das Biogas wird in das Gasnetz der Energie 360° AG eingespeist und steht als erneuerbare Energie zum Heizen, Kochen oder zur Stromerzeugung zur Verfügung. So schliesst sich ein Kreislauf, der die Lebensqualität in der Stadt fördert." = "除了所有园艺垃圾外，你还可以处理可生物降解的厨余垃圾和剩菜剩饭。将有机垃圾放入指定的容器中，可以减少 Zuri 垃圾袋的使用量，从而减轻你的经济负担。有机垃圾会在苏黎世沼气股份公司 (Biogas Zurich AG) 的厌氧消化厂被加工成沼气和堆肥产品。沼气会被输送到 Energie 360 AG 的燃气管网，作为可再生能源用于供暖、烹饪或发电。这形成了一个循环，有助于提升城市的生活质量。";
 "Nein" = "取消";
 "Neu generieren" = "重新生成";
+"Neue Funktionen vorab ausprobieren." = "抢先体验新功能。";
 "Neuer Chat" = "新建聊天";
 "Neueste Nachrichten" = "最新消息";
-"Neueste Nachrichten lesen" = "阅读最新新闻";
 "Neueste Veranstaltungen" = "最新活动";
 "Neueste zuerst" = "最新优先";
 "Nicht erlaubt" = "不允许";
@@ -314,7 +308,7 @@
 "Papier" = "纸张";
 "Park" = "公园";
 "Parkplatz" = "停车";
-"Parks, Parkplätze und Sammelstellen in deiner Nähe." = "你附近的公园、停车场和回收点。";
+"Parks, Toiletten, Brunnen und mehr." = "公园、厕所、喷泉等。";
 "Parkzonen" = "停车区";
 "Party" = "派对";
 "Pass die Filter an, um mehr Ergebnisse anzuzeigen." = "调整筛选条件以查看更多结果。";

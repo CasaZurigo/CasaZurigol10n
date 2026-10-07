@@ -19,7 +19,6 @@
 "Aktiviere Push-Benachrichtigungen in deinen Einstellungen, um deine Präferenzen anzupassen." = "Aktiviere Push-Benachrichtigungen in deinen Einstellungen, um deine Präferenzen anzupassen.";
 "Aktualisierung erforderlich" = "Aktualisierung erforderlich";
 "Aktuelle Nachrichten aus Zürich." = "Aktuelle Nachrichten aus Zürich.";
-"Aktuelle Zürich-Updates mit Quellenfiltern." = "Aktuelle Zürich-Updates mit Quellenfiltern.";
 "Aktueller Standort konnte nicht ermittelt werden" = "Aktueller Standort konnte nicht ermittelt werden";
 "Alle" = "Alle";
 "Alle abwählen" = "Alle abwählen";
@@ -76,6 +75,7 @@
 "Chat löschen" = "Chat löschen";
 "Chat umbenennen" = "Chat umbenennen";
 "Code" = "Code";
+"Das Wichtigste von heute zum Hören oder Lesen." = "Das Wichtigste von heute zum Hören oder Lesen.";
 "Das wird viel dazu beitragen, dass CasaZurich weiterläuft!" = "Das wird viel dazu beitragen, dass CasaZurich weiterläuft!";
 "Daten von data.stadt-zuerich.ch" = "Daten von data.stadt-zuerich.ch";
 "Datenquellen" = "Datenquellen";
@@ -115,7 +115,6 @@
 "Enddatum festlegen" = "Enddatum festlegen";
 "Entdecke Baustellen und mehr auf deiner Karte" = "Entdecke Baustellen und mehr auf deiner Karte";
 "Entdecke lokale Veranstaltungen, um auf dem Laufenden zu bleiben, was in Zürich passiert." = "Entdecke lokale Veranstaltungen, um auf dem Laufenden zu bleiben, was in Zürich passiert.";
-"Entdecke Orte in deiner Nähe" = "Entdecke Orte in deiner Nähe";
 "Entdecke Recyclingtermine" = "Entdecke Recyclingtermine";
 "Entdecken" = "Entdecken";
 "Erfahre, wie wir Daten verarbeiten" = "Erfahre, wie wir Daten verarbeiten";
@@ -176,8 +175,6 @@
 "Hilf mit, CasaZurich für alle kostenlos zu halten." = "Hilf mit, CasaZurich für alle kostenlos zu halten.";
 "Hmmm... hier sieht es leer aus" = "Hmmm... hier sieht es leer aus";
 "Hoch" = "Hoch";
-"Hör dir die heutige Zusammenfassung an oder lies sie durch." = "Hör dir die heutige Zusammenfassung an oder lies sie durch.";
-"Höre oder lies die heutige Zusammenfassung." = "Höre oder lies die heutige Zusammenfassung.";
 "Ich liebe den Geschmack eines ausgefallenen Kaffees ❤️" = "Ich liebe den Geschmack eines ausgefallenen Kaffees ❤️";
 "Ich möchte die Gelegenheit nutzen, dir für die Nutzung meiner App zu danken!\nMit dieser E-Mail versuchst du, einen Fehler zu melden. Bitte beschreibe dein Problem unterhalb dieser Zeile:" = "Ich möchte die Gelegenheit nutzen, dir für die Nutzung meiner App zu danken!\nMit dieser E-Mail versuchst du, einen Fehler zu melden. Bitte beschreibe dein Problem unterhalb dieser Zeile:";
 "Ich möchte folgende Funktion vorschlagen:" = "Ich möchte folgende Funktion vorschlagen:";
@@ -193,7 +190,6 @@
 "Jetzt" = "Jetzt";
 "Jetzt aktualisieren" = "Jetzt aktualisieren";
 "Jetzt drehen!" = "Jetzt drehen!";
-"Kalender der Recyclingtermine anzeigen" = "Kalender der Recyclingtermine anzeigen";
 "Kalenderzugriff" = "Kalenderzugriff";
 "Karte" = "Karte";
 "Karten" = "Karten";
@@ -230,8 +226,6 @@
 "Klein aber fein!" = "Klein aber fein!";
 "Komm morgen wieder" = "Komm morgen wieder";
 "Komm morgen wieder für eine weitere Chance!" = "Komm morgen wieder für eine weitere Chance!";
-"Kommende Funktionen rund um Zürich vorab ausprobieren" = "Kommende Funktionen rund um Zürich vorab ausprobieren";
-"Kommende Veranstaltungen anzeigen" = "Kommende Veranstaltungen anzeigen";
 "Konfiguriere deinen Interessensbereich" = "Konfiguriere deinen Interessensbereich";
 "Konfiguriere deinen Interessensbereich." = "Konfiguriere deinen Interessensbereich.";
 "Konzert" = "Konzert";
@@ -282,9 +276,9 @@
 "Neben Gartenabfällen kannst du auch biologisch abbaubare Küchenabfälle und Essensreste entsorgen. Wenn du Bioabfälle im entsprechenden Behälter entsorgst, brauchst du weniger Züri-Säcke, was auch dein Portemonnaie schont. Die Bioabfälle werden in der Biogasanlage der Biogas Zürich AG zu Biogas und Kompost verarbeitet. Das Biogas wird in das Gasnetz der Energie 360° AG eingespeist und steht als erneuerbare Energie zum Heizen, Kochen oder zur Stromerzeugung zur Verfügung. So schliesst sich ein Kreislauf, der die Lebensqualität in der Stadt fördert." = "Neben Gartenabfällen kannst du auch biologisch abbaubare Küchenabfälle und Essensreste entsorgen. Wenn du Bioabfälle im entsprechenden Behälter entsorgst, brauchst du weniger Züri-Säcke, was auch dein Portemonnaie schont. Die Bioabfälle werden in der Biogasanlage der Biogas Zürich AG zu Biogas und Kompost verarbeitet. Das Biogas wird in das Gasnetz der Energie 360° AG eingespeist und steht als erneuerbare Energie zum Heizen, Kochen oder zur Stromerzeugung zur Verfügung. So schliesst sich ein Kreislauf, der die Lebensqualität in der Stadt fördert.";
 "Nein" = "Nein";
 "Neu generieren" = "Neu generieren";
+"Neue Funktionen vorab ausprobieren." = "Neue Funktionen vorab ausprobieren.";
 "Neuer Chat" = "Neuer Chat";
 "Neueste Nachrichten" = "Neueste Nachrichten";
-"Neueste Nachrichten lesen" = "Neueste Nachrichten lesen";
 "Neueste Veranstaltungen" = "Neueste Veranstaltungen";
 "Neueste zuerst" = "Neueste zuerst";
 "Nicht erlaubt" = "Nicht erlaubt";
@@ -314,7 +308,7 @@
 "Papier" = "Papier";
 "Park" = "Park";
 "Parkplatz" = "Parkplatz";
-"Parks, Parkplätze und Sammelstellen in deiner Nähe." = "Parks, Parkplätze und Sammelstellen in deiner Nähe.";
+"Parks, Toiletten, Brunnen und mehr." = "Parks, Toiletten, Brunnen und mehr.";
 "Parkzonen" = "Parkzonen";
 "Party" = "Party";
 "Pass die Filter an, um mehr Ergebnisse anzuzeigen." = "Pass die Filter an, um mehr Ergebnisse anzuzeigen.";
