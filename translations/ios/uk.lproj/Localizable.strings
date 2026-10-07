@@ -9,8 +9,8 @@
 "7-Tage-Schnitt" = "7-денне середнє";
 "Abbrechen" = "Скасувати";
 "Abgelaufen" = "Термін дії закінчується";
-"Abholerinnerungen für deine ausgewählte Postleitzahl." = "Нагадування про вивезення сміття для обраного тобою поштового індексу.";
-"Abholplan für deine Postleitzahl." = "Графік вивезення відходів за твоїм поштовим індексом.";
+"Abholerinnerungen für deine ausgewählte Postleitzahl." = "Нагадування про вивезення для твого обраного поштового індексу.";
+"Abholplan für deine Postleitzahl." = "Графік вивезення для твого поштового індексу.";
 "Abschnitte anordnen und umschalten" = "Упорядкуй та перемикай розділи";
 "Abschnitte ein- und ausblenden und neu anordnen." = "Перемикай розділи та змінюй їх порядок.";
 "Adresse" = "Адреса";
@@ -120,9 +120,9 @@
 "Erfahre, wie wir Daten verarbeiten" = "Дізнайся, як ми обробляємо дані";
 "Erhalte Benachrichtigungen über die neuesten Nachrichten in Zürich!" = "Отримуй сповіщення про найсвіжіші новини в Цюриху!";
 "Erhalte Erinnerungen an Veranstaltungen in Zürich!" = "Отримуй нагадування про події в Цюриху!";
-"Erhalte Recycling-Erinnerungen basierend auf deiner Postleitzahl." = "Отримуй нагадування про переробку, що базуються на твоєму поштовому індексі.";
+"Erhalte Recycling-Erinnerungen basierend auf deiner Postleitzahl." = "Отримуй нагадування про переробку відходів на основі твого поштового індексу.";
 "Erinnerungen an wichtige Veranstaltungen." = "Нагадування про події, які тебе цікавлять.";
-"Erinnerungen basierend auf deiner Postleitzahl." = "Нагадування за твоїм поштовим індексом.";
+"Erinnerungen basierend auf deiner Postleitzahl." = "Нагадування на основі твого поштового індексу.";
 "Erlauben" = "Дозволити";
 "Erlaubt:" = "Дозволено:";
 "Erläuterung" = "Пояснення";
@@ -156,7 +156,7 @@
 "Geschäftsbedingungen von CasaZurich einsehen" = "Ознайомся з умовами CasaZurich";
 "Geselligkeit" = "Суспільство";
 "Gewinne Preise bei lokalen Veranstaltungsorten" = "Вигравай призи від місцевих закладів";
-"Gib eine Postleitzahl ein, um Benachrichtigungen zum Recycling zu aktivieren." = "Додай поштовий індекс, щоб отримувати сповіщення про переробку.";
+"Gib eine Postleitzahl ein, um Benachrichtigungen zum Recycling zu aktivieren." = "Введи поштовий індекс, щоб увімкнути сповіщення про переробку відходів.";
 "Glas" = "Скло";
 "Grenzwert" = "ліміт";
 "Gut zu wissen" = "Добре знати";
@@ -211,7 +211,7 @@
 "Keine Luftqualitätsdaten verfügbar" = "Дані про якість повітря недоступні";
 "Keine Nachrichten gefunden" = "Новин не знайдено";
 "Keine Neuigkeiten verfügbar" = "Немає новин";
-"Keine Postleitzahl angegeben" = "Поштовий індекс не надано";
+"Keine Postleitzahl angegeben" = "Поштовий індекс не вказано";
 "Keine Recyclingmöglichkeit" = "Немає можливості переробки";
 "Keine Recyclingtermine verfügbar" = "Немає доступних заходів з переробки";
 "Keine Standortberechtigung" = "Немає дозволу на доступ до розташування";
@@ -314,8 +314,8 @@
 "Pass die Filter an, um mehr Ergebnisse anzuzeigen." = "Налаштуй фільтри, щоб побачити більше результатів.";
 "Pissoir" = "Пісуар";
 "Plane einen entspannten Nachmittag" = "Заплануй спокійний день";
-"PLZ auswählen" = "Виберіть індекс";
 "Postleitzahl" = "Поштовий індекс";
+"Postleitzahl wählen" = "Вибери поштовий індекс";
 "Protokolldateien" = "Файли журналів";
 "PubliBike" = "PubliBike";
 "Push-Benachrichtigung" = "Push-повідомлення";
@@ -442,7 +442,6 @@
 "Wähle aus, welche Benachrichtigungen du erhalten möchtest. Wir fragen erst um Erlaubnis, wenn du einen Schalter umlegst." = "Вибери, які сповіщення ти хочеш отримувати. Ми запитуємо дозвіл лише тоді, коли ти вмикаєш відповідний перемикач.";
 "Wähle dein Layout" = "Вибери макет";
 "Wähle eine Antwort aus" = "Вибери одну відповідь";
-"Wähle eine Postleitzahl" = "Вибери поштовий індекс";
 "Wann sind die Schulferien?" = "Коли шкільні канікули?";
 "Was kann ich dir in Zürich zeigen?" = "Що показати тобі в Цюриху?";
 "Was steht heute an?" = "Що сьогодні в планах?";

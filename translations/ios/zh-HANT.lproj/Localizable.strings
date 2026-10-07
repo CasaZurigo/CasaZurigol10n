@@ -120,7 +120,7 @@
 "Erfahre, wie wir Daten verarbeiten" = "了解我們如何處理資料";
 "Erhalte Benachrichtigungen über die neuesten Nachrichten in Zürich!" = "接收蘇黎世最新消息的通知！";
 "Erhalte Erinnerungen an Veranstaltungen in Zürich!" = "接收蘇黎世活動的提醒！";
-"Erhalte Recycling-Erinnerungen basierend auf deiner Postleitzahl." = "根據你的郵遞區號獲取回收提醒。";
+"Erhalte Recycling-Erinnerungen basierend auf deiner Postleitzahl." = "根據你的郵遞區號接收回收提醒。";
 "Erinnerungen an wichtige Veranstaltungen." = "你關心的活動提醒。";
 "Erinnerungen basierend auf deiner Postleitzahl." = "根據你的郵遞區號提供的提醒。";
 "Erlauben" = "允許";
@@ -156,7 +156,7 @@
 "Geschäftsbedingungen von CasaZurich einsehen" = "檢視 CasaZurich 條款";
 "Geselligkeit" = "社會";
 "Gewinne Preise bei lokalen Veranstaltungsorten" = "贏取本地場館的獎品";
-"Gib eine Postleitzahl ein, um Benachrichtigungen zum Recycling zu aktivieren." = "請輸入郵遞區號以啟用回收提醒。";
+"Gib eine Postleitzahl ein, um Benachrichtigungen zum Recycling zu aktivieren." = "輸入郵遞區號，以啟用回收通知。";
 "Glas" = "玻璃";
 "Grenzwert" = "上限";
 "Gut zu wissen" = "好消息";
@@ -211,7 +211,7 @@
 "Keine Luftqualitätsdaten verfügbar" = "目前沒有空氣品質數據";
 "Keine Nachrichten gefunden" = "沒有找到新聞";
 "Keine Neuigkeiten verfügbar" = "沒有可用的新聞";
-"Keine Postleitzahl angegeben" = "未提供郵遞區號";
+"Keine Postleitzahl angegeben" = "未填寫郵遞區號";
 "Keine Recyclingmöglichkeit" = "不提供回收服務";
 "Keine Recyclingtermine verfügbar" = "目前沒有可用的回收活動";
 "Keine Standortberechtigung" = "沒有位置權限";
@@ -314,8 +314,8 @@
 "Pass die Filter an, um mehr Ergebnisse anzuzeigen." = "調整篩選條件以查看更多結果。";
 "Pissoir" = "小便斗";
 "Plane einen entspannten Nachmittag" = "規劃一個悠閒的午後";
-"PLZ auswählen" = "選擇郵遞區號";
 "Postleitzahl" = "郵遞區號";
+"Postleitzahl wählen" = "選擇郵遞區號";
 "Protokolldateien" = "記錄檔";
 "PubliBike" = "PubliBike";
 "Push-Benachrichtigung" = "推播通知";
@@ -442,7 +442,6 @@
 "Wähle aus, welche Benachrichtigungen du erhalten möchtest. Wir fragen erst um Erlaubnis, wenn du einen Schalter umlegst." = "請選擇你想接收的通知。只有當你開啟某個開關時，我們才會請求權限。";
 "Wähle dein Layout" = "選擇你的版面配置";
 "Wähle eine Antwort aus" = "選擇一個答案";
-"Wähle eine Postleitzahl" = "選擇郵遞區號";
 "Wann sind die Schulferien?" = "學校假期是什麼時候？";
 "Was kann ich dir in Zürich zeigen?" = "在蘇黎世，我可以為你介紹些什麼？";
 "Was steht heute an?" = "今天有什麼行程？";

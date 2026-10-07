@@ -10,7 +10,7 @@
 "Abbrechen" = "Cancelar";
 "Abgelaufen" = "Expira";
 "Abholerinnerungen für deine ausgewählte Postleitzahl." = "Lembretes de recolha para o teu código postal selecionado.";
-"Abholplan für deine Postleitzahl." = "Calendário de recolha para o teu código postal.";
+"Abholplan für deine Postleitzahl." = "Horário de recolha para o teu código postal.";
 "Abschnitte anordnen und umschalten" = "Organizar e alternar secções";
 "Abschnitte ein- und ausblenden und neu anordnen." = "Expande ou recolhe as secções e reordena-as.";
 "Adresse" = "Morada";
@@ -156,7 +156,7 @@
 "Geschäftsbedingungen von CasaZurich einsehen" = "Consulta os termos da CasaZurich";
 "Geselligkeit" = "Sociedade";
 "Gewinne Preise bei lokalen Veranstaltungsorten" = "Ganha prémios em estabelecimentos locais";
-"Gib eine Postleitzahl ein, um Benachrichtigungen zum Recycling zu aktivieren." = "Adiciona um código postal para ativar os alertas de reciclagem.";
+"Gib eine Postleitzahl ein, um Benachrichtigungen zum Recycling zu aktivieren." = "Introduz um código postal para ativares as notificações de reciclagem.";
 "Glas" = "Vidro";
 "Grenzwert" = "limite";
 "Gut zu wissen" = "É bom saber";
@@ -211,7 +211,7 @@
 "Keine Luftqualitätsdaten verfügbar" = "Não existem dados de qualidade do ar disponíveis.";
 "Keine Nachrichten gefunden" = "Não foram encontradas notícias";
 "Keine Neuigkeiten verfügbar" = "Não há notícias disponíveis";
-"Keine Postleitzahl angegeben" = "Nenhum código postal fornecido";
+"Keine Postleitzahl angegeben" = "Não foi indicado nenhum código postal";
 "Keine Recyclingmöglichkeit" = "Não há reciclagem disponível";
 "Keine Recyclingtermine verfügbar" = "Não há eventos de reciclagem disponíveis";
 "Keine Standortberechtigung" = "Sem permissão de localização";
@@ -314,8 +314,8 @@
 "Pass die Filter an, um mehr Ergebnisse anzuzeigen." = "Ajusta os filtros para ver mais resultados.";
 "Pissoir" = "Pissuar";
 "Plane einen entspannten Nachmittag" = "Planeia uma tarde descontraída";
-"PLZ auswählen" = "Selecionar código postal";
-"Postleitzahl" = "Código Postal";
+"Postleitzahl" = "Código postal";
+"Postleitzahl wählen" = "Escolhe o código postal";
 "Protokolldateien" = "Ficheiros de registo";
 "PubliBike" = "PubliBike";
 "Push-Benachrichtigung" = "Notificação push";
@@ -442,7 +442,6 @@
 "Wähle aus, welche Benachrichtigungen du erhalten möchtest. Wir fragen erst um Erlaubnis, wenn du einen Schalter umlegst." = "Escolhe os alertas que pretendes receber. Só pedimos permissão quando ativas uma opção.";
 "Wähle dein Layout" = "Escolhe o teu layout";
 "Wähle eine Antwort aus" = "Seleciona uma resposta";
-"Wähle eine Postleitzahl" = "Escolhe um código postal";
 "Wann sind die Schulferien?" = "Quando são as férias escolares?";
 "Was kann ich dir in Zürich zeigen?" = "O que te posso mostrar em Zurique?";
 "Was steht heute an?" = "O que tens para hoje?";

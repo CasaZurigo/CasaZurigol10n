@@ -120,7 +120,7 @@
 "Erfahre, wie wir Daten verarbeiten" = "Learn how we handle data";
 "Erhalte Benachrichtigungen über die neuesten Nachrichten in Zürich!" = "Get notifications about the latest news in Zürich!";
 "Erhalte Erinnerungen an Veranstaltungen in Zürich!" = "Get reminders about events in Zürich!";
-"Erhalte Recycling-Erinnerungen basierend auf deiner Postleitzahl." = "Get recycling reminders based on your ZIP code.";
+"Erhalte Recycling-Erinnerungen basierend auf deiner Postleitzahl." = "Get recycling reminders based on your zip code.";
 "Erinnerungen an wichtige Veranstaltungen." = "Reminders for events you care about.";
 "Erinnerungen basierend auf deiner Postleitzahl." = "Reminders based on your zip code.";
 "Erlauben" = "Allow";
@@ -156,7 +156,7 @@
 "Geschäftsbedingungen von CasaZurich einsehen" = "Review CasaZurich terms";
 "Geselligkeit" = "Social";
 "Gewinne Preise bei lokalen Veranstaltungsorten" = "Win prizes from local venues";
-"Gib eine Postleitzahl ein, um Benachrichtigungen zum Recycling zu aktivieren." = "Add a zip code to enable recycling alerts.";
+"Gib eine Postleitzahl ein, um Benachrichtigungen zum Recycling zu aktivieren." = "Enter a zip code to enable recycling notifications.";
 "Glas" = "Glass";
 "Grenzwert" = "Limit";
 "Gut zu wissen" = "Good to know";
@@ -211,7 +211,7 @@
 "Keine Luftqualitätsdaten verfügbar" = "No air quality data available";
 "Keine Nachrichten gefunden" = "No News found";
 "Keine Neuigkeiten verfügbar" = "No news available";
-"Keine Postleitzahl angegeben" = "No ZIP code provided";
+"Keine Postleitzahl angegeben" = "No zip code provided";
 "Keine Recyclingmöglichkeit" = "No recycling available";
 "Keine Recyclingtermine verfügbar" = "No recycling dates available";
 "Keine Standortberechtigung" = "No location permission";
@@ -314,8 +314,8 @@
 "Pass die Filter an, um mehr Ergebnisse anzuzeigen." = "Adjust filters to see more results.";
 "Pissoir" = "Pissoir";
 "Plane einen entspannten Nachmittag" = "Plan a relaxed afternoon";
-"PLZ auswählen" = "Select Zip";
-"Postleitzahl" = "Zip Code";
+"Postleitzahl" = "Zip code";
+"Postleitzahl wählen" = "Select a zip code";
 "Protokolldateien" = "Log Files";
 "PubliBike" = "PubliBike";
 "Push-Benachrichtigung" = "Push Notification";
@@ -442,7 +442,6 @@
 "Wähle aus, welche Benachrichtigungen du erhalten möchtest. Wir fragen erst um Erlaubnis, wenn du einen Schalter umlegst." = "Pick which alerts you want. We only ask for permission when you turn a toggle on.";
 "Wähle dein Layout" = "Choose your layout";
 "Wähle eine Antwort aus" = "Select one answer";
-"Wähle eine Postleitzahl" = "Choose a zip code";
 "Wann sind die Schulferien?" = "When are the school holidays?";
 "Was kann ich dir in Zürich zeigen?" = "What can I show you in Zürich?";
 "Was steht heute an?" = "What's on today?";

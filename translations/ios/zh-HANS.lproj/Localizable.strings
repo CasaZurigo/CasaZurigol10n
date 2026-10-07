@@ -9,8 +9,8 @@
 "7-Tage-Schnitt" = "7天均值";
 "Abbrechen" = "取消";
 "Abgelaufen" = "过期";
-"Abholerinnerungen für deine ausgewählte Postleitzahl." = "针对你所选邮政编码的垃圾清运提醒。";
-"Abholplan für deine Postleitzahl." = "你所在邮政编码的垃圾清运计划。";
+"Abholerinnerungen für deine ausgewählte Postleitzahl." = "针对你所选邮政编码的清运提醒。";
+"Abholplan für deine Postleitzahl." = "你所在邮政编码的清运计划。";
 "Abschnitte anordnen und umschalten" = "排列和切换部分";
 "Abschnitte ein- und ausblenden und neu anordnen." = "切换分区并重新排序。";
 "Adresse" = "地址";
@@ -120,9 +120,9 @@
 "Erfahre, wie wir Daten verarbeiten" = "了解我们如何处理数据";
 "Erhalte Benachrichtigungen über die neuesten Nachrichten in Zürich!" = "接收苏黎世最新新闻的通知！";
 "Erhalte Erinnerungen an Veranstaltungen in Zürich!" = "获取苏黎世活动提醒！";
-"Erhalte Recycling-Erinnerungen basierend auf deiner Postleitzahl." = "根据你的邮政编码获取回收提醒。";
+"Erhalte Recycling-Erinnerungen basierend auf deiner Postleitzahl." = "根据你的邮政编码接收回收提醒。";
 "Erinnerungen an wichtige Veranstaltungen." = "你关心的活动提醒。";
-"Erinnerungen basierend auf deiner Postleitzahl." = "基于你邮政编码的提醒。";
+"Erinnerungen basierend auf deiner Postleitzahl." = "基于你的邮政编码的提醒。";
 "Erlauben" = "允许";
 "Erlaubt:" = "允许：";
 "Erläuterung" = "解释";
@@ -156,7 +156,7 @@
 "Geschäftsbedingungen von CasaZurich einsehen" = "查看 CasaZurich 条款";
 "Geselligkeit" = "社会";
 "Gewinne Preise bei lokalen Veranstaltungsorten" = "赢取本地场馆的奖品";
-"Gib eine Postleitzahl ein, um Benachrichtigungen zum Recycling zu aktivieren." = "添加邮政编码以启用回收提醒。";
+"Gib eine Postleitzahl ein, um Benachrichtigungen zum Recycling zu aktivieren." = "输入邮政编码，以启用回收通知。";
 "Glas" = "玻璃";
 "Grenzwert" = "限额";
 "Gut zu wissen" = "好消息";
@@ -211,7 +211,7 @@
 "Keine Luftqualitätsdaten verfügbar" = "暂无空气质量数据";
 "Keine Nachrichten gefunden" = "未找到新闻";
 "Keine Neuigkeiten verfügbar" = "暂无消息";
-"Keine Postleitzahl angegeben" = "未提供邮政编码";
+"Keine Postleitzahl angegeben" = "未填写邮政编码";
 "Keine Recyclingmöglichkeit" = "暂无回收服务";
 "Keine Recyclingtermine verfügbar" = "暂无可用的回收活动";
 "Keine Standortberechtigung" = "无位置权限";
@@ -314,8 +314,8 @@
 "Pass die Filter an, um mehr Ergebnisse anzuzeigen." = "调整筛选条件以查看更多结果。";
 "Pissoir" = "小便池";
 "Plane einen entspannten Nachmittag" = "规划一个悠闲的下午";
-"PLZ auswählen" = "选择邮编";
 "Postleitzahl" = "邮政编码";
+"Postleitzahl wählen" = "选择邮政编码";
 "Protokolldateien" = "日志文件";
 "PubliBike" = "PubliBike";
 "Push-Benachrichtigung" = "推送通知";
@@ -442,7 +442,6 @@
 "Wähle aus, welche Benachrichtigungen du erhalten möchtest. Wir fragen erst um Erlaubnis, wenn du einen Schalter umlegst." = "请选择你想要接收的提醒。我们仅在你开启开关时才会请求权限。";
 "Wähle dein Layout" = "选择你的布局";
 "Wähle eine Antwort aus" = "选择一个答案";
-"Wähle eine Postleitzahl" = "选择邮政编码";
 "Wann sind die Schulferien?" = "学校假期是什么时候？";
 "Was kann ich dir in Zürich zeigen?" = "在苏黎世，你想看些什么？";
 "Was steht heute an?" = "今天有什么安排？";

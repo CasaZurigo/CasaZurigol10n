@@ -9,8 +9,8 @@
 "7-Tage-Schnitt" = "media 7 gg";
 "Abbrechen" = "Annulla";
 "Abgelaufen" = "Scade";
-"Abholerinnerungen für deine ausgewählte Postleitzahl." = "Promemoria dei ritiri per il tuo codice postale selezionato.";
-"Abholplan für deine Postleitzahl." = "Calendario della raccolta per il tuo codice postale.";
+"Abholerinnerungen für deine ausgewählte Postleitzahl." = "Promemoria di raccolta per il codice postale che hai scelto.";
+"Abholplan für deine Postleitzahl." = "Calendario di raccolta per il tuo codice postale.";
 "Abschnitte anordnen und umschalten" = "Organizza e attiva/disattiva le sezioni";
 "Abschnitte ein- und ausblenden und neu anordnen." = "Attiva/disattiva le sezioni e riordinane la posizione.";
 "Adresse" = "Indirizzo";
@@ -120,9 +120,9 @@
 "Erfahre, wie wir Daten verarbeiten" = "Scopri come gestiamo i dati";
 "Erhalte Benachrichtigungen über die neuesten Nachrichten in Zürich!" = "Ricevi notifiche sulle ultime notizie a Zurigo!";
 "Erhalte Erinnerungen an Veranstaltungen in Zürich!" = "Ricevi promemoria per gli eventi a Zurigo!";
-"Erhalte Recycling-Erinnerungen basierend auf deiner Postleitzahl." = "Ricevi promemoria per il riciclaggio in base al tuo CAP.";
+"Erhalte Recycling-Erinnerungen basierend auf deiner Postleitzahl." = "Ricevi promemoria sulla raccolta differenziata in base al tuo codice postale.";
 "Erinnerungen an wichtige Veranstaltungen." = "Promemoria per gli eventi che ti interessano.";
-"Erinnerungen basierend auf deiner Postleitzahl." = "Promemoria basati sul tuo CAP.";
+"Erinnerungen basierend auf deiner Postleitzahl." = "Promemoria in base al tuo codice postale.";
 "Erlauben" = "Consenti";
 "Erlaubt:" = "Consentito:";
 "Erläuterung" = "Spiegazione";
@@ -156,7 +156,7 @@
 "Geschäftsbedingungen von CasaZurich einsehen" = "Leggi i termini di CasaZurich";
 "Geselligkeit" = "Società";
 "Gewinne Preise bei lokalen Veranstaltungsorten" = "Vinci premi nei locali";
-"Gib eine Postleitzahl ein, um Benachrichtigungen zum Recycling zu aktivieren." = "Inserisci un CAP per attivare gli avvisi sul riciclaggio.";
+"Gib eine Postleitzahl ein, um Benachrichtigungen zum Recycling zu aktivieren." = "Inserisci un codice postale per attivare le notifiche sul riciclaggio.";
 "Glas" = "Vetro";
 "Grenzwert" = "limite";
 "Gut zu wissen" = "Buono a sapersi";
@@ -211,7 +211,7 @@
 "Keine Luftqualitätsdaten verfügbar" = "Dati sulla qualità dell'aria non disponibili";
 "Keine Nachrichten gefunden" = "Nessuna notizia trovata";
 "Keine Neuigkeiten verfügbar" = "Nessuna notizia disponibile";
-"Keine Postleitzahl angegeben" = "Nessun CAP fornito";
+"Keine Postleitzahl angegeben" = "Nessun codice postale indicato";
 "Keine Recyclingmöglichkeit" = "Nessuna raccolta differenziata disponibile";
 "Keine Recyclingtermine verfügbar" = "Nessun evento di riciclaggio disponibile";
 "Keine Standortberechtigung" = "Nessun permesso di localizzazione";
@@ -314,8 +314,8 @@
 "Pass die Filter an, um mehr Ergebnisse anzuzeigen." = "Regola i filtri per vedere più risultati.";
 "Pissoir" = "Orinatoio";
 "Plane einen entspannten Nachmittag" = "Organizza un pomeriggio di relax";
-"PLZ auswählen" = "Seleziona CAP";
 "Postleitzahl" = "Codice postale";
+"Postleitzahl wählen" = "Seleziona il codice postale";
 "Protokolldateien" = "File di registro";
 "PubliBike" = "PubliBike";
 "Push-Benachrichtigung" = "Notifica push";
@@ -442,7 +442,6 @@
 "Wähle aus, welche Benachrichtigungen du erhalten möchtest. Wir fragen erst um Erlaubnis, wenn du einen Schalter umlegst." = "Scegli quali avvisi desideri ricevere. Chiediamo il permesso solo quando attivi un'opzione.";
 "Wähle dein Layout" = "Scegli il tuo layout";
 "Wähle eine Antwort aus" = "Seleziona una risposta";
-"Wähle eine Postleitzahl" = "Scegli un CAP";
 "Wann sind die Schulferien?" = "Quando sono le vacanze scolastiche?";
 "Was kann ich dir in Zürich zeigen?" = "Cosa posso mostrarti a Zurigo?";
 "Was steht heute an?" = "Cosa c'è in programma oggi?";
