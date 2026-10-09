@@ -21,6 +21,7 @@
 "Altöl" = "Відпрацьована олива";
 "Am See" = "Біля озера";
 "An" = "Увімк.";
+"Android-Einstellungen öffnen" = "Відкрити Налаштування Android";
 "Anhören" = "Прослухати";
 "Anpassen" = "Налаштувати";
 "Artikel nicht gefunden" = "Статтю не знайдено";
@@ -49,6 +50,7 @@
 "Brunnen" = "Фонтан";
 "Cache geleert" = "Кеш очищено";
 "Cache leeren" = "Очистити кеш";
+"Cache leeren?" = "Очистити кеш?";
 "Café" = "Кафе";
 "CasaZurich unterstützen" = "Підтримати CasaZurich";
 "CasaZurich weiterempfehlen" = "Порекомендувати CasaZurich";
@@ -126,6 +128,7 @@
 "Ich möchte die Gelegenheit nutzen, dir für die Nutzung meiner App zu danken!\nMit dieser E-Mail versuchst du, einen Fehler zu melden. Bitte beschreibe dein Problem unterhalb dieser Zeile:" = "Я хочу скористатися нагодою, щоб подякувати тобі за використання мого застосунку!\nЦим електронним листом ти намагаєшся повідомити про помилку. Будь ласка, опиши свою проблему нижче цього рядка:";
 "Ich möchte folgende Funktion vorschlagen:" = "Хочу запропонувати таку функцію:";
 "im Vergleich zu gestern" = "порівняно з учора";
+"In den Android-Einstellungen ändern" = "Змінити в Налаштуваннях Android";
 "In Karten öffnen" = "Відкрити в Картах";
 "Informiere dich über lokale Recyclingtermine, um auf dem Laufenden zu bleiben, was du recyceln kannst und welche Regeln du befolgen musst." = "Дізнайся про місцеві дати вивезення, щоб бути в курсі того, що ти можеш переробляти та яких правил маєш дотримуватися.";
 "Informiert bleiben" = "Залишатися в курсі";
@@ -208,12 +211,14 @@
 "Niedrig" = "Низький";
 "Noch keine Chats" = "Поки що немає чатів";
 "Normale Velos" = "Звичайні велосипеди";
+"Nur nötig, wenn du doppelte Orte siehst. Die App lädt ihre Daten danach neu herunter." = "Потрібно лише, якщо ти бачиш повторювані місця. Після цього застосунок повторно завантажить свої дані.";
 "Nutzungsbedingungen" = "Умови використання";
 "Offen" = "Відкрито";
 "Offene Baustellen" = "Відкриті будівництва";
 "Öffentliche Einrichtungen" = "Громадські об'єкти";
 "Öffentliche Orte in der Nähe finden" = "Знайти громадські місця поблизу";
 "Öffnen" = "Відкрити";
+"Öffnet ausserhalb der App" = "Відкривається за межами застосунку";
 "Öffnungszeiten" = "Години роботи";
 "Original anzeigen" = "Показати оригінал";
 "Orte" = "Місця";

@@ -21,6 +21,7 @@
 "Altöl" = "Altöl";
 "Am See" = "Am See";
 "An" = "An";
+"Android-Einstellungen öffnen" = "Android-Einstellungen öffnen";
 "Anhören" = "Anhören";
 "Anpassen" = "Anpassen";
 "Artikel nicht gefunden" = "Artikel nicht gefunden";
@@ -49,6 +50,7 @@
 "Brunnen" = "Brunnen";
 "Cache geleert" = "Cache geleert";
 "Cache leeren" = "Cache leeren";
+"Cache leeren?" = "Cache leeren?";
 "Café" = "Café";
 "CasaZurich unterstützen" = "CasaZurich unterstützen";
 "CasaZurich weiterempfehlen" = "CasaZurich weiterempfehlen";
@@ -126,6 +128,7 @@
 "Ich möchte die Gelegenheit nutzen, dir für die Nutzung meiner App zu danken!\nMit dieser E-Mail versuchst du, einen Fehler zu melden. Bitte beschreibe dein Problem unterhalb dieser Zeile:" = "Ich möchte die Gelegenheit nutzen, dir für die Nutzung meiner App zu danken!\nMit dieser E-Mail versuchst du, einen Fehler zu melden. Bitte beschreibe dein Problem unterhalb dieser Zeile:";
 "Ich möchte folgende Funktion vorschlagen:" = "Ich möchte folgende Funktion vorschlagen:";
 "im Vergleich zu gestern" = "im Vergleich zu gestern";
+"In den Android-Einstellungen ändern" = "In den Android-Einstellungen ändern";
 "In Karten öffnen" = "In Karten öffnen";
 "Informiere dich über lokale Recyclingtermine, um auf dem Laufenden zu bleiben, was du recyceln kannst und welche Regeln du befolgen musst." = "Informiere dich über lokale Recyclingtermine, um auf dem Laufenden zu bleiben, was du recyceln kannst und welche Regeln du befolgen musst.";
 "Informiert bleiben" = "Informiert bleiben";
@@ -208,12 +211,14 @@
 "Niedrig" = "Niedrig";
 "Noch keine Chats" = "Noch keine Chats";
 "Normale Velos" = "Normale Velos";
+"Nur nötig, wenn du doppelte Orte siehst. Die App lädt ihre Daten danach neu herunter." = "Nur nötig, wenn du doppelte Orte siehst. Die App lädt ihre Daten danach neu herunter.";
 "Nutzungsbedingungen" = "Nutzungsbedingungen";
 "Offen" = "Offen";
 "Offene Baustellen" = "Offene Baustellen";
 "Öffentliche Einrichtungen" = "Öffentliche Einrichtungen";
 "Öffentliche Orte in der Nähe finden" = "Öffentliche Orte in der Nähe finden";
 "Öffnen" = "Öffnen";
+"Öffnet ausserhalb der App" = "Öffnet ausserhalb der App";
 "Öffnungszeiten" = "Öffnungszeiten";
 "Original anzeigen" = "Original anzeigen";
 "Orte" = "Orte";

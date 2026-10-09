@@ -21,6 +21,7 @@
 "Altöl" = "Used oil";
 "Am See" = "By the lake";
 "An" = "On";
+"Android-Einstellungen öffnen" = "Open Android Settings";
 "Anhören" = "Listen";
 "Anpassen" = "Customize";
 "Artikel nicht gefunden" = "Article not found";
@@ -49,6 +50,7 @@
 "Brunnen" = "Fountain";
 "Cache geleert" = "Cache cleared";
 "Cache leeren" = "Clear the cache";
+"Cache leeren?" = "Clear the cache?";
 "Café" = "Café";
 "CasaZurich unterstützen" = "Support CasaZurich";
 "CasaZurich weiterempfehlen" = "Recommend CasaZurich";
@@ -126,6 +128,7 @@
 "Ich möchte die Gelegenheit nutzen, dir für die Nutzung meiner App zu danken!\nMit dieser E-Mail versuchst du, einen Fehler zu melden. Bitte beschreibe dein Problem unterhalb dieser Zeile:" = "I'd like to take this opportunity to thank you for using my app!\nYou are trying to report a bug with this email. Please describe your problem below this line:";
 "Ich möchte folgende Funktion vorschlagen:" = "I would like to suggest the following feature:";
 "im Vergleich zu gestern" = "vs yesterday";
+"In den Android-Einstellungen ändern" = "Change in Android Settings";
 "In Karten öffnen" = "Open in Maps";
 "Informiere dich über lokale Recyclingtermine, um auf dem Laufenden zu bleiben, was du recyceln kannst und welche Regeln du befolgen musst." = "Find out about local collection dates to stay up to date on what you can recycle and what rules you need to follow.";
 "Informiert bleiben" = "Stay informed";
@@ -208,12 +211,14 @@
 "Niedrig" = "Low";
 "Noch keine Chats" = "No chats yet";
 "Normale Velos" = "Regular bikes";
+"Nur nötig, wenn du doppelte Orte siehst. Die App lädt ihre Daten danach neu herunter." = "Only necessary if you see duplicate places. The app will then re-download its data.";
 "Nutzungsbedingungen" = "Terms of use";
 "Offen" = "Open";
 "Offene Baustellen" = "Open construction sites";
 "Öffentliche Einrichtungen" = "Public facilities";
 "Öffentliche Orte in der Nähe finden" = "Find public places nearby";
 "Öffnen" = "Open";
+"Öffnet ausserhalb der App" = "Opens outside the app";
 "Öffnungszeiten" = "Opening hours";
 "Original anzeigen" = "Show original";
 "Orte" = "Places";

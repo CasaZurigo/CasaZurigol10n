@@ -21,6 +21,7 @@
 "Altöl" = "שמן משומש";
 "Am See" = "ליד האגם";
 "An" = "פועל";
+"Android-Einstellungen öffnen" = "לפתוח את הגדרות Android";
 "Anhören" = "האזנה";
 "Anpassen" = "התאמה אישית";
 "Artikel nicht gefunden" = "הפריט לא נמצא";
@@ -49,6 +50,7 @@
 "Brunnen" = "מזרקה";
 "Cache geleert" = "המטמון רוקן";
 "Cache leeren" = "לרוקן את המטמון";
+"Cache leeren?" = "לרוקן את המטמון?";
 "Café" = "בית קפה";
 "CasaZurich unterstützen" = "לתמוך ב-CasaZurich";
 "CasaZurich weiterempfehlen" = "להמליץ על CasaZurich";
@@ -126,6 +128,7 @@
 "Ich möchte die Gelegenheit nutzen, dir für die Nutzung meiner App zu danken!\nMit dieser E-Mail versuchst du, einen Fehler zu melden. Bitte beschreibe dein Problem unterhalb dieser Zeile:" = "ברצוני לנצל את ההזדמנות כדי להודות לך על השימוש באפליקציה שלי!\nבאמצעות הודעת דוא\"ל זו אתה מנסה לדווח על תקלה. אנא תאר את הבעיה שלך מתחת לשורה זו:";
 "Ich möchte folgende Funktion vorschlagen:" = "אני רוצה להציע את התכונה הבאה:";
 "im Vergleich zu gestern" = "בהשוואה לאתמול";
+"In den Android-Einstellungen ändern" = "שינוי בהגדרות Android";
 "In Karten öffnen" = "לפתוח במפות";
 "Informiere dich über lokale Recyclingtermine, um auf dem Laufenden zu bleiben, was du recyceln kannst und welche Regeln du befolgen musst." = "התעדכן במועדי איסוף מקומיים כדי להישאר מעודכן מה אתה יכול למחזר ואילו כללים עליך לפעול לפיהם.";
 "Informiert bleiben" = "להישאר מעודכן";
@@ -208,12 +211,14 @@
 "Niedrig" = "נמוך";
 "Noch keine Chats" = "עדיין אין צ'אטים";
 "Normale Velos" = "אופניים רגילים";
+"Nur nötig, wenn du doppelte Orte siehst. Die App lädt ihre Daten danach neu herunter." = "נחוץ רק אם אתה רואה מקומות כפולים. לאחר מכן האפליקציה תוריד מחדש את הנתונים שלה.";
 "Nutzungsbedingungen" = "תנאי שימוש";
 "Offen" = "פתוח";
 "Offene Baustellen" = "אתרי בנייה פתוחים";
 "Öffentliche Einrichtungen" = "מתקנים ציבוריים";
 "Öffentliche Orte in der Nähe finden" = "למצוא מקומות ציבוריים בסביבה";
 "Öffnen" = "לפתוח";
+"Öffnet ausserhalb der App" = "נפתח מחוץ לאפליקציה";
 "Öffnungszeiten" = "שעות פתיחה";
 "Original anzeigen" = "להציג את המקור";
 "Orte" = "מקומות";

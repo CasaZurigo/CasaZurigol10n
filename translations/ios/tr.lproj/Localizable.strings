@@ -21,6 +21,7 @@
 "Altöl" = "Atık yağ";
 "Am See" = "Göl kenarında";
 "An" = "Açık";
+"Android-Einstellungen öffnen" = "Android Ayarları'nı aç";
 "Anhören" = "Dinle";
 "Anpassen" = "Özelleştir";
 "Artikel nicht gefunden" = "Makale bulunamadı";
@@ -49,6 +50,7 @@
 "Brunnen" = "Çeşme";
 "Cache geleert" = "Önbellek temizlendi";
 "Cache leeren" = "Önbelleği temizle";
+"Cache leeren?" = "Önbellek temizlensin mi?";
 "Café" = "Kafe";
 "CasaZurich unterstützen" = "CasaZurich'e destek ol";
 "CasaZurich weiterempfehlen" = "CasaZurich'i tavsiye et";
@@ -126,6 +128,7 @@
 "Ich möchte die Gelegenheit nutzen, dir für die Nutzung meiner App zu danken!\nMit dieser E-Mail versuchst du, einen Fehler zu melden. Bitte beschreibe dein Problem unterhalb dieser Zeile:" = "Bu fırsatı değerlendirerek uygulamamı kullandığın için sana teşekkür etmek istiyorum!\nBu e-postayla bir hata bildirmeye çalışıyorsun. Lütfen sorununu bu satırın altına açıkla:";
 "Ich möchte folgende Funktion vorschlagen:" = "Aşağıdaki özelliği önermek istiyorum:";
 "im Vergleich zu gestern" = "düne kıyasla";
+"In den Android-Einstellungen ändern" = "Android Ayarları'nda değiştir";
 "In Karten öffnen" = "Haritalar'da aç";
 "Informiere dich über lokale Recyclingtermine, um auf dem Laufenden zu bleiben, was du recyceln kannst und welche Regeln du befolgen musst." = "Neleri geri dönüştürebileceğin ve hangi kurallara uyman gerektiği konusunda güncel kalmak için yerel toplama tarihleri hakkında bilgi edin.";
 "Informiert bleiben" = "Gelişmelerden haberdar ol";
@@ -208,12 +211,14 @@
 "Niedrig" = "Düşük";
 "Noch keine Chats" = "Henüz sohbet yok";
 "Normale Velos" = "Normal bisikletler";
+"Nur nötig, wenn du doppelte Orte siehst. Die App lädt ihre Daten danach neu herunter." = "Yalnızca yinelenen yerler görürsen gereklidir. Uygulama daha sonra verilerini yeniden indirir.";
 "Nutzungsbedingungen" = "Kullanım koşulları";
 "Offen" = "Açık";
 "Offene Baustellen" = "Açık şantiyeler";
 "Öffentliche Einrichtungen" = "Halka açık tesisler";
 "Öffentliche Orte in der Nähe finden" = "Yakındaki kamusal yerleri bul";
 "Öffnen" = "Aç";
+"Öffnet ausserhalb der App" = "Uygulama dışında açılır";
 "Öffnungszeiten" = "Çalışma saatleri";
 "Original anzeigen" = "Orijinali göster";
 "Orte" = "Yerler";

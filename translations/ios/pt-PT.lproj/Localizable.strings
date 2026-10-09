@@ -21,6 +21,7 @@
 "Altöl" = "Óleo usado";
 "Am See" = "À beira do lago";
 "An" = "Ativado";
+"Android-Einstellungen öffnen" = "Abrir as Definições do Android";
 "Anhören" = "Ouvir";
 "Anpassen" = "Personalizar";
 "Artikel nicht gefunden" = "Artigo não encontrado";
@@ -49,6 +50,7 @@
 "Brunnen" = "Fonte";
 "Cache geleert" = "Cache limpa";
 "Cache leeren" = "Limpar a cache";
+"Cache leeren?" = "Queres limpar a cache?";
 "Café" = "Café";
 "CasaZurich unterstützen" = "Apoiar a CasaZurich";
 "CasaZurich weiterempfehlen" = "Recomendar a CasaZurich";
@@ -126,6 +128,7 @@
 "Ich möchte die Gelegenheit nutzen, dir für die Nutzung meiner App zu danken!\nMit dieser E-Mail versuchst du, einen Fehler zu melden. Bitte beschreibe dein Problem unterhalb dieser Zeile:" = "Gostava de aproveitar a oportunidade para te agradecer por usares a minha app!\nCom este e-mail, estás a tentar comunicar um erro. Por favor, descreve o teu problema abaixo desta linha:";
 "Ich möchte folgende Funktion vorschlagen:" = "Gostava de sugerir a seguinte funcionalidade:";
 "im Vergleich zu gestern" = "em comparação com ontem";
+"In den Android-Einstellungen ändern" = "Alterar nas Definições do Android";
 "In Karten öffnen" = "Abrir no Mapas";
 "Informiere dich über lokale Recyclingtermine, um auf dem Laufenden zu bleiben, was du recyceln kannst und welche Regeln du befolgen musst." = "Informa-te sobre as datas de recolha locais para te manteres a par do que podes reciclar e das regras que tens de seguir.";
 "Informiert bleiben" = "Manter-se informado";
@@ -208,12 +211,14 @@
 "Niedrig" = "Baixo";
 "Noch keine Chats" = "Ainda não há conversas";
 "Normale Velos" = "Bicicletas normais";
+"Nur nötig, wenn du doppelte Orte siehst. Die App lädt ihre Daten danach neu herunter." = "Só é necessário se vires locais duplicados. A app volta a descarregar os seus dados a seguir.";
 "Nutzungsbedingungen" = "Termos de utilização";
 "Offen" = "Está aberto";
 "Offene Baustellen" = "Obras em curso";
 "Öffentliche Einrichtungen" = "Instalações públicas";
 "Öffentliche Orte in der Nähe finden" = "Encontrar locais públicos nas proximidades";
 "Öffnen" = "Abrir";
+"Öffnet ausserhalb der App" = "Abre fora da app";
 "Öffnungszeiten" = "Horário de funcionamento";
 "Original anzeigen" = "Mostrar original";
 "Orte" = "Locais";

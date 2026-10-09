@@ -21,6 +21,7 @@
 "Altöl" = "Zużyty olej";
 "Am See" = "Nad jeziorem";
 "An" = "Włączone";
+"Android-Einstellungen öffnen" = "Otwórz Ustawienia Androida";
 "Anhören" = "Posłuchaj";
 "Anpassen" = "Dostosuj";
 "Artikel nicht gefunden" = "Nie znaleziono artykułu";
@@ -49,6 +50,7 @@
 "Brunnen" = "Fontanna";
 "Cache geleert" = "Wyczyszczono pamięć podręczną";
 "Cache leeren" = "Wyczyść pamięć podręczną";
+"Cache leeren?" = "Wyczyścić pamięć podręczną?";
 "Café" = "Kawiarnia";
 "CasaZurich unterstützen" = "Wesprzyj CasaZurich";
 "CasaZurich weiterempfehlen" = "Poleć CasaZurich";
@@ -126,6 +128,7 @@
 "Ich möchte die Gelegenheit nutzen, dir für die Nutzung meiner App zu danken!\nMit dieser E-Mail versuchst du, einen Fehler zu melden. Bitte beschreibe dein Problem unterhalb dieser Zeile:" = "Chciałbym skorzystać z okazji, żeby podziękować ci za korzystanie z mojej aplikacji!\nTym e-mailem próbujesz zgłosić błąd. Opisz swój problem poniżej tej linii:";
 "Ich möchte folgende Funktion vorschlagen:" = "Chciałbym zaproponować następującą funkcję:";
 "im Vergleich zu gestern" = "w porównaniu z wczoraj";
+"In den Android-Einstellungen ändern" = "Zmień w Ustawieniach Androida";
 "In Karten öffnen" = "Otwórz w Mapach";
 "Informiere dich über lokale Recyclingtermine, um auf dem Laufenden zu bleiben, was du recyceln kannst und welche Regeln du befolgen musst." = "Sprawdź lokalne terminy odbioru, żeby być na bieżąco z tym, co możesz poddać recyklingowi i jakich zasad musisz przestrzegać.";
 "Informiert bleiben" = "Bądź na bieżąco";
@@ -208,12 +211,14 @@
 "Niedrig" = "Niski";
 "Noch keine Chats" = "Jeszcze nie ma czatów";
 "Normale Velos" = "Zwykłe rowery";
+"Nur nötig, wenn du doppelte Orte siehst. Die App lädt ihre Daten danach neu herunter." = "Konieczne tylko wtedy, gdy widzisz powtarzające się miejsca. Aplikacja potem ponownie pobierze swoje dane.";
 "Nutzungsbedingungen" = "Warunki korzystania";
 "Offen" = "Otwarte";
 "Offene Baustellen" = "Otwarte budowy";
 "Öffentliche Einrichtungen" = "Obiekty użyteczności publicznej";
 "Öffentliche Orte in der Nähe finden" = "Znajdź miejsca publiczne w pobliżu";
 "Öffnen" = "Otwórz";
+"Öffnet ausserhalb der App" = "Otwiera się poza aplikacją";
 "Öffnungszeiten" = "Godziny otwarcia";
 "Original anzeigen" = "Pokaż oryginał";
 "Orte" = "Miejsca";

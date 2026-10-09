@@ -21,6 +21,7 @@
 "Altöl" = "廢機油";
 "Am See" = "在湖邊";
 "An" = "開啟";
+"Android-Einstellungen öffnen" = "開啟 Android 設定";
 "Anhören" = "收聽";
 "Anpassen" = "自訂";
 "Artikel nicht gefunden" = "文章未找到";
@@ -49,6 +50,7 @@
 "Brunnen" = "噴泉";
 "Cache geleert" = "已清除快取";
 "Cache leeren" = "清除快取";
+"Cache leeren?" = "要清除快取嗎？";
 "Café" = "咖啡館";
 "CasaZurich unterstützen" = "支持 CasaZurich";
 "CasaZurich weiterempfehlen" = "推薦 CasaZurich";
@@ -126,6 +128,7 @@
 "Ich möchte die Gelegenheit nutzen, dir für die Nutzung meiner App zu danken!\nMit dieser E-Mail versuchst du, einen Fehler zu melden. Bitte beschreibe dein Problem unterhalb dieser Zeile:" = "我想藉此機會感謝你使用我的 App！\n你正透過這封電子郵件嘗試回報錯誤。請在此行下方描述你的問題：";
 "Ich möchte folgende Funktion vorschlagen:" = "我想建議以下功能：";
 "im Vergleich zu gestern" = "較昨日";
+"In den Android-Einstellungen ändern" = "在 Android 設定中變更";
 "In Karten öffnen" = "在「地圖」中開啟";
 "Informiere dich über lokale Recyclingtermine, um auf dem Laufenden zu bleiben, was du recyceln kannst und welche Regeln du befolgen musst." = "了解當地的回收日期，隨時掌握你可以回收哪些物品，以及必須遵守哪些規定。";
 "Informiert bleiben" = "隨時掌握最新資訊";
@@ -208,12 +211,14 @@
 "Niedrig" = "低";
 "Noch keine Chats" = "尚無對話";
 "Normale Velos" = "一般自行車";
+"Nur nötig, wenn du doppelte Orte siehst. Die App lädt ihre Daten danach neu herunter." = "只有在你看到重複的地點時才需要。App 隨後會重新下載資料。";
 "Nutzungsbedingungen" = "使用條款";
 "Offen" = "是否開放";
 "Offene Baustellen" = "施工中的工地";
 "Öffentliche Einrichtungen" = "公共設施";
 "Öffentliche Orte in der Nähe finden" = "尋找附近的公共地點";
 "Öffnen" = "開啟";
+"Öffnet ausserhalb der App" = "在 App 外部開啟";
 "Öffnungszeiten" = "營業時間";
 "Original anzeigen" = "顯示原始內容";
 "Orte" = "地點";
