@@ -45,7 +45,7 @@
   "refiner": {
     "provider": "google-ai",
     "model": "gemini-3.8-flash",
-    "systemPrompt": "You are a professional translator and localization expert. The source language is Swiss Standard German (Schweizer Hochdeutsch). Translate from that German source into the target language. Keep the meaning exact. German is the source because it names things more specifically than English. Use a direct, personal, informal tone. Address the user in the familiar form, never the formal form. The German source never uses ß. It always writes ss. It prefers Swiss terms over German-German ones. Match that local Swiss vocabulary in the target when a local equivalent exists. Name the city only in the target language's own form, never another language's. In Ukrainian, inflect Цюрих as Цюриха, Цюриху, Цюрихом, never Цюріх, Цюріха, Цюріху, Цюріхом. Keep the app name CasaZurich unchanged. Abholung means waste and recycling collection, never parcel pickup. Action labels written as a German infinitive use the infinitive in fr, es, pt-PT, ru and uk and the imperative in it, pl and tr, and a German imperative stays an imperative in those languages; en, he, ko, zh-HANS and zh-HANT keep their usual UI form for buttons. A German infinitive ending in a question mark asks the user to confirm, so phrase it as a natural yes or no question, not as an action label. Kiosk is a small shop selling snacks and newspapers. On their own, Ja and Nein are yes and no answers, Max and Min are the day's highest and lowest temperature, and Voll means no free spots are left. The Home tab (Startseite) and the Settings screen or app (in den Einstellungen) are names, so keep their first letter capitalized; individual settings stay lowercase. In Hebrew, use full spelling, address the user in the masculine singular, never in the plural, never use niqqud, phrase the developer's first-person sentences without gendered verb forms, and write German infinitive labels as an infinitive or an action noun, while German imperatives stay imperatives. Sort options ending in zuerst (Neueste, Älteste, Früheste, Späteste zuerst) follow one pattern per language: en <Newest/Oldest/Earliest/Latest> first, fr Les plus <récents/anciens/proches/lointains> d'abord, es Más <recientes/antiguos/próximos/lejanos> primero, it Prima i più <recenti/vecchi/vicini/lontani>, pt-PT Mais <recentes/antigos/próximos/distantes> primeiro, pl Najpierw <najnowsze/najstarsze/najbliższe/najdalsze>, tr Önce en <yeni/eski/yakın/uzak>, ru Сначала <новые/старые/ближайшие/поздние>, uk Спочатку <нові/старі/найближчі/найпізніші>, he <החדשים/הישנים/הקרובים/הרחוקים> תחילה, ko <최신/오래된/가까운/먼> 순, zh-HANS <最新/最早发布/最近/最远>优先, zh-HANT <最新/最早發布/最近/最遠>優先. In Korean, write every sentence in the polite 해요체 (-요); never use 반말, -습니다, 당신, or honorific address terms, and leave the word you implicit. In Turkish, never attach a case suffix to a placeholder, because its vowel depends on the value; phrase around it instead. In Turkish, separate a suffix from a capitalized name with an apostrophe. Use sentence case in every language: capitalize only the first word, proper nouns, app names, and words the language's grammar capitalizes. When the source starts lowercase, it continues other text, so start the translation lowercase too. Preserve placeholders exactly as they appear. Preserve escape sequences. Use the same trailing punctuation as the source. Return ONLY the translated text. No explanations. No quotes."
+    "systemPrompt": "You are a professional translator and localization expert. The source language is Swiss Standard German (Schweizer Hochdeutsch). Translate from that German source into the target language. Keep the meaning exact. German is the source because it names things more specifically than English. Use a direct, personal, informal tone. Address the user in the familiar form, never the formal form. The German source never uses ß. It always writes ss. It prefers Swiss terms over German-German ones. Match that local Swiss vocabulary in the target when a local equivalent exists. Action labels written as a German infinitive use the infinitive in fr, es, pt-PT, ru and uk and the imperative in it, pl and tr, and a German imperative stays an imperative in those languages; en, he, ko, zh-HANS and zh-HANT keep their usual UI form for buttons. A German infinitive ending in a question mark asks the user to confirm, so phrase it as a natural yes or no question, not as an action label. In Hebrew, use full spelling, address the user in the masculine singular, never in the plural, never use niqqud, phrase the developer's first-person sentences without gendered verb forms, and write German infinitive labels as an infinitive or an action noun, while German imperatives stay imperatives. In Korean, write every sentence in the polite 해요체 (-요); never use 반말, -습니다, 당신, or honorific address terms, and leave the word you implicit. In Turkish, never attach a case suffix to a placeholder, because its vowel depends on the value, so phrase around it instead, and separate a suffix from a capitalized name with an apostrophe. Use sentence case in every language: capitalize only the first word, proper nouns, app names, and words the language's grammar capitalizes. When the source starts lowercase, it continues other text, so start the translation lowercase too. Preserve placeholders exactly as they appear. Preserve escape sequences. Use the same trailing punctuation as the source. Return ONLY the translated text. No explanations. No quotes."
   },
   "glossary": [
     {
@@ -68,6 +68,25 @@
       }
     },
     {
+      "term": "CasaZurich",
+      "note": "the app name",
+      "translations": {
+        "en": "CasaZurich",
+        "fr": "CasaZurich",
+        "es": "CasaZurich",
+        "it": "CasaZurich",
+        "pt-PT": "CasaZurich",
+        "pl": "CasaZurich",
+        "tr": "CasaZurich",
+        "ru": "CasaZurich",
+        "uk": "CasaZurich",
+        "he": "CasaZurich",
+        "ko": "CasaZurich",
+        "zh-HANS": "CasaZurich",
+        "zh-HANT": "CasaZurich"
+      }
+    },
+    {
       "term": "Postleitzahl",
       "translations": {
         "en": "zip code",
@@ -87,7 +106,7 @@
     },
     {
       "term": "Startseite",
-      "note": "the Home tab",
+      "note": "the Home tab, a name that keeps its capital letter",
       "translations": {
         "en": "Home",
         "fr": "Accueil",
@@ -160,7 +179,7 @@
     },
     {
       "term": "Einstellungen",
-      "note": "app and device settings",
+      "note": "the Settings screen or app, a name that keeps its capital letter; individual settings stay lowercase",
       "translations": {
         "en": "Settings",
         "fr": "Réglages",
@@ -286,6 +305,25 @@
         "ko": "섹션",
         "zh-HANS": "板块",
         "zh-HANT": "區塊"
+      }
+    },
+    {
+      "term": "Abholung",
+      "note": "waste and recycling collection, never parcel pickup",
+      "translations": {
+        "en": "collection",
+        "fr": "collecte",
+        "es": "recogida",
+        "it": "raccolta",
+        "pt-PT": "recolha",
+        "pl": "odbiór",
+        "tr": "toplama",
+        "ru": "вывоз",
+        "uk": "вивезення",
+        "he": "איסוף",
+        "ko": "수거",
+        "zh-HANS": "清运",
+        "zh-HANT": "清運"
       }
     },
     {
@@ -717,6 +755,196 @@
         "ko": "켬/끔",
         "zh-HANS": "开/关",
         "zh-HANT": "開啟/關閉"
+      }
+    },
+    {
+      "term": "Ja",
+      "note": "on its own, a yes answer",
+      "translations": {
+        "en": "Yes",
+        "fr": "Oui",
+        "es": "Sí",
+        "it": "Sì",
+        "pt-PT": "Sim",
+        "pl": "Tak",
+        "tr": "Evet",
+        "ru": "Да",
+        "uk": "Так",
+        "he": "כן",
+        "ko": "네",
+        "zh-HANS": "是",
+        "zh-HANT": "是"
+      }
+    },
+    {
+      "term": "Nein",
+      "note": "on its own, a no answer",
+      "translations": {
+        "en": "No",
+        "fr": "Non",
+        "es": "No",
+        "it": "No",
+        "pt-PT": "Não",
+        "pl": "Nie",
+        "tr": "Hayır",
+        "ru": "Нет",
+        "uk": "Ні",
+        "he": "לא",
+        "ko": "아니요",
+        "zh-HANS": "否",
+        "zh-HANT": "否"
+      }
+    },
+    {
+      "term": "Max",
+      "note": "the day's highest temperature",
+      "translations": {
+        "en": "Max",
+        "fr": "Max",
+        "es": "Máx",
+        "it": "Max",
+        "pt-PT": "Máx",
+        "pl": "Maks",
+        "tr": "Maks",
+        "ru": "Макс",
+        "uk": "Макс",
+        "he": "מקסימום",
+        "ko": "최고",
+        "zh-HANS": "最高",
+        "zh-HANT": "最高"
+      }
+    },
+    {
+      "term": "Min",
+      "note": "the day's lowest temperature",
+      "translations": {
+        "en": "Min",
+        "fr": "Min",
+        "es": "Mín",
+        "it": "Min",
+        "pt-PT": "Mín",
+        "pl": "Min",
+        "tr": "Min",
+        "ru": "Мин",
+        "uk": "Мін",
+        "he": "מינימום",
+        "ko": "최저",
+        "zh-HANS": "最低",
+        "zh-HANT": "最低"
+      }
+    },
+    {
+      "term": "Voll",
+      "note": "no free spots left",
+      "translations": {
+        "en": "Full",
+        "fr": "Complet",
+        "es": "Completo",
+        "it": "Completo",
+        "pt-PT": "Completo",
+        "pl": "Brak miejsc",
+        "tr": "Dolu",
+        "ru": "Заполнено",
+        "uk": "Заповнено",
+        "he": "מלא",
+        "ko": "가득 참",
+        "zh-HANS": "已满",
+        "zh-HANT": "滿"
+      }
+    },
+    {
+      "term": "Kiosk",
+      "note": "a small shop selling snacks and newspapers",
+      "translations": {
+        "en": "kiosk",
+        "fr": "kiosque",
+        "es": "quiosco",
+        "it": "chiosco",
+        "pt-PT": "quiosque",
+        "pl": "kiosk",
+        "tr": "büfe",
+        "ru": "киоск",
+        "uk": "кіоск",
+        "he": "קיוסק",
+        "ko": "매점",
+        "zh-HANS": "报刊亭",
+        "zh-HANT": "報攤"
+      }
+    },
+    {
+      "term": "Neueste zuerst",
+      "note": "a sort option",
+      "translations": {
+        "en": "Newest first",
+        "fr": "Les plus récents d'abord",
+        "es": "Más recientes primero",
+        "it": "Prima i più recenti",
+        "pt-PT": "Mais recentes primeiro",
+        "pl": "Najpierw najnowsze",
+        "tr": "Önce en yeni",
+        "ru": "Сначала новые",
+        "uk": "Спочатку нові",
+        "he": "החדשים תחילה",
+        "ko": "최신 순",
+        "zh-HANS": "最新优先",
+        "zh-HANT": "最新優先"
+      }
+    },
+    {
+      "term": "Älteste zuerst",
+      "note": "a sort option",
+      "translations": {
+        "en": "Oldest first",
+        "fr": "Les plus anciens d'abord",
+        "es": "Más antiguos primero",
+        "it": "Prima i più vecchi",
+        "pt-PT": "Mais antigos primeiro",
+        "pl": "Najpierw najstarsze",
+        "tr": "Önce en eski",
+        "ru": "Сначала старые",
+        "uk": "Спочатку старі",
+        "he": "הישנים תחילה",
+        "ko": "오래된 순",
+        "zh-HANS": "最早发布优先",
+        "zh-HANT": "最早發布優先"
+      }
+    },
+    {
+      "term": "Früheste zuerst",
+      "note": "a sort option",
+      "translations": {
+        "en": "Earliest first",
+        "fr": "Les plus proches d'abord",
+        "es": "Más próximos primero",
+        "it": "Prima i più vicini",
+        "pt-PT": "Mais próximos primeiro",
+        "pl": "Najpierw najbliższe",
+        "tr": "Önce en yakın",
+        "ru": "Сначала ближайшие",
+        "uk": "Спочатку найближчі",
+        "he": "הקרובים תחילה",
+        "ko": "가까운 순",
+        "zh-HANS": "最近优先",
+        "zh-HANT": "最近優先"
+      }
+    },
+    {
+      "term": "Späteste zuerst",
+      "note": "a sort option",
+      "translations": {
+        "en": "Latest first",
+        "fr": "Les plus lointains d'abord",
+        "es": "Más lejanos primero",
+        "it": "Prima i più lontani",
+        "pt-PT": "Mais distantes primeiro",
+        "pl": "Najpierw najdalsze",
+        "tr": "Önce en uzak",
+        "ru": "Сначала поздние",
+        "uk": "Спочатку найпізніші",
+        "he": "הרחוקים תחילה",
+        "ko": "먼 순",
+        "zh-HANS": "最远优先",
+        "zh-HANT": "最遠優先"
       }
     }
   ]
