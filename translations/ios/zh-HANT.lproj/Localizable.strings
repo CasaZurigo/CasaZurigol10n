@@ -1,6 +1,7 @@
 "%@ gratis" = "%@ 免費";
 "%@ Min. hören" = "%@ 分鐘收聽";
 "%@ Velos" = "%@ 自行車";
+"%@, ausserhalb der Stadt Zürich" = "%@，蘇黎世市外";
 "☕️ Trinkgeld für einen Kaffee" = "☕️ 一杯咖啡的小費";
 "🍭 Kleines Trinkgeld" = "🍭 小額小費";
 "🎟️ Trinkgeld für ein Kinoticket" = "🎟️ 買電影票的小費";
@@ -168,6 +169,9 @@
 "Kosten" = "費用";
 "kostenlos" = "免費";
 "Kostenlos" = "免費";
+"Kreis" = "區";
+"Kreis %@" = "第 %@ 區";
+"Kreis %@, Quartier %@" = "區 %@，街區 %@";
 "Kultur, Sport und Festivals in der ganzen Stadt." = "遍佈全市的文化、體育及節慶活動。";
 "Kundenservice" = "客戶服務";
 "Kundenservice nicht verfügbar" = "客戶服務暫不提供";

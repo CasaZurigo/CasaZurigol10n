@@ -1,6 +1,7 @@
 "%@ gratis" = "%@ gratuit";
 "%@ Min. hören" = "Écouter %@ min";
 "%@ Velos" = "%@ vélos";
+"%@, ausserhalb der Stadt Zürich" = "%@, en dehors de la ville de Zurich";
 "☕️ Trinkgeld für einen Kaffee" = "☕️ Pourboire pour un café";
 "🍭 Kleines Trinkgeld" = "🍭 Petit pourboire";
 "🎟️ Trinkgeld für ein Kinoticket" = "🎟️ Pourboire pour un billet de cinéma";
@@ -168,6 +169,9 @@
 "Kosten" = "Coût";
 "kostenlos" = "gratuit";
 "Kostenlos" = "Gratuit";
+"Kreis" = "Arrondissement";
+"Kreis %@" = "Arrondissement %@";
+"Kreis %@, Quartier %@" = "Arrondissement %@, quartier %@";
 "Kultur, Sport und Festivals in der ganzen Stadt." = "Culture, sport et festivals dans toute la ville.";
 "Kundenservice" = "Service client";
 "Kundenservice nicht verfügbar" = "Service client indisponible";
