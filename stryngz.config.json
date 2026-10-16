@@ -946,6 +946,44 @@
         "zh-HANS": "最远优先",
         "zh-HANT": "最遠優先"
       }
+    },
+    {
+      "term": "Kreis",
+      "note": "one of the twelve numbered city districts of Zürich",
+      "translations": {
+        "en": "district",
+        "fr": "arrondissement",
+        "es": "distrito",
+        "it": "circoscrizione",
+        "pt-PT": "distrito",
+        "pl": "okręg",
+        "tr": "bölge",
+        "ru": "район",
+        "uk": "район",
+        "he": "רובע",
+        "ko": "구",
+        "zh-HANS": "区",
+        "zh-HANT": "區"
+      }
+    },
+    {
+      "term": "Quartier",
+      "note": "one of the official quarters of the city of Zürich, inside a Kreis",
+      "translations": {
+        "en": "quarter",
+        "fr": "quartier",
+        "es": "barrio",
+        "it": "quartiere",
+        "pt-PT": "bairro",
+        "pl": "dzielnica",
+        "tr": "mahalle",
+        "ru": "квартал",
+        "uk": "квартал",
+        "he": "שכונה",
+        "ko": "동",
+        "zh-HANS": "街区",
+        "zh-HANT": "街區"
+      }
     }
   ]
 }
