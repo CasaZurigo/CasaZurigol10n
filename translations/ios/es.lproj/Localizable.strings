@@ -68,6 +68,7 @@
 "Datum" = "Fecha";
 "Dein Begleiter für das Leben in Zürich" = "Tu guía para la vida en Zúrich";
 "Dein Überblick für heute" = "Tu resumen de hoy";
+"Deine Postleitzahl" = "Tu código postal";
 "Deine Privatsphäre ist uns wichtig. Deine Daten werden weder erhoben noch gespeichert. Was du tust, ist deine Angelegenheit – nicht unsere oder die von jemand anderem." = "Tu privacidad es importante para nosotros. No recopilamos ni guardamos tus datos. Lo que hagas es asunto tuyo, no nuestro ni de nadie más.";
 "Denkt nach…" = "Pensando…";
 "Die lokalen Caches wurden geleert." = "Se han borrado las cachés locales.";
@@ -79,6 +80,7 @@
 "E-Mail-Support" = "Soporte por correo electrónico";
 "Ebenen filtern" = "Filtrar capas";
 "Einstellungen" = "Ajustes";
+"Einstellungen öffnen" = "Abrir Ajustes";
 "Enddatum" = "Fecha de finalización";
 "Enddatum festlegen" = "Establecer fecha de finalización";
 "Entdecke Baustellen und mehr auf deiner Karte" = "Descubre obras y más en tu mapa";
@@ -88,6 +90,9 @@
 "Erfahre, wie wir Daten verarbeiten" = "Descubre cómo tratamos los datos";
 "Erinnerungen an wichtige Veranstaltungen." = "Recordatorios de eventos importantes.";
 "Erinnerungen basierend auf deiner Postleitzahl." = "Recordatorios basados en tu código postal.";
+"Erinnerungen einschalten" = "Activar recordatorios";
+"Erinnerungen für %@" = "Recordatorios para %@";
+"Erlaube Benachrichtigungen in den Einstellungen, damit wir dich erinnern können." = "Permite las notificaciones en Ajustes para que podamos recordártelo.";
 "Erlaubt" = "Permitido";
 "Erlebe Festivals, Sport und Kultur." = "Descubre festivales, deportes y cultura.";
 "Erneut versuchen" = "Volver a intentar";
@@ -104,6 +109,7 @@
 "Frag nach Zürich…" = "Pregunta por Zúrich…";
 "Früheste zuerst" = "Más próximos primero";
 "Funktionswunsch" = "Solicitud de función";
+"Für deine Abholtage brauchst du eine Zürcher Postleitzahl. Du kannst sie jederzeit hier oder in den Einstellungen wählen." = "Para tus días de recogida, necesitas un código postal de Zúrich. Puedes seleccionarlo en cualquier momento aquí o en Ajustes.";
 "Für Einwohner und Besucher." = "Para residentes y visitantes.";
 "Ganztägig" = "Todo el día";
 "Gefällt mir" = "Me gusta";
@@ -214,6 +220,7 @@
 "Neueste zuerst" = "Más recientes primero";
 "Nicht erlaubt" = "No permitido";
 "Nicht gefunden" = "No encontrado";
+"Nicht jetzt" = "Ahora no";
 "Nicht verfügbar" = "No disponible";
 "Niedrig" = "Bajo";
 "Noch keine Chats" = "Aún no hay chats";
@@ -348,8 +355,10 @@
 "Wie warm ist der Zürichsee?" = "¿A qué temperatura está el lago de Zúrich?";
 "Wie warm ist es gerade in Zürich?" = "¿Qué temperatura hace ahora mismo en Zúrich?";
 "Willkommen bei CasaZurich" = "Bienvenido a CasaZurich";
+"Wir zeigen dir deine Abholtage." = "Te mostramos tus días de recogida.";
 "Wo finde ich jetzt einen kostenlosen Parkplatz?" = "¿Dónde puedo encontrar ahora una plaza de aparcamiento gratis?";
 "Wo gibt es Spielplätze in Zürich?" = "¿Dónde hay parques infantiles en Zúrich?";
+"Wo wohnst du?" = "¿Dónde vives?";
 "Woher deine Daten stammen" = "De dónde proceden tus datos";
 "Ziehe, um Abschnitte neu anzuordnen, und schalte sie um, um sie auf deinem Startbildschirm ein- oder auszublenden." = "Arrastra para reorganizar las secciones y actívalas o desactívalas para mostrarlas u ocultarlas en tu pantalla de inicio.";
 "Zum Kalender hinzufügen" = "Añadir al calendario";

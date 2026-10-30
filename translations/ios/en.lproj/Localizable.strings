@@ -68,6 +68,7 @@
 "Datum" = "Date";
 "Dein Begleiter für das Leben in Zürich" = "Your guide to life in Zürich";
 "Dein Überblick für heute" = "Your overview for today";
+"Deine Postleitzahl" = "Your zip code";
 "Deine Privatsphäre ist uns wichtig. Deine Daten werden weder erhoben noch gespeichert. Was du tust, ist deine Angelegenheit – nicht unsere oder die von jemand anderem." = "Your privacy is important to us. We do not collect or store your data. What you do is your business—not ours or anyone else's.";
 "Denkt nach…" = "Thinking…";
 "Die lokalen Caches wurden geleert." = "The local caches have been cleared.";
@@ -79,6 +80,7 @@
 "E-Mail-Support" = "Email support";
 "Ebenen filtern" = "Filter layers";
 "Einstellungen" = "Settings";
+"Einstellungen öffnen" = "Open Settings";
 "Enddatum" = "End date";
 "Enddatum festlegen" = "Set end date";
 "Entdecke Baustellen und mehr auf deiner Karte" = "Discover construction sites and more on your map";
@@ -88,6 +90,9 @@
 "Erfahre, wie wir Daten verarbeiten" = "Learn how we process data";
 "Erinnerungen an wichtige Veranstaltungen." = "Reminders for important events.";
 "Erinnerungen basierend auf deiner Postleitzahl." = "Reminders based on your zip code.";
+"Erinnerungen einschalten" = "Turn on reminders";
+"Erinnerungen für %@" = "Reminders for %@";
+"Erlaube Benachrichtigungen in den Einstellungen, damit wir dich erinnern können." = "Allow notifications in Settings so we can remind you.";
 "Erlaubt" = "Allowed";
 "Erlebe Festivals, Sport und Kultur." = "See festivals, sports, and culture.";
 "Erneut versuchen" = "Try again";
@@ -104,6 +109,7 @@
 "Frag nach Zürich…" = "Ask about Zürich…";
 "Früheste zuerst" = "Earliest first";
 "Funktionswunsch" = "Feature request";
+"Für deine Abholtage brauchst du eine Zürcher Postleitzahl. Du kannst sie jederzeit hier oder in den Einstellungen wählen." = "You need a Zürich zip code for your collection days. You can choose it here or in Settings at any time.";
 "Für Einwohner und Besucher." = "For residents and visitors.";
 "Ganztägig" = "All day";
 "Gefällt mir" = "Like";
@@ -214,6 +220,7 @@
 "Neueste zuerst" = "Newest first";
 "Nicht erlaubt" = "Not allowed";
 "Nicht gefunden" = "Not found";
+"Nicht jetzt" = "Not now";
 "Nicht verfügbar" = "Not available";
 "Niedrig" = "Low";
 "Noch keine Chats" = "No chats yet";
@@ -348,8 +355,10 @@
 "Wie warm ist der Zürichsee?" = "How warm is Lake Zürich?";
 "Wie warm ist es gerade in Zürich?" = "How warm is it in Zürich right now?";
 "Willkommen bei CasaZurich" = "Welcome to CasaZurich";
+"Wir zeigen dir deine Abholtage." = "We'll show you your collection days.";
 "Wo finde ich jetzt einen kostenlosen Parkplatz?" = "Where can I find a free parking spot now?";
 "Wo gibt es Spielplätze in Zürich?" = "Where are the playgrounds in Zürich?";
+"Wo wohnst du?" = "Where do you live?";
 "Woher deine Daten stammen" = "Where your data comes from";
 "Ziehe, um Abschnitte neu anzuordnen, und schalte sie um, um sie auf deinem Startbildschirm ein- oder auszublenden." = "Drag to rearrange sections, and toggle them to show or hide them on your home screen.";
 "Zum Kalender hinzufügen" = "Add to calendar";

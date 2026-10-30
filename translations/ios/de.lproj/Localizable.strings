@@ -68,6 +68,7 @@
 "Datum" = "Datum";
 "Dein Begleiter für das Leben in Zürich" = "Dein Begleiter für das Leben in Zürich";
 "Dein Überblick für heute" = "Dein Überblick für heute";
+"Deine Postleitzahl" = "Deine Postleitzahl";
 "Deine Privatsphäre ist uns wichtig. Deine Daten werden weder erhoben noch gespeichert. Was du tust, ist deine Angelegenheit – nicht unsere oder die von jemand anderem." = "Deine Privatsphäre ist uns wichtig. Deine Daten werden weder erhoben noch gespeichert. Was du tust, ist deine Angelegenheit – nicht unsere oder die von jemand anderem.";
 "Denkt nach…" = "Denkt nach…";
 "Die lokalen Caches wurden geleert." = "Die lokalen Caches wurden geleert.";
@@ -79,6 +80,7 @@
 "E-Mail-Support" = "E-Mail-Support";
 "Ebenen filtern" = "Ebenen filtern";
 "Einstellungen" = "Einstellungen";
+"Einstellungen öffnen" = "Einstellungen öffnen";
 "Enddatum" = "Enddatum";
 "Enddatum festlegen" = "Enddatum festlegen";
 "Entdecke Baustellen und mehr auf deiner Karte" = "Entdecke Baustellen und mehr auf deiner Karte";
@@ -88,6 +90,9 @@
 "Erfahre, wie wir Daten verarbeiten" = "Erfahre, wie wir Daten verarbeiten";
 "Erinnerungen an wichtige Veranstaltungen." = "Erinnerungen an wichtige Veranstaltungen.";
 "Erinnerungen basierend auf deiner Postleitzahl." = "Erinnerungen basierend auf deiner Postleitzahl.";
+"Erinnerungen einschalten" = "Erinnerungen einschalten";
+"Erinnerungen für %@" = "Erinnerungen für %@";
+"Erlaube Benachrichtigungen in den Einstellungen, damit wir dich erinnern können." = "Erlaube Benachrichtigungen in den Einstellungen, damit wir dich erinnern können.";
 "Erlaubt" = "Erlaubt";
 "Erlebe Festivals, Sport und Kultur." = "Erlebe Festivals, Sport und Kultur.";
 "Erneut versuchen" = "Erneut versuchen";
@@ -104,6 +109,7 @@
 "Frag nach Zürich…" = "Frag nach Zürich…";
 "Früheste zuerst" = "Früheste zuerst";
 "Funktionswunsch" = "Funktionswunsch";
+"Für deine Abholtage brauchst du eine Zürcher Postleitzahl. Du kannst sie jederzeit hier oder in den Einstellungen wählen." = "Für deine Abholtage brauchst du eine Zürcher Postleitzahl. Du kannst sie jederzeit hier oder in den Einstellungen wählen.";
 "Für Einwohner und Besucher." = "Für Einwohner und Besucher.";
 "Ganztägig" = "Ganztägig";
 "Gefällt mir" = "Gefällt mir";
@@ -214,6 +220,7 @@
 "Neueste zuerst" = "Neueste zuerst";
 "Nicht erlaubt" = "Nicht erlaubt";
 "Nicht gefunden" = "Nicht gefunden";
+"Nicht jetzt" = "Nicht jetzt";
 "Nicht verfügbar" = "Nicht verfügbar";
 "Niedrig" = "Niedrig";
 "Noch keine Chats" = "Noch keine Chats";
@@ -348,8 +355,10 @@
 "Wie warm ist der Zürichsee?" = "Wie warm ist der Zürichsee?";
 "Wie warm ist es gerade in Zürich?" = "Wie warm ist es gerade in Zürich?";
 "Willkommen bei CasaZurich" = "Willkommen bei CasaZurich";
+"Wir zeigen dir deine Abholtage." = "Wir zeigen dir deine Abholtage.";
 "Wo finde ich jetzt einen kostenlosen Parkplatz?" = "Wo finde ich jetzt einen kostenlosen Parkplatz?";
 "Wo gibt es Spielplätze in Zürich?" = "Wo gibt es Spielplätze in Zürich?";
+"Wo wohnst du?" = "Wo wohnst du?";
 "Woher deine Daten stammen" = "Woher deine Daten stammen";
 "Ziehe, um Abschnitte neu anzuordnen, und schalte sie um, um sie auf deinem Startbildschirm ein- oder auszublenden." = "Ziehe, um Abschnitte neu anzuordnen, und schalte sie um, um sie auf deinem Startbildschirm ein- oder auszublenden.";
 "Zum Kalender hinzufügen" = "Zum Kalender hinzufügen";
