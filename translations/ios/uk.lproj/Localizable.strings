@@ -18,6 +18,7 @@
 "Aktuelle Nachrichten aus Zürich." = "Останні новини з Цюриха.";
 "Alle" = "Усі";
 "Alle anzeigen" = "Показати усі";
+"Alles über Züri, ganz einfach." = "Все про Цюрих, зовсім просто.";
 "Älteste zuerst" = "Спочатку старі";
 "Altöl" = "Відпрацьована олива";
 "Am See" = "Біля озера";
@@ -91,6 +92,7 @@
 "Erlebe Festivals, Sport und Kultur." = "Дивись фестивалі, спорт та культуру.";
 "Erneut versuchen" = "Спробувати ще раз";
 "Es ist ein Fehler aufgetreten. Bitte versuche es erneut." = "Сталася помилка. Будь ласка, спробуй ще раз.";
+"Events und News" = "Події та новини";
 "Fanartikel kaufen" = "Купити мерч";
 "Fertig" = "Готово";
 "Feuerstelle" = "Місце для багаття";
@@ -228,6 +230,7 @@
 "Original anzeigen" = "Показати оригінал";
 "Orte" = "Місця";
 "Orte filtern" = "Фільтрувати місця";
+"Orte in deiner Nähe" = "Місця поруч із тобою";
 "Orte in der Nähe" = "Місця поблизу";
 "Orte in der Nähe sind nur in %@ verfügbar" = "Місця поблизу доступні лише в %@";
 "Orte suchen" = "Шукати місця";
@@ -247,6 +250,7 @@
 "Push-Benachrichtigungen" = "Push-сповіщення";
 "Rechtliches" = "Правова інформація";
 "Recycling" = "Переробка";
+"Recycling-Termine" = "Дати переробки";
 "Region" = "Регіон";
 "Relevanz" = "Актуальність";
 "Restaurant" = "Ресторан";
@@ -273,6 +277,8 @@
 "Sport" = "Спорт";
 "Sportplatz" = "Спортивний майданчик";
 "Sprache" = "Мова";
+"Sprache ändern" = "Змінити мову";
+"Sprache: %@" = "Мова: %@";
 "Standortberechtigung konfigurieren." = "Налаштувати дозвіл на доступ до геопозиції.";
 "Standortberechtigung noch nicht angefordert" = "Дозвіл на доступ до геопозиції ще не запитано";
 "Standortdetails konnten nicht geladen werden." = "Не вдалося завантажити деталі геопозиції.";

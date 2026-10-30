@@ -18,6 +18,7 @@
 "Aktuelle Nachrichten aus Zürich." = "חדשות עדכניות מציריך.";
 "Alle" = "הכול";
 "Alle anzeigen" = "להציג הכול";
+"Alles über Züri, ganz einfach." = "הכול על ציריך, בפשטות.";
 "Älteste zuerst" = "הישנים תחילה";
 "Altöl" = "שמן משומש";
 "Am See" = "ליד האגם";
@@ -91,6 +92,7 @@
 "Erlebe Festivals, Sport und Kultur." = "תהנה מפסטיבלים, ספורט ותרבות.";
 "Erneut versuchen" = "לנסות שוב";
 "Es ist ein Fehler aufgetreten. Bitte versuche es erneut." = "אירעה שגיאה. אנא נסה שוב.";
+"Events und News" = "אירועים וחדשות";
 "Fanartikel kaufen" = "לקנות מרצ'נדייז";
 "Fertig" = "בוצע";
 "Feuerstelle" = "פינת מדורה";
@@ -228,6 +230,7 @@
 "Original anzeigen" = "להציג את המקור";
 "Orte" = "מקומות";
 "Orte filtern" = "סינון מקומות";
+"Orte in deiner Nähe" = "מקומות בקרבתך";
 "Orte in der Nähe" = "מקומות בסביבה";
 "Orte in der Nähe sind nur in %@ verfügbar" = "מקומות בסביבה זמינים רק ב-%@";
 "Orte suchen" = "חיפוש מקומות";
@@ -247,6 +250,7 @@
 "Push-Benachrichtigungen" = "התראות דחיפה";
 "Rechtliches" = "הערות משפטיות";
 "Recycling" = "מיחזור";
+"Recycling-Termine" = "תאריכי מיחזור";
 "Region" = "אזור";
 "Relevanz" = "רלוונטיות";
 "Restaurant" = "מסעדה";
@@ -273,6 +277,8 @@
 "Sport" = "ספורט";
 "Sportplatz" = "מגרש ספורט";
 "Sprache" = "שפה";
+"Sprache ändern" = "שינוי שפה";
+"Sprache: %@" = "שפה: %@";
 "Standortberechtigung konfigurieren." = "הגדרת הרשאת מיקום.";
 "Standortberechtigung noch nicht angefordert" = "הרשאת מיקום טרם התבקשה";
 "Standortdetails konnten nicht geladen werden." = "לא ניתן היה לטעון את פרטי המיקום.";

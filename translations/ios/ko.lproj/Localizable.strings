@@ -18,6 +18,7 @@
 "Aktuelle Nachrichten aus Zürich." = "취리히의 최신 뉴스.";
 "Alle" = "전체";
 "Alle anzeigen" = "전체 보기";
+"Alles über Züri, ganz einfach." = "취리히에 관한 모든 것, 아주 간편하게.";
 "Älteste zuerst" = "오래된 순";
 "Altöl" = "폐유";
 "Am See" = "호숫가";
@@ -91,6 +92,7 @@
 "Erlebe Festivals, Sport und Kultur." = "축제, 스포츠, 문화를 만나보세요.";
 "Erneut versuchen" = "다시 시도하기";
 "Es ist ein Fehler aufgetreten. Bitte versuche es erneut." = "오류가 발생했어요. 다시 시도해 주세요.";
+"Events und News" = "이벤트 및 뉴스";
 "Fanartikel kaufen" = "굿즈 구매하기";
 "Fertig" = "완료";
 "Feuerstelle" = "모닥불터";
@@ -228,6 +230,7 @@
 "Original anzeigen" = "원본 보기";
 "Orte" = "장소";
 "Orte filtern" = "장소 필터링";
+"Orte in deiner Nähe" = "주변 장소";
 "Orte in der Nähe" = "주변 장소";
 "Orte in der Nähe sind nur in %@ verfügbar" = "주변 장소는 %@에서만 이용할 수 있어요";
 "Orte suchen" = "장소 검색";
@@ -247,6 +250,7 @@
 "Push-Benachrichtigungen" = "푸시 알림";
 "Rechtliches" = "법적 고지";
 "Recycling" = "재활용";
+"Recycling-Termine" = "재활용 일정";
 "Region" = "지역";
 "Relevanz" = "관련성";
 "Restaurant" = "레스토랑";
@@ -273,6 +277,8 @@
 "Sport" = "스포츠";
 "Sportplatz" = "운동장";
 "Sprache" = "언어";
+"Sprache ändern" = "언어 변경";
+"Sprache: %@" = "언어: %@";
 "Standortberechtigung konfigurieren." = "위치 권한을 설정해요.";
 "Standortberechtigung noch nicht angefordert" = "위치 권한을 아직 요청하지 않았어요";
 "Standortdetails konnten nicht geladen werden." = "위치 세부 정보를 불러올 수 없어요.";

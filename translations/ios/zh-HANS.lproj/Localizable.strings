@@ -18,6 +18,7 @@
 "Aktuelle Nachrichten aus Zürich." = "来自苏黎世的最新新闻。";
 "Alle" = "全部";
 "Alle anzeigen" = "显示全部";
+"Alles über Züri, ganz einfach." = "关于苏黎世的一切，轻松简单。";
 "Älteste zuerst" = "最早发布优先";
 "Altöl" = "废油";
 "Am See" = "在湖边";
@@ -91,6 +92,7 @@
 "Erlebe Festivals, Sport und Kultur." = "了解节日、体育和文化。";
 "Erneut versuchen" = "重试";
 "Es ist ein Fehler aufgetreten. Bitte versuche es erneut." = "发生错误。请重试。";
+"Events und News" = "活动与新闻";
 "Fanartikel kaufen" = "购买周边";
 "Fertig" = "完成";
 "Feuerstelle" = "篝火台";
@@ -228,6 +230,7 @@
 "Original anzeigen" = "显示原文";
 "Orte" = "地点";
 "Orte filtern" = "筛选地点";
+"Orte in deiner Nähe" = "你附近的地点";
 "Orte in der Nähe" = "附近地点";
 "Orte in der Nähe sind nur in %@ verfügbar" = "附近地点仅在 %@ 可用";
 "Orte suchen" = "搜索地点";
@@ -247,6 +250,7 @@
 "Push-Benachrichtigungen" = "推送通知";
 "Rechtliches" = "法律信息";
 "Recycling" = "回收";
+"Recycling-Termine" = "回收日期";
 "Region" = "区域";
 "Relevanz" = "相关性";
 "Restaurant" = "餐厅";
@@ -273,6 +277,8 @@
 "Sport" = "体育";
 "Sportplatz" = "运动场";
 "Sprache" = "语言";
+"Sprache ändern" = "更改语言";
+"Sprache: %@" = "语言：%@";
 "Standortberechtigung konfigurieren." = "配置位置权限。";
 "Standortberechtigung noch nicht angefordert" = "尚未请求位置权限";
 "Standortdetails konnten nicht geladen werden." = "无法加载位置详情。";

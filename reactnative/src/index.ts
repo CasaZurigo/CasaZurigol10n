@@ -32,7 +32,7 @@ const SUPPORTED_LANGUAGES = [
   "zh-hant",
 ] as const;
 
-type SupportedLanguage = (typeof SUPPORTED_LANGUAGES)[number];
+export type SupportedLanguage = (typeof SUPPORTED_LANGUAGES)[number];
 
 const DEFAULT_LOCALE: SupportedLanguage = "en";
 
@@ -71,7 +71,7 @@ function resolveLanguage(locale: string): SupportedLanguage {
     : DEFAULT_LOCALE;
 }
 
-function currentLanguage(): SupportedLanguage {
+export function currentLanguage(): SupportedLanguage {
   return resolveLanguage(getLocales()[0]?.languageTag ?? DEFAULT_LOCALE);
 }
 

@@ -18,6 +18,7 @@
 "Aktuelle Nachrichten aus Zürich." = "Latest news from Zürich.";
 "Alle" = "All";
 "Alle anzeigen" = "Show all";
+"Alles über Züri, ganz einfach." = "Everything about Zürich, made simple.";
 "Älteste zuerst" = "Oldest first";
 "Altöl" = "Used oil";
 "Am See" = "By the lake";
@@ -91,6 +92,7 @@
 "Erlebe Festivals, Sport und Kultur." = "See festivals, sports, and culture.";
 "Erneut versuchen" = "Try again";
 "Es ist ein Fehler aufgetreten. Bitte versuche es erneut." = "An error has occurred. Please try again.";
+"Events und News" = "Events and news";
 "Fanartikel kaufen" = "Buy merch";
 "Fertig" = "Done";
 "Feuerstelle" = "Fire pit";
@@ -228,6 +230,7 @@
 "Original anzeigen" = "Show original";
 "Orte" = "Places";
 "Orte filtern" = "Filter places";
+"Orte in deiner Nähe" = "Places near you";
 "Orte in der Nähe" = "Nearby places";
 "Orte in der Nähe sind nur in %@ verfügbar" = "Nearby places are only available in %@";
 "Orte suchen" = "Search places";
@@ -247,6 +250,7 @@
 "Push-Benachrichtigungen" = "Push notifications";
 "Rechtliches" = "Legal information";
 "Recycling" = "Recycling";
+"Recycling-Termine" = "Recycling dates";
 "Region" = "Region";
 "Relevanz" = "Relevance";
 "Restaurant" = "Restaurant";
@@ -273,6 +277,8 @@
 "Sport" = "Sports";
 "Sportplatz" = "Sports field";
 "Sprache" = "Language";
+"Sprache ändern" = "Change language";
+"Sprache: %@" = "Language: %@";
 "Standortberechtigung konfigurieren." = "Configure location permission.";
 "Standortberechtigung noch nicht angefordert" = "Location permission not yet requested";
 "Standortdetails konnten nicht geladen werden." = "Location details could not be loaded.";

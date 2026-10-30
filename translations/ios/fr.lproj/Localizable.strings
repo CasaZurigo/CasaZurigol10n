@@ -18,6 +18,7 @@
 "Aktuelle Nachrichten aus Zürich." = "Dernières actualités de Zurich.";
 "Alle" = "Tout";
 "Alle anzeigen" = "Tout afficher";
+"Alles über Züri, ganz einfach." = "Tout sur Zurich, tout simplement.";
 "Älteste zuerst" = "Les plus anciens d'abord";
 "Altöl" = "Huile usagée";
 "Am See" = "Au bord du lac";
@@ -91,6 +92,7 @@
 "Erlebe Festivals, Sport und Kultur." = "Découvre festivals, sports et culture.";
 "Erneut versuchen" = "Réessayer";
 "Es ist ein Fehler aufgetreten. Bitte versuche es erneut." = "Une erreur s'est produite. Essaie à nouveau, s'il te plaît.";
+"Events und News" = "Événements et actualités";
 "Fanartikel kaufen" = "Acheter des produits dérivés";
 "Fertig" = "Terminé";
 "Feuerstelle" = "Foyer";
@@ -228,6 +230,7 @@
 "Original anzeigen" = "Afficher l'original";
 "Orte" = "Lieux";
 "Orte filtern" = "Filtrer les lieux";
+"Orte in deiner Nähe" = "Lieux près de chez toi";
 "Orte in der Nähe" = "Lieux à proximité";
 "Orte in der Nähe sind nur in %@ verfügbar" = "Les lieux à proximité ne sont disponibles qu'à %@";
 "Orte suchen" = "Rechercher des lieux";
@@ -247,6 +250,7 @@
 "Push-Benachrichtigungen" = "Notifications push";
 "Rechtliches" = "Mentions légales";
 "Recycling" = "Recyclage";
+"Recycling-Termine" = "Dates de recyclage";
 "Region" = "Région";
 "Relevanz" = "Pertinence";
 "Restaurant" = "Restaurant";
@@ -273,6 +277,8 @@
 "Sport" = "Sport";
 "Sportplatz" = "Terrain de sport";
 "Sprache" = "Langue";
+"Sprache ändern" = "Changer de langue";
+"Sprache: %@" = "Langue : %@";
 "Standortberechtigung konfigurieren." = "Configurer l'autorisation d'accès à la position.";
 "Standortberechtigung noch nicht angefordert" = "Autorisation d'accès à la position pas encore demandée";
 "Standortdetails konnten nicht geladen werden." = "Les détails de la position n'ont pas pu être chargés.";

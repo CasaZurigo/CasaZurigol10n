@@ -18,6 +18,7 @@
 "Aktuelle Nachrichten aus Zürich." = "Aktuelle Nachrichten aus Zürich.";
 "Alle" = "Alle";
 "Alle anzeigen" = "Alle anzeigen";
+"Alles über Züri, ganz einfach." = "Alles über Züri, ganz einfach.";
 "Älteste zuerst" = "Älteste zuerst";
 "Altöl" = "Altöl";
 "Am See" = "Am See";
@@ -91,6 +92,7 @@
 "Erlebe Festivals, Sport und Kultur." = "Erlebe Festivals, Sport und Kultur.";
 "Erneut versuchen" = "Erneut versuchen";
 "Es ist ein Fehler aufgetreten. Bitte versuche es erneut." = "Es ist ein Fehler aufgetreten. Bitte versuche es erneut.";
+"Events und News" = "Events und News";
 "Fanartikel kaufen" = "Fanartikel kaufen";
 "Fertig" = "Fertig";
 "Feuerstelle" = "Feuerstelle";
@@ -228,6 +230,7 @@
 "Original anzeigen" = "Original anzeigen";
 "Orte" = "Orte";
 "Orte filtern" = "Orte filtern";
+"Orte in deiner Nähe" = "Orte in deiner Nähe";
 "Orte in der Nähe" = "Orte in der Nähe";
 "Orte in der Nähe sind nur in %@ verfügbar" = "Orte in der Nähe sind nur in %@ verfügbar";
 "Orte suchen" = "Orte suchen";
@@ -247,6 +250,7 @@
 "Push-Benachrichtigungen" = "Push-Benachrichtigungen";
 "Rechtliches" = "Rechtliches";
 "Recycling" = "Recycling";
+"Recycling-Termine" = "Recycling-Termine";
 "Region" = "Region";
 "Relevanz" = "Relevanz";
 "Restaurant" = "Restaurant";
@@ -273,6 +277,8 @@
 "Sport" = "Sport";
 "Sportplatz" = "Sportplatz";
 "Sprache" = "Sprache";
+"Sprache ändern" = "Sprache ändern";
+"Sprache: %@" = "Sprache: %@";
 "Standortberechtigung konfigurieren." = "Standortberechtigung konfigurieren.";
 "Standortberechtigung noch nicht angefordert" = "Standortberechtigung noch nicht angefordert";
 "Standortdetails konnten nicht geladen werden." = "Standortdetails konnten nicht geladen werden.";

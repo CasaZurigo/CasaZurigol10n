@@ -18,6 +18,7 @@
 "Aktuelle Nachrichten aus Zürich." = "Zürih'ten son haberler.";
 "Alle" = "Tümü";
 "Alle anzeigen" = "Tümünü göster";
+"Alles über Züri, ganz einfach." = "Zürih hakkında her şey, çok basit.";
 "Älteste zuerst" = "Önce en eski";
 "Altöl" = "Atık yağ";
 "Am See" = "Göl kenarında";
@@ -91,6 +92,7 @@
 "Erlebe Festivals, Sport und Kultur." = "Festivalleri, spor etkinliklerini ve kültürel etkinlikleri gör.";
 "Erneut versuchen" = "Tekrar dene";
 "Es ist ein Fehler aufgetreten. Bitte versuche es erneut." = "Bir hata oluştu. Lütfen tekrar dene.";
+"Events und News" = "Etkinlikler ve haberler";
 "Fanartikel kaufen" = "Ürünleri satın al";
 "Fertig" = "Bitti";
 "Feuerstelle" = "Ateş yeri";
@@ -228,6 +230,7 @@
 "Original anzeigen" = "Orijinali göster";
 "Orte" = "Yerler";
 "Orte filtern" = "Yerleri filtrele";
+"Orte in deiner Nähe" = "Yakınındaki yerler";
 "Orte in der Nähe" = "Yakındaki yerler";
 "Orte in der Nähe sind nur in %@ verfügbar" = "Yakındaki yerler yalnızca %@'da mevcut";
 "Orte suchen" = "Yer ara";
@@ -247,6 +250,7 @@
 "Push-Benachrichtigungen" = "Push bildirimleri";
 "Rechtliches" = "Yasal bilgiler";
 "Recycling" = "Geri dönüşüm";
+"Recycling-Termine" = "Geri dönüşüm tarihleri";
 "Region" = "Bölge";
 "Relevanz" = "Alaka";
 "Restaurant" = "Restoran";
@@ -273,6 +277,8 @@
 "Sport" = "Spor";
 "Sportplatz" = "Spor sahası";
 "Sprache" = "Dil";
+"Sprache ändern" = "Dili değiştir";
+"Sprache: %@" = "Dil: %@";
 "Standortberechtigung konfigurieren." = "Konum iznini yapılandır.";
 "Standortberechtigung noch nicht angefordert" = "Konum izni henüz talep edilmedi";
 "Standortdetails konnten nicht geladen werden." = "Konum ayrıntıları yüklenemedi.";

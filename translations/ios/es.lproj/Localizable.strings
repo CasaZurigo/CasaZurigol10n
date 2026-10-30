@@ -18,6 +18,7 @@
 "Aktuelle Nachrichten aus Zürich." = "Últimas noticias de Zúrich.";
 "Alle" = "Todo";
 "Alle anzeigen" = "Mostrar todo";
+"Alles über Züri, ganz einfach." = "Todo sobre Zúrich, muy fácil.";
 "Älteste zuerst" = "Más antiguos primero";
 "Altöl" = "Aceite usado";
 "Am See" = "Junto al lago";
@@ -91,6 +92,7 @@
 "Erlebe Festivals, Sport und Kultur." = "Descubre festivales, deportes y cultura.";
 "Erneut versuchen" = "Volver a intentar";
 "Es ist ein Fehler aufgetreten. Bitte versuche es erneut." = "Se ha producido un error. Inténtalo de nuevo, por favor.";
+"Events und News" = "Eventos y noticias";
 "Fanartikel kaufen" = "Comprar merchandising";
 "Fertig" = "OK";
 "Feuerstelle" = "Fogón";
@@ -228,6 +230,7 @@
 "Original anzeigen" = "Mostrar original";
 "Orte" = "Lugares";
 "Orte filtern" = "Filtrar lugares";
+"Orte in deiner Nähe" = "Lugares cerca de ti";
 "Orte in der Nähe" = "Lugares cerca";
 "Orte in der Nähe sind nur in %@ verfügbar" = "Los lugares cercanos solo están disponibles en %@";
 "Orte suchen" = "Buscar lugares";
@@ -247,6 +250,7 @@
 "Push-Benachrichtigungen" = "Notificaciones push";
 "Rechtliches" = "Aviso legal";
 "Recycling" = "Reciclaje";
+"Recycling-Termine" = "Fechas de reciclaje";
 "Region" = "Región";
 "Relevanz" = "Relevancia";
 "Restaurant" = "Restaurante";
@@ -273,6 +277,8 @@
 "Sport" = "Deporte";
 "Sportplatz" = "Campo de deportes";
 "Sprache" = "Idioma";
+"Sprache ändern" = "Cambiar idioma";
+"Sprache: %@" = "Idioma: %@";
 "Standortberechtigung konfigurieren." = "Configurar el permiso de ubicación.";
 "Standortberechtigung noch nicht angefordert" = "Aún no se ha solicitado el permiso de ubicación";
 "Standortdetails konnten nicht geladen werden." = "No se han podido cargar los detalles de la ubicación.";

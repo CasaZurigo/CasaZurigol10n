@@ -49,6 +49,25 @@
   },
   "glossary": [
     {
+      "term": "Züri",
+      "note": "Swiss German short name of the city",
+      "translations": {
+        "en": "Zürich",
+        "fr": "Zurich",
+        "es": "Zúrich",
+        "it": "Zurigo",
+        "pt-PT": "Zurique",
+        "pl": "Zurych",
+        "tr": "Zürih",
+        "ru": "Цюрих",
+        "uk": "Цюрих",
+        "he": "ציריך",
+        "ko": "취리히",
+        "zh-HANS": "苏黎世",
+        "zh-HANT": "蘇黎世"
+      }
+    },
+    {
       "term": "Zürich",
       "note": "the city",
       "translations": {
