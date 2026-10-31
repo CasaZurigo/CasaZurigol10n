@@ -384,6 +384,44 @@
       }
     },
     {
+      "term": "Rollstuhl-WC",
+      "note": "the wheelchair-accessible toilet at a public toilet, a short row label",
+      "translations": {
+        "en": "Accessible toilet",
+        "fr": "WC accessible",
+        "es": "Baño accesible",
+        "it": "Bagno accessibile",
+        "pt-PT": "WC acessível",
+        "pl": "WC dla niepełnosprawnych",
+        "tr": "Engelli tuvaleti",
+        "ru": "Туалет для инвалидов",
+        "uk": "Безбар'єрний туалет",
+        "he": "שירותי נכים",
+        "ko": "장애인 화장실",
+        "zh-HANS": "无障碍厕所",
+        "zh-HANT": "無障礙廁所"
+      }
+    },
+    {
+      "term": "Eurokey",
+      "note": "the European key that opens accessible toilets; a name, keep it",
+      "translations": {
+        "en": "Eurokey",
+        "fr": "Eurokey",
+        "es": "Eurokey",
+        "it": "Eurokey",
+        "pt-PT": "Eurokey",
+        "pl": "Eurokey",
+        "tr": "Eurokey",
+        "ru": "Eurokey",
+        "uk": "Eurokey",
+        "he": "Eurokey",
+        "ko": "Eurokey",
+        "zh-HANS": "Eurokey",
+        "zh-HANT": "Eurokey"
+      }
+    },
+    {
       "term": "Baustelle",
       "note": "a construction site",
       "translations": {
