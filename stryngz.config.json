@@ -43,1097 +43,1105 @@
     { "provider": "google-translate" }
   ],
   "refiner": {
-    "provider": "google-ai",
-    "model": "gemini-3.8-flash",
-    "systemPrompt": "You are a professional translator and localization expert. The source language is Swiss Standard German (Schweizer Hochdeutsch). Translate from that German source into the target language. Keep the meaning exact. German is the source because it names things more specifically than English. Use a direct, personal, informal tone. Address the user in the familiar form, never the formal form. The German source never uses ß. It always writes ss. It prefers Swiss terms over German-German ones. Match that local Swiss vocabulary in the target when a local equivalent exists. Action labels written as a German infinitive use the infinitive in fr, es, pt-PT, ru and uk and the imperative in it, pl and tr, and a German imperative stays an imperative in those languages; en, he, ko, zh-HANS and zh-HANT keep their usual UI form for buttons. A German infinitive ending in a question mark asks the user to confirm, so phrase it as a natural yes or no question, not as an action label. In Hebrew, use full spelling, address the user in the masculine singular, never in the plural, never use niqqud, phrase the developer's first-person sentences without gendered verb forms, and write German infinitive labels as an infinitive or an action noun, while German imperatives stay imperatives. In Korean, write every sentence in the polite 해요체 (-요); never use 반말, -습니다, 당신, or honorific address terms, and leave the word you implicit. In Turkish, never attach a case suffix to a placeholder, because its vowel depends on the value, so phrase around it instead, and separate a suffix from a capitalized name with an apostrophe. Use sentence case in every language: capitalize only the first word, proper nouns, app names, and words the language's grammar capitalizes. When the source starts lowercase, it continues other text, so start the translation lowercase too. Preserve placeholders exactly as they appear. Preserve escape sequences. Use the same trailing punctuation as the source. Return ONLY the translated text. No explanations. No quotes."
+    "model": "google/gemini-3.8-flash"
   },
-  "glossary": [
-    {
-      "term": "Züri",
-      "note": "Swiss German short name of the city",
-      "translations": {
-        "en": "Zürich",
-        "fr": "Zurich",
-        "es": "Zúrich",
-        "it": "Zurigo",
-        "pt-PT": "Zurique",
-        "pl": "Zurych",
-        "tr": "Zürih",
-        "ru": "Цюрих",
-        "uk": "Цюрих",
-        "he": "ציריך",
-        "ko": "취리히",
-        "zh-HANS": "苏黎世",
-        "zh-HANT": "蘇黎世"
+  "context": {
+    "description": "CasaZurigo, a city guide app for Zürich (iOS and Android).",
+    "tone": "Use a direct, personal, informal tone. Address the user in the familiar form, never the formal form.",
+    "instructions": "The source language is Swiss Standard German (Schweizer Hochdeutsch). German is the source because it names things more specifically than English. The German source never uses ß. It always writes ss. It prefers Swiss terms over German-German ones. Match that local Swiss vocabulary in the target when a local equivalent exists. Action labels written as a German infinitive use the infinitive in fr, es, pt-PT, ru and uk and the imperative in it, pl and tr, and a German imperative stays an imperative in those languages; en, he, ko, zh-HANS and zh-HANT keep their usual UI form for buttons. A German infinitive ending in a question mark asks the user to confirm, so phrase it as a natural yes or no question, not as an action label. Use sentence case in every language: capitalize only the first word, proper nouns, app names, and words the language's grammar capitalizes. When the source starts lowercase, it continues other text, so start the translation lowercase too. Use the same trailing punctuation as the source.",
+    "glossary": [
+      {
+        "term": "Züri",
+        "note": "Swiss German short name of the city",
+        "translations": {
+          "en": "Zürich",
+          "fr": "Zurich",
+          "es": "Zúrich",
+          "it": "Zurigo",
+          "pt-PT": "Zurique",
+          "pl": "Zurych",
+          "tr": "Zürih",
+          "ru": "Цюрих",
+          "uk": "Цюрих",
+          "he": "ציריך",
+          "ko": "취리히",
+          "zh-HANS": "苏黎世",
+          "zh-HANT": "蘇黎世"
+        }
+      },
+      {
+        "term": "Zürich",
+        "note": "the city",
+        "translations": {
+          "en": "Zürich",
+          "fr": "Zurich",
+          "es": "Zúrich",
+          "it": "Zurigo",
+          "pt-PT": "Zurique",
+          "pl": "Zurych",
+          "tr": "Zürih",
+          "ru": "Цюрих",
+          "uk": "Цюрих",
+          "he": "ציריך",
+          "ko": "취리히",
+          "zh-HANS": "苏黎世",
+          "zh-HANT": "蘇黎世"
+        }
+      },
+      {
+        "term": "CasaZurich",
+        "note": "the app name",
+        "translations": {
+          "en": "CasaZurich",
+          "fr": "CasaZurich",
+          "es": "CasaZurich",
+          "it": "CasaZurich",
+          "pt-PT": "CasaZurich",
+          "pl": "CasaZurich",
+          "tr": "CasaZurich",
+          "ru": "CasaZurich",
+          "uk": "CasaZurich",
+          "he": "CasaZurich",
+          "ko": "CasaZurich",
+          "zh-HANS": "CasaZurich",
+          "zh-HANT": "CasaZurich"
+        }
+      },
+      {
+        "term": "Postleitzahl",
+        "translations": {
+          "en": "zip code",
+          "fr": "code postal",
+          "es": "código postal",
+          "it": "codice postale",
+          "pt-PT": "código postal",
+          "pl": "kod pocztowy",
+          "tr": "posta kodu",
+          "ru": "почтовый индекс",
+          "uk": "поштовий індекс",
+          "he": "מיקוד",
+          "ko": "우편번호",
+          "zh-HANS": "邮政编码",
+          "zh-HANT": "郵遞區號"
+        }
+      },
+      {
+        "term": "Startseite",
+        "note": "the Home tab, a name that keeps its capital letter",
+        "translations": {
+          "en": "Home",
+          "fr": "Accueil",
+          "es": "Inicio",
+          "it": "Home",
+          "pt-PT": "Início",
+          "pl": "Strona główna",
+          "tr": "Ana sayfa",
+          "ru": "Главная",
+          "uk": "Головна",
+          "he": "דף הבית",
+          "ko": "홈",
+          "zh-HANS": "首页",
+          "zh-HANT": "首頁"
+        }
+      },
+      {
+        "term": "Veranstaltung",
+        "translations": {
+          "en": "event",
+          "fr": "événement",
+          "es": "evento",
+          "it": "evento",
+          "pt-PT": "evento",
+          "pl": "wydarzenie",
+          "tr": "etkinlik",
+          "ru": "мероприятие",
+          "uk": "подія",
+          "he": "אירוע",
+          "ko": "행사",
+          "zh-HANS": "活动",
+          "zh-HANT": "活動"
+        }
+      },
+      {
+        "term": "Nachrichten or Neuigkeiten",
+        "translations": {
+          "en": "news",
+          "fr": "actualités",
+          "es": "noticias",
+          "it": "notizie",
+          "pt-PT": "notícias",
+          "pl": "aktualności",
+          "tr": "haberler",
+          "ru": "новости",
+          "uk": "новини",
+          "he": "חדשות",
+          "ko": "뉴스",
+          "zh-HANS": "新闻",
+          "zh-HANT": "新聞"
+        }
+      },
+      {
+        "term": "Benachrichtigung",
+        "translations": {
+          "en": "notification",
+          "fr": "notification",
+          "es": "notificación",
+          "it": "notifica",
+          "pt-PT": "notificação",
+          "pl": "powiadomienie",
+          "tr": "bildirim",
+          "ru": "уведомление",
+          "uk": "сповіщення",
+          "he": "התראה",
+          "ko": "알림",
+          "zh-HANS": "通知",
+          "zh-HANT": "通知"
+        }
+      },
+      {
+        "term": "Einstellungen",
+        "note": "the Settings screen or app, a name that keeps its capital letter; individual settings stay lowercase",
+        "translations": {
+          "en": "Settings",
+          "fr": "Réglages",
+          "es": "Ajustes",
+          "it": "Impostazioni",
+          "pt-PT": "Definições",
+          "pl": "Ustawienia",
+          "tr": "Ayarlar",
+          "ru": "Настройки",
+          "uk": "Налаштування",
+          "he": "הגדרות",
+          "ko": "설정",
+          "zh-HANS": "设置",
+          "zh-HANT": "設定"
+        }
+      },
+      {
+        "term": "Android-Einstellungen",
+        "note": "the Settings app on an Android phone",
+        "translations": {
+          "en": "Android Settings",
+          "fr": "Paramètres Android",
+          "es": "Ajustes de Android",
+          "it": "Impostazioni di Android",
+          "pt-PT": "Definições do Android",
+          "pl": "Ustawienia Androida",
+          "tr": "Android Ayarları",
+          "ru": "Настройки Android",
+          "uk": "Налаштування Android",
+          "he": "הגדרות Android",
+          "ko": "Android 설정",
+          "zh-HANS": "Android 设置",
+          "zh-HANT": "Android 設定"
+        }
+      },
+      {
+        "term": "Zusammenfassung",
+        "translations": {
+          "en": "summary",
+          "fr": "résumé",
+          "es": "resumen",
+          "it": "riepilogo",
+          "pt-PT": "resumo",
+          "pl": "podsumowanie",
+          "tr": "özet",
+          "ru": "обзор",
+          "uk": "огляд",
+          "he": "סיכום",
+          "ko": "요약",
+          "zh-HANS": "摘要",
+          "zh-HANT": "摘要"
+        }
+      },
+      {
+        "term": "Trinkgeld",
+        "translations": {
+          "en": "tip",
+          "fr": "pourboire",
+          "es": "propina",
+          "it": "mancia",
+          "pt-PT": "gorjeta",
+          "pl": "napiwek",
+          "tr": "bahşiş",
+          "ru": "чаевые",
+          "uk": "чайові",
+          "he": "טיפ",
+          "ko": "팁",
+          "zh-HANS": "小费",
+          "zh-HANT": "小費"
+        }
+      },
+      {
+        "term": "Velo",
+        "translations": {
+          "en": "bike",
+          "fr": "vélo",
+          "es": "bicicleta",
+          "it": "bicicletta",
+          "pt-PT": "bicicleta",
+          "pl": "rower",
+          "tr": "bisiklet",
+          "ru": "велосипед",
+          "uk": "велосипед",
+          "he": "אופניים",
+          "ko": "자전거",
+          "zh-HANS": "自行车",
+          "zh-HANT": "自行車"
+        }
+      },
+      {
+        "term": "Startbildschirm",
+        "note": "the phone's home screen, where widgets live, not the app's Home tab",
+        "translations": {
+          "en": "home screen",
+          "fr": "écran d'accueil",
+          "es": "pantalla de inicio",
+          "it": "schermata Home",
+          "pt-PT": "ecrã principal",
+          "pl": "ekran główny",
+          "tr": "ana ekran",
+          "ru": "экран «Домой»",
+          "uk": "екран «Додому»",
+          "he": "מסך הבית",
+          "ko": "홈 화면",
+          "zh-HANS": "主屏幕",
+          "zh-HANT": "主畫面"
+        }
+      },
+      {
+        "term": "Abschnitt",
+        "note": "a section of the Home tab",
+        "translations": {
+          "en": "section",
+          "fr": "section",
+          "es": "sección",
+          "it": "sezione",
+          "pt-PT": "secção",
+          "pl": "sekcja",
+          "tr": "bölüm",
+          "ru": "раздел",
+          "uk": "розділ",
+          "he": "מקטע",
+          "ko": "섹션",
+          "zh-HANS": "板块",
+          "zh-HANT": "區塊"
+        }
+      },
+      {
+        "term": "Abholung",
+        "note": "waste and recycling collection, never parcel pickup",
+        "translations": {
+          "en": "collection",
+          "fr": "collecte",
+          "es": "recogida",
+          "it": "raccolta",
+          "pt-PT": "recolha",
+          "pl": "odbiór",
+          "tr": "toplama",
+          "ru": "вывоз",
+          "uk": "вивезення",
+          "he": "איסוף",
+          "ko": "수거",
+          "zh-HANS": "清运",
+          "zh-HANT": "清運"
+        }
+      },
+      {
+        "term": "Recyclingtermin",
+        "note": "a waste collection date",
+        "translations": {
+          "en": "collection date",
+          "fr": "date de collecte",
+          "es": "fecha de recogida",
+          "it": "data di raccolta",
+          "pt-PT": "data de recolha",
+          "pl": "termin odbioru",
+          "tr": "toplama tarihi",
+          "ru": "дата вывоза",
+          "uk": "дата вивезення",
+          "he": "מועד איסוף",
+          "ko": "수거일",
+          "zh-HANS": "回收日期",
+          "zh-HANT": "回收日期"
+        }
+      },
+      {
+        "term": "Toilette",
+        "note": "a public toilet",
+        "translations": {
+          "en": "toilet",
+          "fr": "toilettes",
+          "es": "baño",
+          "it": "bagno",
+          "pt-PT": "casa de banho",
+          "pl": "toaleta",
+          "tr": "tuvalet",
+          "ru": "туалет",
+          "uk": "туалет",
+          "he": "שירותים",
+          "ko": "화장실",
+          "zh-HANS": "厕所",
+          "zh-HANT": "廁所"
+        }
+      },
+      {
+        "term": "Rollstuhl-WC",
+        "note": "the wheelchair-accessible toilet at a public toilet, a short row label",
+        "translations": {
+          "en": "Accessible toilet",
+          "fr": "WC accessible",
+          "es": "Baño accesible",
+          "it": "Bagno accessibile",
+          "pt-PT": "WC acessível",
+          "pl": "WC dla niepełnosprawnych",
+          "tr": "Engelli tuvaleti",
+          "ru": "Туалет для инвалидов",
+          "uk": "Безбар'єрний туалет",
+          "he": "שירותי נכים",
+          "ko": "장애인 화장실",
+          "zh-HANS": "无障碍厕所",
+          "zh-HANT": "無障礙廁所"
+        }
+      },
+      {
+        "term": "Eurokey",
+        "note": "the European key that opens accessible toilets; a name, keep it",
+        "translations": {
+          "en": "Eurokey",
+          "fr": "Eurokey",
+          "es": "Eurokey",
+          "it": "Eurokey",
+          "pt-PT": "Eurokey",
+          "pl": "Eurokey",
+          "tr": "Eurokey",
+          "ru": "Eurokey",
+          "uk": "Eurokey",
+          "he": "Eurokey",
+          "ko": "Eurokey",
+          "zh-HANS": "Eurokey",
+          "zh-HANT": "Eurokey"
+        }
+      },
+      {
+        "term": "Baustelle",
+        "note": "a construction site",
+        "translations": {
+          "en": "construction site",
+          "fr": "chantier",
+          "es": "obra",
+          "it": "cantiere",
+          "pt-PT": "obra",
+          "pl": "budowa",
+          "tr": "şantiye",
+          "ru": "стройка",
+          "uk": "будівництво",
+          "he": "אתר בנייה",
+          "ko": "공사 현장",
+          "zh-HANS": "工地",
+          "zh-HANT": "工地"
+        }
+      },
+      {
+        "term": "Fanartikel",
+        "translations": {
+          "en": "merch",
+          "fr": "produits dérivés",
+          "es": "merchandising",
+          "it": "merchandising",
+          "pt-PT": "merchandising",
+          "pl": "gadżety",
+          "tr": "ürünler",
+          "ru": "мерч",
+          "uk": "мерч",
+          "he": "מרצ'נדייז",
+          "ko": "굿즈",
+          "zh-HANS": "周边",
+          "zh-HANT": "周邊"
+        }
+      },
+      {
+        "term": "anzeigen",
+        "note": "show on screen",
+        "translations": {
+          "en": "show",
+          "fr": "afficher",
+          "es": "mostrar",
+          "it": "mostrare",
+          "pt-PT": "mostrar",
+          "pl": "pokazać",
+          "tr": "göstermek",
+          "ru": "показать",
+          "uk": "показати",
+          "he": "להציג",
+          "ko": "보기",
+          "zh-HANS": "显示",
+          "zh-HANT": "顯示"
+        }
+      },
+      {
+        "term": "in der Nähe or in deiner Nähe",
+        "note": "nearby",
+        "translations": {
+          "en": "nearby",
+          "fr": "à proximité",
+          "es": "cerca or cercano",
+          "it": "nelle vicinanze",
+          "pt-PT": "nas proximidades",
+          "pl": "w pobliżu",
+          "tr": "yakında",
+          "ru": "поблизости",
+          "uk": "поблизу",
+          "he": "בסביבה",
+          "ko": "주변",
+          "zh-HANS": "附近",
+          "zh-HANT": "附近"
+        }
+      },
+      {
+        "term": "Cache leeren",
+        "note": "clear the cache",
+        "translations": {
+          "en": "clear the cache",
+          "fr": "vider le cache",
+          "es": "borrar la caché",
+          "it": "svuotare la cache",
+          "pt-PT": "limpar a cache",
+          "pl": "wyczyścić pamięć podręczną",
+          "tr": "önbelleği temizlemek",
+          "ru": "очистить кэш",
+          "uk": "очистити кеш",
+          "he": "לרוקן את המטמון",
+          "ko": "캐시 지우기",
+          "zh-HANS": "清除缓存",
+          "zh-HANT": "清除快取"
+        }
+      },
+      {
+        "term": "Kundenservice",
+        "translations": {
+          "en": "customer service",
+          "fr": "service client",
+          "es": "atención al cliente",
+          "it": "assistenza clienti",
+          "pt-PT": "apoio ao cliente",
+          "pl": "obsługa klienta",
+          "tr": "müşteri hizmetleri",
+          "ru": "служба поддержки",
+          "uk": "служба підтримки",
+          "he": "שירות לקוחות",
+          "ko": "고객 지원",
+          "zh-HANS": "客户服务",
+          "zh-HANT": "客戶服務"
+        }
+      },
+      {
+        "term": "Chat",
+        "note": "a conversation with the assistant",
+        "translations": {
+          "en": "chat",
+          "fr": "conversation",
+          "es": "chat",
+          "it": "chat",
+          "pt-PT": "conversa",
+          "pl": "czat",
+          "tr": "sohbet",
+          "ru": "чат",
+          "uk": "чат",
+          "he": "צ'אט",
+          "ko": "채팅",
+          "zh-HANS": "对话",
+          "zh-HANT": "對話"
+        }
+      },
+      {
+        "term": "Kalender",
+        "translations": {
+          "en": "calendar",
+          "fr": "calendrier",
+          "es": "calendario",
+          "it": "calendario",
+          "pt-PT": "calendário",
+          "pl": "kalendarz",
+          "tr": "takvim",
+          "ru": "календарь",
+          "uk": "календар",
+          "he": "יומן",
+          "ko": "캘린더",
+          "zh-HANS": "日历",
+          "zh-HANT": "行事曆"
+        }
+      },
+      {
+        "term": "Zugriff",
+        "note": "access permission",
+        "translations": {
+          "en": "access",
+          "fr": "accès",
+          "es": "acceso",
+          "it": "accesso",
+          "pt-PT": "acesso",
+          "pl": "dostęp",
+          "tr": "erişim",
+          "ru": "доступ",
+          "uk": "доступ",
+          "he": "גישה",
+          "ko": "접근",
+          "zh-HANS": "访问",
+          "zh-HANT": "存取"
+        }
+      },
+      {
+        "term": "suchen",
+        "note": "search",
+        "translations": {
+          "en": "search",
+          "fr": "rechercher",
+          "es": "buscar",
+          "it": "cercare",
+          "pt-PT": "pesquisar",
+          "pl": "szukać",
+          "tr": "aramak",
+          "ru": "искать",
+          "uk": "шукати",
+          "he": "לחפש",
+          "ko": "검색",
+          "zh-HANS": "搜索",
+          "zh-HANT": "搜尋"
+        }
+      },
+      {
+        "term": "entdecken",
+        "note": "discover",
+        "translations": {
+          "en": "discover",
+          "fr": "découvrir",
+          "es": "descubrir",
+          "it": "scoprire",
+          "pt-PT": "descobrir",
+          "pl": "odkryć",
+          "tr": "keşfetmek",
+          "ru": "открывать",
+          "uk": "відкривати",
+          "he": "לגלות",
+          "ko": "둘러보다",
+          "zh-HANS": "探索",
+          "zh-HANT": "探索"
+        }
+      },
+      {
+        "term": "Alle",
+        "note": "all items",
+        "translations": {
+          "en": "all",
+          "fr": "tout",
+          "es": "todo",
+          "it": "tutto",
+          "pt-PT": "todos",
+          "pl": "wszystko",
+          "tr": "tümü",
+          "ru": "все",
+          "uk": "усі",
+          "he": "הכול",
+          "ko": "전체",
+          "zh-HANS": "全部",
+          "zh-HANT": "全部"
+        }
+      },
+      {
+        "term": "Karten",
+        "note": "the button that opens the maps app",
+        "translations": {
+          "en": "Maps",
+          "fr": "Plans",
+          "es": "Mapas",
+          "it": "Mappe",
+          "pt-PT": "Mapas",
+          "pl": "Mapy",
+          "tr": "Haritalar",
+          "ru": "Карты",
+          "uk": "Карти",
+          "he": "מפות",
+          "ko": "지도",
+          "zh-HANS": "地图",
+          "zh-HANT": "地圖"
+        }
+      },
+      {
+        "term": "Bancomat",
+        "translations": {
+          "en": "ATM",
+          "fr": "bancomat",
+          "es": "cajero automático",
+          "it": "bancomat",
+          "pt-PT": "multibanco",
+          "pl": "bankomat",
+          "tr": "ATM",
+          "ru": "банкомат",
+          "uk": "банкомат",
+          "he": "כספומט",
+          "ko": "ATM",
+          "zh-HANS": "自动取款机",
+          "zh-HANT": "自動提款機"
+        }
+      },
+      {
+        "term": "App",
+        "translations": {
+          "en": "app",
+          "fr": "app",
+          "es": "app",
+          "it": "app",
+          "pt-PT": "app",
+          "pl": "aplikacja",
+          "tr": "uygulama",
+          "ru": "приложение",
+          "uk": "застосунок",
+          "he": "אפליקציה",
+          "ko": "앱",
+          "zh-HANS": "应用",
+          "zh-HANT": "App"
+        }
+      },
+      {
+        "term": "Luftqualität",
+        "translations": {
+          "en": "air quality",
+          "fr": "qualité de l'air",
+          "es": "calidad del aire",
+          "it": "qualità dell'aria",
+          "pt-PT": "qualidade do ar",
+          "pl": "jakość powietrza",
+          "tr": "hava kalitesi",
+          "ru": "качество воздуха",
+          "uk": "якість повітря",
+          "he": "איכות האוויר",
+          "ko": "공기질",
+          "zh-HANS": "空气质量",
+          "zh-HANT": "空氣品質"
+        }
+      },
+      {
+        "term": "tippen",
+        "note": "tap the screen",
+        "translations": {
+          "en": "tap",
+          "fr": "appuyer",
+          "es": "tocar",
+          "it": "toccare",
+          "pt-PT": "tocar",
+          "pl": "stuknąć",
+          "tr": "dokunmak",
+          "ru": "нажать",
+          "uk": "натиснути",
+          "he": "להקיש",
+          "ko": "탭하다",
+          "zh-HANS": "轻点",
+          "zh-HANT": "點一下"
+        }
+      },
+      {
+        "term": "Ort",
+        "note": "a place on the map",
+        "translations": {
+          "en": "place",
+          "fr": "lieu",
+          "es": "lugar",
+          "it": "luogo",
+          "pt-PT": "local",
+          "pl": "miejsce",
+          "tr": "yer",
+          "ru": "место",
+          "uk": "місце",
+          "he": "מקום",
+          "ko": "장소",
+          "zh-HANS": "地点",
+          "zh-HANT": "地點"
+        }
+      },
+      {
+        "term": "doppelte Orte",
+        "note": "the same place listed twice",
+        "translations": {
+          "en": "duplicate places",
+          "fr": "lieux en double",
+          "es": "lugares duplicados",
+          "it": "luoghi duplicati",
+          "pt-PT": "locais duplicados",
+          "pl": "powtarzające się miejsca",
+          "tr": "yinelenen yerler",
+          "ru": "повторяющиеся места",
+          "uk": "повторювані місця",
+          "he": "מקומות כפולים",
+          "ko": "중복된 장소",
+          "zh-HANS": "重复的地点",
+          "zh-HANT": "重複的地點"
+        }
+      },
+      {
+        "term": "Standort",
+        "note": "your own location",
+        "translations": {
+          "en": "location",
+          "fr": "position",
+          "es": "ubicación",
+          "it": "posizione",
+          "pt-PT": "localização",
+          "pl": "lokalizacja",
+          "tr": "konum",
+          "ru": "геопозиция",
+          "uk": "геопозиція",
+          "he": "מיקום",
+          "ko": "위치",
+          "zh-HANS": "位置",
+          "zh-HANT": "位置"
+        }
+      },
+      {
+        "term": "An / Aus",
+        "note": "on their own, as switch states",
+        "translations": {
+          "en": "On/Off",
+          "fr": "Activé/Désactivé",
+          "es": "Activado/Desactivado",
+          "it": "Attivo/Disattivo",
+          "pt-PT": "Ativado/Desativado",
+          "pl": "Włączone/Wyłączone",
+          "tr": "Açık/Kapalı",
+          "ru": "Вкл./Выкл.",
+          "uk": "Увімк./Вимк.",
+          "he": "פועל/כבוי",
+          "ko": "켬/끔",
+          "zh-HANS": "开/关",
+          "zh-HANT": "開啟/關閉"
+        }
+      },
+      {
+        "term": "Ja",
+        "note": "on its own, a yes answer",
+        "translations": {
+          "en": "Yes",
+          "fr": "Oui",
+          "es": "Sí",
+          "it": "Sì",
+          "pt-PT": "Sim",
+          "pl": "Tak",
+          "tr": "Evet",
+          "ru": "Да",
+          "uk": "Так",
+          "he": "כן",
+          "ko": "네",
+          "zh-HANS": "是",
+          "zh-HANT": "是"
+        }
+      },
+      {
+        "term": "Nein",
+        "note": "on its own, a no answer",
+        "translations": {
+          "en": "No",
+          "fr": "Non",
+          "es": "No",
+          "it": "No",
+          "pt-PT": "Não",
+          "pl": "Nie",
+          "tr": "Hayır",
+          "ru": "Нет",
+          "uk": "Ні",
+          "he": "לא",
+          "ko": "아니요",
+          "zh-HANS": "否",
+          "zh-HANT": "否"
+        }
+      },
+      {
+        "term": "Max",
+        "note": "the day's highest temperature",
+        "translations": {
+          "en": "Max",
+          "fr": "Max",
+          "es": "Máx",
+          "it": "Max",
+          "pt-PT": "Máx",
+          "pl": "Maks",
+          "tr": "Maks",
+          "ru": "Макс",
+          "uk": "Макс",
+          "he": "מקסימום",
+          "ko": "최고",
+          "zh-HANS": "最高",
+          "zh-HANT": "最高"
+        }
+      },
+      {
+        "term": "Min",
+        "note": "the day's lowest temperature",
+        "translations": {
+          "en": "Min",
+          "fr": "Min",
+          "es": "Mín",
+          "it": "Min",
+          "pt-PT": "Mín",
+          "pl": "Min",
+          "tr": "Min",
+          "ru": "Мин",
+          "uk": "Мін",
+          "he": "מינימום",
+          "ko": "최저",
+          "zh-HANS": "最低",
+          "zh-HANT": "最低"
+        }
+      },
+      {
+        "term": "Voll",
+        "note": "no free spots left",
+        "translations": {
+          "en": "Full",
+          "fr": "Complet",
+          "es": "Completo",
+          "it": "Completo",
+          "pt-PT": "Completo",
+          "pl": "Brak miejsc",
+          "tr": "Dolu",
+          "ru": "Заполнено",
+          "uk": "Заповнено",
+          "he": "מלא",
+          "ko": "가득 참",
+          "zh-HANS": "已满",
+          "zh-HANT": "滿"
+        }
+      },
+      {
+        "term": "Kiosk",
+        "note": "a small shop selling snacks and newspapers",
+        "translations": {
+          "en": "kiosk",
+          "fr": "kiosque",
+          "es": "quiosco",
+          "it": "chiosco",
+          "pt-PT": "quiosque",
+          "pl": "kiosk",
+          "tr": "büfe",
+          "ru": "киоск",
+          "uk": "кіоск",
+          "he": "קיוסק",
+          "ko": "매점",
+          "zh-HANS": "报刊亭",
+          "zh-HANT": "報攤"
+        }
+      },
+      {
+        "term": "Neueste zuerst",
+        "note": "a sort option",
+        "translations": {
+          "en": "Newest first",
+          "fr": "Les plus récents d'abord",
+          "es": "Más recientes primero",
+          "it": "Prima i più recenti",
+          "pt-PT": "Mais recentes primeiro",
+          "pl": "Najpierw najnowsze",
+          "tr": "Önce en yeni",
+          "ru": "Сначала новые",
+          "uk": "Спочатку нові",
+          "he": "החדשים תחילה",
+          "ko": "최신 순",
+          "zh-HANS": "最新优先",
+          "zh-HANT": "最新優先"
+        }
+      },
+      {
+        "term": "Älteste zuerst",
+        "note": "a sort option",
+        "translations": {
+          "en": "Oldest first",
+          "fr": "Les plus anciens d'abord",
+          "es": "Más antiguos primero",
+          "it": "Prima i più vecchi",
+          "pt-PT": "Mais antigos primeiro",
+          "pl": "Najpierw najstarsze",
+          "tr": "Önce en eski",
+          "ru": "Сначала старые",
+          "uk": "Спочатку старі",
+          "he": "הישנים תחילה",
+          "ko": "오래된 순",
+          "zh-HANS": "最早发布优先",
+          "zh-HANT": "最早發布優先"
+        }
+      },
+      {
+        "term": "Früheste zuerst",
+        "note": "a sort option",
+        "translations": {
+          "en": "Earliest first",
+          "fr": "Les plus proches d'abord",
+          "es": "Más próximos primero",
+          "it": "Prima i più vicini",
+          "pt-PT": "Mais próximos primeiro",
+          "pl": "Najpierw najbliższe",
+          "tr": "Önce en yakın",
+          "ru": "Сначала ближайшие",
+          "uk": "Спочатку найближчі",
+          "he": "הקרובים תחילה",
+          "ko": "가까운 순",
+          "zh-HANS": "最近优先",
+          "zh-HANT": "最近優先"
+        }
+      },
+      {
+        "term": "Späteste zuerst",
+        "note": "a sort option",
+        "translations": {
+          "en": "Latest first",
+          "fr": "Les plus lointains d'abord",
+          "es": "Más lejanos primero",
+          "it": "Prima i più lontani",
+          "pt-PT": "Mais distantes primeiro",
+          "pl": "Najpierw najdalsze",
+          "tr": "Önce en uzak",
+          "ru": "Сначала поздние",
+          "uk": "Спочатку найпізніші",
+          "he": "הרחוקים תחילה",
+          "ko": "먼 순",
+          "zh-HANS": "最远优先",
+          "zh-HANT": "最遠優先"
+        }
+      },
+      {
+        "term": "Kreis",
+        "note": "one of the twelve numbered city districts of Zürich",
+        "translations": {
+          "en": "district",
+          "fr": "arrondissement",
+          "es": "distrito",
+          "it": "circoscrizione",
+          "pt-PT": "distrito",
+          "pl": "okręg",
+          "tr": "bölge",
+          "ru": "район",
+          "uk": "район",
+          "he": "רובע",
+          "ko": "구",
+          "zh-HANS": "区",
+          "zh-HANT": "區"
+        }
+      },
+      {
+        "term": "Quartier",
+        "note": "one of the official quarters of the city of Zürich, inside a Kreis",
+        "translations": {
+          "en": "quarter",
+          "fr": "quartier",
+          "es": "barrio",
+          "it": "quartiere",
+          "pt-PT": "bairro",
+          "pl": "dzielnica",
+          "tr": "mahalle",
+          "ru": "квартал",
+          "uk": "квартал",
+          "he": "שכונה",
+          "ko": "동",
+          "zh-HANS": "街区",
+          "zh-HANT": "街區"
+        }
+      },
+      {
+        "term": "Erinnerungen",
+        "note": "notification reminders, never memories",
+        "translations": {
+          "en": "reminders",
+          "fr": "rappels",
+          "es": "recordatorios",
+          "it": "promemoria",
+          "pt-PT": "lembretes",
+          "pl": "przypomnienia",
+          "tr": "hatırlatmalar",
+          "ru": "напоминания",
+          "uk": "нагадування",
+          "he": "תזכורות",
+          "ko": "알림",
+          "zh-HANS": "提醒",
+          "zh-HANT": "提醒"
+        }
+      },
+      {
+        "term": "7-Tage-Schnitt",
+        "translations": {
+          "en": "7-day average",
+          "fr": "Moyenne sur 7 jours",
+          "es": "Media de 7 días",
+          "it": "Media su 7 giorni",
+          "pt-PT": "Média de 7 dias",
+          "pl": "Średnia z 7 dni",
+          "tr": "7 günlük ortalama",
+          "ru": "Среднее за 7 дней",
+          "uk": "7-денний середній показник",
+          "he": "ממוצע ל-7 ימים",
+          "ko": "7일 평균",
+          "zh-HANS": "7天平均值",
+          "zh-HANT": "7天平均值"
+        }
+      },
+      {
+        "term": "Letzte 7 Tage",
+        "translations": {
+          "en": "Last 7 days",
+          "fr": "7 derniers jours",
+          "es": "Últimos 7 días",
+          "it": "Ultimi 7 giorni",
+          "pt-PT": "Últimos 7 dias",
+          "pl": "Ostatnie 7 dni",
+          "tr": "Son 7 gün",
+          "ru": "Последние 7 дней",
+          "uk": "Останні 7 днів",
+          "he": "7 הימים האחרונים",
+          "ko": "최근 7일",
+          "zh-HANS": "近7天",
+          "zh-HANT": "過去 7 天"
+        }
+      },
+      {
+        "term": "im Vergleich zu gestern",
+        "note": "a short change label after a number",
+        "translations": {
+          "en": "vs yesterday",
+          "fr": "par rapport à hier",
+          "es": "en comparación con ayer",
+          "it": "rispetto a ieri",
+          "pt-PT": "em comparação com ontem",
+          "pl": "w porównaniu z wczoraj",
+          "tr": "düne kıyasla",
+          "ru": "по сравнению со вчерашним днём",
+          "uk": "порівняно з учора",
+          "he": "בהשוואה לאתמול",
+          "ko": "어제 대비",
+          "zh-HANS": "较昨日",
+          "zh-HANT": "較昨日"
+        }
+      },
+      {
+        "term": "bis",
+        "note": "until an end time",
+        "translations": {
+          "en": "until",
+          "fr": "jusqu'à",
+          "es": "hasta",
+          "it": "fino a",
+          "pt-PT": "até",
+          "pl": "do",
+          "tr": "kadar",
+          "ru": "до",
+          "uk": "до",
+          "he": "עד",
+          "ko": "까지",
+          "zh-HANS": "至",
+          "zh-HANT": "至"
+        }
       }
-    },
-    {
-      "term": "Zürich",
-      "note": "the city",
-      "translations": {
-        "en": "Zürich",
-        "fr": "Zurich",
-        "es": "Zúrich",
-        "it": "Zurigo",
-        "pt-PT": "Zurique",
-        "pl": "Zurych",
-        "tr": "Zürih",
-        "ru": "Цюрих",
-        "uk": "Цюрих",
-        "he": "ציריך",
-        "ko": "취리히",
-        "zh-HANS": "苏黎世",
-        "zh-HANT": "蘇黎世"
-      }
-    },
-    {
-      "term": "CasaZurich",
-      "note": "the app name",
-      "translations": {
-        "en": "CasaZurich",
-        "fr": "CasaZurich",
-        "es": "CasaZurich",
-        "it": "CasaZurich",
-        "pt-PT": "CasaZurich",
-        "pl": "CasaZurich",
-        "tr": "CasaZurich",
-        "ru": "CasaZurich",
-        "uk": "CasaZurich",
-        "he": "CasaZurich",
-        "ko": "CasaZurich",
-        "zh-HANS": "CasaZurich",
-        "zh-HANT": "CasaZurich"
-      }
-    },
-    {
-      "term": "Postleitzahl",
-      "translations": {
-        "en": "zip code",
-        "fr": "code postal",
-        "es": "código postal",
-        "it": "codice postale",
-        "pt-PT": "código postal",
-        "pl": "kod pocztowy",
-        "tr": "posta kodu",
-        "ru": "почтовый индекс",
-        "uk": "поштовий індекс",
-        "he": "מיקוד",
-        "ko": "우편번호",
-        "zh-HANS": "邮政编码",
-        "zh-HANT": "郵遞區號"
-      }
-    },
-    {
-      "term": "Startseite",
-      "note": "the Home tab, a name that keeps its capital letter",
-      "translations": {
-        "en": "Home",
-        "fr": "Accueil",
-        "es": "Inicio",
-        "it": "Home",
-        "pt-PT": "Início",
-        "pl": "Strona główna",
-        "tr": "Ana sayfa",
-        "ru": "Главная",
-        "uk": "Головна",
-        "he": "דף הבית",
-        "ko": "홈",
-        "zh-HANS": "首页",
-        "zh-HANT": "首頁"
-      }
-    },
-    {
-      "term": "Veranstaltung",
-      "translations": {
-        "en": "event",
-        "fr": "événement",
-        "es": "evento",
-        "it": "evento",
-        "pt-PT": "evento",
-        "pl": "wydarzenie",
-        "tr": "etkinlik",
-        "ru": "мероприятие",
-        "uk": "подія",
-        "he": "אירוע",
-        "ko": "행사",
-        "zh-HANS": "活动",
-        "zh-HANT": "活動"
-      }
-    },
-    {
-      "term": "Nachrichten or Neuigkeiten",
-      "translations": {
-        "en": "news",
-        "fr": "actualités",
-        "es": "noticias",
-        "it": "notizie",
-        "pt-PT": "notícias",
-        "pl": "aktualności",
-        "tr": "haberler",
-        "ru": "новости",
-        "uk": "новини",
-        "he": "חדשות",
-        "ko": "뉴스",
-        "zh-HANS": "新闻",
-        "zh-HANT": "新聞"
-      }
-    },
-    {
-      "term": "Benachrichtigung",
-      "translations": {
-        "en": "notification",
-        "fr": "notification",
-        "es": "notificación",
-        "it": "notifica",
-        "pt-PT": "notificação",
-        "pl": "powiadomienie",
-        "tr": "bildirim",
-        "ru": "уведомление",
-        "uk": "сповіщення",
-        "he": "התראה",
-        "ko": "알림",
-        "zh-HANS": "通知",
-        "zh-HANT": "通知"
-      }
-    },
-    {
-      "term": "Einstellungen",
-      "note": "the Settings screen or app, a name that keeps its capital letter; individual settings stay lowercase",
-      "translations": {
-        "en": "Settings",
-        "fr": "Réglages",
-        "es": "Ajustes",
-        "it": "Impostazioni",
-        "pt-PT": "Definições",
-        "pl": "Ustawienia",
-        "tr": "Ayarlar",
-        "ru": "Настройки",
-        "uk": "Налаштування",
-        "he": "הגדרות",
-        "ko": "설정",
-        "zh-HANS": "设置",
-        "zh-HANT": "設定"
-      }
-    },
-    {
-      "term": "Android-Einstellungen",
-      "note": "the Settings app on an Android phone",
-      "translations": {
-        "en": "Android Settings",
-        "fr": "Paramètres Android",
-        "es": "Ajustes de Android",
-        "it": "Impostazioni di Android",
-        "pt-PT": "Definições do Android",
-        "pl": "Ustawienia Androida",
-        "tr": "Android Ayarları",
-        "ru": "Настройки Android",
-        "uk": "Налаштування Android",
-        "he": "הגדרות Android",
-        "ko": "Android 설정",
-        "zh-HANS": "Android 设置",
-        "zh-HANT": "Android 設定"
-      }
-    },
-    {
-      "term": "Zusammenfassung",
-      "translations": {
-        "en": "summary",
-        "fr": "résumé",
-        "es": "resumen",
-        "it": "riepilogo",
-        "pt-PT": "resumo",
-        "pl": "podsumowanie",
-        "tr": "özet",
-        "ru": "обзор",
-        "uk": "огляд",
-        "he": "סיכום",
-        "ko": "요약",
-        "zh-HANS": "摘要",
-        "zh-HANT": "摘要"
-      }
-    },
-    {
-      "term": "Trinkgeld",
-      "translations": {
-        "en": "tip",
-        "fr": "pourboire",
-        "es": "propina",
-        "it": "mancia",
-        "pt-PT": "gorjeta",
-        "pl": "napiwek",
-        "tr": "bahşiş",
-        "ru": "чаевые",
-        "uk": "чайові",
-        "he": "טיפ",
-        "ko": "팁",
-        "zh-HANS": "小费",
-        "zh-HANT": "小費"
-      }
-    },
-    {
-      "term": "Velo",
-      "translations": {
-        "en": "bike",
-        "fr": "vélo",
-        "es": "bicicleta",
-        "it": "bicicletta",
-        "pt-PT": "bicicleta",
-        "pl": "rower",
-        "tr": "bisiklet",
-        "ru": "велосипед",
-        "uk": "велосипед",
-        "he": "אופניים",
-        "ko": "자전거",
-        "zh-HANS": "自行车",
-        "zh-HANT": "自行車"
-      }
-    },
-    {
-      "term": "Startbildschirm",
-      "note": "the phone's home screen, where widgets live, not the app's Home tab",
-      "translations": {
-        "en": "home screen",
-        "fr": "écran d'accueil",
-        "es": "pantalla de inicio",
-        "it": "schermata Home",
-        "pt-PT": "ecrã principal",
-        "pl": "ekran główny",
-        "tr": "ana ekran",
-        "ru": "экран «Домой»",
-        "uk": "екран «Додому»",
-        "he": "מסך הבית",
-        "ko": "홈 화면",
-        "zh-HANS": "主屏幕",
-        "zh-HANT": "主畫面"
-      }
-    },
-    {
-      "term": "Abschnitt",
-      "note": "a section of the Home tab",
-      "translations": {
-        "en": "section",
-        "fr": "section",
-        "es": "sección",
-        "it": "sezione",
-        "pt-PT": "secção",
-        "pl": "sekcja",
-        "tr": "bölüm",
-        "ru": "раздел",
-        "uk": "розділ",
-        "he": "מקטע",
-        "ko": "섹션",
-        "zh-HANS": "板块",
-        "zh-HANT": "區塊"
-      }
-    },
-    {
-      "term": "Abholung",
-      "note": "waste and recycling collection, never parcel pickup",
-      "translations": {
-        "en": "collection",
-        "fr": "collecte",
-        "es": "recogida",
-        "it": "raccolta",
-        "pt-PT": "recolha",
-        "pl": "odbiór",
-        "tr": "toplama",
-        "ru": "вывоз",
-        "uk": "вивезення",
-        "he": "איסוף",
-        "ko": "수거",
-        "zh-HANS": "清运",
-        "zh-HANT": "清運"
-      }
-    },
-    {
-      "term": "Recyclingtermin",
-      "note": "a waste collection date",
-      "translations": {
-        "en": "collection date",
-        "fr": "date de collecte",
-        "es": "fecha de recogida",
-        "it": "data di raccolta",
-        "pt-PT": "data de recolha",
-        "pl": "termin odbioru",
-        "tr": "toplama tarihi",
-        "ru": "дата вывоза",
-        "uk": "дата вивезення",
-        "he": "מועד איסוף",
-        "ko": "수거일",
-        "zh-HANS": "回收日期",
-        "zh-HANT": "回收日期"
-      }
-    },
-    {
-      "term": "Toilette",
-      "note": "a public toilet",
-      "translations": {
-        "en": "toilet",
-        "fr": "toilettes",
-        "es": "baño",
-        "it": "bagno",
-        "pt-PT": "casa de banho",
-        "pl": "toaleta",
-        "tr": "tuvalet",
-        "ru": "туалет",
-        "uk": "туалет",
-        "he": "שירותים",
-        "ko": "화장실",
-        "zh-HANS": "厕所",
-        "zh-HANT": "廁所"
-      }
-    },
-    {
-      "term": "Rollstuhl-WC",
-      "note": "the wheelchair-accessible toilet at a public toilet, a short row label",
-      "translations": {
-        "en": "Accessible toilet",
-        "fr": "WC accessible",
-        "es": "Baño accesible",
-        "it": "Bagno accessibile",
-        "pt-PT": "WC acessível",
-        "pl": "WC dla niepełnosprawnych",
-        "tr": "Engelli tuvaleti",
-        "ru": "Туалет для инвалидов",
-        "uk": "Безбар'єрний туалет",
-        "he": "שירותי נכים",
-        "ko": "장애인 화장실",
-        "zh-HANS": "无障碍厕所",
-        "zh-HANT": "無障礙廁所"
-      }
-    },
-    {
-      "term": "Eurokey",
-      "note": "the European key that opens accessible toilets; a name, keep it",
-      "translations": {
-        "en": "Eurokey",
-        "fr": "Eurokey",
-        "es": "Eurokey",
-        "it": "Eurokey",
-        "pt-PT": "Eurokey",
-        "pl": "Eurokey",
-        "tr": "Eurokey",
-        "ru": "Eurokey",
-        "uk": "Eurokey",
-        "he": "Eurokey",
-        "ko": "Eurokey",
-        "zh-HANS": "Eurokey",
-        "zh-HANT": "Eurokey"
-      }
-    },
-    {
-      "term": "Baustelle",
-      "note": "a construction site",
-      "translations": {
-        "en": "construction site",
-        "fr": "chantier",
-        "es": "obra",
-        "it": "cantiere",
-        "pt-PT": "obra",
-        "pl": "budowa",
-        "tr": "şantiye",
-        "ru": "стройка",
-        "uk": "будівництво",
-        "he": "אתר בנייה",
-        "ko": "공사 현장",
-        "zh-HANS": "工地",
-        "zh-HANT": "工地"
-      }
-    },
-    {
-      "term": "Fanartikel",
-      "translations": {
-        "en": "merch",
-        "fr": "produits dérivés",
-        "es": "merchandising",
-        "it": "merchandising",
-        "pt-PT": "merchandising",
-        "pl": "gadżety",
-        "tr": "ürünler",
-        "ru": "мерч",
-        "uk": "мерч",
-        "he": "מרצ'נדייז",
-        "ko": "굿즈",
-        "zh-HANS": "周边",
-        "zh-HANT": "周邊"
-      }
-    },
-    {
-      "term": "anzeigen",
-      "note": "show on screen",
-      "translations": {
-        "en": "show",
-        "fr": "afficher",
-        "es": "mostrar",
-        "it": "mostrare",
-        "pt-PT": "mostrar",
-        "pl": "pokazać",
-        "tr": "göstermek",
-        "ru": "показать",
-        "uk": "показати",
-        "he": "להציג",
-        "ko": "보기",
-        "zh-HANS": "显示",
-        "zh-HANT": "顯示"
-      }
-    },
-    {
-      "term": "in der Nähe or in deiner Nähe",
-      "note": "nearby",
-      "translations": {
-        "en": "nearby",
-        "fr": "à proximité",
-        "es": "cerca or cercano",
-        "it": "nelle vicinanze",
-        "pt-PT": "nas proximidades",
-        "pl": "w pobliżu",
-        "tr": "yakında",
-        "ru": "поблизости",
-        "uk": "поблизу",
-        "he": "בסביבה",
-        "ko": "주변",
-        "zh-HANS": "附近",
-        "zh-HANT": "附近"
-      }
-    },
-    {
-      "term": "Cache leeren",
-      "note": "clear the cache",
-      "translations": {
-        "en": "clear the cache",
-        "fr": "vider le cache",
-        "es": "borrar la caché",
-        "it": "svuotare la cache",
-        "pt-PT": "limpar a cache",
-        "pl": "wyczyścić pamięć podręczną",
-        "tr": "önbelleği temizlemek",
-        "ru": "очистить кэш",
-        "uk": "очистити кеш",
-        "he": "לרוקן את המטמון",
-        "ko": "캐시 지우기",
-        "zh-HANS": "清除缓存",
-        "zh-HANT": "清除快取"
-      }
-    },
-    {
-      "term": "Kundenservice",
-      "translations": {
-        "en": "customer service",
-        "fr": "service client",
-        "es": "atención al cliente",
-        "it": "assistenza clienti",
-        "pt-PT": "apoio ao cliente",
-        "pl": "obsługa klienta",
-        "tr": "müşteri hizmetleri",
-        "ru": "служба поддержки",
-        "uk": "служба підтримки",
-        "he": "שירות לקוחות",
-        "ko": "고객 지원",
-        "zh-HANS": "客户服务",
-        "zh-HANT": "客戶服務"
-      }
-    },
-    {
-      "term": "Chat",
-      "note": "a conversation with the assistant",
-      "translations": {
-        "en": "chat",
-        "fr": "conversation",
-        "es": "chat",
-        "it": "chat",
-        "pt-PT": "conversa",
-        "pl": "czat",
-        "tr": "sohbet",
-        "ru": "чат",
-        "uk": "чат",
-        "he": "צ'אט",
-        "ko": "채팅",
-        "zh-HANS": "对话",
-        "zh-HANT": "對話"
-      }
-    },
-    {
-      "term": "Kalender",
-      "translations": {
-        "en": "calendar",
-        "fr": "calendrier",
-        "es": "calendario",
-        "it": "calendario",
-        "pt-PT": "calendário",
-        "pl": "kalendarz",
-        "tr": "takvim",
-        "ru": "календарь",
-        "uk": "календар",
-        "he": "יומן",
-        "ko": "캘린더",
-        "zh-HANS": "日历",
-        "zh-HANT": "行事曆"
-      }
-    },
-    {
-      "term": "Zugriff",
-      "note": "access permission",
-      "translations": {
-        "en": "access",
-        "fr": "accès",
-        "es": "acceso",
-        "it": "accesso",
-        "pt-PT": "acesso",
-        "pl": "dostęp",
-        "tr": "erişim",
-        "ru": "доступ",
-        "uk": "доступ",
-        "he": "גישה",
-        "ko": "접근",
-        "zh-HANS": "访问",
-        "zh-HANT": "存取"
-      }
-    },
-    {
-      "term": "suchen",
-      "note": "search",
-      "translations": {
-        "en": "search",
-        "fr": "rechercher",
-        "es": "buscar",
-        "it": "cercare",
-        "pt-PT": "pesquisar",
-        "pl": "szukać",
-        "tr": "aramak",
-        "ru": "искать",
-        "uk": "шукати",
-        "he": "לחפש",
-        "ko": "검색",
-        "zh-HANS": "搜索",
-        "zh-HANT": "搜尋"
-      }
-    },
-    {
-      "term": "entdecken",
-      "note": "discover",
-      "translations": {
-        "en": "discover",
-        "fr": "découvrir",
-        "es": "descubrir",
-        "it": "scoprire",
-        "pt-PT": "descobrir",
-        "pl": "odkryć",
-        "tr": "keşfetmek",
-        "ru": "открывать",
-        "uk": "відкривати",
-        "he": "לגלות",
-        "ko": "둘러보다",
-        "zh-HANS": "探索",
-        "zh-HANT": "探索"
-      }
-    },
-    {
-      "term": "Alle",
-      "note": "all items",
-      "translations": {
-        "en": "all",
-        "fr": "tout",
-        "es": "todo",
-        "it": "tutto",
-        "pt-PT": "todos",
-        "pl": "wszystko",
-        "tr": "tümü",
-        "ru": "все",
-        "uk": "усі",
-        "he": "הכול",
-        "ko": "전체",
-        "zh-HANS": "全部",
-        "zh-HANT": "全部"
-      }
-    },
-    {
-      "term": "Karten",
-      "note": "the button that opens the maps app",
-      "translations": {
-        "en": "Maps",
-        "fr": "Plans",
-        "es": "Mapas",
-        "it": "Mappe",
-        "pt-PT": "Mapas",
-        "pl": "Mapy",
-        "tr": "Haritalar",
-        "ru": "Карты",
-        "uk": "Карти",
-        "he": "מפות",
-        "ko": "지도",
-        "zh-HANS": "地图",
-        "zh-HANT": "地圖"
-      }
-    },
-    {
-      "term": "Bancomat",
-      "translations": {
-        "en": "ATM",
-        "fr": "bancomat",
-        "es": "cajero automático",
-        "it": "bancomat",
-        "pt-PT": "multibanco",
-        "pl": "bankomat",
-        "tr": "ATM",
-        "ru": "банкомат",
-        "uk": "банкомат",
-        "he": "כספומט",
-        "ko": "ATM",
-        "zh-HANS": "自动取款机",
-        "zh-HANT": "自動提款機"
-      }
-    },
-    {
-      "term": "App",
-      "translations": {
-        "en": "app",
-        "fr": "app",
-        "es": "app",
-        "it": "app",
-        "pt-PT": "app",
-        "pl": "aplikacja",
-        "tr": "uygulama",
-        "ru": "приложение",
-        "uk": "застосунок",
-        "he": "אפליקציה",
-        "ko": "앱",
-        "zh-HANS": "应用",
-        "zh-HANT": "App"
-      }
-    },
-    {
-      "term": "Luftqualität",
-      "translations": {
-        "en": "air quality",
-        "fr": "qualité de l'air",
-        "es": "calidad del aire",
-        "it": "qualità dell'aria",
-        "pt-PT": "qualidade do ar",
-        "pl": "jakość powietrza",
-        "tr": "hava kalitesi",
-        "ru": "качество воздуха",
-        "uk": "якість повітря",
-        "he": "איכות האוויר",
-        "ko": "공기질",
-        "zh-HANS": "空气质量",
-        "zh-HANT": "空氣品質"
-      }
-    },
-    {
-      "term": "tippen",
-      "note": "tap the screen",
-      "translations": {
-        "en": "tap",
-        "fr": "appuyer",
-        "es": "tocar",
-        "it": "toccare",
-        "pt-PT": "tocar",
-        "pl": "stuknąć",
-        "tr": "dokunmak",
-        "ru": "нажать",
-        "uk": "натиснути",
-        "he": "להקיש",
-        "ko": "탭하다",
-        "zh-HANS": "轻点",
-        "zh-HANT": "點一下"
-      }
-    },
-    {
-      "term": "Ort",
-      "note": "a place on the map",
-      "translations": {
-        "en": "place",
-        "fr": "lieu",
-        "es": "lugar",
-        "it": "luogo",
-        "pt-PT": "local",
-        "pl": "miejsce",
-        "tr": "yer",
-        "ru": "место",
-        "uk": "місце",
-        "he": "מקום",
-        "ko": "장소",
-        "zh-HANS": "地点",
-        "zh-HANT": "地點"
-      }
-    },
-    {
-      "term": "doppelte Orte",
-      "note": "the same place listed twice",
-      "translations": {
-        "en": "duplicate places",
-        "fr": "lieux en double",
-        "es": "lugares duplicados",
-        "it": "luoghi duplicati",
-        "pt-PT": "locais duplicados",
-        "pl": "powtarzające się miejsca",
-        "tr": "yinelenen yerler",
-        "ru": "повторяющиеся места",
-        "uk": "повторювані місця",
-        "he": "מקומות כפולים",
-        "ko": "중복된 장소",
-        "zh-HANS": "重复的地点",
-        "zh-HANT": "重複的地點"
-      }
-    },
-    {
-      "term": "Standort",
-      "note": "your own location",
-      "translations": {
-        "en": "location",
-        "fr": "position",
-        "es": "ubicación",
-        "it": "posizione",
-        "pt-PT": "localização",
-        "pl": "lokalizacja",
-        "tr": "konum",
-        "ru": "геопозиция",
-        "uk": "геопозиція",
-        "he": "מיקום",
-        "ko": "위치",
-        "zh-HANS": "位置",
-        "zh-HANT": "位置"
-      }
-    },
-    {
-      "term": "An / Aus",
-      "note": "on their own, as switch states",
-      "translations": {
-        "en": "On/Off",
-        "fr": "Activé/Désactivé",
-        "es": "Activado/Desactivado",
-        "it": "Attivo/Disattivo",
-        "pt-PT": "Ativado/Desativado",
-        "pl": "Włączone/Wyłączone",
-        "tr": "Açık/Kapalı",
-        "ru": "Вкл./Выкл.",
-        "uk": "Увімк./Вимк.",
-        "he": "פועל/כבוי",
-        "ko": "켬/끔",
-        "zh-HANS": "开/关",
-        "zh-HANT": "開啟/關閉"
-      }
-    },
-    {
-      "term": "Ja",
-      "note": "on its own, a yes answer",
-      "translations": {
-        "en": "Yes",
-        "fr": "Oui",
-        "es": "Sí",
-        "it": "Sì",
-        "pt-PT": "Sim",
-        "pl": "Tak",
-        "tr": "Evet",
-        "ru": "Да",
-        "uk": "Так",
-        "he": "כן",
-        "ko": "네",
-        "zh-HANS": "是",
-        "zh-HANT": "是"
-      }
-    },
-    {
-      "term": "Nein",
-      "note": "on its own, a no answer",
-      "translations": {
-        "en": "No",
-        "fr": "Non",
-        "es": "No",
-        "it": "No",
-        "pt-PT": "Não",
-        "pl": "Nie",
-        "tr": "Hayır",
-        "ru": "Нет",
-        "uk": "Ні",
-        "he": "לא",
-        "ko": "아니요",
-        "zh-HANS": "否",
-        "zh-HANT": "否"
-      }
-    },
-    {
-      "term": "Max",
-      "note": "the day's highest temperature",
-      "translations": {
-        "en": "Max",
-        "fr": "Max",
-        "es": "Máx",
-        "it": "Max",
-        "pt-PT": "Máx",
-        "pl": "Maks",
-        "tr": "Maks",
-        "ru": "Макс",
-        "uk": "Макс",
-        "he": "מקסימום",
-        "ko": "최고",
-        "zh-HANS": "最高",
-        "zh-HANT": "最高"
-      }
-    },
-    {
-      "term": "Min",
-      "note": "the day's lowest temperature",
-      "translations": {
-        "en": "Min",
-        "fr": "Min",
-        "es": "Mín",
-        "it": "Min",
-        "pt-PT": "Mín",
-        "pl": "Min",
-        "tr": "Min",
-        "ru": "Мин",
-        "uk": "Мін",
-        "he": "מינימום",
-        "ko": "최저",
-        "zh-HANS": "最低",
-        "zh-HANT": "最低"
-      }
-    },
-    {
-      "term": "Voll",
-      "note": "no free spots left",
-      "translations": {
-        "en": "Full",
-        "fr": "Complet",
-        "es": "Completo",
-        "it": "Completo",
-        "pt-PT": "Completo",
-        "pl": "Brak miejsc",
-        "tr": "Dolu",
-        "ru": "Заполнено",
-        "uk": "Заповнено",
-        "he": "מלא",
-        "ko": "가득 참",
-        "zh-HANS": "已满",
-        "zh-HANT": "滿"
-      }
-    },
-    {
-      "term": "Kiosk",
-      "note": "a small shop selling snacks and newspapers",
-      "translations": {
-        "en": "kiosk",
-        "fr": "kiosque",
-        "es": "quiosco",
-        "it": "chiosco",
-        "pt-PT": "quiosque",
-        "pl": "kiosk",
-        "tr": "büfe",
-        "ru": "киоск",
-        "uk": "кіоск",
-        "he": "קיוסק",
-        "ko": "매점",
-        "zh-HANS": "报刊亭",
-        "zh-HANT": "報攤"
-      }
-    },
-    {
-      "term": "Neueste zuerst",
-      "note": "a sort option",
-      "translations": {
-        "en": "Newest first",
-        "fr": "Les plus récents d'abord",
-        "es": "Más recientes primero",
-        "it": "Prima i più recenti",
-        "pt-PT": "Mais recentes primeiro",
-        "pl": "Najpierw najnowsze",
-        "tr": "Önce en yeni",
-        "ru": "Сначала новые",
-        "uk": "Спочатку нові",
-        "he": "החדשים תחילה",
-        "ko": "최신 순",
-        "zh-HANS": "最新优先",
-        "zh-HANT": "最新優先"
-      }
-    },
-    {
-      "term": "Älteste zuerst",
-      "note": "a sort option",
-      "translations": {
-        "en": "Oldest first",
-        "fr": "Les plus anciens d'abord",
-        "es": "Más antiguos primero",
-        "it": "Prima i più vecchi",
-        "pt-PT": "Mais antigos primeiro",
-        "pl": "Najpierw najstarsze",
-        "tr": "Önce en eski",
-        "ru": "Сначала старые",
-        "uk": "Спочатку старі",
-        "he": "הישנים תחילה",
-        "ko": "오래된 순",
-        "zh-HANS": "最早发布优先",
-        "zh-HANT": "最早發布優先"
-      }
-    },
-    {
-      "term": "Früheste zuerst",
-      "note": "a sort option",
-      "translations": {
-        "en": "Earliest first",
-        "fr": "Les plus proches d'abord",
-        "es": "Más próximos primero",
-        "it": "Prima i più vicini",
-        "pt-PT": "Mais próximos primeiro",
-        "pl": "Najpierw najbliższe",
-        "tr": "Önce en yakın",
-        "ru": "Сначала ближайшие",
-        "uk": "Спочатку найближчі",
-        "he": "הקרובים תחילה",
-        "ko": "가까운 순",
-        "zh-HANS": "最近优先",
-        "zh-HANT": "最近優先"
-      }
-    },
-    {
-      "term": "Späteste zuerst",
-      "note": "a sort option",
-      "translations": {
-        "en": "Latest first",
-        "fr": "Les plus lointains d'abord",
-        "es": "Más lejanos primero",
-        "it": "Prima i più lontani",
-        "pt-PT": "Mais distantes primeiro",
-        "pl": "Najpierw najdalsze",
-        "tr": "Önce en uzak",
-        "ru": "Сначала поздние",
-        "uk": "Спочатку найпізніші",
-        "he": "הרחוקים תחילה",
-        "ko": "먼 순",
-        "zh-HANS": "最远优先",
-        "zh-HANT": "最遠優先"
-      }
-    },
-    {
-      "term": "Kreis",
-      "note": "one of the twelve numbered city districts of Zürich",
-      "translations": {
-        "en": "district",
-        "fr": "arrondissement",
-        "es": "distrito",
-        "it": "circoscrizione",
-        "pt-PT": "distrito",
-        "pl": "okręg",
-        "tr": "bölge",
-        "ru": "район",
-        "uk": "район",
-        "he": "רובע",
-        "ko": "구",
-        "zh-HANS": "区",
-        "zh-HANT": "區"
-      }
-    },
-    {
-      "term": "Quartier",
-      "note": "one of the official quarters of the city of Zürich, inside a Kreis",
-      "translations": {
-        "en": "quarter",
-        "fr": "quartier",
-        "es": "barrio",
-        "it": "quartiere",
-        "pt-PT": "bairro",
-        "pl": "dzielnica",
-        "tr": "mahalle",
-        "ru": "квартал",
-        "uk": "квартал",
-        "he": "שכונה",
-        "ko": "동",
-        "zh-HANS": "街区",
-        "zh-HANT": "街區"
-      }
-    },
-    {
-      "term": "Erinnerungen",
-      "note": "notification reminders, never memories",
-      "translations": {
-        "en": "reminders",
-        "fr": "rappels",
-        "es": "recordatorios",
-        "it": "promemoria",
-        "pt-PT": "lembretes",
-        "pl": "przypomnienia",
-        "tr": "hatırlatmalar",
-        "ru": "напоминания",
-        "uk": "нагадування",
-        "he": "תזכורות",
-        "ko": "알림",
-        "zh-HANS": "提醒",
-        "zh-HANT": "提醒"
-      }
-    },
-    {
-      "term": "7-Tage-Schnitt",
-      "translations": {
-        "en": "7-day average",
-        "fr": "Moyenne sur 7 jours",
-        "es": "Media de 7 días",
-        "it": "Media su 7 giorni",
-        "pt-PT": "Média de 7 dias",
-        "pl": "Średnia z 7 dni",
-        "tr": "7 günlük ortalama",
-        "ru": "Среднее за 7 дней",
-        "uk": "7-денний середній показник",
-        "he": "ממוצע ל-7 ימים",
-        "ko": "7일 평균",
-        "zh-HANS": "7天平均值",
-        "zh-HANT": "7天平均值"
-      }
-    },
-    {
-      "term": "Letzte 7 Tage",
-      "translations": {
-        "en": "Last 7 days",
-        "fr": "7 derniers jours",
-        "es": "Últimos 7 días",
-        "it": "Ultimi 7 giorni",
-        "pt-PT": "Últimos 7 dias",
-        "pl": "Ostatnie 7 dni",
-        "tr": "Son 7 gün",
-        "ru": "Последние 7 дней",
-        "uk": "Останні 7 днів",
-        "he": "7 הימים האחרונים",
-        "ko": "최근 7일",
-        "zh-HANS": "近7天",
-        "zh-HANT": "過去 7 天"
-      }
-    },
-    {
-      "term": "im Vergleich zu gestern",
-      "note": "a short change label after a number",
-      "translations": {
-        "en": "vs yesterday",
-        "fr": "par rapport à hier",
-        "es": "en comparación con ayer",
-        "it": "rispetto a ieri",
-        "pt-PT": "em comparação com ontem",
-        "pl": "w porównaniu z wczoraj",
-        "tr": "düne kıyasla",
-        "ru": "по сравнению со вчерашним днём",
-        "uk": "порівняно з учора",
-        "he": "בהשוואה לאתמול",
-        "ko": "어제 대비",
-        "zh-HANS": "较昨日",
-        "zh-HANT": "較昨日"
-      }
-    },
-    {
-      "term": "bis",
-      "note": "until an end time",
-      "translations": {
-        "en": "until",
-        "fr": "jusqu'à",
-        "es": "hasta",
-        "it": "fino a",
-        "pt-PT": "até",
-        "pl": "do",
-        "tr": "kadar",
-        "ru": "до",
-        "uk": "до",
-        "he": "עד",
-        "ko": "까지",
-        "zh-HANS": "至",
-        "zh-HANT": "至"
-      }
+    ],
+    "languageNotes": {
+      "he": "Use full spelling, address the user in the masculine singular, never in the plural, never use niqqud, phrase the developer's first-person sentences without gendered verb forms, and write German infinitive labels as an infinitive or an action noun, while German imperatives stay imperatives.",
+      "ko": "Write every sentence in the polite 해요체 (-요); never use 반말, -습니다, 당신, or honorific address terms, and leave the word you implicit.",
+      "tr": "Never attach a case suffix to a placeholder, because its vowel depends on the value, so phrase around it instead, and separate a suffix from a capitalized name with an apostrophe."
     }
-  ]
+  }
 }
