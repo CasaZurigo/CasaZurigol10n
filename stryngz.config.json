@@ -1041,6 +1041,99 @@
         "zh-HANS": "街区",
         "zh-HANT": "街區"
       }
+    },
+    {
+      "term": "Erinnerungen",
+      "note": "notification reminders, never memories",
+      "translations": {
+        "en": "reminders",
+        "fr": "rappels",
+        "es": "recordatorios",
+        "it": "promemoria",
+        "pt-PT": "lembretes",
+        "pl": "przypomnienia",
+        "tr": "hatırlatmalar",
+        "ru": "напоминания",
+        "uk": "нагадування",
+        "he": "תזכורות",
+        "ko": "알림",
+        "zh-HANS": "提醒",
+        "zh-HANT": "提醒"
+      }
+    },
+    {
+      "term": "7-Tage-Schnitt",
+      "translations": {
+        "en": "7-day average",
+        "fr": "Moyenne sur 7 jours",
+        "es": "Media de 7 días",
+        "it": "Media su 7 giorni",
+        "pt-PT": "Média de 7 dias",
+        "pl": "Średnia z 7 dni",
+        "tr": "7 günlük ortalama",
+        "ru": "Среднее за 7 дней",
+        "uk": "7-денний середній показник",
+        "he": "ממוצע ל-7 ימים",
+        "ko": "7일 평균",
+        "zh-HANS": "7天平均值",
+        "zh-HANT": "7天平均值"
+      }
+    },
+    {
+      "term": "Letzte 7 Tage",
+      "translations": {
+        "en": "Last 7 days",
+        "fr": "7 derniers jours",
+        "es": "Últimos 7 días",
+        "it": "Ultimi 7 giorni",
+        "pt-PT": "Últimos 7 dias",
+        "pl": "Ostatnie 7 dni",
+        "tr": "Son 7 gün",
+        "ru": "Последние 7 дней",
+        "uk": "Останні 7 днів",
+        "he": "7 הימים האחרונים",
+        "ko": "최근 7일",
+        "zh-HANS": "近7天",
+        "zh-HANT": "過去 7 天"
+      }
+    },
+    {
+      "term": "im Vergleich zu gestern",
+      "note": "a short change label after a number",
+      "translations": {
+        "en": "vs yesterday",
+        "fr": "par rapport à hier",
+        "es": "en comparación con ayer",
+        "it": "rispetto a ieri",
+        "pt-PT": "em comparação com ontem",
+        "pl": "w porównaniu z wczoraj",
+        "tr": "düne kıyasla",
+        "ru": "по сравнению со вчерашним днём",
+        "uk": "порівняно з учора",
+        "he": "בהשוואה לאתמול",
+        "ko": "어제 대비",
+        "zh-HANS": "较昨日",
+        "zh-HANT": "較昨日"
+      }
+    },
+    {
+      "term": "bis",
+      "note": "until an end time",
+      "translations": {
+        "en": "until",
+        "fr": "jusqu'à",
+        "es": "hasta",
+        "it": "fino a",
+        "pt-PT": "até",
+        "pl": "do",
+        "tr": "kadar",
+        "ru": "до",
+        "uk": "до",
+        "he": "עד",
+        "ko": "까지",
+        "zh-HANS": "至",
+        "zh-HANT": "至"
+      }
     }
   ]
 }
