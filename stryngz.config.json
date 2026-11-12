@@ -47,7 +47,7 @@
   },
   "context": {
     "description": "CasaZurigo, a city guide app for Zürich (iOS and Android).",
-    "tone": "Use a direct, personal, informal tone. Address the user in the familiar form, never the formal form.",
+    "tone": "Youthful, simple and informal, never polite or formal. Use short sentences and everyday words; avoid stiff, bureaucratic phrasing. Address the user in the familiar form, like du in German, never in the formal form, like Sie.",
     "instructions": "The source language is Swiss Standard German (Schweizer Hochdeutsch). German is the source because it names things more specifically than English. The German source never uses ß. It always writes ss. It prefers Swiss terms over German-German ones. Match that local Swiss vocabulary in the target when a local equivalent exists. Action labels written as a German infinitive use the infinitive in fr, es, pt-PT, ru and uk and the imperative in it, pl and tr, and a German imperative stays an imperative in those languages; en, he, ko, zh-HANS and zh-HANT keep their usual UI form for buttons. A German infinitive ending in a question mark asks the user to confirm, so phrase it as a natural yes or no question, not as an action label. Use sentence case in every language: capitalize only the first word, proper nouns, app names, and words the language's grammar capitalizes. When the source starts lowercase, it continues other text, so start the translation lowercase too. Use the same trailing punctuation as the source.",
     "glossary": [
       {
@@ -1139,9 +1139,19 @@
       }
     ],
     "languageNotes": {
+      "en": "Write casual, friendly English and use contractions like you're and don't.",
+      "fr": "Address the user with tu, never vous.",
+      "es": "Address the user with tú, never usted.",
+      "it": "Address the user with tu, never Lei.",
+      "pt-PT": "Address the user with tu and its verb forms, never você or o senhor.",
       "he": "Use full spelling, address the user in the masculine singular, never in the plural, never use niqqud, phrase the developer's first-person sentences without gendered verb forms, and write German infinitive labels as an infinitive or an action noun, while German imperatives stay imperatives.",
-      "ko": "Write every sentence in the polite 해요체 (-요); never use 반말, -습니다, 당신, or honorific address terms, and leave the word you implicit.",
-      "tr": "Never attach a case suffix to a placeholder, because its vowel depends on the value, so phrase around it instead, and separate a suffix from a capitalized name with an apostrophe."
+      "zh-HANS": "Address the user with 你, never 您.",
+      "zh-HANT": "Address the user with 你, never 您.",
+      "tr": "Address the user with sen and its verb forms, never siz. Never attach a case suffix to a placeholder, because its vowel depends on the value, so phrase around it instead, and separate a suffix from a capitalized name with an apostrophe.",
+      "ru": "Address the user with ты, never вы.",
+      "uk": "Address the user with ти, never ви.",
+      "ko": "Write every sentence in the casual, friendly 해요체 (-요), the way youthful Korean apps talk; never use 반말, the formal -습니다, 당신, or honorific address terms, and leave the word you implicit.",
+      "pl": "Address the user with ty, never Pan, Pani or Państwo."
     }
   }
 }
