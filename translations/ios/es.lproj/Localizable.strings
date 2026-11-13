@@ -1,10 +1,13 @@
 "%@ · bis %@" = "%@ · hasta %@";
+"%@ Einträge hier" = "%@ entradas aquí";
 "%@ Gesamt" = "%@ Total";
 "%@ gratis" = "%@ gratis";
 "%@ im Vergleich zu gestern" = "%@ en comparación con ayer";
 "%@ kostenlos" = "%@ gratis";
 "%@ Min. hören" = "Escuchar %@ min.";
+"%@ Orte hier" = "%@ lugares aquí";
 "%@ Velos" = "%@ bicicletas";
+"%@ Veranstaltungen hier" = "%@ eventos aquí";
 "%@, ausserhalb der Stadt Zürich" = "%@, fuera de la ciudad de Zúrich";
 "☕️ Trinkgeld für einen Kaffee" = "☕️ Propina para un café";
 "🍭 Kleines Trinkgeld" = "🍭 Pequeña propina";
@@ -254,6 +257,7 @@
 "Orte in der Nähe" = "Lugares cerca";
 "Orte in der Nähe sind nur in %@ verfügbar" = "Los lugares cercanos solo están disponibles en %@";
 "Orte suchen" = "Buscar lugares";
+"Orte und Veranstaltungen suchen" = "Buscar lugares y eventos";
 "Ortstyp" = "Tipo de lugar";
 "Papier" = "Papel";
 "Park" = "Parque";
@@ -377,10 +381,12 @@
 "Wo finde ich jetzt einen kostenlosen Parkplatz?" = "¿Dónde puedo encontrar ahora una plaza de aparcamiento gratis?";
 "Wo gibt es Spielplätze in Zürich?" = "¿Dónde hay parques infantiles en Zúrich?";
 "Wo wohnst du?" = "¿Dónde vives?";
+"Wochenende" = "Fin de semana";
 "Woher deine Daten stammen" = "De dónde proceden tus datos";
 "Ziehe, um Abschnitte neu anzuordnen, und schalte sie um, um sie auf deinem Startbildschirm ein- oder auszublenden." = "Arrastra para reorganizar las secciones y actívalas o desactívalas para mostrarlas u ocultarlas en tu pantalla de inicio.";
 "Zum Kalender hinzufügen" = "Añadir al calendario";
 "Zum Umsortieren ziehen. Abschnitte ein- oder ausblenden." = "Arrastra para cambiar el orden. Mostrar u ocultar secciones.";
 "Zürich" = "Zúrich";
 "Zurück" = "Atrás";
+"Zurücksetzen" = "Restablecer";
 "Zusammenfassung" = "Resumen";

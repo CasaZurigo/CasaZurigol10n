@@ -1,10 +1,13 @@
 "%@ · bis %@" = "%@ · 至 %@";
+"%@ Einträge hier" = "此处有 %1$@ 个条目";
 "%@ Gesamt" = "%@ 总计";
 "%@ gratis" = "%@ 免费";
 "%@ im Vergleich zu gestern" = "%@ 与昨天相比";
 "%@ kostenlos" = "%@ 免费";
 "%@ Min. hören" = "收听 %@ 分钟";
+"%@ Orte hier" = "此处有 %1$@ 个地点";
 "%@ Velos" = "%@ 辆自行车";
+"%@ Veranstaltungen hier" = "此处有 %1$@ 场活动";
 "%@, ausserhalb der Stadt Zürich" = "%@，苏黎世市外";
 "☕️ Trinkgeld für einen Kaffee" = "☕️ 一杯咖啡的小费";
 "🍭 Kleines Trinkgeld" = "🍭 小额小费";
@@ -254,6 +257,7 @@
 "Orte in der Nähe" = "附近地点";
 "Orte in der Nähe sind nur in %@ verfügbar" = "附近地点仅在 %@ 可用";
 "Orte suchen" = "搜索地点";
+"Orte und Veranstaltungen suchen" = "搜索地点和活动";
 "Ortstyp" = "地点类型";
 "Papier" = "纸张";
 "Park" = "公园";
@@ -377,10 +381,12 @@
 "Wo finde ich jetzt einen kostenlosen Parkplatz?" = "我现在去哪里找免费停车位？";
 "Wo gibt es Spielplätze in Zürich?" = "苏黎世哪里有游乐场？";
 "Wo wohnst du?" = "你住在哪里？";
+"Wochenende" = "周末";
 "Woher deine Daten stammen" = "你的数据来自哪里";
 "Ziehe, um Abschnitte neu anzuordnen, und schalte sie um, um sie auf deinem Startbildschirm ein- oder auszublenden." = "拖动以重新排列板块，切换以在你的主屏幕上显示或隐藏它们。";
 "Zum Kalender hinzufügen" = "添加到日历";
 "Zum Umsortieren ziehen. Abschnitte ein- oder ausblenden." = "拖动以重新排序。显示或隐藏板块。";
 "Zürich" = "苏黎世";
 "Zurück" = "返回";
+"Zurücksetzen" = "重置";
 "Zusammenfassung" = "摘要";

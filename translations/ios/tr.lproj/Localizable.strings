@@ -1,10 +1,13 @@
 "%@ · bis %@" = "%@ · %@'ya kadar";
+"%@ Einträge hier" = "%@ kayıt burada";
 "%@ Gesamt" = "%@ Toplam";
 "%@ gratis" = "%@ ücretsiz";
 "%@ im Vergleich zu gestern" = "%@, düne kıyasla";
 "%@ kostenlos" = "%@ ücretsiz";
 "%@ Min. hören" = "%@ dakika dinle";
+"%@ Orte hier" = "%@ yer burada";
 "%@ Velos" = "%@ bisiklet";
+"%@ Veranstaltungen hier" = "%@ etkinlik burada";
 "%@, ausserhalb der Stadt Zürich" = "%@, Zürih şehrinin dışında";
 "☕️ Trinkgeld für einen Kaffee" = "☕️ Bir kahve için bahşiş";
 "🍭 Kleines Trinkgeld" = "🍭 Küçük bir bahşiş";
@@ -254,6 +257,7 @@
 "Orte in der Nähe" = "Yakındaki yerler";
 "Orte in der Nähe sind nur in %@ verfügbar" = "Yakındaki yerler yalnızca %@'da mevcut";
 "Orte suchen" = "Yer ara";
+"Orte und Veranstaltungen suchen" = "Yer ve etkinlik ara";
 "Ortstyp" = "Yer türü";
 "Papier" = "Kağıt";
 "Park" = "Park";
@@ -377,10 +381,12 @@
 "Wo finde ich jetzt einen kostenlosen Parkplatz?" = "Şimdi ücretsiz bir park yeri nerede bulabilirim?";
 "Wo gibt es Spielplätze in Zürich?" = "Zürih'te oyun parkları nerede bulunur?";
 "Wo wohnst du?" = "Nerede yaşıyorsun?";
+"Wochenende" = "Hafta sonu";
 "Woher deine Daten stammen" = "Verilerin nereden geliyor";
 "Ziehe, um Abschnitte neu anzuordnen, und schalte sie um, um sie auf deinem Startbildschirm ein- oder auszublenden." = "Bölümleri yeniden düzenlemek için sürükle ve ana ekranında göstermek veya gizlemek için açıp kapat.";
 "Zum Kalender hinzufügen" = "Takvime ekle";
 "Zum Umsortieren ziehen. Abschnitte ein- oder ausblenden." = "Yeniden sıralamak için sürükle. Bölümleri göster veya gizle.";
 "Zürich" = "Zürih";
 "Zurück" = "Geri";
+"Zurücksetzen" = "Sıfırla";
 "Zusammenfassung" = "Özet";

@@ -1,10 +1,13 @@
 "%@ · bis %@" = "%@ · до %@";
+"%@ Einträge hier" = "%@ записей здесь";
 "%@ Gesamt" = "%@ Всего";
 "%@ gratis" = "%@ бесплатно";
 "%@ im Vergleich zu gestern" = "%@ по сравнению со вчерашним днём";
 "%@ kostenlos" = "%@ бесплатно";
 "%@ Min. hören" = "%@ мин. прослушивания";
+"%@ Orte hier" = "%@ мест здесь";
 "%@ Velos" = "%@ велосипедов";
+"%@ Veranstaltungen hier" = "%@ мероприятий здесь";
 "%@, ausserhalb der Stadt Zürich" = "%@, за пределами города Цюрих";
 "☕️ Trinkgeld für einen Kaffee" = "☕️ Чаевые на кофе";
 "🍭 Kleines Trinkgeld" = "🍭 Небольшие чаевые";
@@ -254,6 +257,7 @@
 "Orte in der Nähe" = "Места поблизости";
 "Orte in der Nähe sind nur in %@ verfügbar" = "Места поблизости доступны только в %@";
 "Orte suchen" = "Искать места";
+"Orte und Veranstaltungen suchen" = "Искать места и мероприятия";
 "Ortstyp" = "Тип места";
 "Papier" = "Бумага";
 "Park" = "Парк";
@@ -377,10 +381,12 @@
 "Wo finde ich jetzt einen kostenlosen Parkplatz?" = "Где мне сейчас найти бесплатную парковку?";
 "Wo gibt es Spielplätze in Zürich?" = "Где в Цюрихе есть детские площадки?";
 "Wo wohnst du?" = "Где ты живёшь?";
+"Wochenende" = "Выходные";
 "Woher deine Daten stammen" = "Откуда берутся твои данные";
 "Ziehe, um Abschnitte neu anzuordnen, und schalte sie um, um sie auf deinem Startbildschirm ein- oder auszublenden." = "Перетаскивай разделы, чтобы изменить их порядок, и переключай их, чтобы показать или скрыть на экране «Домой».";
 "Zum Kalender hinzufügen" = "Добавить в календарь";
 "Zum Umsortieren ziehen. Abschnitte ein- oder ausblenden." = "Перетащить, чтобы изменить порядок. Показать или скрыть разделы.";
 "Zürich" = "Цюрих";
 "Zurück" = "Назад";
+"Zurücksetzen" = "Сбросить";
 "Zusammenfassung" = "Обзор";

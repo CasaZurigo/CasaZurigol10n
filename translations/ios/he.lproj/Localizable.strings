@@ -1,10 +1,13 @@
 "%@ · bis %@" = "%@ · עד %@";
+"%@ Einträge hier" = "%@ פריטים כאן";
 "%@ Gesamt" = "%@ סה\"כ";
 "%@ gratis" = "%@ בחינם";
 "%@ im Vergleich zu gestern" = "%@ בהשוואה לאתמול";
 "%@ kostenlos" = "%@ בחינם";
 "%@ Min. hören" = "%@ דקות האזנה";
+"%@ Orte hier" = "%@ מקומות כאן";
 "%@ Velos" = "%@ אופניים";
+"%@ Veranstaltungen hier" = "%@ אירועים כאן";
 "%@, ausserhalb der Stadt Zürich" = "%@, מחוץ לעיר ציריך";
 "☕️ Trinkgeld für einen Kaffee" = "☕️ טיפ לקפה";
 "🍭 Kleines Trinkgeld" = "🍭 טיפ קטן";
@@ -254,6 +257,7 @@
 "Orte in der Nähe" = "מקומות בסביבה";
 "Orte in der Nähe sind nur in %@ verfügbar" = "מקומות בסביבה זמינים רק ב-%@";
 "Orte suchen" = "חיפוש מקומות";
+"Orte und Veranstaltungen suchen" = "חיפוש מקומות ואירועים";
 "Ortstyp" = "סוג מקום";
 "Papier" = "נייר";
 "Park" = "פארק";
@@ -377,10 +381,12 @@
 "Wo finde ich jetzt einen kostenlosen Parkplatz?" = "איפה אוכל למצוא עכשיו חניה חינם?";
 "Wo gibt es Spielplätze in Zürich?" = "איפה יש גני שעשועים בציריך?";
 "Wo wohnst du?" = "איפה אתה גר?";
+"Wochenende" = "סוף שבוע";
 "Woher deine Daten stammen" = "מאיפה מגיעים הנתונים שלך";
 "Ziehe, um Abschnitte neu anzuordnen, und schalte sie um, um sie auf deinem Startbildschirm ein- oder auszublenden." = "גרור כדי לסדר מחדש את המקטעים, והפעל או כבה אותם כדי להציג או להסתיר אותם במסך הבית שלך.";
 "Zum Kalender hinzufügen" = "להוסיף ליומן";
 "Zum Umsortieren ziehen. Abschnitte ein- oder ausblenden." = "גרור כדי לסדר מחדש. הצג או הסתר מקטעים.";
 "Zürich" = "ציריך";
 "Zurück" = "חזרה";
+"Zurücksetzen" = "איפוס";
 "Zusammenfassung" = "סיכום";

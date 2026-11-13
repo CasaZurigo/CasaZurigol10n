@@ -1,10 +1,13 @@
 "%@ · bis %@" = "%@ · ~ %@";
+"%@ Einträge hier" = "이곳의 항목 %1$@개";
 "%@ Gesamt" = "%@ 총계";
 "%@ gratis" = "%@ 무료";
 "%@ im Vergleich zu gestern" = "%@ 어제 대비";
 "%@ kostenlos" = "%@ 무료";
 "%@ Min. hören" = "%@분 듣기";
+"%@ Orte hier" = "이곳의 장소 %1$@개";
 "%@ Velos" = "자전거 %@대";
+"%@ Veranstaltungen hier" = "이곳의 행사 %1$@개";
 "%@, ausserhalb der Stadt Zürich" = "%@, 취리히 시 외곽";
 "☕️ Trinkgeld für einen Kaffee" = "☕️ 커피 한 잔을 위한 팁";
 "🍭 Kleines Trinkgeld" = "🍭 작은 팁";
@@ -254,6 +257,7 @@
 "Orte in der Nähe" = "주변 장소";
 "Orte in der Nähe sind nur in %@ verfügbar" = "주변 장소는 %@에서만 이용할 수 있어요";
 "Orte suchen" = "장소 검색";
+"Orte und Veranstaltungen suchen" = "장소 및 행사 검색";
 "Ortstyp" = "장소 유형";
 "Papier" = "종이";
 "Park" = "공원";
@@ -377,10 +381,12 @@
 "Wo finde ich jetzt einen kostenlosen Parkplatz?" = "지금 무료 주차장은 어디에서 찾을 수 있을까요?";
 "Wo gibt es Spielplätze in Zürich?" = "취리히에는 놀이터가 어디에 있나요?";
 "Wo wohnst du?" = "어디 살아요?";
+"Wochenende" = "주말";
 "Woher deine Daten stammen" = "데이터의 출처";
 "Ziehe, um Abschnitte neu anzuordnen, und schalte sie um, um sie auf deinem Startbildschirm ein- oder auszublenden." = "섹션을 드래그하여 순서를 변경하고, 토글하여 홈 화면에 표시하거나 숨길 수 있어요.";
 "Zum Kalender hinzufügen" = "캘린더에 추가하기";
 "Zum Umsortieren ziehen. Abschnitte ein- oder ausblenden." = "순서를 변경하려면 드래그하세요. 섹션을 표시하거나 숨기세요.";
 "Zürich" = "취리히";
 "Zurück" = "뒤로";
+"Zurücksetzen" = "초기화";
 "Zusammenfassung" = "요약";
