@@ -1,5 +1,6 @@
 "%@ · bis %@" = "%@ · jusqu'à %@";
 "%@ Einträge hier" = "%@ entrées ici";
+"%@ frei" = "%@ libres";
 "%@ Gesamt" = "%@ Total";
 "%@ gratis" = "%@ gratuit";
 "%@ im Vergleich zu gestern" = "%@ par rapport à hier";

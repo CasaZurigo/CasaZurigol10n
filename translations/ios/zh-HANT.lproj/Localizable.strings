@@ -1,5 +1,6 @@
 "%@ · bis %@" = "%@ · 至 %@";
 "%@ Einträge hier" = "這裡有 %@ 個項目";
+"%@ frei" = "%@ 個空位";
 "%@ Gesamt" = "%@ 總計";
 "%@ gratis" = "%@ 免費";
 "%@ im Vergleich zu gestern" = "%@ 與昨天相比";
