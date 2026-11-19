@@ -1136,6 +1136,25 @@
           "zh-HANS": "至",
           "zh-HANT": "至"
         }
+      },
+      {
+        "term": "frei",
+        "note": "after a number: available spaces in a car park or pool, never free of charge; keep one word for one space and many",
+        "translations": {
+          "en": "free",
+          "fr": "libre / libres",
+          "es": "libre / libres",
+          "it": "libero / liberi",
+          "pt-PT": "livre / livres",
+          "pl": "wolne / wolnych",
+          "tr": "boş",
+          "ru": "свободно",
+          "uk": "вільне / вільно",
+          "he": "פנוי / פנויים",
+          "ko": "남음",
+          "zh-HANS": "空位",
+          "zh-HANT": "空位"
+        }
       }
     ],
     "languageNotes": {
