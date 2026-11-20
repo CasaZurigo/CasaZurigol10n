@@ -90,6 +90,7 @@
 "Ebenen filtern" = "Filtra i livelli";
 "Einstellungen" = "Impostazioni";
 "Einstellungen öffnen" = "Apri Impostazioni";
+"Emoji-Grafiken von OpenMoji, dem Open-Source-Projekt für Emojis und Icons. Lizenz: CC BY-SA 4.0. Parkschild umgefärbt." = "Grafica emoji di OpenMoji, il progetto open source dedicato alle emoji e alle icone. Licenza: CC BY-SA 4.0. Cartello di parcheggio ricolorato.";
 "Enddatum" = "Data di fine";
 "Enddatum festlegen" = "Imposta la data di fine";
 "Entdecke Baustellen und mehr auf deiner Karte" = "Scopri i cantieri e altro ancora sulla tua mappa";
@@ -147,6 +148,7 @@
 "Hilf mit, CasaZurich für alle kostenlos zu halten." = "Aiutaci a mantenere CasaZurich gratuita per tutti.";
 "Hmmm... hier sieht es leer aus" = "Hmmm... qui sembra vuoto";
 "Hoch" = "Alto";
+"Ich liebe den Geschmack eines ausgefallenen Kaffees" = "Adoro il gusto di un caffè speciale";
 "Ich liebe den Geschmack eines ausgefallenen Kaffees ❤️" = "Adoro il gusto di un caffè speciale ❤️";
 "Ich möchte die Gelegenheit nutzen, dir für die Nutzung meiner App zu danken!\nMit dieser E-Mail versuchst du, einen Fehler zu melden. Bitte beschreibe dein Problem unterhalb dieser Zeile:" = "Vorrei cogliere l'occasione per ringraziarti per aver usato la mia app!\nCon questa e-mail stai cercando di segnalare un errore. Per favore, descrivi il tuo problema sotto questa riga:";
 "Ich möchte folgende Funktion vorschlagen:" = "Vorrei proporre la seguente funzione:";
@@ -185,6 +187,7 @@
 "KI kann Fehler machen. Prüfe wichtige Angaben." = "L'intelligenza artificiale può commettere errori. Verifica le informazioni importanti.";
 "Kiosk" = "Chiosco";
 "Klein aber fein!" = "Piccolo ma carino!";
+"Kleines Trinkgeld" = "Piccola mancia";
 "Konfiguriere deinen Interessensbereich" = "Configura la tua area di interesse";
 "Konzert" = "Concerto";
 "Koordinaten" = "Coordinate";
@@ -333,6 +336,9 @@
 "Tischtennis" = "Ping-pong";
 "Titel" = "Titolo";
 "Toilette" = "Bagno";
+"Trinkgeld für ein Kinoticket" = "Mancia per un biglietto del cinema";
+"Trinkgeld für ein ZVV-Ticket" = "Mancia per un biglietto ZVV";
+"Trinkgeld für einen Kaffee" = "Mancia per un caffè";
 "Trinkgeld geben" = "Lascia la mancia";
 "Trinkgeld ist momentan nicht verfügbar" = "La mancia non è disponibile al momento";
 "Typ auswählen" = "Scegli il tipo";

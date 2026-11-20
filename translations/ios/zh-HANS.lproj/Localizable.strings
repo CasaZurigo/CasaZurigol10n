@@ -90,6 +90,7 @@
 "Ebenen filtern" = "筛选图层";
 "Einstellungen" = "设置";
 "Einstellungen öffnen" = "打开设置";
+"Emoji-Grafiken von OpenMoji, dem Open-Source-Projekt für Emojis und Icons. Lizenz: CC BY-SA 4.0. Parkschild umgefärbt." = "表情符号图形来自 OpenMoji，一个表情符号和图标的开源项目。许可协议：CC BY-SA 4.0。停车标志已重新着色。";
 "Enddatum" = "结束日期";
 "Enddatum festlegen" = "设置结束日期";
 "Entdecke Baustellen und mehr auf deiner Karte" = "在你的地图上探索工地及更多内容";
@@ -147,6 +148,7 @@
 "Hilf mit, CasaZurich für alle kostenlos zu halten." = "帮忙让CasaZurich对所有人保持免费。";
 "Hmmm... hier sieht es leer aus" = "嗯……这里看起来挺空荡的";
 "Hoch" = "高";
+"Ich liebe den Geschmack eines ausgefallenen Kaffees" = "我喜欢别具一格的咖啡味道";
 "Ich liebe den Geschmack eines ausgefallenen Kaffees ❤️" = "我喜欢别具一格的咖啡味道 ❤️";
 "Ich möchte die Gelegenheit nutzen, dir für die Nutzung meiner App zu danken!\nMit dieser E-Mail versuchst du, einen Fehler zu melden. Bitte beschreibe dein Problem unterhalb dieser Zeile:" = "我想借此机会感谢你使用我的应用！\n你正尝试通过这封邮件报告错误。请在这行下方描述你的问题：";
 "Ich möchte folgende Funktion vorschlagen:" = "我想建议以下功能：";
@@ -185,6 +187,7 @@
 "KI kann Fehler machen. Prüfe wichtige Angaben." = "人工智能可能会出错。请核实重要信息。";
 "Kiosk" = "报刊亭";
 "Klein aber fein!" = "小巧可爱！";
+"Kleines Trinkgeld" = "小额小费";
 "Konfiguriere deinen Interessensbereich" = "配置你的感兴趣区域";
 "Konzert" = "音乐会";
 "Koordinaten" = "坐标";
@@ -333,6 +336,9 @@
 "Tischtennis" = "乒乓球";
 "Titel" = "标题";
 "Toilette" = "厕所";
+"Trinkgeld für ein Kinoticket" = "一张电影票的小费";
+"Trinkgeld für ein ZVV-Ticket" = "一张 ZVV 车票的小费";
+"Trinkgeld für einen Kaffee" = "一杯咖啡的小费";
 "Trinkgeld geben" = "给小费";
 "Trinkgeld ist momentan nicht verfügbar" = "小费目前不可用";
 "Typ auswählen" = "选择类型";

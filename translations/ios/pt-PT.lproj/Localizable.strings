@@ -90,6 +90,7 @@
 "Ebenen filtern" = "Filtrar camadas";
 "Einstellungen" = "Definições";
 "Einstellungen öffnen" = "Abrir as Definições";
+"Emoji-Grafiken von OpenMoji, dem Open-Source-Projekt für Emojis und Icons. Lizenz: CC BY-SA 4.0. Parkschild umgefärbt." = "Gráficos de emojis do OpenMoji, o projeto de código aberto para emojis e ícones. Licença: CC BY-SA 4.0. Sinal de estacionamento com a cor alterada.";
 "Enddatum" = "Data de fim";
 "Enddatum festlegen" = "Definir data de fim";
 "Entdecke Baustellen und mehr auf deiner Karte" = "Descobre obras e muito mais no teu mapa";
@@ -147,6 +148,7 @@
 "Hilf mit, CasaZurich für alle kostenlos zu halten." = "Ajuda a manter a CasaZurich gratuita para todos.";
 "Hmmm... hier sieht es leer aus" = "Hmmm... parece que não há nada por aqui";
 "Hoch" = "Alto";
+"Ich liebe den Geschmack eines ausgefallenen Kaffees" = "Adoro o sabor de um café especial";
 "Ich liebe den Geschmack eines ausgefallenen Kaffees ❤️" = "Adoro o sabor de um café especial ❤️";
 "Ich möchte die Gelegenheit nutzen, dir für die Nutzung meiner App zu danken!\nMit dieser E-Mail versuchst du, einen Fehler zu melden. Bitte beschreibe dein Problem unterhalb dieser Zeile:" = "Gostava de aproveitar a oportunidade para te agradecer por usares a minha app!\nCom este e-mail, estás a tentar comunicar um erro. Por favor, descreve o teu problema abaixo desta linha:";
 "Ich möchte folgende Funktion vorschlagen:" = "Gostava de sugerir a seguinte funcionalidade:";
@@ -185,6 +187,7 @@
 "KI kann Fehler machen. Prüfe wichtige Angaben." = "A IA pode cometer erros. Verifica informações importantes.";
 "Kiosk" = "Quiosque";
 "Klein aber fein!" = "Pequeno mas fofo!";
+"Kleines Trinkgeld" = "Pequena gorjeta";
 "Konfiguriere deinen Interessensbereich" = "Configura a tua área de interesse";
 "Konzert" = "Concerto";
 "Koordinaten" = "Coordenadas";
@@ -333,6 +336,9 @@
 "Tischtennis" = "Ténis de mesa";
 "Titel" = "Título";
 "Toilette" = "Casa de banho";
+"Trinkgeld für ein Kinoticket" = "Gorjeta para um bilhete de cinema";
+"Trinkgeld für ein ZVV-Ticket" = "Gorjeta para um bilhete da ZVV";
+"Trinkgeld für einen Kaffee" = "Gorjeta para um café";
 "Trinkgeld geben" = "Dar gorjeta";
 "Trinkgeld ist momentan nicht verfügbar" = "A gorjeta não está disponível neste momento";
 "Typ auswählen" = "Escolher o tipo";

@@ -90,6 +90,7 @@
 "Ebenen filtern" = "סינון שכבות";
 "Einstellungen" = "הגדרות";
 "Einstellungen öffnen" = "לפתוח את ההגדרות";
+"Emoji-Grafiken von OpenMoji, dem Open-Source-Projekt für Emojis und Icons. Lizenz: CC BY-SA 4.0. Parkschild umgefärbt." = "גרפיקות אימוג'י מאת OpenMoji, פרויקט הקוד הפתוח לאימוג'ים ואייקונים. רישיון: CC BY-SA 4.0. צבע שלט החניה שונה.";
 "Enddatum" = "תאריך סיום";
 "Enddatum festlegen" = "קביעת תאריך סיום";
 "Entdecke Baustellen und mehr auf deiner Karte" = "גלה אתרי בנייה ועוד על המפה שלך";
@@ -147,6 +148,7 @@
 "Hilf mit, CasaZurich für alle kostenlos zu halten." = "עזור לשמור על CasaZurich בחינם לכולם.";
 "Hmmm... hier sieht es leer aus" = "המממ... נראה ריק כאן";
 "Hoch" = "גבוה";
+"Ich liebe den Geschmack eines ausgefallenen Kaffees" = "אין כמו הטעם של קפה מיוחד";
 "Ich liebe den Geschmack eines ausgefallenen Kaffees ❤️" = "אין כמו הטעם של קפה מיוחד ❤️";
 "Ich möchte die Gelegenheit nutzen, dir für die Nutzung meiner App zu danken!\nMit dieser E-Mail versuchst du, einen Fehler zu melden. Bitte beschreibe dein Problem unterhalb dieser Zeile:" = "ברצוני לנצל את ההזדמנות כדי להודות לך על השימוש באפליקציה שלי!\nבאמצעות הודעת דוא\"ל זו אתה מנסה לדווח על תקלה. אנא תאר את הבעיה שלך מתחת לשורה זו:";
 "Ich möchte folgende Funktion vorschlagen:" = "אני רוצה להציע את התכונה הבאה:";
@@ -185,6 +187,7 @@
 "KI kann Fehler machen. Prüfe wichtige Angaben." = "בינה מלאכותית יכולה לעשות טעויות. בדוק מידע חשוב.";
 "Kiosk" = "קיוסק";
 "Klein aber fein!" = "קטן אבל חמוד!";
+"Kleines Trinkgeld" = "טיפ קטן";
 "Konfiguriere deinen Interessensbereich" = "הגדר את תחומי העניין שלך";
 "Konzert" = "קונצרט";
 "Koordinaten" = "קואורדינטות";
@@ -333,6 +336,9 @@
 "Tischtennis" = "טניס שולחן";
 "Titel" = "כותרת";
 "Toilette" = "שירותים";
+"Trinkgeld für ein Kinoticket" = "טיפ לכרטיס קולנוע";
+"Trinkgeld für ein ZVV-Ticket" = "טיפ לכרטיס ZVV";
+"Trinkgeld für einen Kaffee" = "טיפ לכוס קפה";
 "Trinkgeld geben" = "לתת טיפ";
 "Trinkgeld ist momentan nicht verfügbar" = "הטיפ אינו זמין כרגע";
 "Typ auswählen" = "בחירת סוג";

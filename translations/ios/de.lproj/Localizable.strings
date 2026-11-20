@@ -90,6 +90,7 @@
 "Ebenen filtern" = "Ebenen filtern";
 "Einstellungen" = "Einstellungen";
 "Einstellungen öffnen" = "Einstellungen öffnen";
+"Emoji-Grafiken von OpenMoji, dem Open-Source-Projekt für Emojis und Icons. Lizenz: CC BY-SA 4.0. Parkschild umgefärbt." = "Emoji-Grafiken von OpenMoji, dem Open-Source-Projekt für Emojis und Icons. Lizenz: CC BY-SA 4.0. Parkschild umgefärbt.";
 "Enddatum" = "Enddatum";
 "Enddatum festlegen" = "Enddatum festlegen";
 "Entdecke Baustellen und mehr auf deiner Karte" = "Entdecke Baustellen und mehr auf deiner Karte";
@@ -147,6 +148,7 @@
 "Hilf mit, CasaZurich für alle kostenlos zu halten." = "Hilf mit, CasaZurich für alle kostenlos zu halten.";
 "Hmmm... hier sieht es leer aus" = "Hmmm... hier sieht es leer aus";
 "Hoch" = "Hoch";
+"Ich liebe den Geschmack eines ausgefallenen Kaffees" = "Ich liebe den Geschmack eines ausgefallenen Kaffees";
 "Ich liebe den Geschmack eines ausgefallenen Kaffees ❤️" = "Ich liebe den Geschmack eines ausgefallenen Kaffees ❤️";
 "Ich möchte die Gelegenheit nutzen, dir für die Nutzung meiner App zu danken!\nMit dieser E-Mail versuchst du, einen Fehler zu melden. Bitte beschreibe dein Problem unterhalb dieser Zeile:" = "Ich möchte die Gelegenheit nutzen, dir für die Nutzung meiner App zu danken!\nMit dieser E-Mail versuchst du, einen Fehler zu melden. Bitte beschreibe dein Problem unterhalb dieser Zeile:";
 "Ich möchte folgende Funktion vorschlagen:" = "Ich möchte folgende Funktion vorschlagen:";
@@ -185,6 +187,7 @@
 "KI kann Fehler machen. Prüfe wichtige Angaben." = "KI kann Fehler machen. Prüfe wichtige Angaben.";
 "Kiosk" = "Kiosk";
 "Klein aber fein!" = "Klein aber fein!";
+"Kleines Trinkgeld" = "Kleines Trinkgeld";
 "Konfiguriere deinen Interessensbereich" = "Konfiguriere deinen Interessensbereich";
 "Konzert" = "Konzert";
 "Koordinaten" = "Koordinaten";
@@ -333,6 +336,9 @@
 "Tischtennis" = "Tischtennis";
 "Titel" = "Titel";
 "Toilette" = "Toilette";
+"Trinkgeld für ein Kinoticket" = "Trinkgeld für ein Kinoticket";
+"Trinkgeld für ein ZVV-Ticket" = "Trinkgeld für ein ZVV-Ticket";
+"Trinkgeld für einen Kaffee" = "Trinkgeld für einen Kaffee";
 "Trinkgeld geben" = "Trinkgeld geben";
 "Trinkgeld ist momentan nicht verfügbar" = "Trinkgeld ist momentan nicht verfügbar";
 "Typ auswählen" = "Typ auswählen";

@@ -90,6 +90,7 @@
 "Ebenen filtern" = "Filter layers";
 "Einstellungen" = "Settings";
 "Einstellungen öffnen" = "Open Settings";
+"Emoji-Grafiken von OpenMoji, dem Open-Source-Projekt für Emojis und Icons. Lizenz: CC BY-SA 4.0. Parkschild umgefärbt." = "Emoji graphics from OpenMoji, the open-source project for emojis and icons. License: CC BY-SA 4.0. Parking sign recolored.";
 "Enddatum" = "End date";
 "Enddatum festlegen" = "Set end date";
 "Entdecke Baustellen und mehr auf deiner Karte" = "Discover construction sites and more on your map";
@@ -147,6 +148,7 @@
 "Hilf mit, CasaZurich für alle kostenlos zu halten." = "Help keep CasaZurich free for everyone.";
 "Hmmm... hier sieht es leer aus" = "Hmmm... it looks empty here";
 "Hoch" = "High";
+"Ich liebe den Geschmack eines ausgefallenen Kaffees" = "I love the taste of a fancy coffee";
 "Ich liebe den Geschmack eines ausgefallenen Kaffees ❤️" = "I love the taste of a unique coffee ❤️";
 "Ich möchte die Gelegenheit nutzen, dir für die Nutzung meiner App zu danken!\nMit dieser E-Mail versuchst du, einen Fehler zu melden. Bitte beschreibe dein Problem unterhalb dieser Zeile:" = "I'd like to take this opportunity to thank you for using my app!\nYou are trying to report a bug with this email. Please describe your problem below this line:";
 "Ich möchte folgende Funktion vorschlagen:" = "I would like to suggest the following feature:";
@@ -185,6 +187,7 @@
 "KI kann Fehler machen. Prüfe wichtige Angaben." = "AI can make mistakes. Check important information.";
 "Kiosk" = "Kiosk";
 "Klein aber fein!" = "Small but cute!";
+"Kleines Trinkgeld" = "Small tip";
 "Konfiguriere deinen Interessensbereich" = "Configure your area of interest";
 "Konzert" = "Concert";
 "Koordinaten" = "Coordinates";
@@ -333,6 +336,9 @@
 "Tischtennis" = "Table tennis";
 "Titel" = "Title";
 "Toilette" = "Toilet";
+"Trinkgeld für ein Kinoticket" = "Tip for a movie ticket";
+"Trinkgeld für ein ZVV-Ticket" = "Tip for a ZVV ticket";
+"Trinkgeld für einen Kaffee" = "Tip for a coffee";
 "Trinkgeld geben" = "Give a tip";
 "Trinkgeld ist momentan nicht verfügbar" = "Tips are currently unavailable";
 "Typ auswählen" = "Select a type";

@@ -90,6 +90,7 @@
 "Ebenen filtern" = "Filtrer les calques";
 "Einstellungen" = "Réglages";
 "Einstellungen öffnen" = "Ouvrir les Réglages";
+"Emoji-Grafiken von OpenMoji, dem Open-Source-Projekt für Emojis und Icons. Lizenz: CC BY-SA 4.0. Parkschild umgefärbt." = "Graphismes d'émojis fournis par OpenMoji, le projet open source dédié aux émojis et aux icônes. Licence : CC BY-SA 4.0. Panneau de parking recoloré.";
 "Enddatum" = "Date de fin";
 "Enddatum festlegen" = "Définir la date de fin";
 "Entdecke Baustellen und mehr auf deiner Karte" = "Découvre les chantiers et bien plus encore sur ta carte";
@@ -147,6 +148,7 @@
 "Hilf mit, CasaZurich für alle kostenlos zu halten." = "Aide-nous à faire en sorte que CasaZurich reste gratuit pour tout le monde.";
 "Hmmm... hier sieht es leer aus" = "Hmmm... ça a l'air vide par ici";
 "Hoch" = "Élevé";
+"Ich liebe den Geschmack eines ausgefallenen Kaffees" = "J'adore le goût d'un café original";
 "Ich liebe den Geschmack eines ausgefallenen Kaffees ❤️" = "J'adore le goût d'un café original ❤️";
 "Ich möchte die Gelegenheit nutzen, dir für die Nutzung meiner App zu danken!\nMit dieser E-Mail versuchst du, einen Fehler zu melden. Bitte beschreibe dein Problem unterhalb dieser Zeile:" = "Je profite de cette occasion pour te remercier d'utiliser mon app !\nAvec cet e-mail, tu essaies de signaler un bug. Merci de décrire ton problème sous cette ligne :";
 "Ich möchte folgende Funktion vorschlagen:" = "Je voudrais proposer la fonctionnalité suivante :";
@@ -185,6 +187,7 @@
 "KI kann Fehler machen. Prüfe wichtige Angaben." = "L'IA peut commettre des erreurs. Vérifie les informations importantes.";
 "Kiosk" = "Kiosque";
 "Klein aber fein!" = "Petit mais mignon !";
+"Kleines Trinkgeld" = "Petit pourboire";
 "Konfiguriere deinen Interessensbereich" = "Configure ton domaine d'intérêt";
 "Konzert" = "Concert";
 "Koordinaten" = "Coordonnées";
@@ -333,6 +336,9 @@
 "Tischtennis" = "Tennis de table";
 "Titel" = "Titre";
 "Toilette" = "Toilettes";
+"Trinkgeld für ein Kinoticket" = "Pourboire pour un billet de cinéma";
+"Trinkgeld für ein ZVV-Ticket" = "Pourboire pour un ticket ZVV";
+"Trinkgeld für einen Kaffee" = "Pourboire pour un café";
 "Trinkgeld geben" = "Donner un pourboire";
 "Trinkgeld ist momentan nicht verfügbar" = "Les pourboires ne sont pas disponibles pour le moment";
 "Typ auswählen" = "Choisir un type";
