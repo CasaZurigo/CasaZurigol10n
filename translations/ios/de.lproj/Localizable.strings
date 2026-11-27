@@ -38,6 +38,7 @@
 "Anpassen" = "Anpassen";
 "Artikel nicht gefunden" = "Artikel nicht gefunden";
 "Auf deinem Startbildschirm" = "Auf deinem Startbildschirm";
+"Auf deiner Startseite" = "Auf deiner Startseite";
 "Aus" = "Aus";
 "Ausserhalb des Radars" = "Ausserhalb des Radars";
 "Bancomat" = "Bancomat";
@@ -79,6 +80,7 @@
 "Dein Begleiter für das Leben in Zürich" = "Dein Begleiter für das Leben in Zürich";
 "Dein Überblick für heute" = "Dein Überblick für heute";
 "Deine Privatsphäre ist uns wichtig. Deine Daten werden weder erhoben noch gespeichert. Was du tust, ist deine Angelegenheit – nicht unsere oder die von jemand anderem." = "Deine Privatsphäre ist uns wichtig. Deine Daten werden weder erhoben noch gespeichert. Was du tust, ist deine Angelegenheit – nicht unsere oder die von jemand anderem.";
+"Deine Startseite ist leer" = "Deine Startseite ist leer";
 "Denkt nach…" = "Denkt nach…";
 "Die lokalen Caches wurden geleert." = "Die lokalen Caches wurden geleert.";
 "Die Nachrichten können derzeit nicht geladen werden." = "Die Nachrichten können derzeit nicht geladen werden.";
@@ -369,6 +371,7 @@
 "vor %@ Stunden" = "vor %@ Stunden";
 "vor %@ Tag" = "vor %@ Tag";
 "vor %@ Tagen" = "vor %@ Tagen";
+"Wähle aus, was du hier sehen willst." = "Wähle aus, was du hier sehen willst.";
 "Wähle aus, welche Benachrichtigungen du erhalten möchtest" = "Wähle aus, welche Benachrichtigungen du erhalten möchtest";
 "Wähle aus, welche Benachrichtigungen du erhalten möchtest. Wir fragen erst um Erlaubnis, wenn du einen Schalter umlegst." = "Wähle aus, welche Benachrichtigungen du erhalten möchtest. Wir fragen erst um Erlaubnis, wenn du einen Schalter umlegst.";
 "Wähle dein Layout" = "Wähle dein Layout";
@@ -398,6 +401,7 @@
 "Woher deine Daten stammen" = "Woher deine Daten stammen";
 "Ziehe, um Abschnitte neu anzuordnen, und schalte sie um, um sie auf deinem Startbildschirm ein- oder auszublenden." = "Ziehe, um Abschnitte neu anzuordnen, und schalte sie um, um sie auf deinem Startbildschirm ein- oder auszublenden.";
 "Zum Kalender hinzufügen" = "Zum Kalender hinzufügen";
+"Zum Umsortieren ziehen, zum Ausblenden ausschalten." = "Zum Umsortieren ziehen, zum Ausblenden ausschalten.";
 "Zum Umsortieren ziehen. Abschnitte ein- oder ausblenden." = "Zum Umsortieren ziehen. Abschnitte ein- oder ausblenden.";
 "Zürich" = "Zürich";
 "Zurück" = "Zurück";

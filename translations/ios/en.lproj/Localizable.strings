@@ -38,6 +38,7 @@
 "Anpassen" = "Customize";
 "Artikel nicht gefunden" = "Article not found";
 "Auf deinem Startbildschirm" = "On your home screen";
+"Auf deiner Startseite" = "On your Home";
 "Aus" = "Off";
 "Ausserhalb des Radars" = "Beyond the radar";
 "Bancomat" = "ATM";
@@ -79,6 +80,7 @@
 "Dein Begleiter für das Leben in Zürich" = "Your guide to life in Zürich";
 "Dein Überblick für heute" = "Your overview for today";
 "Deine Privatsphäre ist uns wichtig. Deine Daten werden weder erhoben noch gespeichert. Was du tust, ist deine Angelegenheit – nicht unsere oder die von jemand anderem." = "Your privacy is important to us. We do not collect or store your data. What you do is your business—not ours or anyone else's.";
+"Deine Startseite ist leer" = "Your Home is empty";
 "Denkt nach…" = "Thinking…";
 "Die lokalen Caches wurden geleert." = "The local caches have been cleared.";
 "Die Nachrichten können derzeit nicht geladen werden." = "The news cannot be loaded at this time.";
@@ -369,6 +371,7 @@
 "vor %@ Stunden" = "%@ hours ago";
 "vor %@ Tag" = "%@ day ago";
 "vor %@ Tagen" = "%@ days ago";
+"Wähle aus, was du hier sehen willst." = "Choose what you want to see here.";
 "Wähle aus, welche Benachrichtigungen du erhalten möchtest" = "Select which notifications you'd like to receive";
 "Wähle aus, welche Benachrichtigungen du erhalten möchtest. Wir fragen erst um Erlaubnis, wenn du einen Schalter umlegst." = "Select which notifications you'd like to receive. We won't ask for permission until you toggle a switch.";
 "Wähle dein Layout" = "Choose your layout";
@@ -398,6 +401,7 @@
 "Woher deine Daten stammen" = "Where your data comes from";
 "Ziehe, um Abschnitte neu anzuordnen, und schalte sie um, um sie auf deinem Startbildschirm ein- oder auszublenden." = "Drag to rearrange sections, and toggle them to show or hide them on your home screen.";
 "Zum Kalender hinzufügen" = "Add to calendar";
+"Zum Umsortieren ziehen, zum Ausblenden ausschalten." = "Drag to reorder, turn off to hide.";
 "Zum Umsortieren ziehen. Abschnitte ein- oder ausblenden." = "Drag to reorder. Show or hide sections.";
 "Zürich" = "Zürich";
 "Zurück" = "Back";

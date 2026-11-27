@@ -38,6 +38,7 @@
 "Anpassen" = "自訂";
 "Artikel nicht gefunden" = "文章未找到";
 "Auf deinem Startbildschirm" = "在你的主畫面上";
+"Auf deiner Startseite" = "在你的首頁";
 "Aus" = "關閉";
 "Ausserhalb des Radars" = "超出雷達偵測範圍";
 "Bancomat" = "自動提款機";
@@ -79,6 +80,7 @@
 "Dein Begleiter für das Leben in Zürich" = "你在蘇黎世生活的良伴";
 "Dein Überblick für heute" = "你的今日概覽";
 "Deine Privatsphäre ist uns wichtig. Deine Daten werden weder erhoben noch gespeichert. Was du tust, ist deine Angelegenheit – nicht unsere oder die von jemand anderem." = "你的隱私對我們很重要。你的資料既不會被蒐集，也不會被儲存。你做什麼純屬你自己的事——與我們或任何其他人無關。";
+"Deine Startseite ist leer" = "你的首頁是空的";
 "Denkt nach…" = "正在思考…";
 "Die lokalen Caches wurden geleert." = "已清除本地快取。";
 "Die Nachrichten können derzeit nicht geladen werden." = "目前無法載入新聞。";
@@ -369,6 +371,7 @@
 "vor %@ Stunden" = "%@ 小時前";
 "vor %@ Tag" = "%@ 天前";
 "vor %@ Tagen" = "%@ 天前";
+"Wähle aus, was du hier sehen willst." = "選擇你想在這裡看到的內容。";
 "Wähle aus, welche Benachrichtigungen du erhalten möchtest" = "選擇你想接收哪些通知";
 "Wähle aus, welche Benachrichtigungen du erhalten möchtest. Wir fragen erst um Erlaubnis, wenn du einen Schalter umlegst." = "選擇你想接收哪些通知。我們只會在你切換開關時才徵求你的許可。";
 "Wähle dein Layout" = "選擇你的版面配置";
@@ -398,6 +401,7 @@
 "Woher deine Daten stammen" = "你的資料來自何處";
 "Ziehe, um Abschnitte neu anzuordnen, und schalte sie um, um sie auf deinem Startbildschirm ein- oder auszublenden." = "拖曳以重新排列區塊，並切換開關以在你的主畫面上顯示或隱藏。";
 "Zum Kalender hinzufügen" = "新增至行事曆";
+"Zum Umsortieren ziehen, zum Ausblenden ausschalten." = "拖曳以重新排序，關閉以隱藏。";
 "Zum Umsortieren ziehen. Abschnitte ein- oder ausblenden." = "拖曳以重新排序。顯示或隱藏區塊。";
 "Zürich" = "蘇黎世";
 "Zurück" = "返回";

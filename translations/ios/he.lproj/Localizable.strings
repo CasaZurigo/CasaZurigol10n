@@ -38,6 +38,7 @@
 "Anpassen" = "התאמה אישית";
 "Artikel nicht gefunden" = "הפריט לא נמצא";
 "Auf deinem Startbildschirm" = "במסך הבית שלך";
+"Auf deiner Startseite" = "בדף הבית שלך";
 "Aus" = "כבוי";
 "Ausserhalb des Radars" = "מעבר לרדאר";
 "Bancomat" = "כספומט";
@@ -79,6 +80,7 @@
 "Dein Begleiter für das Leben in Zürich" = "המדריך שלך לחיים בציריך";
 "Dein Überblick für heute" = "הסקירה היומית שלך";
 "Deine Privatsphäre ist uns wichtig. Deine Daten werden weder erhoben noch gespeichert. Was du tust, ist deine Angelegenheit – nicht unsere oder die von jemand anderem." = "הפרטיות שלך חשובה לנו. הנתונים שלך לא נאספים ולא נשמרים. מה שאתה עושה זה העניין שלך – לא שלנו ולא של אף אחד אחר.";
+"Deine Startseite ist leer" = "דף הבית שלך ריק";
 "Denkt nach…" = "חושב…";
 "Die lokalen Caches wurden geleert." = "המטמונים המקומיים רוקנו.";
 "Die Nachrichten können derzeit nicht geladen werden." = "לא ניתן לטעון את החדשות כרגע.";
@@ -369,6 +371,7 @@
 "vor %@ Stunden" = "לפני %@ שעות";
 "vor %@ Tag" = "לפני %@ יום";
 "vor %@ Tagen" = "לפני %@ ימים";
+"Wähle aus, was du hier sehen willst." = "בחר מה אתה רוצה לראות כאן.";
 "Wähle aus, welche Benachrichtigungen du erhalten möchtest" = "בחר אילו התראות תרצה לקבל";
 "Wähle aus, welche Benachrichtigungen du erhalten möchtest. Wir fragen erst um Erlaubnis, wenn du einen Schalter umlegst." = "בחר אילו התראות תרצה לקבל. נבקש רשות רק כאשר תפעיל מתג.";
 "Wähle dein Layout" = "בחר את הפריסה שלך";
@@ -398,6 +401,7 @@
 "Woher deine Daten stammen" = "מאיפה מגיעים הנתונים שלך";
 "Ziehe, um Abschnitte neu anzuordnen, und schalte sie um, um sie auf deinem Startbildschirm ein- oder auszublenden." = "גרור כדי לסדר מחדש את המקטעים, והפעל או כבה אותם כדי להציג או להסתיר אותם במסך הבית שלך.";
 "Zum Kalender hinzufügen" = "להוסיף ליומן";
+"Zum Umsortieren ziehen, zum Ausblenden ausschalten." = "גרור כדי לסדר מחדש, כבה כדי להסתיר.";
 "Zum Umsortieren ziehen. Abschnitte ein- oder ausblenden." = "גרור כדי לסדר מחדש. הצג או הסתר מקטעים.";
 "Zürich" = "ציריך";
 "Zurück" = "חזרה";

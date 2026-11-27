@@ -38,6 +38,7 @@
 "Anpassen" = "Personalizza";
 "Artikel nicht gefunden" = "Articolo non trovato";
 "Auf deinem Startbildschirm" = "Sulla tua schermata Home";
+"Auf deiner Startseite" = "Sulla tua Home";
 "Aus" = "Disattivo";
 "Ausserhalb des Radars" = "Al di là del radar";
 "Bancomat" = "Bancomat";
@@ -79,6 +80,7 @@
 "Dein Begleiter für das Leben in Zürich" = "La tua guida per la vita a Zurigo";
 "Dein Überblick für heute" = "La tua panoramica di oggi";
 "Deine Privatsphäre ist uns wichtig. Deine Daten werden weder erhoben noch gespeichert. Was du tust, ist deine Angelegenheit – nicht unsere oder die von jemand anderem." = "La tua privacy è importante per noi. I tuoi dati non vengono né raccolti né memorizzati. Quello che fai è affar tuo – non nostro né di nessun altro.";
+"Deine Startseite ist leer" = "La tua Home è vuota";
 "Denkt nach…" = "Sta pensando…";
 "Die lokalen Caches wurden geleert." = "Le cache locali sono state svuotate.";
 "Die Nachrichten können derzeit nicht geladen werden." = "Al momento non è possibile caricare le notizie.";
@@ -369,6 +371,7 @@
 "vor %@ Stunden" = "%@ ore fa";
 "vor %@ Tag" = "%@ giorno fa";
 "vor %@ Tagen" = "%@ giorni fa";
+"Wähle aus, was du hier sehen willst." = "Scegli cosa vuoi vedere qui.";
 "Wähle aus, welche Benachrichtigungen du erhalten möchtest" = "Scegli quali notifiche vuoi ricevere";
 "Wähle aus, welche Benachrichtigungen du erhalten möchtest. Wir fragen erst um Erlaubnis, wenn du einen Schalter umlegst." = "Scegli quali notifiche vuoi ricevere. Ti chiederemo il permesso solo quando attiverai un interruttore.";
 "Wähle dein Layout" = "Scegli il tuo layout";
@@ -398,6 +401,7 @@
 "Woher deine Daten stammen" = "Da dove provengono i tuoi dati";
 "Ziehe, um Abschnitte neu anzuordnen, und schalte sie um, um sie auf deinem Startbildschirm ein- oder auszublenden." = "Trascina per riordinare le sezioni e attivale o disattivale per mostrarle o nasconderle sulla tua schermata Home.";
 "Zum Kalender hinzufügen" = "Aggiungi al calendario";
+"Zum Umsortieren ziehen, zum Ausblenden ausschalten." = "Trascina per riordinare, disattiva per nascondere.";
 "Zum Umsortieren ziehen. Abschnitte ein- oder ausblenden." = "Trascina per riordinare. Mostra o nascondi le sezioni.";
 "Zürich" = "Zurigo";
 "Zurück" = "Indietro";

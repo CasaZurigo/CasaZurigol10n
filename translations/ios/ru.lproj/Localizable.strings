@@ -38,6 +38,7 @@
 "Anpassen" = "Настроить";
 "Artikel nicht gefunden" = "Статья не найдена";
 "Auf deinem Startbildschirm" = "На твоем экране «Домой»";
+"Auf deiner Startseite" = "На твоей Главной";
 "Aus" = "Выкл.";
 "Ausserhalb des Radars" = "Вне зоны действия радара";
 "Bancomat" = "Банкомат";
@@ -79,6 +80,7 @@
 "Dein Begleiter für das Leben in Zürich" = "Твой путеводитель по жизни в Цюрихе";
 "Dein Überblick für heute" = "Твой обзор на сегодня";
 "Deine Privatsphäre ist uns wichtig. Deine Daten werden weder erhoben noch gespeichert. Was du tust, ist deine Angelegenheit – nicht unsere oder die von jemand anderem." = "Нам важна твоя конфиденциальность. Твои данные не собираются и не сохраняются. То, что ты делаешь, — это твое дело, а не наше и не кого-то другого.";
+"Deine Startseite ist leer" = "Твоя Главная пуста";
 "Denkt nach…" = "Думает…";
 "Die lokalen Caches wurden geleert." = "Локальные кэши были очищены.";
 "Die Nachrichten können derzeit nicht geladen werden." = "Сейчас новости не загружаются.";
@@ -369,6 +371,7 @@
 "vor %@ Stunden" = "%@ часов назад";
 "vor %@ Tag" = "%@ день назад";
 "vor %@ Tagen" = "%@ дней назад";
+"Wähle aus, was du hier sehen willst." = "Выбери, что хочешь здесь видеть.";
 "Wähle aus, welche Benachrichtigungen du erhalten möchtest" = "Выбери, какие уведомления ты хочешь получать";
 "Wähle aus, welche Benachrichtigungen du erhalten möchtest. Wir fragen erst um Erlaubnis, wenn du einen Schalter umlegst." = "Выбери, какие уведомления ты хочешь получать. Мы запросим разрешение только тогда, когда ты включишь переключатель.";
 "Wähle dein Layout" = "Выбери макет";
@@ -398,6 +401,7 @@
 "Woher deine Daten stammen" = "Откуда берутся твои данные";
 "Ziehe, um Abschnitte neu anzuordnen, und schalte sie um, um sie auf deinem Startbildschirm ein- oder auszublenden." = "Перетаскивай разделы, чтобы изменить их порядок, и переключай их, чтобы показать или скрыть на экране «Домой».";
 "Zum Kalender hinzufügen" = "Добавить в календарь";
+"Zum Umsortieren ziehen, zum Ausblenden ausschalten." = "Перетащи, чтобы изменить порядок, выключи, чтобы скрыть.";
 "Zum Umsortieren ziehen. Abschnitte ein- oder ausblenden." = "Перетащить, чтобы изменить порядок. Показать или скрыть разделы.";
 "Zürich" = "Цюрих";
 "Zurück" = "Назад";

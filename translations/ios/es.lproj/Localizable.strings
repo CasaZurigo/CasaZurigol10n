@@ -38,6 +38,7 @@
 "Anpassen" = "Personalizar";
 "Artikel nicht gefunden" = "No se ha encontrado el artículo";
 "Auf deinem Startbildschirm" = "En tu pantalla de inicio";
+"Auf deiner Startseite" = "En tu Inicio";
 "Aus" = "Desactivado";
 "Ausserhalb des Radars" = "Fuera del radar";
 "Bancomat" = "Cajero automático";
@@ -79,6 +80,7 @@
 "Dein Begleiter für das Leben in Zürich" = "Tu guía para la vida en Zúrich";
 "Dein Überblick für heute" = "Tu resumen de hoy";
 "Deine Privatsphäre ist uns wichtig. Deine Daten werden weder erhoben noch gespeichert. Was du tust, ist deine Angelegenheit – nicht unsere oder die von jemand anderem." = "Tu privacidad es importante para nosotros. No recopilamos ni guardamos tus datos. Lo que hagas es asunto tuyo, no nuestro ni de nadie más.";
+"Deine Startseite ist leer" = "Tu Inicio está vacío";
 "Denkt nach…" = "Pensando…";
 "Die lokalen Caches wurden geleert." = "Se han borrado las cachés locales.";
 "Die Nachrichten können derzeit nicht geladen werden." = "Ahora mismo no se pueden cargar las noticias.";
@@ -369,6 +371,7 @@
 "vor %@ Stunden" = "hace %@ horas";
 "vor %@ Tag" = "hace %@ día";
 "vor %@ Tagen" = "hace %@ días";
+"Wähle aus, was du hier sehen willst." = "Elige lo que quieres ver aquí.";
 "Wähle aus, welche Benachrichtigungen du erhalten möchtest" = "Elige qué notificaciones quieres recibir";
 "Wähle aus, welche Benachrichtigungen du erhalten möchtest. Wir fragen erst um Erlaubnis, wenn du einen Schalter umlegst." = "Elige qué notificaciones quieres recibir. Solo te pediremos permiso cuando actives un interruptor.";
 "Wähle dein Layout" = "Elige tu diseño";
@@ -398,6 +401,7 @@
 "Woher deine Daten stammen" = "De dónde proceden tus datos";
 "Ziehe, um Abschnitte neu anzuordnen, und schalte sie um, um sie auf deinem Startbildschirm ein- oder auszublenden." = "Arrastra para reorganizar las secciones y actívalas o desactívalas para mostrarlas u ocultarlas en tu pantalla de inicio.";
 "Zum Kalender hinzufügen" = "Añadir al calendario";
+"Zum Umsortieren ziehen, zum Ausblenden ausschalten." = "Arrastra para reordenar, desactiva para ocultar.";
 "Zum Umsortieren ziehen. Abschnitte ein- oder ausblenden." = "Arrastra para cambiar el orden. Mostrar u ocultar secciones.";
 "Zürich" = "Zúrich";
 "Zurück" = "Atrás";

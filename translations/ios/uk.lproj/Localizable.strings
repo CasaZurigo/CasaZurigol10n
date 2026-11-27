@@ -38,6 +38,7 @@
 "Anpassen" = "Налаштувати";
 "Artikel nicht gefunden" = "Статтю не знайдено";
 "Auf deinem Startbildschirm" = "На твоєму екрані «Додому»";
+"Auf deiner Startseite" = "На твоїй Головній";
 "Aus" = "Вимк.";
 "Ausserhalb des Radars" = "Поза радаром";
 "Bancomat" = "Банкомат";
@@ -79,6 +80,7 @@
 "Dein Begleiter für das Leben in Zürich" = "Твій супутник для життя в Цюриху";
 "Dein Überblick für heute" = "Твій огляд на сьогодні";
 "Deine Privatsphäre ist uns wichtig. Deine Daten werden weder erhoben noch gespeichert. Was du tust, ist deine Angelegenheit – nicht unsere oder die von jemand anderem." = "Твоя конфіденційність важлива для нас. Твої дані не збираються і не зберігаються. Те, що ти робиш, — це твоя справа, а не наша чи чиясь інша.";
+"Deine Startseite ist leer" = "Твоя Головна порожня";
 "Denkt nach…" = "Думає…";
 "Die lokalen Caches wurden geleert." = "Локальні кеші очищено.";
 "Die Nachrichten können derzeit nicht geladen werden." = "Наразі не вдається завантажити новини.";
@@ -369,6 +371,7 @@
 "vor %@ Stunden" = "%@ годин тому";
 "vor %@ Tag" = "%@ день тому";
 "vor %@ Tagen" = "%@ днів тому";
+"Wähle aus, was du hier sehen willst." = "Вибери, що ти хочеш тут бачити.";
 "Wähle aus, welche Benachrichtigungen du erhalten möchtest" = "Вибери, які сповіщення ти хочеш отримувати";
 "Wähle aus, welche Benachrichtigungen du erhalten möchtest. Wir fragen erst um Erlaubnis, wenn du einen Schalter umlegst." = "Вибери, які сповіщення ти хочеш отримувати. Ми запитаємо дозволу лише тоді, коли ти перемкнеш перемикач.";
 "Wähle dein Layout" = "Обери свій макет";
@@ -398,6 +401,7 @@
 "Woher deine Daten stammen" = "Звідки беруться твої дані";
 "Ziehe, um Abschnitte neu anzuordnen, und schalte sie um, um sie auf deinem Startbildschirm ein- oder auszublenden." = "Перетягуй, щоб змінити порядок розділів, і перемикай їх, щоб показувати або приховувати їх на своєму екрані «Додому».";
 "Zum Kalender hinzufügen" = "Додати до календаря";
+"Zum Umsortieren ziehen, zum Ausblenden ausschalten." = "Перетягни, щоб змінити порядок, вимкни, щоб приховати.";
 "Zum Umsortieren ziehen. Abschnitte ein- oder ausblenden." = "Перетягни, щоб змінити порядок. Показати або приховати розділи.";
 "Zürich" = "Цюрих";
 "Zurück" = "Назад";

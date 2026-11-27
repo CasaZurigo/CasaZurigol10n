@@ -38,6 +38,7 @@
 "Anpassen" = "Personnaliser";
 "Artikel nicht gefunden" = "Article introuvable";
 "Auf deinem Startbildschirm" = "Sur ton écran d'accueil";
+"Auf deiner Startseite" = "Sur ton Accueil";
 "Aus" = "Désactivé";
 "Ausserhalb des Radars" = "Au-delà du radar";
 "Bancomat" = "Bancomat";
@@ -79,6 +80,7 @@
 "Dein Begleiter für das Leben in Zürich" = "Ton guide pour la vie à Zurich";
 "Dein Überblick für heute" = "Ton aperçu du jour";
 "Deine Privatsphäre ist uns wichtig. Deine Daten werden weder erhoben noch gespeichert. Was du tust, ist deine Angelegenheit – nicht unsere oder die von jemand anderem." = "Ta vie privée est importante pour nous. Tes données ne sont ni collectées ni enregistrées. Ce que tu fais ne regarde que toi – ni nous, ni personne d'autre.";
+"Deine Startseite ist leer" = "Ton Accueil est vide";
 "Denkt nach…" = "Réfléchit…";
 "Die lokalen Caches wurden geleert." = "Les caches locaux ont été vidés.";
 "Die Nachrichten können derzeit nicht geladen werden." = "Les actualités ne peuvent pas être chargées pour le moment.";
@@ -369,6 +371,7 @@
 "vor %@ Stunden" = "il y a %@ heures";
 "vor %@ Tag" = "il y a %@ jour";
 "vor %@ Tagen" = "il y a %@ jours";
+"Wähle aus, was du hier sehen willst." = "Choisis ce que tu veux voir ici.";
 "Wähle aus, welche Benachrichtigungen du erhalten möchtest" = "Choisis les notifications que tu souhaites recevoir";
 "Wähle aus, welche Benachrichtigungen du erhalten möchtest. Wir fragen erst um Erlaubnis, wenn du einen Schalter umlegst." = "Choisis les notifications que tu souhaites recevoir. Nous ne te demanderons ton autorisation que lorsque tu activeras un bouton.";
 "Wähle dein Layout" = "Choisis ta mise en page";
@@ -398,6 +401,7 @@
 "Woher deine Daten stammen" = "D'où viennent tes données";
 "Ziehe, um Abschnitte neu anzuordnen, und schalte sie um, um sie auf deinem Startbildschirm ein- oder auszublenden." = "Fais glisser les sections pour les réorganiser, et active-les ou désactive-les pour les afficher ou les masquer sur ton écran d'accueil.";
 "Zum Kalender hinzufügen" = "Ajouter au calendrier";
+"Zum Umsortieren ziehen, zum Ausblenden ausschalten." = "Fais glisser pour réorganiser, désactive pour masquer.";
 "Zum Umsortieren ziehen. Abschnitte ein- oder ausblenden." = "Faire glisser pour réorganiser. Afficher ou masquer des sections.";
 "Zürich" = "Zurich";
 "Zurück" = "Retour";
