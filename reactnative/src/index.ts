@@ -14,25 +14,13 @@ import tr_ from "../../translations/reactnative/tr.json";
 import uk from "../../translations/reactnative/uk.json";
 import zhHans from "../../translations/reactnative/zh-HANS.json";
 import zhHant from "../../translations/reactnative/zh-HANT.json";
+import { SUPPORTED_LOCALES, type SupportedLanguage } from "./languages";
 
-const SUPPORTED_LANGUAGES = [
-  "de",
-  "en",
-  "es",
-  "fr",
-  "he",
-  "it",
-  "ko",
-  "pl",
-  "pt-pt",
-  "ru",
-  "tr",
-  "uk",
-  "zh-hans",
-  "zh-hant",
-] as const;
-
-export type SupportedLanguage = (typeof SUPPORTED_LANGUAGES)[number];
+export {
+  LANGUAGE_NAMES,
+  SUPPORTED_LOCALES,
+  type SupportedLanguage,
+} from "./languages";
 
 const DEFAULT_LOCALE: SupportedLanguage = "en";
 
@@ -66,7 +54,7 @@ function resolveLanguage(locale: string): SupportedLanguage {
   if (base === "pt") {
     return "pt-pt";
   }
-  return (SUPPORTED_LANGUAGES as readonly string[]).includes(base)
+  return SUPPORTED_LOCALES.some((locale) => locale.toLowerCase() === base)
     ? (base as SupportedLanguage)
     : DEFAULT_LOCALE;
 }

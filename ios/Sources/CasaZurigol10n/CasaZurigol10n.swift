@@ -42,155 +42,29 @@ extension Foundation.Bundle {
     }()
 }
 
-public class CasaZurigol10n {}
+public enum SupportedLanguage: String, CaseIterable, Sendable {
+    case de
+    case en
+    case es
+    case fr
+    case he
+    case it
+    case ko
+    case pl
+    case ptPT = "pt-pt"
+    case ru
+    case tr
+    case uk
+    case zhHans = "zh-hans"
+    case zhHant = "zh-hant"
 
-extension CasaZurigol10n {
-    private enum Language {
-        case de
-        case fr
-        case en
-        case it
-        case es
-        case ptPt
-        case tr
-        case he
-        case ko
-        case pl
-        case ru
-        case uk
-        case zh
-        case zhHans
-        case zhHant
-
-        init(code: String, region _: String) {
-            switch code.lowercased() {
-            case "de":
-                self = .de
-            case "fr":
-                self = .fr
-            case "it":
-                self = .it
-            case "es":
-                self = .es
-            case "pt-PT":
-                self = .ptPt
-            case "tr":
-                self = .tr
-            case "he":
-                self = .he
-            case "ko":
-                self = .ko
-            case "pl":
-                self = .pl
-            case "ru":
-                self = .ru
-            case "uk":
-                self = .uk
-            case "zh":
-                self = .zh
-            case "zh-hans":
-                self = .zhHans
-            case "zh-hant":
-                self = .zhHant
-            default:
-                self = .en
-            }
-        }
+    public static var current: SupportedLanguage {
+        Bundle.casaZurigol10n.preferredLocalizations.first
+            .flatMap { SupportedLanguage(rawValue: $0.lowercased()) } ?? .en
     }
 
-    public enum SupportedLanguage: String {
-        case de
-        case fr
-        case en
-        case it
-        case es
-        case ptPt
-        case tr
-        case he
-        case ko
-        case pl
-        case ru
-        case uk
-        case zh
-        case zhHans
-        case zhHant
-
-        public var rawValue: String {
-            switch self {
-            case .de:
-                return "de"
-            case .fr:
-                return "fr"
-            case .en:
-                return "en"
-            case .it:
-                return "it"
-            case .es:
-                return "es"
-            case .ptPt:
-                return "pt-PT"
-            case .tr:
-                return "tr"
-            case .he:
-                return "he"
-            case .ko:
-                return "ko"
-            case .pl:
-                return "pl"
-            case .ru:
-                return "ru"
-            case .uk:
-                return "uk"
-            case .zh:
-                return "zh"
-            case .zhHans:
-                return "zh-Hans"
-            case .zhHant:
-                return "zh-Hant"
-            }
-        }
-    }
-
-    public static var appLanguage: SupportedLanguage {
-        guard let language = Bundle.main.preferredLocalizations.first else {
-            return .en
-        }
-
-        let code = language.prefix(2).lowercased()
-        let region = language.suffix(2).lowercased()
-
-        switch Language(code: code, region: region) {
-        case .de:
-            return .de
-        case .en:
-            return .en
-        case .fr:
-            return .fr
-        case .it:
-            return .it
-        case .es:
-            return .es
-        case .ptPt:
-            return .ptPt
-        case .tr:
-            return .tr
-        case .he:
-            return .he
-        case .ko:
-            return .ko
-        case .pl:
-            return .pl
-        case .ru:
-            return .ru
-        case .uk:
-            return .uk
-        case .zh:
-            return .zh
-        case .zhHans:
-            return .zhHans
-        case .zhHant:
-            return .zhHant
-        }
+    public var name: String? {
+        Locale(identifier: rawValue).localizedString(forLanguageCode: rawValue)
     }
 }
 
