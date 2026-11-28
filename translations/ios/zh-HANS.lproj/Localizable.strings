@@ -49,7 +49,6 @@
 "Belegung" = "占用率";
 "Benachrichtigungen blockiert" = "已屏蔽通知";
 "Benachrichtigungen sind erlaubt." = "已允许通知。";
-"Berechtigungen werden nur bei Bedarf angefordert." = "仅在必要时才会请求权限。";
 "Beschreibung" = "描述";
 "Bewerte CasaZurich im Store" = "在应用商店为 CasaZurich 评分";
 "Bewertung abgeben" = "发表评价";
@@ -77,9 +76,7 @@
 "Datenschutz" = "隐私";
 "Datenschutzerklärung" = "隐私政策";
 "Datum" = "日期";
-"Dein Begleiter für das Leben in Zürich" = "你在苏黎世生活的伴侣";
 "Dein Überblick für heute" = "你的今日概览";
-"Deine Privatsphäre ist uns wichtig. Deine Daten werden weder erhoben noch gespeichert. Was du tust, ist deine Angelegenheit – nicht unsere oder die von jemand anderem." = "你的隐私对我们很重要。你的数据既不会被收集，也不会被存储。你做什么是你的事——与我们或任何其他人无关。";
 "Deine Startseite ist leer" = "你的首页是空的";
 "Denkt nach…" = "正在思考…";
 "Die lokalen Caches wurden geleert." = "本地缓存已清除。";
@@ -96,19 +93,15 @@
 "Enddatum" = "结束日期";
 "Enddatum festlegen" = "设置结束日期";
 "Entdecke Baustellen und mehr auf deiner Karte" = "在你的地图上探索工地及更多内容";
-"Entdecke lokale Veranstaltungen, um auf dem Laufenden zu bleiben, was in Zürich passiert." = "探索当地活动，随时掌握苏黎世的最新动态。";
-"Entdecke Recyclingtermine" = "探索回收日期";
 "Entdecken" = "探索";
 "Erfahre, wie wir Daten verarbeiten" = "了解我们如何处理数据";
 "Erinnere mich" = "提醒我";
 "Erinnerungen an wichtige Veranstaltungen." = "重要活动的提醒。";
-"Erinnerungen basierend auf deiner Postleitzahl." = "基于你的邮政编码的提醒。";
 "Erinnerungen einschalten" = "开启提醒";
 "Erinnerungen für %@" = "%@ 的提醒";
 "Erinnerungen sind an" = "提醒已开启";
 "Erlaube Benachrichtigungen in den Einstellungen, damit wir dich erinnern können." = "在设置中允许通知，以便我们能提醒你。";
 "Erlaubt" = "允许";
-"Erlebe Festivals, Sport und Kultur." = "了解节日、体育和文化。";
 "Erneut versuchen" = "重试";
 "Es ist ein Fehler aufgetreten. Bitte versuche es erneut." = "发生错误。请重试。";
 "Eurokey" = "Eurokey";
@@ -118,7 +111,6 @@
 "Feuerstelle" = "篝火台";
 "Film" = "电影";
 "Filter" = "筛选";
-"Finde öffentliche Orte in deiner Nähe:\n- Parks\n- Öffentliche Toiletten\n- Bancomaten\n- Und vieles mehr..." = "查找你附近的公共地点：\n- 公园\n- 公共厕所\n- 自动取款机\n- 以及更多……";
 "Finde, was wichtig ist" = "找到真正重要的内容";
 "Fitness" = "健身";
 "Frag nach Zürich…" = "问问关于苏黎世的事…";
@@ -157,7 +149,6 @@
 "im Vergleich zu gestern" = "较昨日";
 "In den Android-Einstellungen ändern" = "在 Android 设置中更改";
 "In Karten öffnen" = "在地图中打开";
-"Informiere dich über lokale Recyclingtermine, um auf dem Laufenden zu bleiben, was du recyceln kannst und welche Regeln du befolgen musst." = "了解当地的回收日期，以便随时掌握你可以回收什么以及需要遵守哪些规则。";
 "Informiert bleiben" = "随时掌握最新信息";
 "Infrastruktur" = "基础设施";
 "Inhalt konnte nicht geladen werden" = "无法加载内容";
@@ -210,7 +201,6 @@
 "Letzte 7 Tage" = "近7天";
 "Liegewiese" = "日光浴草坪";
 "Link kann nicht geöffnet werden." = "无法打开链接。";
-"Lokale Neuigkeiten, die für dich wichtig sind." = "对你来说重要的本地新闻。";
 "Los geht's" = "开始吧";
 "Löschen" = "删除";
 "Luftqualität" = "空气质量";
@@ -235,7 +225,6 @@
 "Nachrichten" = "新闻";
 "Nachrichten suchen" = "搜索新闻";
 "Name" = "名称";
-"Navigiere mit kuratierten Ebenen durch Zürich." = "借助精选图层在苏黎世导航。";
 "Nein" = "否";
 "Neu generieren" = "重新生成";
 "Neue Funktionen vorab ausprobieren." = "抢先体验新功能。";
@@ -298,13 +287,11 @@
 "Schadstoffe · Letzte 7 Tage" = "污染物 · 最近7天";
 "Schlage eine neue Funktion vor" = "建议新功能";
 "Schliessen" = "关闭";
-"Schnellübersicht Stadtplan" = "快速城市地图";
 "Schreib uns eine Nachricht" = "给我们发条消息";
 "Schwimmbad" = "游泳池";
 "Sehr hoch" = "非常高";
 "Sehr niedrig" = "极低";
 "Sieh die Übersetzung" = "查看翻译";
-"Sieh, was in Zürich los ist" = "看看苏黎世有什么活动";
 "Sitzbank" = "长凳";
 "So recycelst du" = "如何回收";
 "Sonne oder Regen?" = "晴天还是下雨？";
@@ -354,7 +341,6 @@
 "Velopumpe" = "自行车打气筒";
 "Veranstaltung nicht gefunden" = "未找到活动";
 "Veranstaltungen" = "活动";
-"Veranstaltungen entdecken" = "探索活动";
 "Veranstaltungen können derzeit nicht geladen werden." = "目前无法加载活动。";
 "Veranstaltungen suchen" = "搜索活动";
 "Verfügbare Velos" = "可用自行车";
@@ -379,7 +365,6 @@
 "Was kann ich dir in Zürich zeigen?" = "在苏黎世我能带你看什么？";
 "Was steht heute an?" = "今天有什么安排？";
 "Wassertemperatur" = "水温";
-"Weiter" = "继续";
 "Weitere Informationen auf deiner Karte anzeigen" = "在你的地图上显示更多信息";
 "Welche Restaurants in Zürich kannst du empfehlen?" = "你能推荐苏黎世的哪些餐厅？";
 "Wenn du doppelte Orte siehst, kannst du deinen lokalen Cache leeren." = "如果你看到重复的地点，可以清除本地缓存。";

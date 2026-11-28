@@ -49,7 +49,6 @@
 "Belegung" = "Doluluk";
 "Benachrichtigungen blockiert" = "Bildirimler engellendi";
 "Benachrichtigungen sind erlaubt." = "Bildirimlere izin verildi.";
-"Berechtigungen werden nur bei Bedarf angefordert." = "İzinler yalnızca gerektiğinde istenir.";
 "Beschreibung" = "Açıklama";
 "Bewerte CasaZurich im Store" = "Store’da CasaZurich’i değerlendir";
 "Bewertung abgeben" = "Değerlendirme yap";
@@ -77,9 +76,7 @@
 "Datenschutz" = "Gizlilik";
 "Datenschutzerklärung" = "Gizlilik beyanı";
 "Datum" = "Tarih";
-"Dein Begleiter für das Leben in Zürich" = "Zürih'te yaşam için rehberin";
 "Dein Überblick für heute" = "Bugün için genel bakışın";
-"Deine Privatsphäre ist uns wichtig. Deine Daten werden weder erhoben noch gespeichert. Was du tust, ist deine Angelegenheit – nicht unsere oder die von jemand anderem." = "Gizliliğin bizim için önemli. Verilerin ne toplanır ne de saklanır. Ne yaptığın seni ilgilendirir – bizi ya da bir başkasını değil.";
 "Deine Startseite ist leer" = "Ana sayfan boş";
 "Denkt nach…" = "Düşünüyor…";
 "Die lokalen Caches wurden geleert." = "Yerel önbellekler temizlendi.";
@@ -96,19 +93,15 @@
 "Enddatum" = "Bitiş tarihi";
 "Enddatum festlegen" = "Bitiş tarihini belirle";
 "Entdecke Baustellen und mehr auf deiner Karte" = "Haritanda şantiyeleri ve daha fazlasını keşfet";
-"Entdecke lokale Veranstaltungen, um auf dem Laufenden zu bleiben, was in Zürich passiert." = "Zürih'te neler olup bittiğinden haberdar olmak için yerel etkinlikleri keşfet.";
-"Entdecke Recyclingtermine" = "Toplama tarihlerini keşfet";
 "Entdecken" = "Keşfet";
 "Erfahre, wie wir Daten verarbeiten" = "Verileri nasıl işlediğimizi öğren";
 "Erinnere mich" = "Bana hatırlat";
 "Erinnerungen an wichtige Veranstaltungen." = "Önemli etkinlikler için hatırlatmalar.";
-"Erinnerungen basierend auf deiner Postleitzahl." = "Posta koduna göre hatırlatıcılar.";
 "Erinnerungen einschalten" = "Hatırlatıcıları aç";
 "Erinnerungen für %@" = "%@ için hatırlatıcılar";
 "Erinnerungen sind an" = "Hatırlatıcılar açık";
 "Erlaube Benachrichtigungen in den Einstellungen, damit wir dich erinnern können." = "Ayarlar'da bildirimlere izin ver, böylece sana hatırlatabiliriz.";
 "Erlaubt" = "İzin verilir";
-"Erlebe Festivals, Sport und Kultur." = "Festivalleri, spor etkinliklerini ve kültürel etkinlikleri gör.";
 "Erneut versuchen" = "Tekrar dene";
 "Es ist ein Fehler aufgetreten. Bitte versuche es erneut." = "Bir hata oluştu. Lütfen tekrar dene.";
 "Eurokey" = "Eurokey";
@@ -118,7 +111,6 @@
 "Feuerstelle" = "Ateş yeri";
 "Film" = "Film";
 "Filter" = "Filtre";
-"Finde öffentliche Orte in deiner Nähe:\n- Parks\n- Öffentliche Toiletten\n- Bancomaten\n- Und vieles mehr..." = "Yakınındaki halka açık yerleri bul:\n- Parklar\n- Umumi tuvaletler\n- ATM'ler\n- Ve daha fazlası...";
 "Finde, was wichtig ist" = "Önemli olanı bul";
 "Fitness" = "Fitness";
 "Frag nach Zürich…" = "Zürih’i sor…";
@@ -157,7 +149,6 @@
 "im Vergleich zu gestern" = "düne kıyasla";
 "In den Android-Einstellungen ändern" = "Android Ayarları'nda değiştir";
 "In Karten öffnen" = "Haritalar'da aç";
-"Informiere dich über lokale Recyclingtermine, um auf dem Laufenden zu bleiben, was du recyceln kannst und welche Regeln du befolgen musst." = "Neleri geri dönüştürebileceğin ve hangi kurallara uyman gerektiği konusunda güncel kalmak için yerel toplama tarihleri hakkında bilgi edin.";
 "Informiert bleiben" = "Gelişmelerden haberdar ol";
 "Infrastruktur" = "Altyapı";
 "Inhalt konnte nicht geladen werden" = "İçerik yüklenemedi";
@@ -210,7 +201,6 @@
 "Letzte 7 Tage" = "Son 7 gün";
 "Liegewiese" = "Güneşlenme alanı";
 "Link kann nicht geöffnet werden." = "Bağlantı açılamıyor.";
-"Lokale Neuigkeiten, die für dich wichtig sind." = "Senin için önemli olan yerel haberler.";
 "Los geht's" = "Hadi başlayalım";
 "Löschen" = "Sil";
 "Luftqualität" = "Hava kalitesi";
@@ -235,7 +225,6 @@
 "Nachrichten" = "Haberler";
 "Nachrichten suchen" = "Haberleri ara";
 "Name" = "Ad";
-"Navigiere mit kuratierten Ebenen durch Zürich." = "Özenle seçilmiş katmanlarla Zürih'te gezin.";
 "Nein" = "Hayır";
 "Neu generieren" = "Yeniden oluştur";
 "Neue Funktionen vorab ausprobieren." = "Yeni özellikleri önceden dene.";
@@ -298,13 +287,11 @@
 "Schadstoffe · Letzte 7 Tage" = "Kirletici maddeler · Son 7 gün";
 "Schlage eine neue Funktion vor" = "Yeni bir özellik öner";
 "Schliessen" = "Kapat";
-"Schnellübersicht Stadtplan" = "Hızlı şehir haritası";
 "Schreib uns eine Nachricht" = "Bize bir mesaj yaz";
 "Schwimmbad" = "Yüzme havuzu";
 "Sehr hoch" = "Çok yüksek";
 "Sehr niedrig" = "Çok düşük";
 "Sieh die Übersetzung" = "Çeviriyi gör";
-"Sieh, was in Zürich los ist" = "Zürih'te neler olup bittiğine bak";
 "Sitzbank" = "Bank";
 "So recycelst du" = "Nasıl geri dönüştürürsün";
 "Sonne oder Regen?" = "Güneş mi, yağmur mu?";
@@ -354,7 +341,6 @@
 "Velopumpe" = "Bisiklet pompası";
 "Veranstaltung nicht gefunden" = "Etkinlik bulunamadı";
 "Veranstaltungen" = "Etkinlikler";
-"Veranstaltungen entdecken" = "Etkinlikleri keşfet";
 "Veranstaltungen können derzeit nicht geladen werden." = "Etkinlikler şu anda yüklenemiyor.";
 "Veranstaltungen suchen" = "Etkinlikleri ara";
 "Verfügbare Velos" = "Mevcut bisikletler";
@@ -379,7 +365,6 @@
 "Was kann ich dir in Zürich zeigen?" = "Zürih'te sana neler gösterebilirim?";
 "Was steht heute an?" = "Bugün neler var?";
 "Wassertemperatur" = "Su sıcaklığı";
-"Weiter" = "Devam et";
 "Weitere Informationen auf deiner Karte anzeigen" = "Haritanda daha fazla bilgi göster";
 "Welche Restaurants in Zürich kannst du empfehlen?" = "Zürih'te hangi restoranları tavsiye edersin?";
 "Wenn du doppelte Orte siehst, kannst du deinen lokalen Cache leeren." = "Yinelenen yerler görürsen yerel önbelleğini temizleyebilirsin.";

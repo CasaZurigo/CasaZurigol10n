@@ -49,7 +49,6 @@
 "Belegung" = "점유율";
 "Benachrichtigungen blockiert" = "알림이 차단되었어요";
 "Benachrichtigungen sind erlaubt." = "알림이 허용되어 있어요.";
-"Berechtigungen werden nur bei Bedarf angefordert." = "권한은 필요한 경우에만 요청돼요.";
 "Beschreibung" = "설명";
 "Bewerte CasaZurich im Store" = "스토어에서 CasaZurich에 평점을 남겨주세요";
 "Bewertung abgeben" = "평점 남기기";
@@ -77,9 +76,7 @@
 "Datenschutz" = "개인정보 보호";
 "Datenschutzerklärung" = "개인정보 처리방침";
 "Datum" = "날짜";
-"Dein Begleiter für das Leben in Zürich" = "취리히 생활을 함께하는 동반자";
 "Dein Überblick für heute" = "오늘의 요약";
-"Deine Privatsphäre ist uns wichtig. Deine Daten werden weder erhoben noch gespeichert. Was du tust, ist deine Angelegenheit – nicht unsere oder die von jemand anderem." = "개인정보 보호를 중요하게 생각해요. 데이터는 수집되지도 저장되지도 않아요. 무엇을 하든 개인의 일이에요 – 우리나 다른 누구의 일도 아니에요.";
 "Deine Startseite ist leer" = "홈이 비어 있어요";
 "Denkt nach…" = "생각 중이에요…";
 "Die lokalen Caches wurden geleert." = "로컬 캐시가 지워졌어요.";
@@ -96,19 +93,15 @@
 "Enddatum" = "종료일";
 "Enddatum festlegen" = "종료 날짜 설정";
 "Entdecke Baustellen und mehr auf deiner Karte" = "지도에서 공사 현장 등을 둘러보세요";
-"Entdecke lokale Veranstaltungen, um auf dem Laufenden zu bleiben, was in Zürich passiert." = "취리히에서 어떤 일이 일어나고 있는지 최신 정보를 확인하려면 지역 행사를 둘러보세요.";
-"Entdecke Recyclingtermine" = "수거일 둘러보기";
 "Entdecken" = "둘러보다";
 "Erfahre, wie wir Daten verarbeiten" = "우리가 데이터를 처리하는 방법을 알아보세요";
 "Erinnere mich" = "알려주세요";
 "Erinnerungen an wichtige Veranstaltungen." = "중요한 행사 알림.";
-"Erinnerungen basierend auf deiner Postleitzahl." = "우편번호를 기반으로 한 알림.";
 "Erinnerungen einschalten" = "미리 알림 켜기";
 "Erinnerungen für %@" = "%@ 알림";
 "Erinnerungen sind an" = "미리알림이 켜져 있어요";
 "Erlaube Benachrichtigungen in den Einstellungen, damit wir dich erinnern können." = "알려드릴 수 있도록 설정에서 알림을 허용해 주세요.";
 "Erlaubt" = "허용됨";
-"Erlebe Festivals, Sport und Kultur." = "축제, 스포츠, 문화를 만나보세요.";
 "Erneut versuchen" = "다시 시도하기";
 "Es ist ein Fehler aufgetreten. Bitte versuche es erneut." = "오류가 발생했어요. 다시 시도해 주세요.";
 "Eurokey" = "Eurokey";
@@ -118,7 +111,6 @@
 "Feuerstelle" = "모닥불터";
 "Film" = "영화";
 "Filter" = "필터";
-"Finde öffentliche Orte in deiner Nähe:\n- Parks\n- Öffentliche Toiletten\n- Bancomaten\n- Und vieles mehr..." = "주변 공공장소를 찾아보세요:\n- 공원\n- 공중화장실\n- ATM\n- 그 외 다양한 장소...";
 "Finde, was wichtig ist" = "중요한 것을 찾아보세요";
 "Fitness" = "피트니스";
 "Frag nach Zürich…" = "취리히에 대해 물어보세요…";
@@ -157,7 +149,6 @@
 "im Vergleich zu gestern" = "어제 대비";
 "In den Android-Einstellungen ändern" = "Android 설정에서 변경";
 "In Karten öffnen" = "지도에서 열기";
-"Informiere dich über lokale Recyclingtermine, um auf dem Laufenden zu bleiben, was du recyceln kannst und welche Regeln du befolgen musst." = "지역 수거일을 확인해 무엇을 재활용할 수 있는지, 어떤 규칙을 따라야 하는지 최신 정보를 파악해 보세요.";
 "Informiert bleiben" = "최신 정보를 확인하세요";
 "Infrastruktur" = "인프라";
 "Inhalt konnte nicht geladen werden" = "콘텐츠를 불러올 수 없어요";
@@ -210,7 +201,6 @@
 "Letzte 7 Tage" = "최근 7일";
 "Liegewiese" = "일광욕장";
 "Link kann nicht geöffnet werden." = "링크를 열 수 없어요.";
-"Lokale Neuigkeiten, die für dich wichtig sind." = "중요한 지역 뉴스예요.";
 "Los geht's" = "시작해 볼까요";
 "Löschen" = "삭제";
 "Luftqualität" = "공기질";
@@ -235,7 +225,6 @@
 "Nachrichten" = "뉴스";
 "Nachrichten suchen" = "뉴스 검색";
 "Name" = "이름";
-"Navigiere mit kuratierten Ebenen durch Zürich." = "엄선된 레이어로 취리히를 탐색해 보세요.";
 "Nein" = "아니요";
 "Neu generieren" = "다시 생성";
 "Neue Funktionen vorab ausprobieren." = "새로운 기능을 미리 체험해 보세요.";
@@ -298,13 +287,11 @@
 "Schadstoffe · Letzte 7 Tage" = "유해 물질 · 지난 7일";
 "Schlage eine neue Funktion vor" = "새로운 기능을 제안해 주세요";
 "Schliessen" = "닫기";
-"Schnellübersicht Stadtplan" = "빠른 도시 지도";
 "Schreib uns eine Nachricht" = "저희에게 메시지를 보내주세요";
 "Schwimmbad" = "수영장";
 "Sehr hoch" = "매우 높음";
 "Sehr niedrig" = "매우 낮음";
 "Sieh die Übersetzung" = "번역을 보세요";
-"Sieh, was in Zürich los ist" = "취리히에서 무슨 일이 일어나고 있는지 확인해 보세요";
 "Sitzbank" = "벤치";
 "So recycelst du" = "이렇게 재활용해요";
 "Sonne oder Regen?" = "햇살일까요, 비일까요?";
@@ -354,7 +341,6 @@
 "Velopumpe" = "자전거 펌프";
 "Veranstaltung nicht gefunden" = "행사를 찾을 수 없어요";
 "Veranstaltungen" = "행사";
-"Veranstaltungen entdecken" = "행사 둘러보기";
 "Veranstaltungen können derzeit nicht geladen werden." = "현재 행사를 불러올 수 없어요.";
 "Veranstaltungen suchen" = "행사 검색";
 "Verfügbare Velos" = "대여 가능한 자전거";
@@ -379,7 +365,6 @@
 "Was kann ich dir in Zürich zeigen?" = "취리히에서 뭘 보여줄까요?";
 "Was steht heute an?" = "오늘은 어떤 일정이 있어요?";
 "Wassertemperatur" = "수온";
-"Weiter" = "계속하기";
 "Weitere Informationen auf deiner Karte anzeigen" = "지도에서 더 많은 정보 보기";
 "Welche Restaurants in Zürich kannst du empfehlen?" = "취리히에서 어떤 식당을 추천해 줄 수 있어요?";
 "Wenn du doppelte Orte siehst, kannst du deinen lokalen Cache leeren." = "중복된 장소가 보이면 로컬 캐시를 지울 수 있어요.";

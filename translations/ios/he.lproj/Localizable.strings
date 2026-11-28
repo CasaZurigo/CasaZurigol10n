@@ -49,7 +49,6 @@
 "Belegung" = "תפוסה";
 "Benachrichtigungen blockiert" = "התראות חסומות";
 "Benachrichtigungen sind erlaubt." = "התראות מותרות.";
-"Berechtigungen werden nur bei Bedarf angefordert." = "הרשאות מתבקשות רק לפי הצורך.";
 "Beschreibung" = "תיאור";
 "Bewerte CasaZurich im Store" = "דרג את CasaZurich בחנות";
 "Bewertung abgeben" = "להשאיר ביקורת";
@@ -77,9 +76,7 @@
 "Datenschutz" = "פרטיות";
 "Datenschutzerklärung" = "הצהרת פרטיות";
 "Datum" = "תאריך";
-"Dein Begleiter für das Leben in Zürich" = "המדריך שלך לחיים בציריך";
 "Dein Überblick für heute" = "הסקירה היומית שלך";
-"Deine Privatsphäre ist uns wichtig. Deine Daten werden weder erhoben noch gespeichert. Was du tust, ist deine Angelegenheit – nicht unsere oder die von jemand anderem." = "הפרטיות שלך חשובה לנו. הנתונים שלך לא נאספים ולא נשמרים. מה שאתה עושה זה העניין שלך – לא שלנו ולא של אף אחד אחר.";
 "Deine Startseite ist leer" = "דף הבית שלך ריק";
 "Denkt nach…" = "חושב…";
 "Die lokalen Caches wurden geleert." = "המטמונים המקומיים רוקנו.";
@@ -96,19 +93,15 @@
 "Enddatum" = "תאריך סיום";
 "Enddatum festlegen" = "קביעת תאריך סיום";
 "Entdecke Baustellen und mehr auf deiner Karte" = "גלה אתרי בנייה ועוד על המפה שלך";
-"Entdecke lokale Veranstaltungen, um auf dem Laufenden zu bleiben, was in Zürich passiert." = "גלה אירועים מקומיים כדי להישאר מעודכן במה שקורה בציריך.";
-"Entdecke Recyclingtermine" = "גלה מועדי איסוף";
 "Entdecken" = "לגלות";
 "Erfahre, wie wir Daten verarbeiten" = "גלה כיצד אנו מעבדים נתונים";
 "Erinnere mich" = "תזכיר לי";
 "Erinnerungen an wichtige Veranstaltungen." = "תזכורות לאירועים חשובים.";
-"Erinnerungen basierend auf deiner Postleitzahl." = "תזכורות בהתבסס על המיקוד שלך.";
 "Erinnerungen einschalten" = "להפעיל תזכורות";
 "Erinnerungen für %@" = "תזכורות עבור %@";
 "Erinnerungen sind an" = "התזכורות מופעלות";
 "Erlaube Benachrichtigungen in den Einstellungen, damit wir dich erinnern können." = "אפשר התראות בהגדרות כדי שנוכל להזכיר לך.";
 "Erlaubt" = "מותר";
-"Erlebe Festivals, Sport und Kultur." = "תהנה מפסטיבלים, ספורט ותרבות.";
 "Erneut versuchen" = "לנסות שוב";
 "Es ist ein Fehler aufgetreten. Bitte versuche es erneut." = "אירעה שגיאה. אנא נסה שוב.";
 "Eurokey" = "Eurokey";
@@ -118,7 +111,6 @@
 "Feuerstelle" = "פינת מדורה";
 "Film" = "סרט";
 "Filter" = "סינון";
-"Finde öffentliche Orte in deiner Nähe:\n- Parks\n- Öffentliche Toiletten\n- Bancomaten\n- Und vieles mehr..." = "מצא מקומות ציבוריים בסביבה:\n- פארקים\n- שירותים ציבוריים\n- כספומטים\n- ועוד הרבה יותר...";
 "Finde, was wichtig ist" = "מצא מה שחשוב";
 "Fitness" = "כושר";
 "Frag nach Zürich…" = "שאל על ציריך…";
@@ -157,7 +149,6 @@
 "im Vergleich zu gestern" = "בהשוואה לאתמול";
 "In den Android-Einstellungen ändern" = "שינוי בהגדרות Android";
 "In Karten öffnen" = "לפתוח במפות";
-"Informiere dich über lokale Recyclingtermine, um auf dem Laufenden zu bleiben, was du recyceln kannst und welche Regeln du befolgen musst." = "התעדכן במועדי איסוף מקומיים כדי להישאר מעודכן מה אתה יכול למחזר ואילו כללים עליך לפעול לפיהם.";
 "Informiert bleiben" = "להישאר מעודכן";
 "Infrastruktur" = "תשתית";
 "Inhalt konnte nicht geladen werden" = "לא ניתן היה לטעון את התוכן";
@@ -210,7 +201,6 @@
 "Letzte 7 Tage" = "7 הימים האחרונים";
 "Liegewiese" = "מדשאת שיזוף";
 "Link kann nicht geöffnet werden." = "לא ניתן לפתוח את הקישור.";
-"Lokale Neuigkeiten, die für dich wichtig sind." = "חדשות מקומיות שחשובות לך.";
 "Los geht's" = "יוצאים לדרך";
 "Löschen" = "מחיקה";
 "Luftqualität" = "איכות האוויר";
@@ -235,7 +225,6 @@
 "Nachrichten" = "חדשות";
 "Nachrichten suchen" = "חיפוש חדשות";
 "Name" = "שם";
-"Navigiere mit kuratierten Ebenen durch Zürich." = "נווט בציריך באמצעות שכבות שנבחרו בקפידה.";
 "Nein" = "לא";
 "Neu generieren" = "ליצור מחדש";
 "Neue Funktionen vorab ausprobieren." = "לנסות תכונות חדשות מראש.";
@@ -298,13 +287,11 @@
 "Schadstoffe · Letzte 7 Tage" = "חומרים מזהמים · 7 הימים האחרונים";
 "Schlage eine neue Funktion vor" = "הצע פונקציה חדשה";
 "Schliessen" = "לסגור";
-"Schnellübersicht Stadtplan" = "מפת עיר מהירה";
 "Schreib uns eine Nachricht" = "כתוב לנו הודעה";
 "Schwimmbad" = "בריכת שחייה";
 "Sehr hoch" = "גבוה מאוד";
 "Sehr niedrig" = "נמוך מאוד";
 "Sieh die Übersetzung" = "ראה את התרגום";
-"Sieh, was in Zürich los ist" = "תראה מה קורה בציריך";
 "Sitzbank" = "ספסל";
 "So recycelst du" = "כך תמחזר";
 "Sonne oder Regen?" = "שמש או גשם?";
@@ -354,7 +341,6 @@
 "Velopumpe" = "משאבת אופניים";
 "Veranstaltung nicht gefunden" = "לא נמצא אירוע";
 "Veranstaltungen" = "אירועים";
-"Veranstaltungen entdecken" = "לגלות אירועים";
 "Veranstaltungen können derzeit nicht geladen werden." = "כרגע לא ניתן לטעון אירועים.";
 "Veranstaltungen suchen" = "חיפוש אירועים";
 "Verfügbare Velos" = "אופניים זמינים";
@@ -379,7 +365,6 @@
 "Was kann ich dir in Zürich zeigen?" = "מה אוכל להראות לך בציריך?";
 "Was steht heute an?" = "מה בתוכנית להיום?";
 "Wassertemperatur" = "טמפרטורת המים";
-"Weiter" = "המשך";
 "Weitere Informationen auf deiner Karte anzeigen" = "להציג מידע נוסף על המפה שלך";
 "Welche Restaurants in Zürich kannst du empfehlen?" = "על אילו מסעדות בציריך אתה יכול להמליץ?";
 "Wenn du doppelte Orte siehst, kannst du deinen lokalen Cache leeren." = "אם אתה רואה מקומות כפולים, תוכל לרוקן את המטמון המקומי שלך.";

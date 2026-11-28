@@ -49,7 +49,6 @@
 "Belegung" = "Ocupación";
 "Benachrichtigungen blockiert" = "Notificaciones bloqueadas";
 "Benachrichtigungen sind erlaubt." = "Se permiten las notificaciones.";
-"Berechtigungen werden nur bei Bedarf angefordert." = "Los permisos solo se solicitan cuando es necesario.";
 "Beschreibung" = "Descripción";
 "Bewerte CasaZurich im Store" = "Valora CasaZurich en la tienda";
 "Bewertung abgeben" = "Dejar una valoración";
@@ -77,9 +76,7 @@
 "Datenschutz" = "Privacidad";
 "Datenschutzerklärung" = "Política de privacidad";
 "Datum" = "Fecha";
-"Dein Begleiter für das Leben in Zürich" = "Tu guía para la vida en Zúrich";
 "Dein Überblick für heute" = "Tu resumen de hoy";
-"Deine Privatsphäre ist uns wichtig. Deine Daten werden weder erhoben noch gespeichert. Was du tust, ist deine Angelegenheit – nicht unsere oder die von jemand anderem." = "Tu privacidad es importante para nosotros. No recopilamos ni guardamos tus datos. Lo que hagas es asunto tuyo, no nuestro ni de nadie más.";
 "Deine Startseite ist leer" = "Tu Inicio está vacío";
 "Denkt nach…" = "Pensando…";
 "Die lokalen Caches wurden geleert." = "Se han borrado las cachés locales.";
@@ -96,19 +93,15 @@
 "Enddatum" = "Fecha de finalización";
 "Enddatum festlegen" = "Establecer fecha de finalización";
 "Entdecke Baustellen und mehr auf deiner Karte" = "Descubre obras y más en tu mapa";
-"Entdecke lokale Veranstaltungen, um auf dem Laufenden zu bleiben, was in Zürich passiert." = "Descubre eventos locales para estar al día de lo que pasa en Zúrich.";
-"Entdecke Recyclingtermine" = "Descubre fechas de recogida";
 "Entdecken" = "Descubrir";
 "Erfahre, wie wir Daten verarbeiten" = "Descubre cómo tratamos los datos";
 "Erinnere mich" = "Recuérdame";
 "Erinnerungen an wichtige Veranstaltungen." = "Recordatorios de eventos importantes.";
-"Erinnerungen basierend auf deiner Postleitzahl." = "Recordatorios basados en tu código postal.";
 "Erinnerungen einschalten" = "Activar recordatorios";
 "Erinnerungen für %@" = "Recordatorios para %@";
 "Erinnerungen sind an" = "Los recordatorios están activados";
 "Erlaube Benachrichtigungen in den Einstellungen, damit wir dich erinnern können." = "Permite las notificaciones en Ajustes para que podamos recordártelo.";
 "Erlaubt" = "Permitido";
-"Erlebe Festivals, Sport und Kultur." = "Descubre festivales, deportes y cultura.";
 "Erneut versuchen" = "Volver a intentar";
 "Es ist ein Fehler aufgetreten. Bitte versuche es erneut." = "Se ha producido un error. Inténtalo de nuevo, por favor.";
 "Eurokey" = "Eurokey";
@@ -118,7 +111,6 @@
 "Feuerstelle" = "Fogón";
 "Film" = "Película";
 "Filter" = "Filtro";
-"Finde öffentliche Orte in deiner Nähe:\n- Parks\n- Öffentliche Toiletten\n- Bancomaten\n- Und vieles mehr..." = "Encuentra lugares públicos cerca de ti:\n- Parques\n- Baños públicos\n- Cajeros automáticos\n- Y mucho más...";
 "Finde, was wichtig ist" = "Encuentra lo que es importante";
 "Fitness" = "Forma física";
 "Frag nach Zürich…" = "Pregunta por Zúrich…";
@@ -157,7 +149,6 @@
 "im Vergleich zu gestern" = "en comparación con ayer";
 "In den Android-Einstellungen ändern" = "Cambiar en los Ajustes de Android";
 "In Karten öffnen" = "Abrir en Mapas";
-"Informiere dich über lokale Recyclingtermine, um auf dem Laufenden zu bleiben, was du recyceln kannst und welche Regeln du befolgen musst." = "Infórmate sobre las fechas de recogida locales para estar al día de lo que puedes reciclar y qué normas debes seguir.";
 "Informiert bleiben" = "Mantenerse al día";
 "Infrastruktur" = "Infraestructura";
 "Inhalt konnte nicht geladen werden" = "No se ha podido cargar el contenido";
@@ -210,7 +201,6 @@
 "Letzte 7 Tage" = "Últimos 7 días";
 "Liegewiese" = "Zona para tomar el sol";
 "Link kann nicht geöffnet werden." = "No se puede abrir el enlace.";
-"Lokale Neuigkeiten, die für dich wichtig sind." = "Noticias locales que te importan.";
 "Los geht's" = "Allá vamos";
 "Löschen" = "Borrar";
 "Luftqualität" = "Calidad del aire";
@@ -235,7 +225,6 @@
 "Nachrichten" = "Noticias";
 "Nachrichten suchen" = "Buscar noticias";
 "Name" = "Nombre";
-"Navigiere mit kuratierten Ebenen durch Zürich." = "Navega por Zúrich con capas seleccionadas.";
 "Nein" = "No";
 "Neu generieren" = "Volver a generar";
 "Neue Funktionen vorab ausprobieren." = "Probar nuevas funciones con antelación.";
@@ -298,13 +287,11 @@
 "Schadstoffe · Letzte 7 Tage" = "Contaminantes · Últimos 7 días";
 "Schlage eine neue Funktion vor" = "Propón una nueva función";
 "Schliessen" = "Cerrar";
-"Schnellübersicht Stadtplan" = "Mapa rápido de la ciudad";
 "Schreib uns eine Nachricht" = "Escríbenos un mensaje";
 "Schwimmbad" = "Piscina";
 "Sehr hoch" = "Muy alto";
 "Sehr niedrig" = "Muy bajo";
 "Sieh die Übersetzung" = "Mira la traducción";
-"Sieh, was in Zürich los ist" = "Mira lo que pasa en Zúrich";
 "Sitzbank" = "Banco";
 "So recycelst du" = "Así reciclas";
 "Sonne oder Regen?" = "¿Sol o lluvia?";
@@ -354,7 +341,6 @@
 "Velopumpe" = "Bomba de bicicleta";
 "Veranstaltung nicht gefunden" = "Evento no encontrado";
 "Veranstaltungen" = "Eventos";
-"Veranstaltungen entdecken" = "Descubrir eventos";
 "Veranstaltungen können derzeit nicht geladen werden." = "De momento no se pueden cargar los eventos.";
 "Veranstaltungen suchen" = "Buscar eventos";
 "Verfügbare Velos" = "Bicicletas disponibles";
@@ -379,7 +365,6 @@
 "Was kann ich dir in Zürich zeigen?" = "¿Qué te puedo enseñar en Zúrich?";
 "Was steht heute an?" = "¿Qué hay para hoy?";
 "Wassertemperatur" = "Temperatura del agua";
-"Weiter" = "Continuar";
 "Weitere Informationen auf deiner Karte anzeigen" = "Mostrar más información en tu mapa";
 "Welche Restaurants in Zürich kannst du empfehlen?" = "¿Qué restaurantes de Zúrich me recomiendas?";
 "Wenn du doppelte Orte siehst, kannst du deinen lokalen Cache leeren." = "Si ves lugares duplicados, puedes borrar tu caché local.";

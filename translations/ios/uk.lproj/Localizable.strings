@@ -49,7 +49,6 @@
 "Belegung" = "Зайнятість";
 "Benachrichtigungen blockiert" = "Сповіщення заблоковано";
 "Benachrichtigungen sind erlaubt." = "Сповіщення дозволені.";
-"Berechtigungen werden nur bei Bedarf angefordert." = "Дозволи запитуються лише за потреби.";
 "Beschreibung" = "Опис";
 "Bewerte CasaZurich im Store" = "Оціни CasaZurich у магазині";
 "Bewertung abgeben" = "Залишити відгук";
@@ -77,9 +76,7 @@
 "Datenschutz" = "Конфіденційність";
 "Datenschutzerklärung" = "Політика конфіденційності";
 "Datum" = "Дата";
-"Dein Begleiter für das Leben in Zürich" = "Твій супутник для життя в Цюриху";
 "Dein Überblick für heute" = "Твій огляд на сьогодні";
-"Deine Privatsphäre ist uns wichtig. Deine Daten werden weder erhoben noch gespeichert. Was du tust, ist deine Angelegenheit – nicht unsere oder die von jemand anderem." = "Твоя конфіденційність важлива для нас. Твої дані не збираються і не зберігаються. Те, що ти робиш, — це твоя справа, а не наша чи чиясь інша.";
 "Deine Startseite ist leer" = "Твоя Головна порожня";
 "Denkt nach…" = "Думає…";
 "Die lokalen Caches wurden geleert." = "Локальні кеші очищено.";
@@ -96,19 +93,15 @@
 "Enddatum" = "Дата закінчення";
 "Enddatum festlegen" = "Встановити дату закінчення";
 "Entdecke Baustellen und mehr auf deiner Karte" = "Відкривай будівництва та інше на своїй карті";
-"Entdecke lokale Veranstaltungen, um auf dem Laufenden zu bleiben, was in Zürich passiert." = "Відкривай місцеві події, щоб бути в курсі того, що відбувається в Цюриху.";
-"Entdecke Recyclingtermine" = "Відкривай дати вивезення";
 "Entdecken" = "Відкривати";
 "Erfahre, wie wir Daten verarbeiten" = "Дізнайся, як ми обробляємо дані";
 "Erinnere mich" = "Нагадай мені";
 "Erinnerungen an wichtige Veranstaltungen." = "Нагадування про важливі події.";
-"Erinnerungen basierend auf deiner Postleitzahl." = "Нагадування на основі твого поштового індексу.";
 "Erinnerungen einschalten" = "Увімкнути нагадування";
 "Erinnerungen für %@" = "Нагадування для %@";
 "Erinnerungen sind an" = "Нагадування увімкнено";
 "Erlaube Benachrichtigungen in den Einstellungen, damit wir dich erinnern können." = "Дозволь сповіщення в Налаштуваннях, щоб ми могли нагадати тобі.";
 "Erlaubt" = "Дозволено";
-"Erlebe Festivals, Sport und Kultur." = "Дивись фестивалі, спорт та культуру.";
 "Erneut versuchen" = "Спробувати ще раз";
 "Es ist ein Fehler aufgetreten. Bitte versuche es erneut." = "Сталася помилка. Будь ласка, спробуй ще раз.";
 "Eurokey" = "Eurokey";
@@ -118,7 +111,6 @@
 "Feuerstelle" = "Місце для багаття";
 "Film" = "Фільм";
 "Filter" = "Фільтр";
-"Finde öffentliche Orte in deiner Nähe:\n- Parks\n- Öffentliche Toiletten\n- Bancomaten\n- Und vieles mehr..." = "Знайди громадські місця поблизу:\n- Парки\n- Громадські туалети\n- Банкомати\n- І багато іншого...";
 "Finde, was wichtig ist" = "Знайди те, що важливо";
 "Fitness" = "Фітнес";
 "Frag nach Zürich…" = "Запитай про Цюрих…";
@@ -157,7 +149,6 @@
 "im Vergleich zu gestern" = "порівняно з учора";
 "In den Android-Einstellungen ändern" = "Змінити в Налаштуваннях Android";
 "In Karten öffnen" = "Відкрити в Картах";
-"Informiere dich über lokale Recyclingtermine, um auf dem Laufenden zu bleiben, was du recyceln kannst und welche Regeln du befolgen musst." = "Дізнайся про місцеві дати вивезення, щоб бути в курсі того, що ти можеш переробляти та яких правил маєш дотримуватися.";
 "Informiert bleiben" = "Залишатися в курсі";
 "Infrastruktur" = "Інфраструктура";
 "Inhalt konnte nicht geladen werden" = "Не вдалося завантажити вміст";
@@ -210,7 +201,6 @@
 "Letzte 7 Tage" = "Останні 7 днів";
 "Liegewiese" = "Галявина для засмагання";
 "Link kann nicht geöffnet werden." = "Посилання не відкривається.";
-"Lokale Neuigkeiten, die für dich wichtig sind." = "Місцеві новини, які важливі для тебе.";
 "Los geht's" = "Починаємо";
 "Löschen" = "Видалити";
 "Luftqualität" = "Якість повітря";
@@ -235,7 +225,6 @@
 "Nachrichten" = "Новини";
 "Nachrichten suchen" = "Шукати новини";
 "Name" = "Ім'я";
-"Navigiere mit kuratierten Ebenen durch Zürich." = "Орієнтуйся в Цюриху за допомогою курованих шарів.";
 "Nein" = "Ні";
 "Neu generieren" = "Згенерувати заново";
 "Neue Funktionen vorab ausprobieren." = "Спробувати нові функції заздалегідь.";
@@ -298,13 +287,11 @@
 "Schadstoffe · Letzte 7 Tage" = "Забруднювачі · Останні 7 днів";
 "Schlage eine neue Funktion vor" = "Запропонуй нову функцію";
 "Schliessen" = "Закрити";
-"Schnellübersicht Stadtplan" = "Швидка карта міста";
 "Schreib uns eine Nachricht" = "Напиши нам повідомлення";
 "Schwimmbad" = "Басейн";
 "Sehr hoch" = "Дуже високий";
 "Sehr niedrig" = "Дуже низький";
 "Sieh die Übersetzung" = "Переглянь переклад";
-"Sieh, was in Zürich los ist" = "Дізнайся, що відбувається в Цюриху";
 "Sitzbank" = "Лавка";
 "So recycelst du" = "Як правильно сортувати сміття";
 "Sonne oder Regen?" = "Сонце чи дощ?";
@@ -354,7 +341,6 @@
 "Velopumpe" = "Велосипедний насос";
 "Veranstaltung nicht gefunden" = "Подію не знайдено";
 "Veranstaltungen" = "Події";
-"Veranstaltungen entdecken" = "Відкривати події";
 "Veranstaltungen können derzeit nicht geladen werden." = "Наразі неможливо завантажити події.";
 "Veranstaltungen suchen" = "Шукати події";
 "Verfügbare Velos" = "Доступні велосипеди";
@@ -379,7 +365,6 @@
 "Was kann ich dir in Zürich zeigen?" = "Що я можу тобі показати в Цюриху?";
 "Was steht heute an?" = "Що сьогодні в планах?";
 "Wassertemperatur" = "Температура води";
-"Weiter" = "Продовжити";
 "Weitere Informationen auf deiner Karte anzeigen" = "Показати додаткову інформацію на твоїй карті";
 "Welche Restaurants in Zürich kannst du empfehlen?" = "Які ресторани в Цюриху ти можеш порекомендувати?";
 "Wenn du doppelte Orte siehst, kannst du deinen lokalen Cache leeren." = "Якщо ти бачиш повторювані місця, можеш очистити свій локальний кеш.";
